@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.do.19401012 SYSTEM "homefront.news.do.19401012.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.do.19401012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Construction of Air Base Here To Be Started Within Month</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.do.19401012</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Daily Oklahoman</title>
+<title level="a">Construction of Air Base Here To Be Started Within Month</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">2</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Daily Oklahoman</publisher>
+<pubPlace>Oklahoma City, Oklahoma</pubPlace>
+<date value="1940-10-12">1940-10-12</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-27</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.do.19401012">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p1"/>
+<head type="main">Construction of Air Base Here<lb/>
+To Be Started Within Month</head>
+
+<p>Oklahoma City's chance for obtaining the army's $8,400,000 research engine laboratory are becoming increasingly bright. Construction at Municipal airport for the thirty-seventh air base, recently designated here, will start within a month, calling for an initial expenditure of $1,000,000.</p>
+
+<p>These were the reassuring statements made to the Oklahoma City Chamber of Commerce Friday by R. A. Singletary, its Washington manager, who called from the national capital.</p>
+
+<p>Col. F. M. Kennedy, in charge of the land and materiel division of the air corps, told Singletary that the quartermaster general's department would establish headquarters in Oklahoma City within a week or 10 days.</p>
+
+<p>The construction quartermaster assigned here will have offices in the city hall.</p>
+</div1>
+
+<div1>
+<head type="sub">Blueprints to Be Ready</head>
+
+<p>He will have specifications and blueprints on the air base construction projects, which will be let on a competitive basis. Singletary said he had been assured work will be started within a month.</p>
+
+<p>On the list for initial construction are 34 barracks, eight mess halls, two supply stores, six administration buildings, and one big shops building.</p>
+
+<p>The base will bring here a personnel of 40 officers and 700 men, including a quartermaster specialty division on chemical warfare.</p>
+
+<p>Singletary said it has been specified that planes of the 48th Bombardment quadroon, which will be stationed at the base, will be staked out until "satisfactory arrangements" have been made.</p>
+</div1>
+
+<div1>
+<head type="sub">Underground Hangars Considered</head>
+
+<p>Underground hangars are being considered for the bombardment group's planes.</p>
+
+<p>The 48th Bombardment group will consist of 75 airplanes, 160 officers, and 1,500 enlisted men.</p>
+
+<p>Singletary notified the chamber that he has conferred with J. S. Victory, secretary of the national advisory committee on aeronautics and chairman of the board that will designate the site of the board that will designate the site of the contemplated research engine laboratory. The board recently inspected Oklahoma City facilities.</p>
+
+<p>The board has had one meeting this week and will meet again next week, Victory said, but it may be several weeks before final decision is made. He told Singletary, however, that Oklahoma City is one of the few cities still being considered.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

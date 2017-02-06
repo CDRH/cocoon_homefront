@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.rcdj.19421010 SYSTEM "homefront.news.rcdj.19421010.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.rcdj.19421010">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Benefits To Rapid City As Result Of Air Base Many And Varied&#8211;Bank Debits In City Lead The Entire State&#8211;Financial Gains Still Felt</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.rcdj.19421010</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Rapid City Daily Journal</title>
+<title level="a">Benefits To Rapid City As Result Of Air Base Many And Varied&#8211;Bank Debits In City Lead The Entire State&#8211;Financial Gains Still Felt</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">16</biblScope>
+<biblScope type="columns"><!-- need to fill-in --></biblScope>
+<publisher>Rapid City Daily Journal</publisher>
+<pubPlace>Rapid City, South Dakota</pubPlace>
+<date value="1942-10-10">1942-10-10</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-23</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.rcdj.19421010">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p16"/>
+<head type="main">Benefits To Rapid City As Result Of Air Base<lb/>
+Many And Varied&#8211;Bank Debits In City Lead<lb/>
+The Entire State&#8211;Financial Gains Still Felt</head>
+<milestone unit="smallbar"/>
+
+<p>The extent to which Rapid City has benefited from the construction of the Rapid City army air base is enormous. Moreover, even after construction is finished the benefits, financial and otherwise, will continue to be felt for some time to come.</p>
+
+<p>A survey reveals many ways in which those benefits have been felt.</p>
+
+<p>The huge construction project, in addition, came at an opportune time, when tourism, usually the "big summer business" in this section, was hit by car, tire and gasoline rationing and war work.</p>
+</div1>
+
+<div1>
+<head type="sub">Neil Sums Benefits</head>
+
+<p>"It is really hard to tell just how much benefit the city as a whole received from the war work," Stanton Neil, president of the Chamber of Commerce, said "because we might underestimate it.</p>
+
+<p>"Some lines of business benefitted more than others: some only a little directly, but as a whole the city was greatly aided. The construction work started soon after the first of the year and from then on at times were were hard pressed to keep up with the demand. Many of our merchants had not only a normal year, even without tourists and conventions, but had increases. In some other cities the size of Rapid City, even in more thickly populated areas, merchants found it 'touch going' to keep their heads above water."</p>
+
+<p>In citing some of the benefits Neil pointed out that many permanent civilian employes have come here to reside, officers' and men's payrolls will largely be spent here after the base is occupied, shipping, both by rail and truck, increased, and many other business "booms" were brought about.</p>
+</div1>
+
+<div1>
+<head type="sub">Many Did Well</head>
+
+<p>"Even energetic merchandisers in lines of business heavily restricted by war did well," he observed.</p>
+
+<p>"And all that in the face of an attitude in this section of the country that is not yet entirely atuned to the fact that the  nation is at war. Few businessmen in Rapid City had to make any sacrifice in connection with the air base construction. Few would expect to if other military units were to be constructed here. We are still thinking less of the fact that these units are being built to train men to preserve civilization and more of the fact that there "may be something in it for us," he added.</p>
+
+<p>"We have to face the fact that there is no 'business as usual' in many parts of the country. We have been fortunate not to have to scratch to keep business average or normal, taking the city as a whole, as yet, but the time may come when we do," he concluded. "We may yet have to get that attitude of sacrifice."</p>
+
+<p>The air base has resulted in substantial additions to the population of a permanent nature, in addition to the swelling during the actual construction and the temporary population of pilots and other soldiers. Many civilians have moved here to reside, either as a result of their work on the project or due to some civilian connection with operation of the base.</p>
+
+<p>On the financial side were the huge payrolls for several months and contracts held by local firms. Exact payrolls and amounts of contracts are military secrets.</p>
+
+<p>Money paid out to workmen or contractors, who in turn used it to pay others, is still turning over in this community and it is estimated that it will continue to turn over for weeks to come, even after construction has been completed.</p>
+
+<p>During July, the last month for which figures are available, Rapid City led the entire state in the percentage of increase in bank debits over the same month a year ago.</p>
+
+<p>Bank debits are actual entries to accounts and do not take into consideration the hundreds of checks that were cashed for workmen and the money spent locally. Banks remained open on evenings of paydays to accommodate the workers.</p>
+
+<p>During July Rapid City bank debits, as reported by the Ninth Federal Reserve bank in Minneapolis, were 178 per cent of what they were in Jul, 1941, the largest increase in the state. In addition the total amount of local bank debits for that month was second only to Sioux Falls in the state. More checking accounts were opened in local banks during the work period than in any months previously and deposits by many local merchants reached <sic corr="new">ned</sic> "highs" for them, bankers reveal.</p>
+
+<p>In June, the increase had been 144 per cent over the same month a year ago. In contrast, some cities in the state, including a few in the Black Hills, showed decreases during the summer months this year.</p>
+</div1>
+
+<div1>
+<head type="sub">Deposits Up</head>
+
+<p>Deposits were "up tremendously," one banker said, and all bank activities, not only in Rapid City, but throughout the Black Hills, made large increases.</p>
+
+<p>When construction is finished there will also continue to be increased business through the officers and men stationed here, some of whom will reside in Rapid City. Wholesale houses are already doing considerable business with the base and some of that is expected to continue.</p>
+
+<p>Financial benefits seeped down through thousands of employes of local contractors for many different types of work at the base and their full extent would be impossible to determine.</p>
+</div1>
+
+<div1>
+<head type="sub">Contracts</head>
+
+<p>Not all of the sub-contracts were announced and no exact amounts of contracts were made public. The general contracts were handled by the Northwestern Engineering company, Rapid City, and the United Construction company, the latter made up of H. H. Hackett, Rapid City; Henry Carlson, Sioux Falls, and S. W. Jonason, Aberdeen. Northwestern had all of the ground work, grading, roads, water and sewage systems, paving and other work. United had construction of all buildings.</p>
+
+<p>Among the sub-contractors were Rapid Electric, Baumgartner Electric, Rapid Plumbing, Mellgren Plumbing, Warren-Lamb Lumber company, South Dakota State cement plant, G. W. England, Rapid City, and Trotman Bros., Miller, railroad spur and fence; Hills Material Co., crushed rock; Reitz and Crites, sand; C. H. Lien, Co., Gravel; South Dakota Concrete Products Co., tile; Black Hills Power and Light, highlines and substation; Northwestern Bell Telephone company, telephone system; Rapid City, Black Hills and Western railroad, cement hauling to Provo via Mystic, and the Chicago, Burlington and Quincy railroad; Summit Construction Co., gravel and ballast, and others.</p>
+
+<p>Otto Kepp, head of the local tourist camp association, said that tourist camp operators benefited considerably from the "boom" and were also glad to do what they could to help the situation.</p>
+
+<p>It was difficult to tell at the start of the construction rush what the tourist season would bring, he said, but camp operators made available as many cabins as they could. As it developed, he said, the tourist season probably wasn't more than 15 per cent of normal and the influx of workers helped considerably.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

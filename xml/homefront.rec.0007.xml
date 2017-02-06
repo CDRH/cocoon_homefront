@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.rec.0007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Appendix to the Congressional Record (May 8, 1941)</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.rec.0007</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Appendix to the Congressional Record</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date value="1941-05-08">(May 8, 1941)</date>
+<biblScope type="pages">A2190-A2192</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-01-16</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Validation</item>
+</change>
+<change>
+<date>2007-01-08</date>
+<respStmt>
+<name>Paul Fajman</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>2006-11-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+
+<head type="main">No Further Without War</head>
+<milestone unit="smallbar" />
+<head type="sub">EXTENSION OF REMARKS<lb />
+OF HON. GERALD P. NYE<lb />
+OF NORTH DAKOTA<lb />
+IN THE SENATE OF THE UNITED STATES<lb />
+<milestone unit="smallbar" />
+Thursday, May 8, 1941.</head>
+<milestone unit="smallbar" />
+<head type="sub">RADIO ADDRESS BY HON. GERALD P. NYE, OF NORTH DAKOTA</head>
+<milestone unit="smallbar" />
+
+	<p>Mr. NYE.  Mr. President, I ask unanimous consent to have printed in the Appendix of the RECORD a radio address delivered by me last Saturday evening.</p>
+	<p>There being no objection, the address was ordered to be printed in the RECORD, as follows:</p>
+
+	<p>Time and again the President has given American assurance and promise that none of our sons would be sent into war abroad. A few evenings ago at Los Angeles Mrs. Roosevelt, according to an Associated Press dispatch, said the President had made no promise to keep us out of war.</p>
+	<p>The President on January 6, 1941, proclaimed "freedom of speech, freedom from want, and freedom from fear, everywhere in the world, in our own time and generation," as the foundation to which our present policy of all-out aid (all out of the United States) was devoted. Yet in April his administration declared against such help as the Senate had written for larger parity payments to our distressed farmers. And in April the President labeled Lindbergh a copperhead for practicing freedom of speech in a plea to keep this country of our out of war. And, again in April, the President contributed to the cause of "freedom from fear" the assertion that there might be Nazis in Greenland, and let pass without contradiction the probable plant that 40 percent of our lend-lease production was being sunk before it reached Britain, that therefore we ought to take the direct war step of convoying these goods.</p>
+	<p>Only 2 weeks ago administration leaders in Congress assured congress that convoys were not being considered by the administration. Much was being said of the President's declaration that "convoys mean shooting, and shooting means war." Then in a few days came the bold announcements of how our armed forces were patrolling the sea lanes, and persistent is the effort, led by Cabinet members, to break down public opposition to the mad effort to get into the war over the convoy route.</p>
+	<p>In the Congress anticonvoy talks are met by silence, and when a proconvoy talk is made by an administration leader, that leader declines to debate the points of his arguments.</p>
+	<p>The administration would have the Congress and public believe there was no need to fear that convoys would be undertaken, but declines a chance for legislation forbidding convoys and closes the door against letting Congress have the information basic to intelligent action on the convoy issue. A Senate committee has this week refused to invite the testimony of those Government authorities who could reveal the true extent of losses of our shipments to England. Obviously they prefer to let the rumor stand that 40 percent of it is being lost. That order lets fear rather than knowledge prevail in shaping the public mind and making it ready to tolerate convoys.</p>
+	<p>This is no time for fear. If America is to be saved from the mess to be the lot of every civilization letting itself into this present war, America needs to adopt sanity and let truth have its rightful place in our thinking. We need to insist that deception cease being any part of our system of government or leadership in this hour.</p>
+
+	<p>America wants to part in Europe's war. However great may our sympathies for the cause of Britain, they are not so great that the American people would go to war to save Britain in this war which Britain herself declared.</p>
+	<p>It is realization of this&#8211;that the people of this country count that we have gone as far as we can in aiding Britain; that we cannot resort to convoying; that we can go no further without resorting to part in the war&#8211;it is realization of this powerful sentiment that has so angered some administration leaders and all the interventionists these past 2 weeks. It has been an anger that seems to dictate both arrogance and boldness in leadership, as if these qualities might overcome the roll of popular sentiment against any further march to war.</p>
+	<p>However much he may strive to avoid responsibility for our entry in the war, however much he may seem now to choose to leave the decision on convoys to public sentiment and opinion, so long as he encourages and lets his own official family drive for convoying consent&#8211;if we get into this war over the convoy route, our war shall forever be known as President Roosevelt's war.</p>
+	<p>The people have followed his leadership so long as his lead was short of war. But the moment he began talking about "winning this war," and showed inclination to get into the convoying business, which he had previously said "meant war," the "blitz" of Presidential leadership was off, and the people made that clearly understood in their daily talk and their letters to the White House. The severity of this public voice was what caused the President to say that people did not understand the severity of the situation, which was followed by the "blitz" appearance of the President's Cabinet on the air to pave the way for continued following for the President in just one more little short step to war.</p>
+	<p>Let's make no mistake about it&#8211;this policy which has taken us so far toward part in this war was given by the President; he was never driven to it by the American people. The people may go along with him on patrolling and convoying, but only because he leads and gives them no alternative; never because they wanted patrolling and convoying. And if the people will continue their voicing of opposition, I doubt that the President will dare take the fatal step. Such a step calls for greatest unity, and it is clear that at this stage there can be no unity on going to war.</p>
+	<p>The President is not wanting to go down in history as the President who took the country to war after 8 years of protesting that his aim was peace. The White House strategy now appears to be for the President to let his official family take the lead in blitzing the people into a war mood. If they succeed, then he will appear to have been forced to act.</p>
+
+<p>The administration knows that the people are not apathetic, that what is called apathy is plainly firm resistance to participation in war.</p>
+<p>The President has always had a sense of history. He has always been conscious of the niche he was carving for himself in the halls of time. Of course, he will not want to be classed with that other President who took the country to war after his election on the slogan "He kept us out of war." If we are to have war, he would rather be driven to it, and he knows the people will not now support it.</p>
+
+<p>Put it down as a fundamental truth: If we get into this war it will not be because the President tried to keep us out.
+America wants to stay out of this war. Those who believe they can create the public opinion that will catch up with the President and the interventionists ought to be answered by the people acting as those who know that the way to catch up with the President is to overtake him, as you would a runaway horse, and stop him.</p>
+<p>Let American really have freedom from fear. We are at peace still with the world. The only censorship we know is voluntary. Truth can still be entertained and opinion still has right of expression.</p>
+<p>Let us be done with this fear that our dependence is upon the British Navy, the only Navy that has ever practiced aggression against this hemisphere.</p>
+<p>Let us devote our preparation to our own defense and be done with this fear that aggression may be practiced against us. If it is aggressors we fear and would stop, let us not become again the partner of the land which for three centuries of military aggression and conquest has builded the greatest empire of all time.</p>
+<p>Let us, when we consider our world trade, in connection with the future, remember that on a normal basis it is only 4 percent or 5 percent of our economic dependence, and that our most severe competitor in this field is Great Britain.</p>
+<p>Let us be doing more thinking of American and less of empires across the seas. If an empire dies, it will only mean that history is repeating itself, and that our forefathers successfully fought to free America from European empire builders.</p>
+<p>And occasionally it would serve Americans well to remember that parts of the British Empire are doing far less by reason of the present war than we are doing&#8211;that we are doing more to save England that its possessions are doing to save England. All-out-aid for Britain on our part is silliness unless the British Dominions are themselves doing as much.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.rec.0001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Congressional Record-Senate (November 25, 1940)</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.rec.0001</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Congressional Record-Senate</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date value="1940-11-25">(November 25, 1940)</date>
+<biblScope type="pages">13717-13718</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-01-16</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Validation</item>
+</change>
+<change>
+<date>2007-01-10</date>
+<respStmt>
+<name>Paul Fajman</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>2006-11-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+
+<head type="main">RESOLUTION AGAINST WAR OF THE WICHITA COUNCIL OF CHURCHES</head>
+
+	<p>Mr. CAPPER.  Mr. President, I send to the desk for appropriate reference and ask unanimous consent to have printed in the RECORD a latter addressed to me by Mr. John W. Meloy, executive secretary of the Wichita Council of Churches, Wichita, Kans., in which is incorporated a copy of resolutions adopted by a recent meeting of the members of the council, urging that there be a redoubling of efforts to keep America out of war and to further the cause of world peace. The council also urges that this Government limit to peacetime quantity or prohibit altogether the shipment of scrap iron or aviation gasoline or other war materials to any nation when there is reason to believe that such materials will be sued in a military way against the democracies.</p>
+	<p>There being no objection, the letter embodying the resolutions was referred to the Committee on Foreign Relations and ordered to be printed in the RECORD, as follows:</p>
+<div2>
+<opener>
+THE WICHITA COUNCIL OF CHURCHES,<lb />
+<dateline>Wichita, Kans., <date>November 19, 1940</date>.</dateline>
+<salute>The Honorable ARTHUR CAPPER,<lb />
+	Washington, D.C.</salute></opener>
+	<p>MY DEAR SENATOR CAPPER:  The following resolution was adopted at the regular monthly meeting of the Wichita Council of Churches Monday, November 18, 1930, without a dissenting vote. The meeting included 165 delegates from 38 leading Wichita churches:</p>
+	<p>"(1) The Wichita Council of Churches commends the Federal Government for all efforts which have been made to keep America out of war and to help the cause of international justice and goodwill. And we urge that these efforts be redoubled in the interest of world peace.</p>
+	<p>"(2) We believe that the embargo on scrap iron and aviation gasoline is a constructive step toward peace. And we specifically request our Government to limit to normal peacetime quantity, or prohibit altogether, the export of any material to any nation when there is reason to believe such materials may be used in a military way against the democracies.</p>
+	<p>"(3) We realize the extreme complexity of international relations and the tremendous difficulty of the specific application of the spirit of Christ in the international field in the present war situation. However, we urge positive action on the part of the Government which will manifest America's goodwill and friendliness to the common people of all nations, including Japan, Germany, Russia, and Italy, and which at the same time will emphasize our steadfast purpose to resist all tyranny."</p>
+	<p>The members of the council are watching with deep interest your policies, particularly in the international field. May God give you wisdom in making sound decisions.</p>
+	<closer>Sincerely yours,<lb />
+<signed rend="right">JOHN W. MELOY<lb />
+Executive Secretary.</signed></closer>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

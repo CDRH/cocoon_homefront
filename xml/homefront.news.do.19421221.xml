@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.do.19421221 SYSTEM "homefront.news.do.19421221.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.do.19421221">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">New Jobs for Women</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.do.19421221</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Daily Oklahoman</title>
+<title level="a" type="sub">New Jobs for Women</title>
+<title level="a">Greasing Autos Beats Waiting Cafe Tables, City Woman Thinks</title>
+<title level="a" type="sub">Hours, Pay and Future Better</title>
+<title level="a" type="sub">Ruby Smith Likes Her Job in Garage and Hopes to Stay</title>
+<author></author>
+<biblScope type="pages">6</biblScope>
+<biblScope type="columns">1-4</biblScope>
+<publisher>Daily Oklahoman</publisher>
+<pubPlace>Oklahoma City, OK</pubPlace>
+<date value="1942-12-21">1942-12-21</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Women/male work</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-08-29</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.do.19421221">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p6" />
+
+<figure>
+<figDesc><hi rend="italic">Women mechanics, too? There'll be one anyway, if Ruby Smith keeps at her new job</hi>.</figDesc>
+</figure>
+
+<head type="sub">New Jobs for Women</head>
+<head type="main">Greasing Autos Beats Waiting<lb/>Cafe Tables, City Woman Thinks</head>
+<head type="sub">Hours, Pay And<lb/>Future Better</head>
+<head type="sub">Ruby Smith Likes<lb/>Her Job in Garage<lb/>And Hopes to Stay</head>
+
+<p>RUBY SMITH wears snug white coveralls, a Scoach cap on her victory haircut and maybe a bigger smile than that girl they wrote the song about&#8211;"Rosie, the Riveter."</p>
+
+<p>Ruby Smith, 723 West Washington, is a raw recruit to the army of women taking on men's jobs and as pleased a rooky as the rest of them. She wields a lubrication gun in a large local garage and infinitely prefers it to waiting on tables.</p>
+
+<p>Unconcerned whether rushed restaurant eaters get their second cup of coffee or even their first, Ruby will stay in the automobile business, thank you. "I always was a tomboy, anyway, being raised with five brothers."</p>
+
+<p>SHE works from 8 a. m. until 6 p. m. with Thursday afternoon and all day Sunday off. "The hours are better, the money is more and besides you have a chance for a raise in this business."</p>
+
+<p>Ruby invaded man's territory by the simple expedient of answering an ad in the paper and she is learning the trade as she goes. "The floor manager teaches me."</p>
+
+<p>In the lubrication life (where most good mechanics come from) she has learned how to lubricate wheels, transmission and differential, how to repack wheel springs and change oil&#8211;all mysterious maneuvers once the private concern of "grease monkeys."</p>
+
+<p>BUT this 1942 feminine version of "grease monkey" is a far cry form the original.</p>
+
+<p>The grease-covered floor has been replaced by immaculate tile, the oil can by a lubrication gun and the grime-covered service man by a slim girl whose overalls are barely smudged and whose lipstick is on straight.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>
+

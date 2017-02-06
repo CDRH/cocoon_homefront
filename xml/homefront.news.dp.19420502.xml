@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19420502.01 SYSTEM "homefront.news.dp.19420502.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.dp.19420502.02 SYSTEM "homefront.news.dp.19420502.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19420502">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Denver Area Fights U.S. Plan for Youth Farming Battalions</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19420502</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">Denver Area Fights U.S. Plan for Youth Farming Battalions</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1, 5</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, CO</pubPlace>
+<date value="1942-05-02">1942-05-02</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-19</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.dp.19420502.01">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+
+<head type="main">DENVER AREA FIGHTS<lb/>U.S. PLAN FOR YOUTH<lb/>FARMING BATTALIONS</head>
+<milestone unit="smallbar"/>
+
+<p>A plan of the Denver office of the United States employment service to form school children of Denver and its suburban areas into companies and battalions of a so-called junior victory army to aid in farm work this summer has stirred up a hornet's nest of opposition among educators and parents, particularly in Jefferson county, school officials disclosed Saturday.</p>
+
+<p>Branding the plan a direct copy of Hitler's schemes for regimenting the youth of Axis countries, Paul D. Haynie, superintendent and principle of the Edgewater school, announced his school will not co-operate in any such scheme.</p>
+
+<p>"This is a pure steal from totalitarianism&#8211;even down to the armbands the employment service wants our youths to wear," Haynie said. "Under the guise of war necessity they are not going to regiment our children, if I can prevent it."</p>
+
+<p>At the same time it was learned that some Denver school officials have seen the plan and privately have been critical of it but have reserved final judgment until the
+
+<note type="editorial" rend="jumpline">(Turn to Page 5&#8211;Col. 7.)</note>
+
+<pb n="p5"/>
+
+<figure entity="homefront.news.dp.19420502.02">
+<figDesc></figDesc>
+</figure>
+
+<note type="editorial" rend="jump">
+<note type="editorial" rend="mainhead">U.S. PAN FOR YOUTH FARMING<lb/>BATTALIONS BITTERLY OPPOSED</note>
+<milestone unit="smallbar" />
+<note type="editorial" rend="subhead">Employment Service Scheme Steal From <orig reg="Totalitarian">Totalitar-</orig><lb/>ian Countries, Says Edgewater School <orig reg="Superintendent">Super-</orig><lb/>intendent; Denver Officials Also Critical.</note>
+<milestone unit="smallbar" />
+<note type="editorial" rend="jumpline">(Continued From Page One.)</note>
+</note>
+
+Denver school board meets next Wednesday.</p>
+
+<p>Quick to defend the organization plan was J. Lee Johnson, manager of the Denver office of the employment service, who said, "This may appeal to some people as being regimentation but I can say definitely it was not intended that way.</p>
+
+<p>"The only thing we are trying to do is help out in the farm labor shortage which has developed. Food is as necessary in this war as munitions. The junior victory army is to be nationwide and in our local office we happen to have an enthusiastic fellow in charge who thought that the use of armbands and such organization devices would make the children taken an added interest in the program."</p>
+
+<p>Just how much of the program to which Hanie and others are objecting is included in the nationwide scheme and just how much his a purely local development was somewhat uncertain.</p>
+
+<p>The plan contemplates that the working youths would be paid prevailing wages by the farmers for whom they work and that their group leaders and supervisors would be paid by the farmers also.</p>
+
+<p>Haynie said the youths in his school are anxious to do farm work "in an American way" to help out during the emergency. Consequently, he said, he got in touch with the employment office and asked for information on how to place the youthful workers during the summer.</p>
+
+<p>"They sent out a man who left some literature saying he was in a hurry but that the literature would explain the whole program," Haynie said. "I read it and I was amazed."</p>
+
+<p>The plan calls for school children who want to do farm work during the summer to sign up for membership in the Junior Victory army and take an oath which says:</p>
+
+<p>"We, the above named, do solemnly pledge ourselves to a faithful performance of the tasks assigned to us. We further pledge that we will follow the instructions of our leaders; be prompt at assembly points; and take as an example or guide, the steadfastness and determination of our soldiers under General MacArthur."</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">CHILDREN DIVIDED<lb/>INTO COMPANIES.</head>
+
+<p>Once the children have signed up they are to be divided into companies and battalions, according to the plan.</p>
+
+<p>Mimeographed copies of the plan which have gone out to school officials call for the organization of:</p>
+
+<p>1&#8211;An advance battalion of boys from 17 to 19 to be recruited from high schools of Arvads, Aurora, Denver, Englewood, Lakewood, Garden Home and Littleton.</p>
+
+<p>2&#8211;A Denver battalion to be composed of two or more companies from each high school and junior high school in the city.</p>
+
+<p>3&#8211;A parochial battalion to be composed of one or more companies from each Catholic high school in Denver.</p>
+
+<p>4&#8211;A suburban battalion to be composed of one or more companies from each high school and junior high school in Arvada, Aurora, Englewood, Littleton, Golden, Lakewood and Garden Home.</p>
+
+<p>Under the plan each company is to be split into a number of groups having a group leader and ten members each.</p>
+
+<p>There also will be company and battalion leaders, according to the plan, preferably school faculty members.</p>
+
+<p>The plan contemplates that the leaders will listen to the radio at a specified hour each day to receive assignments. If a group of berry pickers is needed by a farmer, a group leaders will be notified. He will get in touch will the children in his group and ask them to meet at a certain time and place.</p>
+
+<p>The plan contemplates that school busses or other transportation for the group and the group leader will be provided for. When the children have reached the farm where they are to work, they are directly under the group leader who, among other things, must see that they are allowed suitable rest periods during the day, particularly if they are young children.</p>
+
+<p>The plan includes a copy of the proposed armband design and a copy of the star insignia for group leaders and the single bar insignia for assistant group leaders.</p>
+
+<p>"Its is believed that these can be secured thru Parent-Teachers organizations in school colors," the mimeographed plan outline says.</p>
+
+<p>It is suggested that a chevron be added to the armband for each month that a boy or girl works as a member of the army.</p>
+
+<p>Haynie said he received in the mail Friday a copy of a proclamation issued by Gov. Ralph L. Carr asking for compliance with the Junior Victory army plan.</p>
+
+<p>"I don't believe he governor knew what the plan is or he never would have indorsed it," Haynie said.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

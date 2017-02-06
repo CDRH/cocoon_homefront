@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19411010 SYSTEM "homefront.news.owh.19411010.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19411010">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Omaha's Gift to Defense, Aluminum, on the Way</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19411010</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Morning World-Herald</title>
+<title level="a">Omaha's Gift to Defense, Aluminum, on the Way</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">A:17</biblScope>
+<biblScope type="columns">2-3</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1940-10-10">1940-10-10</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-salvage</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-05</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19411010">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p17"/>
+
+<figure>
+<figDesc>City <sic corr="employees">employes</sic>...load railroad cars with aluminum for defense.</figDesc>
+</figure>
+
+<milestone unit="smallbar"/>
+<head type="main">Omaha's Gift to Defense,<lb/>Aluminum, on the Way</head>
+
+<p>The 53 thousand pound collection of pots, pans and other old articles colleted in Omaha last July during the nationwide drive to augment aluminum supplies for national defense finally started to move Thursday toward the channels of defense industry.</p>
+
+<p>The collection was being loaded in railroad cars at the warehouse where it has been under police guard at Tenth and Seward streets. Loading was being done by a half dozen city workers, half loaned by the street department, the rest from the sewer department. All articles were loaded in original condition. Pressing would hinder salvage operations later, it was explained.</p>
+
+<p>It will be shipped to an aluminum reduction firm at East Chicago, Ill. to be melted into ingots which, as government property, will await further requisition where ever needed in government defense construction work.</p>
+
+<p>The transportation order came from the treasury procurement office in Lincoln, which takes over possession for the government. Early shipment was made impossible because of congestion at reduction plants.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+

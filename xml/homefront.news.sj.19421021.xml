@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.sj.19421021 SYSTEM "homefront.news.sj.19421021.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.sj.19421021">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Must Share Rides</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.sj.19421021</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Salina Journal</title>
+<title level="a">Must Share Rides</title>
+<title level="a" type="sub">Wichita Survey Shows Creditable Use Private Cars, But More Group Riding Necessary</title>
+<author></author>
+<biblScope type="pages">12</biblScope>
+<biblScope type="columns">4-6</biblScope>
+<publisher>Salina Journal</publisher>
+<pubPlace>Salina, KS</pubPlace>
+<date value="1942-10-21">1942-10-21</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-automobile</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.sj.19421021">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p12"/>
+<head type="main">MUST SHARE RIDES</head>
+<milestone unit="smallbar"/>
+<head type="sub">Wichita Survey Shows Creditable<lb/>Use Private Cars, But More<lb/>Group Riding Necessary</head>
+
+<p>Topeka, <date value="1942-10-21">Oct. 21</date> (AP)&#8211;Kansans have been warned by the state highway traffic advisory committee they must increase group riding and make more use of public transportation facilities when gasoline rationing becomes effective. A survey made at Wichita showed an average of 3.5 persons in each private vehicle, a creditable average, the committee said, but still leaving room for improvement.</p>
+
+<p>Ninety-three percent of the Wichita workers depend on private automobiles to get to work, the survey showed, five percent on public transportation and two percent use bicycles, motorcycles or walk. The committee suggested 80 percent should use automobiles, 16 percent use buses and 4 percent walk or use other means.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+
+

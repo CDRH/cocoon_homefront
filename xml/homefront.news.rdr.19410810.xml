@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.rdr.19410810.01 SYSTEM "homefront.news.rdr.19410810.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.rdr.19410810.02 SYSTEM "homefront.news.rdr.19410810.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.rdr.19410810">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">The Army Air Base and What Roswell People Say of It</title>
+<author>C. E. Mason</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.rdr.19410810</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Roswell Daily Record</title>
+<title level="a">The Army Air Base and What Roswell People Say of It</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<author>C. E. Mason</author>
+<biblScope type="pages">1, 2</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Roswell Daily Record</publisher>
+<pubPlace>Roswell, New Mexico</pubPlace>
+<date value="1941-08-10">1941-08-10</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-27</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.rdr.19410810.01">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p1"/>
+<head type="main">THE ARMY AIR BASE<lb/>
+AND WHAT ROSWELL<lb/>
+PEOPLE SAY OF IT</head>
+
+<byline>(By Mrs. C. E. Mason)</byline>
+
+<p>Going down Main Street this morning this is the only kind of conversation that could be heard. It ran like this&#8211;just a few we overheard:</p>
+
+<p>Mayor Tom Hall&#8211;"We might live another life time but we could never experience such a spirit of cooperation as was evidenced by the good people of Roswell and organizations contributing to the fulfillment of this dream."</p>
+
+<p>Ross L. Malone Jr.&#8211;"The most exuberant thing I could say would not half express what I feel."</p>
+
+<p>Claude Simpson&#8211;"I think you're right&#8211;we'll date everything on the basis "Before the Air Base" and "After the Air Base." We have a big job ahead of us in many lines&#8211;the first of which is raising that $30,000. But we'll get that one and all the rest of them completed successfully because Roswell works together."</p>
+
+<p>Sidney Prager&#8211;"Biggest thing that ever happened to Roswell."</p>
+
+<p>Gov. J. F. Hinkle&#8211;"This is the one thing in the defense program that Roswell should have gotten. It is just right."</p>
+
+<p>J. E. Moore&#8211;"This is one thing which has happened to Roswell that everyone, without exception, is agreed on. Everybody knows it's great."</p>
+
+<p>Hub Corn&#8211;"Oh it's wonderful. Please say I said so."</p>
+
+<p>H. M. Huff Sr.&#8211;"This will be a great asset to Roswell, not only the business men will profit, but the rancher and farmer&#8211;in fact it will be good for the entire state."</p>
+
+<p>Will Lawrence&#8211;"This is the greatest thing that has happened to Roswell since the first artesian well came in. And Roswell will respond to the call for funds in the good old Roswell way and raise the amount in twenty-four hours."</p>
+
+<p>H. E. Samson&#8211;"Certainly this will mean a great deal to the development of Roswell in every 
+
+<note type="editorial" rend="jumpline">(Continued To Page Two)</note>
+
+<pb n="p2"/>
+
+<figure entity="homefront.news.rdr.19410810.02">
+<figDesc></figDesc>
+</figure>
+
+<note type="editorial" rend="jump">
+<note type="editorial" rend="mainhead">The Army Air&#8212;</note>
+<note type="editorial" rend="jumpline">(Continued From Page One)</note>
+</note>
+
+way."</p>
+
+<p>A. B. Cotton&#8211;"Nothing has happened to Roswell in the past twenty years which has meant so much as this."</p>
+
+<p>Ted Jones&#8211;"I have expressed my enthusiasm in this thing by building a new theatre and contributing $750. Those who can not afford to contribute can afford to buy a 10c, 20c, or $5.00 Federal Defense stamp or a Bond. Everybody can help."</p>
+
+<p>Dr. C. F. Beeson&#8211;"It is grand. Roswell has drawn the highest prize."</p>
+
+<p>Evan Hyatt&#8211;"I look for a big advance of business in every line. This is a splendid thing for Roswell."</p>
+
+<p>Roy Daniel&#8211;"It's the greatest thing that has ever happened to this good town of ours."</p>
+
+<p>Mrs. Margaret Liston&#8211;"I am sure it means good times ahead for Roswell."</p>
+
+<p>Logan Hunter&#8211;"Of all the projects which have been talked of for Roswell this is the very best proposition from every angle. I am delighted."</p>
+
+<p>Mrs. Roberta Rodden&#8211;"I am thrilled beyond expression. It's a dream come true for Roswell."</p>
+
+<p>A. M. Balderson&#8211;"I have already enlarged on a sale I had made previous to yesterday's "Big News." Business has already begun to pickup."</p>
+
+<p>Tom Witten&#8211;"Biggest thing that has ever happened to Roswell. It is now up to us all to get behind this drive for that $30,000 on Tuesday and at that we are getting off cheap."</p>
+
+<p>Mrs. Mertha Bray&#8211;"I am delighted. It means that Roswell is facing a new era."</p>
+
+<p>Paul Zink&#8211;"The greatest single achievement in Roswell's history."</p>
+
+<p>G. K. Richardson&#8211;"Just say "I'm tickled pink!"</p>
+
+<p>Mrs. Nicholas Carter&#8211;"It's a magnificent, prodigious, achievement!"</p>
+
+<p>Sam Hameed&#8211;"Believe me, folks, if anything better ever happened to the town, I can't remember what it was!"</p>
+
+<p>R. V. Young&#8211;"Roswell gets what she goes after, hurrah!"</p>
+
+<p>Yolanda Pierson&#8211;"Sure, it's the best thing that has ever happened to Roswell!"</p>
+
+<p>W. W. Merritt&#8211;"I am heartily in favor of it and I don't mean "perhaps."</p>
+
+<p>Ted Jones&#8211;"Believe it or not. I am really for it! And I hope they transfer James Stewart, who is now at Moffett Field, to Roswell when they move the field here. Wouldn't that be nice, girls!"</p>
+
+<p>Bob Fall&#8211;"I am having trouble writing 'down to the earth' advertising since we all got up in the air on this air base. Anyway, Glory Be!!! Hope the bombers don't spoil the duck hunting."</p>
+
+<p>Harrison Williams&#8211;"I am like De Soto when he discovered the Mississippi river, 'I think it is a success.'"</p>
+
+<p>B. B. Wilson&#8211;"I only hope Roswell keeps in step with this big Air Base project."</p>
+
+<p>Dr. T. N. Burnett&#8211;"This is the biggest thing that has ever come to Roswell."</p>
+
+<p>Bob Dakens&#8211;"It's a big opportunity for Roswell and will give us new life."</p>
+
+<p>Jay Duvall&#8211;"I am proud of the Chamber of Commerce and the City administration&#8211;they did a swell job."</p>
+
+<p>Warren Cobean&#8211;"Delighted beyond expression. It's a great day for Roswell."</p>
+
+<p>Charles Dabbs&#8211;"It's the best news that has come to Roswell during my thirty-three years residence here."</p>
+
+<p>Byron Lowrey&#8211;"Just wonderful, just what we have been wanting."</p>
+
+<p>Hilton Ray&#8211;"The greatest thing that has ever hit the town."</p>
+
+<p>B. F. Fields Jr.&#8211;"Wonderful thing. It will help everybody."</p>
+
+<p>E. L. Harbaugh&#8211;"Most substantial project that we could have gotten. It's great."</p>
+
+<p>Bill Purdy&#8211;"I think it's great. Roswell will never be the same again and I don't care."</p>
+
+<p>Colonel D. C. Pearson&#8211;"The best thing that could have happened to us."</p>
+
+<p>W. A. Vandewart&#8211;"Wonderful! We'll all go to town now."</p>
+
+<p>M. A. Crawford&#8211;"It's a great step forward in the progress of Roswell and of course I am delighted."</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

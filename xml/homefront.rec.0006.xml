@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.rec.0006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Appendix to the Congressional Record (January 16, 1941)</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.rec.0006</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Appendix to the Congressional Record</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date value="1941-01-16">(January 16, 1941)</date>
+<biblScope type="pages">A133-A134</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-01-16</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Validation</item>
+</change>
+<change>
+<date>2007-01-08</date>
+<respStmt>
+<name>Paul Fajman</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>2006-11-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+
+<head type="main">The Road to Peace</head>
+<milestone unit="smallbar" />
+<head type="sub">EXTENSION OF REMARKS<lb />
+OF<lb />
+HON. HARRY B. COFFE<lb />
+OF NEBRASKA<lb />
+IN THE HOUSE OF REPRESENTATIVES<lb />
+<milestone unit="smallbar" />
+Thursday, January 16, 1941</head>
+<milestone unit="smallbar" />
+<head type="sub">EDITORIAL FROM THE OMAHA (NEBR.) WORLD-HERALD</head>
+<milestone unit="smallbar" />
+
+	<p>Mr. COFFEE of Nebraska. Mr. Speaker, under the permissions granted me, I insert an inspiring editorial from the Omaha World-Herald of January 13, 1941. This portrays very effectively the views of a large segment of patriotic Americans who are interested primarily in the protection and future security of the Untied States of America.</p>
+	<p>The editorial is as follows:</p>
+
+<p rend="center">"THE ROAD TO PEACE"</p>
+	<p>The President's lease-lend bill, which Congress is expected to enact in all haste, amounts to an unprecedented delegation of the war-making power.</p>
+	<p>In effect it repeals both the Johnson law and the Neutrality Act.</p>
+	<p>About the only authority it leaves to Congress is the power over appropriations, which the President cities as a measure of restraint. Clearly, however, no such restraint could be exercised effectively should the Nation find itself at war. All the money and credit needed to prosecute the war to the end must then be and will be voted by the legislative branch.</p>
+	<p>Once the bill is enacted the President may, in his wisdom and discretion, precipitate this country into full-fledged war over night. And Congress, like every citizen, will have no recourse but to go along.</p>
+	<p>There may be remaining but a little while for the exercise of the right of free speech. Now, not next month or next summer, is the time for free men and women to avail themselves of that priceless privilege. The people's Senators and Representatives in Congress should be hearing from them&#8211;whether they are for the road that leads to war. Whether they believe the constitutional rights and duties of Congress should be surrendered or jealously retained. Later may be too late forever.</p>
+	<p>Steps toward war are coming disconcertingly fast, and they are amazingly long steps. Within a few days there have come the $18,000,000,000 Budget, the creation of O.P.M. with extraordinary powers, and now the lease-lend bill.</p>
+	<p>There is involved, in the present grave decision, no question about sympathy for England. There is involved no question about every reasonable and legal assistance "short of war" this country can extend to the embattled and imperiled British Empire. With almost total unanimity Americans strongly favor such aid.</p>
+	<p>The one question is whether we should prepare to depart from the ways of peace to march in war's bloody and skull-strewn pathway. Whether the 5 years of war foreseen by Sir Walter Citrine, the powerful British leader now touring this country, shall come to mean also 5 years of war for the United States. Five years with successive $18,000,000,000 budgets, 5 years of training 4,000,000 soldiers and sending them to battle, 5 years of a military dictatorship, 5 ears of gluttonous consumption of our resources, 5 years of accumulating distress and social disorder and mounting poverty.</p>
+	<p>Today, with a reasonable degree of freedom and safety we may discuss that issue. But already antiwar Americans discover they are not only embarrassed but threatened.</p>
+	<p>Mrs. Roosevelt pronounced it "shocking and terrifying' when some Members of Congress failed to applaud the President's war message.</p>
+	<p>In that message the President himself said, bluntly, that "the best way of dealing with the few slackers or trouble-makers in our midst is, first to shame them by patriotic example, and, if that fails, to use the sovereignty of government to save government."</p>
+	<p>When William Allen White declared "the Yanks are not coming" he was accused by Mayor LaGuardia of "doing a Laval," and forced from the chairmanship of the Committee to Defend America by Aiding the Allies. Yet through the length and breadth of the Republic there is no more true-blue American than he, no more vigorous hater of everything the dictators stand for.</p>
+	<p>No one can know how soon opposition to our country's active and belligerent entry into war may be branded as unpatriotic and dealt with on that assumption.</p>
+	<p>Yet only a very few months ago, in the midst of the Presidential campaign, Mr. Roosevelt was saying, "I am fighting to keep our country out of foreign wars" and that "your President and Secretary of State are following the road to peace." He was making the direct promise that "we will not participate in foreign wars."</p>
+	<p>If this was a wise and patriotic policy then&#8211;as we believe and now believe&#8211;we know of nothing that has since transpired to make it foolish and unpatriotic.</p>
+	<p>If the President of the United States could stand for it then, make it a plank of his platform for reelection, good and true Americans may, without apology, stand for it now.</p>
+	<p>But the time remaining within which to support that policy may be very brief. If you are going to stand up for your honest and conscientious convictions&#8211;do it now!</p>
+
+</div1>
+</body>
+</text>
+</TEI>

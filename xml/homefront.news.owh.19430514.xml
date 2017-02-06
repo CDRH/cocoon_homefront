@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19430514 SYSTEM "homefront.news.owh.19430514.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19430514">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">50 Mexicans Reach State</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19430514</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Morning World-Herald</title>
+<title level="a">50 Mexicans Reach State</title>
+<title level="a" type="sub"></title>
+<author>Robert Geiger</author>
+<biblScope type="pages">1</biblScope>
+<biblScope type="columns">2</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1943-05-14">1943-05-14</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-24</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19430514">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+
+<figure>
+<figDesc>Maximiliano Cisneros smoked an American cigarette as he arrived in Denver . . . He was one of 850 Mexican nationals who arrived to work in mountain area beet fields this summer.</figDesc>
+</figure>
+
+<head type="main">50 Mexicans<lb/>Reach State</head>
+<milestone unit="smallbar"/>
+<head type="sub">Will Help Produce<lb/>Sugar Beets</head>
+<milestone unit="smallbar"/>
+
+<p rend="center">(The World-Herald's News Service)</p>
+
+<p>Lexington, Neb., May 13&#8211;Inspired by a patriotic desire to further the cause of the united nations, 50 Mexican farm workers from the state of Jalisco arrived in Lexington today to help hard-pressed Nebraska farmers win their food production battle. Others are expected later.</p>
+
+<p>The men, ranging in age from 21 to 50, are a select group, all from agricultural areas and not eligible for military service. They were part of a contingent of 850 that reached Denver yesterday for distribution in Nebraska, Colorado, Montana, Wyoming and the Dakotas.</p>
+
+<p>Imported by the farm security administration, the men are under contract to the Mexican and United States governments. They are guaranteed good food and living quarters, as well as employment at least 75 per cent of the workable days. They are paid prevailing wages for the type of work done, a certain percentage being paid direct to the worker and the rest being sent to a Mexican bank to be held until his return home.</p>
+
+<p>The group was accompanied by W. F. Drewien of California, senior employment supervisor for the government, and by interpreter Pete Sanchez of Grand Island, an <sic corr="employee">employe</sic> of the American Beet Sugar company. Most of the men will work in beet fields.</p>
+
+<p>Through Sanchez a number of the younger men expressed a desire to learn English. Drewien said that if classes could be arranged he was sure the Mexican government would be pleased, since a part of the plan is for the workers to take advantage of educational opportunities in this country.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

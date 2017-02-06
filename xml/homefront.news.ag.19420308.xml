@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.ag.19420308 SYSTEM "homefront.news.ag.19420308.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.ag.19420308">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Pooling of Farm Machinery Relieves Shortage of Labor</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.ag.19420308</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Amarillo Globe</title>
+<title level="a">Pooling of Farm Machinery Relieves Shortage of Labor</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages"></biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Amarillo Globe</publisher>
+<pubPlace>Amarillo, TX</pubPlace>
+<date value="1942-03-08">1942-03-08</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-19</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+<!--
+<figure entity="homefront.news.ag.19420308">
+<figDesc></figDesc>
+</figure>
+-->
+<pb n=""/>
+
+<figure>
+<figDesc>TYPICAL of the nation-wide interest in helping solve the farm labor shortage problem are these two apprentice farmerettes. They've just made the acquaintance of "Anaconda Al," a robot farm hand used in one western drive for city-farm cooperation.</figDesc>
+</figure>
+
+<head type="main">Pooling of Farm Machinery<lb/>Relieves Shortage of Labor</head>
+
+<p><hi rend="bold">Wide World Pictures</hi></p>
+
+<p>DENVER, March 7&#8211;As neighborly as a husking bee, a war-born wave of city-farm cooperation promises to take a big bite out of the 1942 farm problems of how to raise bigger and better crops with less labor.</p>
+
+<p>Agricultural counties are mobilizing idle man and woman-power. Agriculture Department officials in Washington say it's too soon to say for sure, but it looks as though city folks are going to be a big help to the boys back on the farm. Encouraged by the Farm Security Administration, farmers are setting up pools to relive the machinery shortage problem, and old machines are being repaired instead of junked.</p>
+</div1>
+
+<div1>
+<head type="sub">Ready And Willing</head>
+
+<p>And every village, every town, every city has its bankers, its old age pensioners, its schoolboys or its debutantes clamoring to help&#8211;even if it means pitching hay or digging potatoes besides the farmer and what's left of his hired hands.</p>
+
+<p>Since last July county war boards have been fitting the agricultural facilities of their localities to the U.S. war situation. They've been learning what crops are needed the most. They've been deciding which crops their counties can produce and how production may be expanded with the least fuss and work.</p>
+
+<p>Each county made a census of farm machinery and a list of necessary repair parts. Estimates of farm needs were drawn in minute detail in every county. Multiply this by approximately 3,000&#8211;the number of "agricultural" counties in the nation&#8211;and you have an idea of the planning that has been done to assure American citizens and their allies of an adequate war time food supply.</p>
+</div1>
+
+<div1>
+<head type="sub">How it Works</head>
+
+<p>Some of the city-farm team-work involved was demonstrated by 61 Walsenburg, Colo., businessmen who volunteered the farm machinery survey so the information could be sent to Washington promptly School children did the work in other counties.</p>
+
+<p>It was emphasized to farmers that average repairs, even for old equipment, would take no more than 200 pounds of metal whereas a new piece of machinery might require as much as 2,000 pounds.</p>
+
+<p>At county conference in Colorado repairmen and farmers met and the repairmen were told about the repairs that were needed. Repairmen, in some cases, explained how the farmers themselves might make minor repair. Night schools were held in some counties and farmers were taught how to maintain farm machinery.</p>
+
+<p>The school idea was so successful it was extended to the farm program and the latest ideas in crop planning and care were explained by experts from Colorado Agricultural college.</p>
+</div1>
+
+<div1>
+<head type="sub">Then, Shock Troops</head>
+
+<p>Meanwhile the United States employment service was mobilizing a corps of "shock troops" for planting and harvesting crops.</p>
+
+<p>Charts show the expected peaks and depressions of farm labor needs throughout the state. A crops of farm hands will be available to be rushed, if necessary, from one area to another as emergencies develop.</p>
+
+<p>Recruits for the farm labor front will come from the ranks of advanced school children, both city and country; old age pensioners and the temporarily unemployed.</p>
+
+<p>Many schools are planning to lengthen the day's classes and to remain open on Saturdays so that the spring term may end in time to release students for planting.</p>
+
+<p>Old age pension officials announced pensioners might accept war work, including farm jobs, and later be reinstated to pension rolls without the usual penalties and delays.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

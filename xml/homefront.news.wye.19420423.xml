@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.wye.19420423 SYSTEM "homefront.news.wye.19420423.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.wye.19420423">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Labor Shortage Putting More Women Workers Upon Farms</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.wye.19420423</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Wyoming Eagle</title>
+<title level="a">Labor Shortage Putting More Women Workers Upon Farms</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">2</biblScope>
+<biblScope type="columns">2-3</biblScope>
+<publisher>Wyoming Eagle</publisher>
+<pubPlace>Cheyenne, WY</pubPlace>
+<date value="1942-04-23">1942-04-23</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-26</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.wye.19420423">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p2"/>
+<head type="main">LABOR SHORTAGE PUTTING MORE<lb/>WOMEN WORKERS UPON FARMS</head>
+<milestone unit="smallbar"/>
+
+<p>Back to the soil is apparently becoming a strong feminine movement, according to a report released yesterday by Federal Agricultural Statistician George Knutson.</p>
+
+<p>One April 1, 1942, 13 per cent of the total farm workers in the nation were women. A year ago only 1.5 per cent of the total were women.</p>
+
+<p>The report revealed that, despite a strong wage increase, there is a definite shortage of farms labor particularly ranch hands. The supply of workers on April 1 was 72 per cent of normal compared with a demand 110 per cent over normal.</p>
+
+<p>Monthly wages on April 1 without board averaged $74.75 as compared with $66.50 on March 1, and $55.75 a year ago. Day rates average $3.20 on April 1, 1942, compared with $2.70 on March 1 and $2.35 on April 1, 1941.</p>
+
+<p>A total of 26,000 persons were employed on Wyoming farms and ranches on the first of this month. Of this number 18,000 were family workers and 8,000 hired workers.</p>
+
+<p>Throughout the United States there were 97,000 fewer persons employed on farms than a year ago, though the index of farm wage rates was 28 per cent higher.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

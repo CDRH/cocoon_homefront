@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19431107 SYSTEM "homefront.news.owh.19431107.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19431107">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Women War Help Sought</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19431107</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Sunday World-Herald</title>
+<title level="a">Women War Help Sought</title>
+<title level="a" type="sub">Big Response Noted Among Omahans</title>
+<author></author>
+<biblScope type="pages">14-A</biblScope>
+<biblScope type="columns">3</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1943-11-07">1943-11-07</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Women at work</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-07</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.owh.19431107">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p4"/>
+
+<figure>
+<figDesc>Omaha women...paint a house</figDesc>
+</figure>
+
+<head type="main">Women War<lb/>Help Sought</head>
+<milestone unit="smallbar"/>
+<head type="sub">Big Response Noted<lb/>Among Omahans</head>
+
+<p>Omaha is depending upon its housewives to fill the five thousand war jobs necessary if the city's labor crisis is to be met.</p>
+
+<p>Clarence L Kirkland, chairman of the emergency labor supply of the war manpower commission, Saturday said that they are responding splendidly.</p>
+
+<p>Many, he said, have already made their applications to the United States employment service.</p>
+
+<p>"Like the great majority of the men who are applying these days, the women are not so much interested in what the job pays as in what it will contribute to the war effort," Kirkland said.</p>
+
+<p>In that connection, he added, it should be pointed out again that almost any job is a war job. Clerk-ing in a store or working in a laundry is just as important as manning a bench in a war plant, Kirkland said.</p>
+
+<p>"We are trying to make arrangements for the care of the children of those women who want war jobs," he said. "It looks as if that problem is being solved. There are now seven day schools in operation and six or seven more will be set up when needed."</p>
+
+<p>Kirkland said the committee would like to fill 80 per cent of the job quota with women workers. Although much of the work is not easy; it is work that women can do and it all helps toward winning the war, he said.</p>
+
+<p>Poultry processing, meat packing and laundries are among the industries which need women immediately.</p>
+
+<p>The war has proved that women are capable workers in many jobs they have never tried before, Kirkland said. The local postoffice, for instance? is now using many women clerks and sorters and is considering using them as drivers.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+
+

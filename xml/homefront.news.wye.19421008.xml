@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.wye.19421008 SYSTEM "homefront.news.wye.19421008.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.wye.19421008">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Increased Use of Women on Farms Sought</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.wye.19421008</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Wyoming Eagle</title>
+<title level="a">Increased Use of Women on Farms Sought</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">18</biblScope>
+<biblScope type="columns">1</biblScope>
+<publisher>Wyoming Eagle</publisher>
+<pubPlace>Cheyenne, WY</pubPlace>
+<date value="1942-10-08">1942-10-08</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-26</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.wye.19421008">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p18"/>
+<head type="main">INCREASED USE<lb/>OF WOMEN ON<lb/>FARM SOUGHT</head>
+<milestone unit="smallbar"/>
+
+<p>Denver, Oct. 7&#8211;(U.P.)&#8211;A three-point program, designed to correct the increasingly dangerous shortage of farm labor in Colorado and other western states was advanced today at a Denver conference.</p>
+
+<p>Spokesmen at the meeting of farm and business leaders, called by the Denver chamber of commerce, said that unless steps are taken quickly, the nation's war effort may be seriously impaired.</p>
+
+<p>The three main suggestions for alleviating the labor shortage are:</p>
+
+<p>Employment of more women in all possible occupations; <sic corr="importation">inportation</sic> of labor from Mexico and other foreign countries; and better application of draft regulations to grant deferment to key men in agriculture.</p>
+
+<p>A. J. Bromfield, president of the Denver chamber, says employment of women must be considered essential to solving the labor problem to a far greater extent than ever before.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

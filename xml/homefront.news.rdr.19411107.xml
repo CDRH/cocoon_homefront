@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.rdr.19411107.01 SYSTEM "homefront.news.rdr.19411107.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.rdr.19411107.02 SYSTEM "homefront.news.rdr.19411107.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.rdr.19411107">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Work to Start Soon on Roswell Air Base</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.rdr.19411107</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Roswell Daily Record</title>
+<title level="a">Work to Start Soon on Roswell Air Base</title>
+<title level="a" type="sub">Major Stratton, In Charge Of Army Engineers District Office, Says Funds Will Be Available In Not More Than Two Weeks</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1, 8</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Roswell Daily Record</publisher>
+<pubPlace>Roswell, New Mexico</pubPlace>
+<date value="1941-11-07">1941-11-07</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-27</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.rdr.19411107.01">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p1"/>
+<head type="main">WORK TO START SOON<lb/>
+ON ROSWELL AIR BASE</head>
+
+<head type="sub">Major Stratton, In Charge Of Army Engineers District<lb/>
+Office, Says Funds Will Be Available In Not More<lb/>
+Than Two Weeks</head>
+
+<p>The long awaited news that work will start soon on the Roswell army air base was brought here yesterday by Major James H. Stratton, who arrived here on the Continental Air Lines plane at four p. m.</p>
+
+<p>Major Stratton, head of the district army engineers office at Caddron, Colorado, said the 6 1/2 million dollar appropriation for the base would be available in not more than two weeks, and that bids would be asked immediately after the funds were received. Bids will be asked for all construction except the erection of the permanent buildings, plans for which have not yet been drawn. Twenty days much be allowed for submitting bids. Major 
+
+<note type="editorial" rend="jumpline">(Continued To Page Eight)</note>
+
+<pb n="p8"/>
+
+<!-- <figure entity="homefront.news.rdr.19411107.02">
+<figDesc></figDesc>
+</figure> -->
+
+<note type="editorial" rend="jump">
+<note type="editorial" rend="mainhead">Work to Start&#8212;</note>
+<note type="editorial" rend="jumpline">(Continued From Page One)</note>
+</note>
+
+Stratton did not indicate when it was expected to have the base in operation. He said as few contracts as possible will be let to cover the necessary work, which will include concrete runways, water and sewer systems, and drainage.</p>
+
+<p>Major Stratton conferred here with city engineer Lea Rowland, and Ross L. Malone, Jr., president, and Claude Simpson, secretary of the Chamber of Commerce. He showed them the general plans for the layout at the air base, which will be very extensive.</p>
+
+<p>Santa Fe railroad engineers began work today on a survey for a spur from South Spring to the air base. James A. Noble, Santa Fe division engineer, conferred here with Maj. Stratton on this matter.</p>
+
+<p>Mayor Hall was unable to confer with Major Stratton due to illness.</p>
+
+<p>Construction work at the air base has been delayed due to the fact that it is to be the first permanent air corps unit to be built under the emergency program, and a complete new set of plans had to be drawn up and approved. The general plan used for temporary fields could not be employed here.</p>
+
+<p>Major Stratton was accompanied here by R. E. Cole, civilian engineer from the Caddoa office. Their plane was late in arriving yesterday due to bad weather at Denver which delayed the start of the flight.</p>
+
+<p>Claude Simpson, secretary of the Chamber of Commerce, declared that while construction work had not been started soon as was hoped, the type of field to be established here will be well worth waiting for. It is to be an advanced bomber training school.</p>
+
+<p>Roswell officials expressed the belief that the work would now move along rapidly.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

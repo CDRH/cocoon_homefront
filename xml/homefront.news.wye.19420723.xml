@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.wye.19420723 SYSTEM "homefront.news.wye.19420723.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.wye.19420723">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Volunteers Save Sugar Beets of Sheridan Region</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.wye.19420723</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Wyoming Eagle</title>
+<title level="a">Volunteers Save Sugar Beets of Sheridan Region</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">15</biblScope>
+<biblScope type="columns">7</biblScope>
+<publisher>Wyoming Eagle</publisher>
+<pubPlace>Cheyenne, WY</pubPlace>
+<date value="1942-07-23">1942-07-23</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-26</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.wye.19420723">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p15"/>
+<head type="main">Volunteers Save<lb/>Sugar Beets of<lb/>Sheridan Region</head>
+<milestone unit="smallbar"/>
+
+<p>Sheridan, June 22.&#8211;(U.P.)&#8211;A thousand acres of the vital sugar beet crop of the Sheridan area has been saved for the war effort through the energy of volunteer workers.</p>
+
+<p>G. W. Hardy, chairman of the Sheridan county labor sub-committee for the agriculture war board, says that from the first call for volunteers up through the weekend more than 450 persons have registered to work in the beet fields.</p>
+
+<p>The volunteers include high school boys and girls, men and women from local business firms and practically every miner from the Sheridan area coal mines.</p>
+
+<p>Hardy says the work of thinning the bets probably will be finished early next week and he declared the amount of sugar saved by the volunteers will fill at least 36,000 sacks.</p>
+
+<p rend="center">&#8211;DIG UP YOUR RUBBER&#8211;</p>
+</div1>
+
+</body>
+</text>
+</TEI>

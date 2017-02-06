@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.photo.RG2183-1943-0903-7 SYSTEM "homefront.photo.RG2183-1943-0903-7.jpg" NDATA jpeg>
+<!ENTITY homefront.photo.RG2183-1943-0903-4 SYSTEM "homefront.photo.RG2183-1943-0903-4.jpg" NDATA jpeg>
+<!ENTITY homefront.photo.RG2183-1943-0903-5 SYSTEM "homefront.photo.RG2183-1943-0903-5.jpg" NDATA jpeg>
+<!ENTITY homefront.photo.RG2183-1943-0219-7 SYSTEM "homefront.photo.RG2183-1943-0219-7.jpg" NDATA jpeg>
+]>
+
+
+<TEI id="homefront.nar.hf.women">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">The Great Plains during World War II</title>
+<title level="m" type="sub">The Home Front</title>
+<author>R. Douglas Hurt</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.nar.hf.women</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-06-13</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+
+<head>The Home Front</head>
+<head type="sub">Women</head>
+
+<p>As federal funds reached employees in the Great Plains via defense industry contract, women began to enter the workforce at a scale larger than ever before.  Nationwide, between 1940 and 1945 the number of women in the workforce expanded by more than 50 percent from 11.9 to 18.6 million for 37 percent of all working women.  About 75 percent of these newly employed women were married, and nearly 50 percent of all women took employment at some time during the war.  High pay, patriotism, and increased status lured them to the defense industries.</p>
+
+<p> At the Cornhusker Ordnance Plaint in Grand Island, Nebraska women worked at every job (including pouring liquid TNT into bomb casings), except the most physically demanding positions.  Overall, these women knew that they filled traditionally male jobs and that they would lose them when the war ended and men returned from the military.  Even so, World War II gave many Great Plains women their first job outside the home.  Most liked the freedom, independence and money.</p>
+
+<p>Great Plains women did not immediately enter the wartime workforce.  When the war began employers believed the male labor supply would remain adequate, and they doubted the physical and mechanical ability of women to handle many defense industry jobs.  By late 1942, however, the labor situation had changed dramatically and employers welcomed women workers.  At first, they were mostly were young, unmarried, and unskilled, although the records do not precisely indicate their number other than to suggest that thousands of women in the region held wartime job. As the war progressed, nationwide women workers tended to be married with husbands in the military and older, with approximately half of this workforce over thirty-five years of age by the end of the war.</p>
+
+<p>Some Great Plains women anticipated that the United States would become involved in the war and they began preparing for it by enrolling in training programs that would qualify them for war industry jobs.  In Oklahoma City some women enrolled in the Oklahoma Aircraft School where they learned the craft of riveting.  Other women studied radio repair and drafting during the summer of 1941.</p>
+
+<p>The National Defense Training School in Wichita accepted twenty-four women who upon completion of their training would have jobs waiting at the Cessna aircraft plant where they would make wooden ribs for planes.  Soon Wichita women enrolled in courses taught at high schools under the industrial defense training program.  Their vocational instructors taught various skills, particularly riveting.  Upon completion of the course, these women qualified for immediate employment in the city's aircraft industries.  Early in 1942, the Wichita Eagle reported the opportunities for women workers in the aircraft industry.</p>
+
+<list>
+<item><ref n="homefront.news.we.19420119">["Enter Defense Plants at Same Pay as Men After Completing Training Courses in Schools Here; Jobs Are Created by War," Wichita Eagle, January 19, 1942.]</ref></item>
+</list>
+
+<p>Women who took short vocational training courses through various training programs, such as the National Youth Administration, received job offers for quick employment upon completion of their work.  By mid-January 1942, women had taken many specialized positions in the Great Plains aircraft plants where they worked "men's jobs" and received "men's pay," that is 60 cents an hour at entry.  At Fort Crook, near Omaha, women trained as mechanics and earned $4 per day as civilian employees at army ordnance depots and shops repairing cars and trucks.</p>
+
+<list>
+<item><ref n="homefront.news.do.19420216">["Stillwater Fire Station Echoes With Girlish Giggles," Daily Oklahoman, February 16, 1942.]</ref></item>
+
+<item><ref n="homefront.news.dmn.19430314">["Dallas Girls and Boys Aid in March to Victory By Training for War Jobs at NYA Workshop," Dallas Morning News, March 14, 1943.]</ref></item>
+
+<item><ref n="homefront.news.owh.19430124">["Women Not Afraid of Grease and Dirt Train for Army Ordnance Depot Jobs," Omaha World Herald, January 24, 1943.]</ref></item>
+</list>
+
+<p>As the war progressed, more women were needed to replace men in almost every occupation.  They drove taxi cabs, worked in banks and department stores, and pumped gas at service stations.  These newspaper articles indicate the variety of jobs women took in the Great Plains, many of which had been solely the domain of men before the war. The newspaper articles that follow provide an overview of the jobs that Great Plains women held during the war.  Male employees apparently accepted female workers as equals, but the newspaper articles indicate a prevailing paternalism or sexism characteristic of that period.  Women did not always work in large-scale defense industries.  A host of sub-contractors employed women to help fill orders for the larger plants.   Even if a company did not have a war industry related sub-contract, the lack of male employees due to military service opened new employment doors for women.</p>
+
+<figure rend="photograph" entity="homefront.photo.RG2183-1943-0219-7">
+<figDesc>In 1943, several women operate drill presses at the Lueck Crystal Company in Lincoln, Nebraska, while others operate various machines at the McGrew Machine Company.  Notice the patriotic sign at the back of the plant which reads "Every Minute Counts."
+
+[Women Working at the Lueck Crystal Company, Operating Drill Presses, Record Group M131, January-April 2-19-43:7, Nebraska State Historical Society]
+</figDesc>
+</figure>
+
+<figure rend="photograph" entity="homefront.photo.RG2183-1943-0903-4">
+<figDesc></figDesc>
+</figure>
+
+<figure rend="photograph" entity="homefront.photo.RG2183-1943-0903-5">
+<figDesc></figDesc>
+</figure>
+
+<figure rend="photograph" entity="homefront.photo.RG2183-1943-0903-7">
+<figDesc>[Three Photographs of Women Working at the McGrew Machine Company, in Lincoln, Nebraska, Record Group M134, September-October 1943; Photo numbers 9-3-43:4;9-3-43:5; 9-3-43:7, Nebraska State Historical Society.]</figDesc>
+</figure>
+
+<list>
+<item><ref n="homefront.news.kdh.19420411">["Training Women in Aircraft Sheet Metal Work Will Start Next Week," Kearney Daily Hub, April 11, 1942.]</ref></item>
+
+<item><ref n="homefront.news.ag.19420621">["Amarillo Women Are 'Doing Something Too,' in Keeping Business 'As Usual,'" Amarillo News- and Globe, June 21, 1942.]</ref></item>
+
+<item><ref n="homefront.news.owh.19420621">["Women Given Auto Testing Jobs; Get Along Just Fine," Omaha World Herald, June 21, 1942.]</ref></item>
+
+<item><ref n="homefront.news.owh.19420730">["Women Learn About Autos," Omaha World Herald, July 30, 1942.]</ref></item>
+
+<item><ref n="homefront.news.ag.19420927">["Amarillo Girls Don't Mind Black Car Grease Getting Under Nails," Amarillo Sunday News and Globe, September 27, 1942.]</ref></item>
+
+<item><ref n="homefront.news.owh.19421025">["Wanted:  Women!" Omaha World Herald, October 25, 1942.]</ref></item>
+
+<item><ref n="homefront.news.do.19421221">["Greasing Autos Beats Waiting Caf&#233; Tables, City Woman Thinks," Daily Oklahoman, December 21, 1942.]</ref></item>
+
+<item><ref n="homefront.news.owh.19421213">["Women Workers at Bomber Plant," Omaha World Herald, December 13, 1942.  <!-- (My photocopy of this article is incomplete, but it deals with the Glen Martin bomber plant and it has several good photos of women working there.)--></ref></item>
+
+<item><ref n="homefront.news.lsjs.19430131b">["Union College Trains Women for Civilian Work in War," Lincoln Sunday Journal and Star, January 31, 1943.]</ref></item>
+
+<item><ref n="homefront.news.owh.19430331">["Women Are Making Good in War Work," Omaha World Herald, March 31, 1943.]</ref></item>
+
+<item><ref n="homefront.news.dp.19430403">["Ordnance Plant Has Fine Record," Denver Post, April 3, 1943.]</ref></item>
+
+<item><ref n="homefront.news.owh.19430425">["Women Taking Hotel Jobs," Sunday World Herald, April 25, 1943.]</ref></item>
+
+<item><ref n="homefront.news.owh.19430711">["Men May Well Be Amazed at Jobs Women Are Holding," Omaha World Herald, July 11, 1943.]</ref></item>
+</list>
+
+<p>Women employees at the Cushman Motor Works in Omaha assembled fuses for bombs.  At the Cornhusker plant near Grand Island women loaded one-thousand pound bombs with liquid TNT.  A reporter called them efficient and hard workers who believed the bombs they made were destined for Hitler or Hirohito.  Women workers, several of Mexican descent, also comprised 90 percent of the work force at the Western Tent and Awning Company in Lincoln.</p>
+
+<list>
+<item><ref n="homefront.news.owh.19430704a">["Bomb Fuze Line at Motor Works," Sunday Omaha World Herald Magazine, July 4, 1943.]</ref></item>
+
+<item><ref n="homefront.news.owh.19431107">["Women War Help Sought," Omaha World Herald, November 7, 1943.]</ref></item>
+
+<item><ref n="homefront.news.owh.19440409">["Thousand Women Needed at Once to Cope with Patriotic Hen's Output," Omaha World Herald, April 9, 1944.]</ref></item>
+</list>
+
+<p>As women left the small towns and farms for defense industry jobs in the cities such as Omaha, secretarial schools could not meet the demand because so many women left private employment for newly created civil service positions related to the war effort.  The women who enrolled at the secretarial schools tended to be older housewives who chose to return to paid employment.  Hotels began employing women in their business offices and at reservation and customer service desks.  Waitresses soon enjoyed receiving generous tips from soldiers and sailors from nearby military bases.</p>
+
+<p>Defense industry jobs lured women school teachers who preferred high paying jobs to their low incomes as school teachers.  As a result, many rural schools closed or consolidated because school administrators did not have enough teachers to meet classroom needs.  In Nebraska, school superintendents and school boards often blamed the federal government for enticing teachers from their classrooms for war industry jobs.  When teachers broke contracts, sometimes during the school year, resentment occurred.</p>
+
+<p>In Norfolk and other towns in Nebraska, school boards asked the state legislature to revoke the license of any teacher who broke a contract for another job.  In 1942, the Nebraska State Department of Public Instruction attempted to solve the problem by compiling a master list of inactive teachers and offered recertification if they would take a summer refresher course in their field.  By the autumn of 1943, approximately 1,500 rural schools had closed in Nebraska due to the teacher shortage.  The teacher shortage plagued all Great Plains states during the course of the war.</p>
+
+<list>
+<item><ref n="homefront.news.ls.19430202">["Teachers Going To War Work," Lincoln Star, February 2, 1943.]</ref></item>
+
+<item><ref n="homefront.news.do.19420520">["State Schools Need Seen as 400 Teachers," Daily Oklahoman, May 20, 1942.]</ref></item>
+</list>
+	
+<p>For many women employment was not only an opportunity to earn a high income, but also a chance to participate in the war.  By July 1943, women comprised 30 percent of the fifty-four thousand person workforce in sixty-four of Nebraska's largest essential industries, except railroad and construction, although a few women also worked in that employment.  Many more women had taken less essential jobs, such as office and retail workers or labored on a farm.</p>
+
+<p>At the Glenn L. Martin Company, women comprised more than 40 percent of the bomber plant's employees which made the company Nebraska's largest employer of women.  Still, 83 percent of the women hired held positions with the lowest classification as drill operators, bench electricians, and maintenance staff as well as clerks, cafeteria workers and general helpers.  They averaged $96 to $172 monthly, but they had a higher turnover rate than men, perhaps due to family responsibilities.</p>
+
+<p>Although the federal government glamorized the movement of housewives to the defense industries and transformed them into the symbolic Rosie the Riveter and Wendy the Welder, most working women in the Great Plains and across the nation did not labor in defense industries.  Although many women worked because they were patriotic and wanted to contribute to the war effort, they also worked because defense industry jobs paid high wages that lured them to improve their standard of living.  Some women worked because they lost income when their husbands left for military service.</p>
+
+<p>Many women wanted to keep their jobs when the war ended.  A poll in late 1944 indicated that approximately seven out of ten women in Omaha wanted to keep their jobs after the war.  They enjoyed the extra income if they were married as well as a new independence that comes from financial security.  Still, most women, including those living in the Great Plains, remained housewives.  Many middle class women rejected blue collar jobs and preferred to stay home where they believed they could best aid the war effort by nurturing the family.  The war also segregated women in certain jobs, such as secretaries, store clerks and bank tellers, and most middle class women could not afford to quit these jobs or accept termination at the end of the war.   Blue collar women workers who wanted and needed to keep their high paying jobs often lost their work and income with peace.  In the end, World War II did not produce long-term economic and social gains for working women.</p>
+
+<p>World War II, then, provided new employment opportunities for women but many jobs disappeared when the defense industries closed when the war ended.  Women lost high paying jobs that had given them independence and many had no alternative but to return to domestic life and labor.  Overall, World War II, however, enabled the permanent occupation of women in the labor force on an unprecedented scale in government as well as civilian jobs.  The war gave Great Plains women unprecedented employment opportunities.</p>
+
+<p>When the war ended the status of women workers had not improved much since the prewar years. They remained a cheap labor force that could be easily exploited regarding pay, hiring, and promotion.  When the war ended, many women remained employed but at lesser jobs.  Even so, those Great Plains women who worked outside the home during World War II were subtly and sometimes profoundly changed.  Thereafter they had different expectations about work, independence, and self worth that would be lasting.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

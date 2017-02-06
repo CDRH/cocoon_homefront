@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.do.19420104 SYSTEM "homefront.news.do.19420104.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.do.19420104">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Oklahoma Drivers Urged to Drive Slowly to Conserve Rubber</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.do.19420104</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Daily Oklahoman</title>
+<title level="a">Oklahoma Drivers Urged to Drive Slowly to Conserve Rubber</title>
+<title level="a" type="sub">Tire Rationing Units to Begin Work Monday</title>
+<title level="a" type="sub">Members Are Told to Inform Public of Meeting Dates</title>
+<author></author>
+<biblScope type="pages">13-A</biblScope>
+<biblScope type="columns">1</biblScope>
+<publisher>Daily Oklahoman</publisher>
+<pubPlace>Oklahoma City, OK</pubPlace>
+<date value="1942-01-04">1942-01-04</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-08-28</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.do.19420104">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p13"/>
+<head type="main">Oklahoma Drivers Urged to Drive Slowly to Conserve Rubber</head>
+
+<head type="sub">Tire Rationing<lb/>Units to Begin<lb/>Work Monday</head>
+
+<head type="sub">Members Are Told<lb/>To Inform Public<lb/>Of Meeting Dates</head>
+
+<p>Rationing of automobile, truck, bus and tractor tires and tubes throughout Oklahoma will start Monday with local boards advised to give publicity to their place of meetings so the public can apply.</p>
+
+<p>Bert McDonel, state tire rationing administrator, said Saturday he had urged the county boards to fix a meeting place and give publicity to the time and place of meetings.</p>
+
+<p>Certificates for successful applicants for tires were received Saturday and forwarded to the counties. State headquarters had received notice of appointment of county rationing boards in all except 8 of the 77 counties.</p>
+</div1>
+
+<div1>
+<head type="sub">Safety Appeal Issued</head>
+
+<p>Meantime, Governor Phillips joined in an appeal for safe driving on the highways to conserve tires and automobiles.</p>
+
+<p>"Washington recommended passage of a law limiting the speed on state highways," he said. "I answered it counted be done without special session of the legislature. I hope the citizens will appreciate the fact that this is no time for speeding and obey the reasonable restrictions heretofore outlined by Walter B. Johnson, commissioner of public safety.</p>
+</div1>
+
+<div1>
+<head type="sub">45-Mile Limit Urged</head>
+
+<p>Johnson has advised motorists to limit their speed on highways to 45 miles an hour to conserve tires, lubricants, gasoline and the automobiles. Johnson said the costs at a 45-mile-an-hour limit would be half the cost of a 65-mile an hour maximum speed.</p>
+
+<p>V.P. Crowe, chairman of the Oklahoma county tire rationing board, notified McDonel the board will meet Monday, 10 a.m., in room No. 1 at the courthouse to consider applicants. R. J. Clements of Cain Coffee Co., was named a member of the board instead of L.H. Jarvis, of Peyton's who was forced to be out of the city for several days.</p>
+
+<p>Counties which had not informed state headquarters of the personnel of local committees Saturday were: Canadian, Carter, Cimarron, Delaware, Dewey, Johnston, Murray and Rogers.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

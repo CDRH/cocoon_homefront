@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19421107a.01 SYSTEM "homefront.news.owh.19421107a.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.owh.19421107a.02 SYSTEM "homefront.news.owh.19421107a.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19421107a">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Four Violations Draw Fines of $100 After Omaha Has 17-Minute Blackout Test</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19421107a</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Morning World-Herald</title>
+<title level="a">Four Violations Draw Fines of $100 after Omaha Has 17-Minute Blackout Test</title>
+<title level="a" type="sub">Night Police Court Held by O'Brien</title>
+<title level="a" type="sub">Prosecution Follows Cases Where Lights on During Alarm</title>
+<author></author>
+<biblScope type="pages">1-A, 2-A</biblScope>
+<biblScope type="columns">1, 2-3</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1942-11-07">1942-11-07</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Defense Raids</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-05</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19421107a.01">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+
+<figure>
+<figDesc>A battery of telephone girls..."sound the alarm."</figDesc>
+</figure>
+
+<head type="main">Four Violations Draw Fines<lb/>of $100 After Omaha Has<lb/>17-Minute Blackout Test</head>
+<milestone unit="smallbar"/>
+<head type="sub">Night Police<lb/>Court Held<lb/>By O'Brien</head>
+<milestone unit="smallbar"/>
+<head type="sub">Prosecution Follows<lb/>Cases Where Lights<lb/>on During Alarm</head>
+<milestone unit="smallbar"/>
+
+<p>Swift action was taken last night against four Omahans who, air raid wardens and police charged, did not co-operate in Omaha's first blackout, a 17-minute alarm.</p>
+
+<p>The four were arrested shortly after air raid wardens had made their reports and placed on trial in an after-midnight session before Municipal Judge Dennis E. O'Brien for alleged violation of the city ordinance governing blackouts. Each was fined one hundred dollars and costs.</p>
+
+<p>Judge O'Brien and City Prosecutor Alfred Ranerl, who went to the police station to hear the wardens' complaints and issue warrants for the violators, decided to strike while the iron was hot and called a special session of court.</p>
+</div1>
+
+<div1>
+<head type="sub">No Leniency.</head>
+
+<p>Judge O'Brien said similar treatment will be accorded to all those convicted the first time.</p>
+
+<p>"No leniency can be shown in cases like this," the judge declared. "The ordinance must be enforced."</p>
+
+<p>First to face the judge was Mrs. John Ellis, 56, of 710 South Eighteenth street, who after being fined said defiantly:</p>
+</div1>
+
+<div1>
+<head type="sub">'I Won't Pay'</head>
+
+<p>"Tell the federal government I won't pay."</p>
+
+<p>Miss Mary Mugasis, 609 &#189; South Nineteenth street, air raid warden in the district, testified Mrs. Ellis had refused to turn off lights, which were visible on the outside of the house.</p>
+
+<p>"They're my lights; I'll turn them off or on when I want to," Miss Mugasis quoted Mrs. Ellis as replying to a request that she turn out the offending lights.</p>
+</div1>
+
+<div1>
+<head type="sub">In Defense Plant</head>
+
+<p>Also fined one hundred dollars and costs was Miss Mary Friend, 2501 South Twelfth street, floor lady at the Bordy-Lewis Manufacturing company in the M. E. Smith building.</p>
+
+<p>Assistant Police Chief Robert Munch testified that lights remained on in the manufacturing plant after the blackout sirens sounded and that Miss Friend refused to comply with officers' orders that she extinguish them. The firm, which is working on defense orders, was not on a "priorities" list of firms which could have 
+
+<note type="editorial" rend="jumpline">(Continued on Page 2, Column 2.)</note> 
+
+<figure entity="homefront.news.owh.19421107a.02">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p2"/>
+
+<note type="editorial" rend="jump"> 
+<note type="editorial" rend="mainhead">4 Violations<lb/>in Blackout<lb/>Draw Fines</note> 
+<milestone unit="smallbar" /> 
+<note type="editorial" rend="subhead">Prosecution Follows<lb/>Cases Where Lights<lb/>on During Alarm</note> 
+<milestone unit="smallbar" /> 
+<note type="editorial" rend="jumpline">(Continued from Page 1.)</note> 
+</note>
+
+lights on during the blackout, Munch said.</p>
+
+<p>Miss Friend testified she had been told the company had permission to have lights on during the blackout.</p>
+</div1>
+
+<div1>
+<head type="sub">Tells of Crowd</head>
+
+<p>Dave Crounse, of 5139 Parker street, proprietor of Daves Clothes shop, 1417 Farnam, was fined one hundred dollars and costs after patrolman Lou Fritz testified window lights in the store were on throughout most of the blackout while a grumbling crowd milled about the front of the establishment.</p>
+
+<p>Crounse told the court that the mechanism controlling the lights had been adjusted to switch them off before the blackout when he left the store early in the evening and that for some reason the mechanism failed to function.</p>
+
+<p>Rudolph Beranek, manager of Louis A. Borsheim company, jewelers, 1402 Farnam street, was fined after officers testified window lights in the store blazed throughout the blackout. Beranek gave testimony similar to that of Crounse, said he had tested the switch-off mechanism the previous night and that it was working at that time.</p>
+
+<p>A realistic touch of war came to Omaha as the city had its first blackout. Pronounced generally successful.</p>
+
+<p>The test began at 10 p. m. with all of Douglas county participating. Only vital industries were exempt, and merely dimmed out. The all clear came at 10:17.</p>
+
+<p>Operations at the secret control center, where the citizens' defense corps was on the job, progressed fairly well. But it was plan that many such tests will be necessary to <sic corr="prepare">prepart</sic> for the real thing.</p>
+</div1>
+
+<div1>
+<head type="sub">Quick Mobilization</head>
+
+<p>The mobilization call for members of the corps, which is the main working unit of the city's air raid protection system, was sent out by Commander J. E. Davidson at 8:45. Nearly all members were on hand in 15 to 20 minutes. The yellow, or preliminary warning, was flashed at 9:35. When the second, or blue, warning flashed, corps members went into actions in earnest.</p>
+
+<p>When the red, the final, signal came at 9:58 p.m., 10 telephonists in the message room called 37 public warning operators, telling them to sound the alarm.</p>
+
+<p>While the alarm was still sounding, the first message was received at the center. This came from William A. Fraser, engineering officer of the Nebraska wing of the civil air patrol, who from his CAP plane over the city had spotted street lights still on along a mile stretch on Saddle Creek boulevard north of Dodge street.</p>
+</div1>
+
+<div1>
+<head type="sub">By Radio</head>
+
+<p>Through his radio transmitter he gave the message to H. Stephen King, intelligence office of the CAP no. 1 squadron at the Omaha airport control tower. King called Roal Carlsen, executive officer of the corps at the control center. Carlsen relayed the information to Forrest Croxson, chief air raid warden, who from his control center desk called the division warden in that area, who dispatched a man.</p>
+
+<p>At 10:08 the control center received a report that the offending lights had gone out. The forgotten switch had been thrown.</p>
+
+<p>As the "test incidents" began to be reported, the time seemed to fly, for each corps officer had more than he could do directing his various squads to trouble spots. These squads were actually on duty, ready to go where their chiefs directed them from the control center.</p>
+</div1>
+
+<div1>
+<head type="sub">'Incidents'</head>
+
+<p>First "incident" reported at 10:03, was a high explosive bomb at the Burlington depot. Second, at 10:06 was another bomb at Fiftieth and Dodge streets. Third, also at 10:06 was a poison gas bomb at park and Woolworth avenues. The fourth was the report that an enemy bomber with a full load of high explosives had crashed in flames just east of Forty-eight and Douglas streets, opposite the Omaha Steel Works.</p>
+
+<p>All these, of course, were theoretical incidents, to give various divisions of the corps practice.</p>
+
+<p>Here's the way the fourth incident was handled:</p>
+</div1>
+
+<div1>
+<head type="sub">'Aid' Dispatched</head>
+
+<p>The air raid warden in that area reported there was a series of tremendous explosions after the plane crashed. All houses within 50 yards collapsed, and many other houses were damaged. The west wall of the shell factory collapsed and part of the base of the tall chimney was blown away, leaving the chimney standing precariously. There were many wounded, and more persons buried in the wrecked houses.</p>
+
+<p>These details were reported to the corps' division chiefs by Davidson. Fire Chief O' Connor dispatched three fire squads and a rescue squad. Dr. A. S. Pinto, head of the medical division, sent four medical squads and three ambulances. City Commissioner Harry Trustin, demolition chief, dispatched a squad. A utility repair squad and two police squads were sent.</p>
+
+<p>All the incidents were marked on the control map of the city and all units dispatched were marked on the control panel, showing just what divisions were working.</p>
+
+<p>Actually there were few emergency calls during the test. An unidentified motorist ran into a fire hydrant at Tenth and Mason streets, breaking it and sending a stream of water into the street. Police made the call.</p>
+
+<p>Mary Ann Williams, 16, of 403 North Fortieth street, fell off a stool at a drug store at Forty-ninth and Dodge streets. Police received the call just as the all-clear sounded, took her to Doctors' hospital. She had no serious injuries.</p>
+</div1>
+
+<div1>
+<head type="sub">No Vandalism</head>
+
+<p>No vandalism had been reported at midnight.</p>
+
+<p>First report of willful violation received by Pszanowski at the control center was that a woman in a South Eighteenth street apartment had refused to turn off her lights. He reported to Davidson that he had ordered her arrested.</p>
+
+<p>At Ralston, fire, water and ambulance units manned by 50 volunteers made 10 test runs during the blackout, and then the fire department had a real emergency as the all-clear sounded. A grocery store was discovered afire.</p>
+
+<p>Among the downtown Omaha lights listed early by police were these: Bordy-Lewis Manufacturing company, eighth floor, M. E. Smith building, where the lights were on and <sic corr="employees">employes</sic> were looking out the windows; the Elks club; M. Venger &amp; Sons company, third floor, 315 South Fifteenth street; Omaha Merchants Express, 1114 Dodge street; a Harkert House, on Farnam street between Fourteenth and Fifteenth streets; Field, Hamilton, Smith Paper company, 1114 Harney, on the second floor.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+

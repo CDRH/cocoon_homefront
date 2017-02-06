@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.ag.19420927 SYSTEM "homefront.news.ag.19420927.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.ag.19420927">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Amarillo Girls Don't Mind Black Car Grease Getting Under Nails</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.ag.19420927</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Amarillo Sunday News and Globe</title>
+<title level="a">Amarillo Girls Don't Mind Black Car Grease Getting Under Nails</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">18</biblScope>
+<biblScope type="columns">2-4</biblScope>
+<publisher>Amarillo Sunday News and Globe</publisher>
+<pubPlace>Amarillo, TX</pubPlace>
+<date value="1942-09-27">1942-09-27</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Women/male work</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-11</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Validation</item>
+</change>
+<change>
+<date>2007-08-28</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.ag.19420927">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p18"/>
+<head type="main">Amarillo Girls Don't Mind Black<lb/>Car Grease Getting Under Nails</head>
+
+<figure>
+<figDesc>GIRLS AT WORK &#8211; Pauline Dreher and Maxine Cearley recondition auto parts while their instructor, E. L. Scobey, looks on.
+</figDesc>
+</figure>
+
+<p>Black car grease gets under their fingernails, but they don't mind.</p>
+
+<p>When friends begin staring too openly at their black stained nails during a bridge game, Mrs. M. J. Cearley and Mrs. M. P. Dreher casually explain that they're Ford mechanics.</p>
+
+<p>They repair carburetors and generators in the Walter Irvin, Inc., garage small parts reconditioning department.</p>
+
+<p>Mrs. Dreher&#8211;Pauline to the rest of the shop&#8211;was one of the first Amarillo women to take over a man's mechanical work in a private company six weeks ago.</p>
+
+<p>She learned so quickly the first week she was in the garage that M. B. Witt, company manager, decided to hire another woman for the department. So Maxine Cearley was issued some loose fitting white coveralls and E. L. Scobey, the department head, had another pupil.</p>
+</div1>
+
+<div1>
+<head type="sub">Likes New Job</head>
+
+<p>"I felt so unnecessary that first day," Mrs. Cearley confides.</p>
+
+<p>She admits she had never before seen a carburetor. Her experience had been limited to fixing ironing cords and the pilot light on the kitchen stove. But now she is almost as enthusiastic about the job as Mrs. Dreher, who has been happy ever since Mrs. Scobey first set her to sorting and cleaning a pile of screws.</p>
+</div1>
+
+<div1>
+<head type="sub">Proud of Pupils</head>
+
+<p>Teacher Scobey is proud of his new help and the professional way in which they can dismantle and reassemble and check the carburetor and generators for all models. The old dirty screws take on a mirror shine after Maxine dips them in the hugs vat of scalding solution and brushes them with steel brushes. Pauline is turning to reconditioned Ford generators with record speed.</p>
+
+<p>"They're both doing exceedingly fine," Mr. Scobey tells the rest of the shop.</p>
+
+<p>And Mr. Witt thinks using women to replace the men he was losing to Uncle Sam was one of the smartest business ideas he ever had. The manager says he borrowed the idea from airplane factories.</p>
+
+<p>It all started with a news reel. Looking at the pictures of the women who build American airplanes, Mr. Witt started wondering.</p>
+
+<p>"If women can build airplanes, they can repair Ford cars," he told himself. That started a new movement in Amarillo business circles.</p>
+
+<p>The idea of women in mechanical work is working so well that Mr. Witt is planning to employ some more women in the garage.</p>
+
+<p>The women mechanics have Sunday free, but the husbands of both Mrs. Dreher and Mrs. Cearley work on Sundays. Mr. Cearley works for Johnson's Bakery. Mrs. Dreher's husband is a Globe-News stereotyper. Both husbands are rather proud of their wives in the new work.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

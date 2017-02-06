@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19440416 SYSTEM "homefront.news.owh.19440416.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19440416">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Girl Reporter Discovers Eight Steps to Breaking Eggs, Work Is Fun After Learning Rhythm Speeds Output</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19440416</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Sunday World-Herald</title>
+<title level="a">Girl Reporter Discovers Eight Steps to Breaking Eggs, Work Is Fun After Learning Rhythm Speeds Output</title>
+<author></author>
+<biblScope type="pages"></biblScope>
+<biblScope type="columns">2-3</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1944-04-16">1944-04-16</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Women at work</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="homefront.news.owh.19440416">
+<figDesc></figDesc>
+</figure>
+
+<pb />
+
+<figure>
+<figDesc>On the egg line...Miss Tukey is at extreme left</figDesc>
+</figure>
+
+<head type="main">Girl Reporter Discovers Eight Steps to Breaking Eggs,<lb/>Work Is Fun After Learning Rhythm Speeds Output</head>
+
+<note type="editorial"><hi rend="italic">Federal officials have issued an urgent call for the help of women's groups from churches, P.-T. A units and offices to help Omaha wholesalers handle the largest egg crop in history. To provide women with an insight into the life of an egg-breaker, Catherine Ann Tukey of The World-Herald staff went to work at a local plant Saturday. Her account follows.</hi></note>
+
+<milestone unit="smallbar"/>
+
+<div1 type="part">
+
+<byline>By Catherine Ann Tukey</byline>
+
+<p>Eggs, because they are so easy to cook, have always been my favorite food. I am still fond of eggs, after spending Saturday morning breaking them at the Omaha Cold Storage Company, where a thousand cases are broken daily if there are enough workers.</p>
+
+<p>I put on a blue and white uniform like the rest of the girls and my guide, Louise Corbino, took me up to the "breaking room," where she is acting foreman.</p>
+
+<p>"You've come on a good day," she said. "We are separating whites from yolks and that's more interesting than plain breaking."</p>
+
+<p>We watched some of the workers and I was awe-stricken. Their hands moved so fast that before I could say the proverbial "Jack Robinson," there were the whites in one cup and the yolks in another.</p>
+
+<p>I was eager to try it myself and Louise took me to a tray and three cups. The rod on top was to crack the eggs on and the little spoon with an open lid which fitted around the yolk was the separator. A cup was under the cracking spot, one under the spoon for the whites and other for the yolks.</p>
+
+<p>There are eight steps to breaking an egg. As they go by on the belt you take two, then crack one on the rod, open it so that the yolk falls in the spoon, The lid is popped down twice on the yolk, which is them slipped into the waiting cup. The other egg is broken and the eggs are sniffed before being emptied into buckets on either side of the separating device.</p>
+
+<p>At first I was clumsy, but eventually I got the rhythm of egg breaking. It goes: Eggs off, crack, break, pounce, pounce, slide, sniff and pour. It's fun.</p>
+
+<p>Louise, a patient woman, stood by to wipe off the separator when I pounced down at the wrong time and broke the yolk. Into a third bucket went "mixed egg" and mine was a disgrace it was so full.</p>
+
+<p>When a bad egg was uncovered, by odor or appearance, it was segregated. I felt very important as I carried my first to the bad-egg table, washed my hands and got another cup.</p>
+
+<p>After about an hour of egg-breaking, Louise suggested we look over the rest of the plant. I didn't want to go, I had my bucket almost full and I wanted to finish them.</p>
+
+<p>"You must like egg-breaking," she said.</p>
+
+<p>I did.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

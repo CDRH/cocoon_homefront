@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19421213 SYSTEM "homefront.news.owh.19421213.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19421213">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Typical of 2,000 Women Workers at Bomber Plant</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19421213</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Sunday World-Herald Magazine</title>
+<title level="a">Typical of 2,000 Women Workers at Bomber Plant</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">17-C</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1942-12-13">1942-12-13</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Women/male work</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-07</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19421213">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p17"/>
+
+<figure>
+<figDesc>Irene Burris, Hebron, Neb., graduate from high school this year. After attending NYA vocational course for six weeks she was employed at the plant in the machine shop at the Martin bomber plant. It's her job to operate on of the surface grinders&#8211;a task that requires a good eye and a sense of accuracy.</figDesc>
+</figure>
+
+<figure>
+<figDesc>Luell Johnson of 725 South Eighteenth street, formerly a resident of Bethany, MO., is one of the rapidly growing army of women engaged in final assembly work. Less than three months ago, Miss Johnson "didn't know the difference between a screw driver and a crescent wrench." Formerly a saleswoman with an Omaha dress shop, she quit her job there and entered one of Omaha's vocational schools. After a six weeks; course she joined the Martin family.</figDesc>
+</figure>
+
+<head type="main">Typical of 2,000<lb/>
+Women Workers at Bomber Plant</head>
+
+<p>At the Glenn L. Martin-Nebraska company plants at Fort Crook, more than two thousand feminine workers are doing their bit toward speeding the production of bombers scheduled to bring misery to Hitler, Hirohito and the unhappy fascist.</p>
+
+<p>For women have invaded the airplane-building industry in nearly every department. They work drill presses, lathes, milling machines, huge cutters and hydraulic presses. Many of them are on a par with the men when it comes to final assembly operations, electrical installations, or welding.</p>
+
+<p>The startling thing is that more than 90 per cent of them never had been near machinery prior to applying for a job at Martin's. True, some of them knew something about sewing machines, or typewriters, but for the most part even that machine acquaintance was casual.</p>
+
+<p>Naturally, a certain amount of training is necessary before a woman can walk up to a drill press and make it work. Some received training when assigned to vocational schools by the federal employment service. Successful completion of the training course results in a virtual guarantee of employment in some war industry.</p>
+
+<p>At the Martin plant, women work on an equal basis with men, have the same pay rates for the same operation, work the same hours. They ask no quarter and are given none.</p>
+
+<figure>
+<figDesc>Turret lathes are numbered among the most complicated pieces of machinery in use at the bomber plant. It wasn't so long ago that this type of work was considered strictly a man's job. Diminutive Mary Duncan, former Falls City, Neb., waitress, takes this kind of work in stride. She took a six weeks' NYA course, and today's she's considered a skilled worker. Her brother is a machinist in the navy.</figDesc>
+</figure>
+
+<figure>
+<figDesc>One of the few women hired at the Martin bomber plant who had previous mechanical experience is Eva Anderson, 501 South Twenty-second (sic) street, formerly employed as a spot welder by an Albert City, IA., firm. She has a brother in the army. Spot-weld Foreman A. H. Barnemeir, declares she's one of the best welders.</figDesc>
+</figure>
+
+<figure>
+<figDesc>Dorothy Blomquist, also formerly of Albert City, Ia., and more recently a clerk in one of Omaha's big department stores, feels that she's "really doing something to help win the fight." She operates a drill press. She got her job at martin's after completing a four-weeks course at one of Omaha's technical schools followed by two weeks of intensive training at the plant.</figDesc>
+</figure>
+
+<figure>
+<figDesc>Ethyle Schultze, 2919 Dodge street (sic), Omaha, has a brother in the army air forces and another one slated to go in soon. Before coming to the Martin bomber plant where she operates a punch press in the sheet metal department, she had been employed as a housekeeper. The type of work she's doing today was once considered a man's job. Incidentally, her father, Edmund Schultz, works in the machine shop at the Martin plant.</figDesc>
+</figure>
+</div1>
+
+</body>
+</text>
+</TEI>

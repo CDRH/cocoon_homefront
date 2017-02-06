@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.photo.RG2183-1943-0811-5 SYSTEM "homefront.photo.RG2183-1943-0811-5.jpg" NDATA jpeg>
+<!ENTITY homefront.photo.RG2843-193 SYSTEM "homefront.photo.RG2843-193.jpg" NDATA jpeg>
+<!ENTITY homefront.photo.RG2843-20 SYSTEM "homefront.photo.RG2843-20.jpg" NDATA jpeg>
+<!ENTITY homefront.photo.RG2183-1945-0524-6 SYSTEM "homefront.photo.RG2183-1945-0524-6.jpg" NDATA jpeg>
+<!ENTITY homefront.photo.RG2843-2 SYSTEM "homefront.photo.RG2843-2.jpg" NDATA jpeg>
+<!ENTITY homefront.photo.RG2843-19 SYSTEM "homefront.photo.RG2843-19.jpg" NDATA jpeg>
+]>
+
+
+<TEI id="homefront.nar.hf.dailylife">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">The Home Front</title>
+<title level="m" type="sub">Daily Life</title>
+<author>R. Douglas Hurt</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.nar.hf.dailylife</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-06-13</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+<head>The Home Front</head>
+<head type="sub">Daily Life</head>
+
+<p>Schools also practiced air raid drills and local newspapers published drawings of enemy bombers so the public could learn to recognize them in case of attack.  Omaha school administrators touted the ability of their students to reach designated air raid shelters in ten minutes. In Nebraska, the American Legion helped the state's Advisory Defense Committee plan an air raid warning system that included spotters using telephones to report enemy attacks to district headquarters for further relay to Fort Crook.</p>
+
+<p>Volunteerism also became a community activity during the war.  Communities particularly became active in the collection of scrap metal to aid the war effort.  Soon after the war began, the Office of Production Management urged the collection of scrap metal for the "victory program."  Quickly, Great Plains communities organized scrap metal drives as well as collected rubber and paper, and local newspapers frequently published photographs of donors and volunteer collectors before various scrap piles.  Although scrap drives began before Pearl Harbor, they become a major wartime activity.</p>
+
+<p>Junk dealers collected, sorted and shipped metal scrap to smelters where federal officials required the payment of the highest prevailing price.  Sales to smelters also were made under the auspices of the city or town that sponsored the collection drive with the earnings restricted to use for civilian defense.</p>
+
+<p>In Nebraska, Joe W. Seacrest, state salvage chairman, considered the collection of metal scrap to aid the war effort a patriotic responsibility. Calling the salvage of scrap metal the "job of every man, woman, and child."  He urged teachers to organize their students to help collect it.  Soon, scrap drives became venues for competition between schools, classes, service clubs, towns, counties, and states.</p>
+
+<list>
+<item><ref n="homefront.news.owh.19410725">["10 Tons of Pots 'n' Pans for Uncle Sam," Omaha World Herald, July 25, 1941.]</ref></item>
+
+<item><ref n="homefront.news.owh.19411010">["Omaha's Gift to Defense, Aluminum, on the Way," Omaha World Herald, October 10, 1941.]</ref></item>
+
+<item><ref n="homefront.news.owh.19420716">["Collection Centers Are Set in City's Drive for Scrap; WPA Will Aid State," Omaha World Herald, July 16, 1942.]</ref></item>
+
+<item><ref n="homefront.news.owh.19420722">["65,440-Pound Gain Scored Over Monday," Omaha World Herald, July 22, 1942.]</ref></item>
+
+<item><ref n="homefront.news.owh.19420826">["Tribute to Nebraskans' Scrap Contest Judges Hail 'Energy and Patriotism of People,'" Omaha World Herald, August 26, 1942.]</ref></item>
+
+<item><ref n="homefront.news.owh.19421101">["Nebraska Scrap Average Is 226.74 Pounds; Thought U.S. Top; Far Past WPB Goal," Omaha World Herald, November 1, 1942.]</ref></item>
+</list>
+
+<figure rend="photograph" entity="homefront.photo.RG2183-1943-0811-5">
+<figDesc>Boy Scout troops and other organizations participated in metal scrap drives.  In August 1943, these Boy Scouts deposited scrap metal and a collection point from where it would be hauled to a smelter. <lb/><lb/>
+
+[PHOTOGRAPH:  Boy Scouts and Scrap Drive, Lincoln, Nebraska, Record Group M134, August 1943, number 8-11-43:5, Nebraska State Historical Society.]
+</figDesc>
+</figure>
+
+
+<p>Collection drives for waste paper, tin cans, and cooking fats also occurred across the plains in conjunction with metal scrap and rubber drives.  Women primarily organized the collection of tin cans, newspapers, cooking fats, and silk stockings.  In Nebraska, the State Salvage Committee urged women to collect these materials to help with the war, and, in October 1943, the Women's Division of the State Salvage Committee adopted a slogan "A Ton of Scrap for Every Nebraska Service Man."  Cooking fats could be rendered to provide needed chemicals for munitions manufacturers.</p>
+
+<figure rend="photograph" entity="homefront.photo.RG2843-193">
+<figDesc>[PHOTOGRAPH:  "Don't Waste Fat" Record Group W927.5, #193, Nebraska State Historical Society.]</figDesc>
+</figure>
+
+<list>
+<item><ref n="homefront.news.owh.19430201">["Save Waste Materials for Defense," Omaha World Herald, February 1, 1943.]</ref></item>
+
+<item><ref n="homefront.news.owh.19431205">["Nebraska Paper Salvage Gains Momentum," Omaha World Herald, December 5, 1943.]</ref></item>
+</list>
+
+<p>By mid-1942, scrap rubber drives, called "rubber roundups," became important across the Great Plains because residents believed such efforts could prevent gas rationing in the rubber recycling program. Military needs for rubber quickly became insatiable and the public could not meet the demand by searching farm and oilfield lots, gasoline stations and home garages.  Patriotism as well as the one cent per pound paid for old tires encouraged rubber scrip drives.  Tire manufacturers combined reclaimed rubber with a small amount of natural rubber to retread worn-out tires.  Boy Scout troops, citizens groups, and local defense committees conducted rubber drives as public service activities.</p>
+
+<p>Oil companies often sponsored the rubber drives and provided storage and transport of the rubber to government reclamation or processing plants.  The oil companies covered the transportation and collection costs.  The federal government authorized gasoline filling station operators to pay one cent per pound for the salvaged rubber, and then sold it to the government for $2 per ton or one and a quarter cents per pound with the profit donated to the U.S.O., army and navy relief funds, and the Red Cross.  As in the case of scrap metal drives, salvage committees made the donation of scrap rubber a "patriotic duty."</p>
+
+<figure rend="photograph" entity="homefront.photo.RG2843-20">
+<figDesc>[PHOTOGRAPH: "Rub Out The Jap With Rubber Scrap," Record Group W927.5, No. 19, Nebraska State Historical Society.]</figDesc>
+</figure>
+
+<figure rend="photograph" entity="homefront.photo.RG2843-19">
+<figDesc>[Photograph:  "Save Rubber Now," Record Group W927.5, No. 20, Nebraska State Historical Society]</figDesc>
+</figure>
+
+<list>
+<item><ref n="homefront.news.owh.19420721">["Huskers Turn Over Tires Used in Practice to Scrap," Omaha World Herald, July 21, 1942.]</ref></item>
+</list>
+
+<p>In order for drivers to purchase a new tire, they had to have their old tires inspected. If a new tire or retread was warranted, the driver received a certificate for presentation to the local rationing board.  If the board approved, the driver could purchase a tire.</p>
+
+<p>In May 1945, the Chris Beck Firestone store in Lincoln, Nebraska displayed the official inspection sign of the Office of Price Administration on the corner pillar in the photograph.  The new tires for heavy equipment leaning against the side of the building were highly prized and difficult to acquire, because the military took most of the tires manufactured for its own equipment.</p>
+
+<figure rend="photograph" entity="homefront.photo.RG2183-1945-0524-6">
+<figDesc>[PHOTOGRAPH:  Chris Beck Firestone Tire Store in Lincoln Nebraska, Record Group 2183: 1945 05 24-6.]</figDesc>
+</figure>
+
+<p>By 1943, the war had stimulated great change across the Great Plains.  The following newspaper report of the effect of the war on Lincoln, Nebraska, provides an example for the changes that benefited one town.  Other towns and cities in the region experienced similar changes.</p>
+
+<list>
+<item><ref n="homefront.news.lsjs.19430131a">["War Brings Many Changes in Lincoln," Lincoln Sunday Journal and Star, January 31, 1943]</ref></item>
+</list>
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.photo.RG2183-1944-1103-1 SYSTEM "homefront.photo.RG2183-1944-1103-1.jpg" NDATA jpeg>
+]>
+
+
+<TEI id="homefront.nar.hf.rationing">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">The Home Front</title>
+<title level="m" type="sub">Rationing</title>
+<author>R. Douglas Hurt</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.nar.hf.rationing</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-06-13</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+<head>The Home Front</head>
+<head type="sub">Rationing</head>
+
+<p>Soon after the war began, the Emergency Price Control Act of January 1942 gave the Office of Price Administration (OPA) the authority to set and regulate the prices of most goods.  The OPA also began a rationing program in hope that both price controls and rationing would keep consumer prices and inflation under control and guarantee a fair distribution of goods for everyone during the course of the war.</p>
+
+<p>With the Japanese control of the rubber supply in the Far East, rationing boards began allocating tires to motorists and farmers in the Great Plains.  Counties received tires based on the number of vehicles registered and the boards determined who could buy them.  By the end of December 1941, the Great Plains states moved quickly to establish tire ration procedures as required by the federal government.  Tire rationing began on July 5, 1942.</p>
+
+<list>
+<item><ref n="homefront.news.wye.19411225">["State Orders Tire Rationing Committees for All Counties," Wyoming Eagle, December 25, 1941]</ref></item>
+
+<item><ref n="homefront.news.dp.19411229">["Denver Rushes Plan For Tire Rationing," Denver Post, December 29, 1941]</ref></item>
+
+<item><ref n="homefront.news.dp.19411230">["Only 1.4 Per Cent of Colorado Cars May Get Tires," Denver Post, December 30, 1941]</ref></item>
+
+<item><ref n="homefront.news.dp.19411231">["State's Tire Rationing Boards Setup Nearing Completion," Denver Post, December 31, 1941]</ref></item>
+
+<item><ref n="homefront.news.wye.19411231">["State Ration Quota On New Tires Set," Wyoming Eagle, December 31, 1941]</ref></item>
+</list>
+
+<p>State governments also restricted speed limits to help drivers save wear on their tires.  Some plains men and women considered anyone who drove faster than forty miles per hour unpatriotic because they wasted rubber.</p>
+
+<list>
+<item><ref n="homefront.news.do.19420104">["Oklahoma Drivers Urged to Slow Down," Daily Oklahoman, January 4, 1942]</ref></item>
+
+<item><ref n="homefront.news.wye.19420115">["50 MPH Road Limit Urged in Wyoming," Wyoming Eagle, January 15, 1942]</ref></item>
+</list>
+
+<p>Most drivers, however, ignored the reduced speed limits, because of the great distances, relatively little traffic, and belief that a gasoline shortage did not exist.</p>
+
+<list>
+<item><ref n="homefront.news.dp.19421129">["Drivers Still Fail to Heed 35-Mile Limit," Denver Post, November 29, 1942]</ref></item>
+
+<item><ref n="homefront.news.wye.19440719">["Few Motorists Obey Wartime Speeding Law," Wyoming Eagle, July, 19, 1944]</ref></item>
+</list>
+
+<p>The supply of gasoline also dwindled during the war for drivers on the Great Plains.  On December 1, 1942, the Petroleum Administration for War imposed a nationwide gasoline rationing policy.  Most drivers could only receive four gallons per week.  The amount was later reduced to two gallons in March 1944.  Everyday drivers received coupon books labeled "A," while individuals who drove more than sixty miles per week to war industry jobs received "B" coupons.  Professionals who held essential jobs, such as doctors, received "C" coupons.  County rationing officers distributed the coupon books upon driver registration.</p>
+
+<list>
+<item><ref n="homefront.news.sj.19421030">["Ready for Ration," Salina Journal, October 30, 1942]</ref></item>
+</list>
+
+<p>Originally the intent for gasoline rationing had been to preserve rubber tires.  The federal government hoped that the rationing of gasoline and tires would limit drivers to an average of 5,000 miles annually.  Rationing also would help ensure that East Coast drivers would receive ample and fair supplies of gasoline refined in the Great Plains.  Drivers complained about gasoline and tire rationing throughout the war, but they had little choice but to accept it.  In March 1944, the federal government reduced the gasoline ration to two gallons per week down from three gallons set previously for all holders of "A" coupons.</p>
+
+<p>The shortage of gasoline resulted from the increased needs of the military, particularly for aviation fuel.  As refiners worked to meet their supply contracts for the military, civilian gasoline supplies diminished.  Most Great Plains drivers, however, considered the federal government's gasoline rationing program unfair because of the large oil fields and many refineries in the region.  In Kansas, state and local officials urged drivers to share rides.  By late 1942, however, 93 percent of the workers in Wichita drove their cars to work; only 5 percent used public transportation while 2 percent walked.</p>
+
+<list>
+<item><ref n="homefront.news.sj.19421021">["Must Share Rides," Salina Journal, October 21, 1942]</ref></item>
+
+<item><ref n="homefront.news.we.19421129">["Share a Ride Plan Launched in Wichita," Wichita Eagle, November 29, 1942]</ref></item>
+</list>
+
+<p>In October 1943, the Office of War Information issued the following report on the gasoline supply and the reasons for rationing as well as an explanation of the gasoline rationing program.</p>
+
+<list>
+<item><ref n="homefront.docs.0015">["Office of War Information. This Report on Civilian Gasoline Supply," October 13, 1943]</ref></item>
+</list>
+
+<p>Food also became an important part of the federal government's wartime rationing policy.  The OPA developed a food rationing program designed to limit consumption yet give everyone some choice and control over food purchases.  The OPA distributed coupons or stamps through local rationing boards.  Consumers presented these coupons at grocery stores which allowed them to purchase a certain amount of a specific food during a specific time period.  Sugar and beef became two major foods subject to wartime rationing.  Consumers considered sugar and beef high energy and nutritious foods needed to ensure good health.</p>
+
+<p>Although Great Plains farmers produced an abundance of sugar beets, much of the sugar went from the processing plants to the munitions industry where it was converted into alcohol for the making of smokeless powder.  Soon sugar supplies for consumers dwindled.  Sugar bowls disappeared from restaurants.</p>
+
+<list>
+<item><ref n="homefront.news.dp.19420210">["Caf&#233; Sugar Bowls to Vanish Thursday Until War is Ended," Denver Post, February 10, 1942]</ref></item>
+</list>
+
+<p>Sugar rationing for consumers began on May 5, 1942.  Across the Great Plains schools served as registration sites for sugar stamps.  These stamps permitted consumers to purchase about a half pound of sugar per family member per week, or about half of the pre-war level of consumption.  Ration stamps proved annoying but Great Plains consumers took most food rationing in stride.</p>
+
+<list>
+<item><ref n="homefront.news.sj.19420422">["Sugar For Sweets," Salina Journal, April 22, 1942]</ref></item>
+
+<item><ref n="homefront.news.ag.19430217">["Clip This Consumer Ration Form At Home, Fill It Out, Save Time," Amarillo Globe, February 17, 1943]</ref></item>
+
+<item><ref n="homefront.news.ag.19430222">["You'll Have Less Food at Higher Prices Now with Point Rationing," Amarillo Globe, February 22, 1943]</ref></item>
+
+<item><ref n="homefront.news.dp.19430222b">["Denver Grocers Amazed at Drastic Cut in Foods," and "Official Table of Point Values for Processed Foods," Denver Post, February 22, 1943,  pages 1 &amp; 3]</ref></item>
+
+<item><ref n="homefront.news.wst.19440103">["Here Are Ration Point Changes for January," Wyoming State Tribune, January 3, 1944]</ref></item>
+</list>
+
+<p>By the summer of 1945, the shortage of sugar became so serious that some bakers feared closing because of insufficient supplies.  Bakers and consumers complained about sugar rationing until the end of the war.</p>
+
+<list>
+<item><ref n="homefront.news.dmn.19450629">["Sugar Lack May Shut Bakeries Extra Day," Dallas Morning News, June 29, 1945]</ref></item>
+
+<item><ref n="homefront.news.dp.19450713">["U.S. Sugar Mess Will Get Worse," Denver Post, July 13, 1945]</ref></item>
+</list>
+
+<p>The OPA even required restaurants to collect the appropriate ration stamps for the food that regular customers consumed.</p>
+
+<list>
+<item><ref n="homefront.news.wye.19430505">["Persons Eating Regularly at Cafes, Institutions, Must Pay Ration Points," Wyoming Eagle, May 5, 1943]</ref></item>
+</list>
+
+<p>The OPA set ceilings, that is, maximum prices which, along with the rationing and stamp program, officials hoped would ensure an equitable, sufficient, and affordable food supply.  In May 1943, the Office of Price Administration for Region V in Oklahoma City issued the following order for the pricing of foods at grocery stores.</p>
+
+<list>
+<item><ref n="homefront.docs.0016">["Office of Price Administration, Oklahoma City District Office Region V Order No G-1, Under General Order 51, Community Pricing of Certain Foods"]</ref></item>
+</list>
+
+<p>When shoppers went to the grocery store, the federal government limited the amount of food that they could purchase as well as established the price which required both cash and food coupons for purchase.</p>
+
+<figure rend="photograph" entity="homefront.photo.RG2183-1944-1103-1">
+<figDesc>[Photograph:  Freadrich Bros. Grocery and Meat Market, 1316 N Street, Lincoln, Nebraska, M134, 11-3-44:1, Nebraska State Historical Society]</figDesc>
+</figure>
+
+<p>Meat rationing, particularly for beef also caused considerable complaining and violation of OPA rationing policy. In 1942, government officials urged the public to limit their maximum consumption to 2.5 pounds per week or 130 pounds per year in order to ensure that military men and women received one pound of meat per week.  Soon the military took about 30 percent of the beef supply from the meat packers across the Great Plains.</p>
+
+<p>Consumers complained about beef shortages, and cattle producers argued that they had more cattle to sell but the packers met military needs first.  The meat packers also charged that they could not make a profit by supplying the civilian market because the OPA fixed prices too low for retail meat.</p>
+
+<p>Soon a black market for beef developed because consumers bought meat form non-federally inspected packers who operated beyond the regulatory control of the federal government.  The meat shortage, particularly for beef, remained for months after the war ended.  In the meantime, some meat packers urged consumers to eat horse meat, which they believed could be made readily available.  Great Plains consumers rejected that idea as an unacceptable solution to their desire for more meat.</p>
+
+<list>
+<item><ref n="homefront.news.owh.19420820">["Memo to Mrs. Public:  Meat Shortage Doesn't Mean Farmers Are Laying Down on Job," Omaha World Herald, August 20, 1942]</ref></item>
+
+<item><ref n="homefront.news.wye.19450524">["Meat Shortage Reaches Acute Stage in Cheyenne," Wyoming Eagle, May 24, 1945]</ref></item>
+
+<item><ref n="homefront.news.sj.19450705">["Horse Meat Has Moved To Table," Salina Journal, July 5, 1945]</ref></item>
+</list>
+
+</div1>
+</body>
+</text>
+</TEI>

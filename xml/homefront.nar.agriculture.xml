@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.nar.agriculture">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Agriculture</title>
+<title level="m" type="sub"></title>
+<author>R. Douglas Hurt</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.nar.agriculture</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-08-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+
+<head>Agriculture</head>
+
+<p>In 1939 when World War II began in Europe nearly all Great Plains Farmers wanted to stay out of the conflict.  They feared the loss of life, particularly their sons, if the United States became involved.  They also remembered the collapse of the agricultural economy after World War II.  Still, many farm men and women considered the war an opportunity for the United States to sell surplus, price-depressing agricultural commodities to Great Britain and France.  Wartime demands, they hoped, would increase farm prices and improve their income and the standard of living for farm families across the Great Plains.  The editor of the Nebraska Farmer contended that a long war would bring prosperity to farmers because the belligerent nations would turn to the United States for agricultural commodities that they could no longer produce in order to feed their people.</p>
+
+<p>Although agricultural prices, particularly grain and livestock increased during the autumn of 1939, most farmers anxiously awaited major price increases for farm products.  By early spring 1940, however, the Nebraska Farmer reported that the war had not "lived up to the expectations of those who looked for a boom in exports of farm products."  Britain and France continued to spend more for armaments than American farm commodities.  As a result, by late 1940, only government buying, commodity loans, and export subsidies kept agricultural prices from falling due to a loss of foreign markets, primarily due to German and British blockades.</p>
+
+<p>By mid-1941, however, increased British demands for food as well as an expanding U.S. military had substantially increased agricultural prices.  Farmers now enjoyed 25 percent more purchasing power than during the previous year, and agricultural experts predicted another 25 percent increase the next year.  In September 1941, Great Plains farmers became even more optimistic when Secretary of Agriculture Claude R. Wickard called for "the largest production in the history of American agriculture to meet the expanding food needs of this country and nations resisting the Axis." Farm income now out-paced expenses, at least for the moment.</p>
+
+<p>As the nation drifted toward war, Great Plains farmers worried about government price fixing for agricultural commodities, if the United States became involved in the conflict.  On the eve of Pearl Harbor, Congress bowed to farm-state pressure and approved liberal maximum prices for farm commodities while promising farmers that agricultural prices would not be targeted for control if war came and consumer prices escalated.  Nearly everyone understood that agricultural production must increase to feed an expanding military.  By the autumn of 1941 Secretary Wickard believed the European war and the needs of those nations fighting Germany would require record-breaking agricultural production.  Wickard contended that American farmers would need to feed ten million Britain's and that seventy cents of each dollar spent for dairy products, butter, eggs, and cotton, among other agricultural commodities would reach the farmer.  Soon people began speaking of "Food for Defense."  In Kansas federal and state officials met with farmers across the state to encourage them to increase production by specific amounts.</p>
+
+<list>
+<item><ref n="homefront.news.sj.19411004">["State Food Goals," Salina Journal October 4, 1941]</ref></item>
+
+<item><ref n="homefront.news.sj.19411008">["Double Food Task," Salina Journal, October 8, 1941]</ref></item>
+</list>
+
+<p>Agricultural Adjustment Administration officials, who represented the federal government, visited farms and asked farmers how much they could increase production of various commodities.  In October 1941, they asked Colorado farmers to increase hog production by 30 percent and cattle ready for slaughter by 18 percent.  Across the Great Plains, however, wheat and cotton production still seemed more than sufficient to meet the nation's needs for bread and fiber.  Most observers believed the new European war might end soon, and farmers did not want to produce too much and suffer price depressing surpluses and an economic depression like the one that followed World War I.</p>
+
+<list>
+<item><ref n="homefront.news.dp.19411012">["U.S. Will Ask Bigger Crops in Colorado," Denver Post, October 12, 1941]</ref></item>
+</list>
+
+<p>The Japanese attack on Pearl Harbor on December 7, 1941, ended the reluctance of most Great Plains farmers to increase production.  Quickly, the army became the major buyer of flour from wheat and beef produced in the Great Plains.  Farm prices sky rocketed by 42 percent while farm costs increased only 16 percent from the previous year.</p>
+
+<list>
+<item><ref n="homefront.news.nf.19420124">["Farm Prices Rise As War Continues," Nebraska Farmer, January 24, 1942]</ref></item>
+</list>
+
+<p>Great Plains farmers met the challenge of the United States Department of Agriculture and other government agencies to increase production by seeding more acres, raising more livestock, and working longer days.  They also took pride in their achievements and couched their work in patriotic terms as their contribution to the war effort.  In July 1942, the Nebraska Farmer touted the increased productivity of farmers in the Cornhusker State noting, "On every Nebraska farm there is a dramatic story of sacrifices, hard work and long hours, often made by women and children who took the place of sons and brothers in the military."  In Nebraska, like other Great Plains states, farm men, women, and children exhibited a "can-do" spirit for the sake of the nation's war effort.  This patriotic sentiment, pride, and efforts to increase production continued until the war ended.</p>
+
+<list>
+<item><ref n="homefront.news.nf.19420711">["Nebraska's 120 Thousand Fighting Farmers" Nebraska Farmer, July 11, 1942]</ref></item>
+
+<item><ref n="homefront.news.owh.19440101">["Farmers Score Food Victory," Omaha World-Herald January 1, 1944]</ref></item>
+</list>
+
+<p>One Oklahoma editor contended, "The war has made the farmer almost the most important person in the county, and farming has become as essential a war-time business as the manufacturer of planes, tanks, guns and ammunition."  By early 1942, Great Plains farmers knew the war would dramatically increase their income.  In South Dakota farmers and livestock raisers anticipated wartime profits because approximately 75 percent of the state's farm income came from sales to allied forces and civilians through the Lend-Lease program.  In 1941, gross farm income increased by $30 million.</p>
+
+<list>
+<item><ref n="homefront.news.rcdj.19420226">["Last Year's Record Farm Output Is Base for Bigger Production," Rapid City Daily Journal, February 26, 1942]</ref></item>
+</list>
+
+<p>Yet, as agricultural income increased, Great Plains farmers recognized a looming agricultural labor shortage as their sons and hired hands joined the military while the federal government expected them to increase production.  By spring 1942, the U.S. Employment Service could not find enough workers for farm labor.  Government officials recommended the employment of nonfarm women and men and boys and girls, and it urged businesses to close during peak agricultural seasons, such as harvest time, to enable employees to help local farmers.  In Colorado, however, some people opposed the organization of school children for farm labor because it required too much regimentation.  Many schools and civic organizations, however, provided volunteers to help farmers.</p>
+
+<list>
+<item><ref n="homefront.news.owh.19420207">["Urges School Boys to Fill Farm Jobs," Omaha World-Herald, February 7, 1942.]</ref></item>
+
+<item><ref n="homefront.news.bt.19420323">["Farms Will Draw on New Labor Sources for 1942," Bismarck Tribune, March 23, 1942]</ref></item>
+
+<item><ref n="homefront.news.owh.19420426">["City Lads Learn Farm Work to Help Meet Rural Labor Shortage," Omaha World-Herald, April 26, 1942]</ref></item>
+
+<item><ref n="homefront.news.dp.19420502">["Denver Area Fights U.S. Plan for Your Farmers Battalions," Denver Post, May 2, 1942]</ref></item>
+
+<item><ref n="homefront.news.sj.19420511">["Men for Harvest," Salina Journal, May 11, 1942]</ref></item>
+
+<item><ref n="homefront.news.dp.19420521">["Western Farmers Are Told to Solve Labor Problems," Denver Post, May 21, 1942]</ref></item>
+
+<item><ref n="homefront.news.sj.19420914">["Business Men, School Boys As Farm Workers," Salina Journal, September 14, 1942.]</ref></item>
+
+<item><ref n="homefront.news.sj.19420923">["Leave School to Help in Harvest," Salina Journal, September 23, 1942.]</ref></item>
+
+<item><ref n="homefront.news.do.19421009">["60 Kiwanis to Pick Cotton; Banker to be Water Boy, Daily Oklahoman, October 9, 1942]</ref></item>
+
+<item><ref n="homefront.news.rdr.19421016">["Roswell High School Students to Pick Cotton," Roswell Daily Record, October 16, 1942]</ref></item>
+
+<item><ref n="homefront.news.sj.19430824">["Calls on Schools to Provide Labor," Salina Journal, August 24, 1943]</ref></item>
+</list>
+
+<p>In June 1942, O. M. Olsen, Commissioner of Labor for Nebraska, surveyed the labor shortage in the sugar beet region of western Nebraska.  He supported the recruitment and hiring of 700 Mexican farm workers to help farmers block, that is, thin sugar beets.   In Wyoming, volunteers helped farmers thin beets to ensure a crop. Some farmers also hoped that Japanese evacuees from the west coast who were relocated to Heart Mountain, Wyoming, could help harvest sugar beets.</p>
+
+<list>
+<item><ref n="homefront.docs.0010">[Letter:  O. M. Olsen to Governor Dwight Griswold, June 28, 1942, Folder 218, Box 12, 1942 Correspondence, Griswold Papers, Nebraska State Historical Society]</ref></item>
+
+<item><ref n="homefront.news.wye.19420723">["Volunteers Save Sugar Beets of Sheridan Region," Wyoming Eagle, July 23, 1942]</ref></item>
+
+<item><ref n="homefront.news.wye.19420814">["Labor Shortage in Sugar Beet and Bean Fields Grows Grave," Wyoming Eagle, August 14, 1942]</ref></item>
+
+<item><ref n="homefront.news.dp.19420909">["State Needs 3,439 More Beet Workers," Denver Post, September 9, 1942]</ref></item>
+</list>
+
+<p>Great Plains farmers knew that agricultural machinery would help them solve the labor shortage, improve efficiency and production, and reduce labor costs. But, they could not purchase much equipment during the war because defense industry needs for iron, steel, and rubber had priority over agricultural machinery manufacturers.  A farm implement shortage developed quickly, particularly for tractors, combines, and corn pickers, and forced Great Plains farmers to share equipment when an implement broke or wore out.  During the summer of 1942, H. O. Davis, rationing director for Kansas, told farmers, "This is more than a question of 'neighboring' it is a question of patriotic service for the country."  By autumn, E. K. Davis, president of the Kansas Farmers Union, urged members to share labor and machinery.</p>
+
+<list>
+<item><ref n="homefront.news.owh.19421211">["Farm Implement Dealers Fear Loss of Business," Omaha World-Herald, December 11, 1942]</ref></item>
+
+<item><ref n="homefront.news.owh.19420111">["Rigid Quotas for Machinery for Farmers," Omaha World-Herald, January 11, 1942]</ref></item>
+
+<item><ref n="homefront.news.sj.19421029">["Share on Farms," Salina Journal, October 29, 1942]</ref></item>
+</list>
+
+<p>In September 1942, Secretary of Agriculture Wickard issued a rationing order for all farm machinery, effective in November.  As a result, Great Plains farmers used only worn-out equipment during the war.  Implement dealers often could not keep pace with the demands for repair work.  Great Plains farmers could only make do with the implements that they had when the war began, while recognizing the potential problems ahead.</p>
+
+<list>
+<item><ref n="homefront.news.wye.19420917">["Wickard Orders Rationing for Farm Machinery," Wyoming Eagle, September 17, 1942]</ref></item>
+
+<item><ref n="homefront.news.df.19421114">["This Is Going to be Tough! Farm Machinery Will be Hard to Get," Dakota Farmer, November 14, 1942]</ref></item>
+</list>
+
+<p>By 1944, Great Plains farmers experienced a severe implement shortage.  With most iron and steel reserved for military purposes, few farm implement manufacturers built needed equipment.  Great Plains farmers compensated by sharing implements, employing itinerant harvest crews, called custom cutters, and by hiring nonfarm workers for the corn harvest.  Farm women also helped harvest crops.  Some farmers, however, who lacked both corn pickers and labor, harvested their crop by letting their hogs graze it for later sale as pork.  Throughout the war insufficient farm machinery and labor hindered the efforts of farmer's to increase production.  Most farmers, however, confronted their problem and profited from increased productivity and high war-time prices.</p>
+
+<list>
+<item><ref n="homefront.news.rcdj.19430315">["Second Hand Farm Implements Once Ignored Are Now Bringing Fabulous Prices at Rural Sales," Rapid City Daily Journal, March 15, 1943]</ref></item>
+
+<item><ref n="homefront.news.ag.19420308">["Pooling of Farm Machinery Relieves Shortage of Labor," Amarillo Globe, March 8, 1942]</ref></item>
+
+<item><ref n="homefront.news.nf.19441104">["Corn Harvest is Big Job; Men, Women, and Livestock are Helping," Nebraska Farmer, November 4, 1944]</ref></item>
+</list>
+
+<p>While farmers endured the shortage of farm implements, they also contended with a labor shortage throughout the war.  In Colorado Governor John C. Vivian appealed to Secretary of War Henry Stimson to release men in the military provided they worked on farms.  He believed the induction of farm men into the military by the Selective Service contradicted government appeals for farmers to increase production.  Governor Vivian argued that only farmers knew how to farm, not city men and women, who might be hired as agricultural workers.  He feared lost crops and food shortages, if farmers continued to operate without their sons.  The War Department ignored Governor Vivian's request, and Colorado farmers sought other solutions to their farm worker shortage, but not before Governor Vivian gained considerable attention for his plan in the newspapers.</p>
+
+<list>
+<item><ref n="homefront.news.dp.19430416">["Governor Vivian Renews Demands Army Farmers Be Released," Denver Post, April 16, 1943]</ref></item>
+</list>
+
+<p>During the war, the farm labor shortage became serious across the Great Plains.  Farmers could not compete with defense industry wages, and the military took away many of their sons and hired hands.  The construction of military bases and employment at the bomber and ordnance plants, airbases, ammunition depots, and flying schools further drained the agricultural labor supply in the region because the construction and war industries paid considerably higher wages than farmers.  In Kansas, farmers paid approximately $50 per month with room and board for year-round help and $3 per day for seasonal harvest hands.  By autumn 1942, however, they paid $5 per day for inexperienced workers, and they could not employ enough of them, in part, because the aircraft industry in Wichita paid wages as high as $12 per day.</p>
+
+<p>Farmers continued to demand changes in the draft system, and the provision of military furloughs to ensure adequate agricultural labor, but the War Department staunchly opposed such policy.  Early in 1943, Paul V. McNutt, director of the War Manpower Commission, and newly appointed Food Administrator, Chester Davis, also announced that they would seek mobilization of a 3.5 million volunteer "land army" for seasonal work on farms across the nation.  Local extension agents would recruit workers not employed in defense industries and urge them to work on farms for "regular farm wages," even if below the pay of their regular jobs as a contribution to the war effort.  In Colorado, Governor Vivian told Secretary Wickard that farmers could not meet their labor needs by employing teenagers from the cities and towns as the United States Department of Agriculture and President Franklin D. Roosevelt suggested, because they did not have the necessary experience.  Even so, he urged school officials to release these students to help with spring planting.</p>
+
+<p>In 1943, the state extension services and the United States Department of Agriculture began a major campaign to encourage farmers to employ boys and girls and men and women from the towns and cities to help meet their labor needs.  The Kansas Extension Service reported that, "It may take two boys to make one man, or three businessmen to replace one skilled farmer but the help that is here must be utilized."  The Extension Service also observed that, "It will take patience on the part of the farmer to train skilled help.  It will also require that sacrifice be made by town people unused to farm work under the summer sun.  All of this is incidental to getting the job done."  In April, the Kansas State Extension Service appealed to the patriotism of town and country people alike to help solve the farm labor shortage.</p>
+
+<list>
+<item><ref n="homefront.docs.0007">["Farm Labor and Agricultural Production," Kansas Agricultural Extension Service, April 14, 1943]</ref></item>
+
+<item><ref n="homefront.docs.0008">[War Manpower Commission, Farm Labor Bulletin No. 25, "To All Volunteer Farm Placement Representatives]</ref></item>
+</list>
+
+<p>State and federal agencies also provided information to teenagers in the towns and cities who might seek jobs on farms.  The Kansas State Board for Vocational Education, for example, provided the following suggestions to help town boys adjust to agricultural work and daily instruction by farm men and women. The board also provided advice for farmers who employed town boys as well as county extension agents involved in the recruitment process.</p>
+
+<list>
+<item><ref n="homefront.docs.0009">[Kansas State Board for Vocational Education, Topeka, "Suggestions To Town Boys Who Will Work on the Farm]</ref></item>
+
+<item><ref n="homefront.docs.0002">["Some Suggestions to Farmers Who Employ Town Boys, by Lester B. Pollon, State Supervisor, Vocational Education]</ref></item>
+
+<item><ref n="homefront.docs.0003">["Suggestions for Recruiting and Training an Emergency Lane Army in the Food Production Program."  By. C. M. Miller, Director, Kansas state Board of Vocational Education, Topeka, no date.]</ref></item>
+
+<item><ref n="homefront.docs.0004">["Suggestions for Recruiting, Registering, and Placement of non-Farm Labor, General Statement, no date.]</ref></item>
+
+<item><ref n="homefront.docs.0005">["Suggestions for County Action to Meet Labor Needs; Getting The Facts About Farm Labor, no date.]</ref></item>
+
+<item><ref n="homefront.docs.0006">[Power and the Plow, no date.]</ref></item>
+</list>
+
+<p>By 1943, then, the United States Department of Agriculture sought to keep a force of experienced farmers and agricultural workers on the land and encourage the return of workers who were not employed in essential defense industries and who had agricultural experience on Great Plains farms.  USDA officials also wanted to mobilize a "land army" or a "U.S. Crop Corps" of 3.5 million men, women, and children from the towns and cities for full-time, seasonal, and temporary farm work, particularly at harvest time.</p>
+
+<p>On April 29, 1943, Congress passed Public Law 45 which established the Emergency Farm Labor Program.  This legislation gave the Extension Service in each state the responsibility for recruiting, transporting, and placing agricultural workers.  The Extension Service also would work with the U.S. Department of Education to recruit school children for "Victory Farm Volunteers" of the U.S. Crop Corps and enlist a Women's Land Army.</p>
+
+<list>
+<item><ref n="homefront.news.dp.19430125">["U.S. to Mobilize Land Army of Over 3 millions," Denver Post, January 25, 1943]</ref></item>
+
+<item><ref n="homefront.news.dp.19430706">["Great Land Army Being Mobilized for Harvest," Denver Post, July 6, 1943]</ref></item>
+</list>
+
+<p>The agricultural labor shortage remained critical across the Great Plains during the war years.  The Dallas Chamber of Commerce asked business leaders to release their employees for field work, but few businessmen or their employees volunteered to chop, that is, weed cotton fields with a hoe.  Similarly, farm labor officials urged Cheyenne businessmen and their employees to spend their summer vacations on a farm within a fifty-mile radius of the city.  In Nebraska, one county agent reported that interest among school boys and girls for farm work lagged, and a survey of high school students in Oklahoma City clearly indicated that most had no intention of working on farms for patriotic reasons because they could earn $100 or more per month in various city jobs.  Few farmers could pay such high wages.  In Kansas, for example, the average farm worker earned about $80 per month or $60 per month with room and board.</p>
+
+<p>In Oklahoma and Kansas officials reported that farm labor needs could only be met by school boys and girls, businessmen, and "rural and town women," but when harvest time came for the wheat crop wages of $10 per day with room and board attracted few volunteers.  Near Dallas, cotton pickers earned at best $5 per day, and few workers took that employment.  School leaders informed agricultural officials and labor recruiters that their children would not pick cotton even if they were released from school.</p>
+
+<list>
+<item><ref n="homefront.news.dp.19440229">["Farm Work Call is Issued to Women and Children," Denver Post, February 29, 1944]</ref></item>
+
+<item><ref n="homefront.news.dmn.19441005">["Rains, Lack of Pickers Menace Cotton Crop," Dallas Morning News, October 5, 1944]</ref></item>
+
+<item><ref n="homefront.news.dmn.19441006">["Rains, Picker Shortage Upset Cotton Growers," Dallas Morning News, October 6, 1944]</ref></item>
+
+<item><ref n="homefront.news.rcdj.19441013">[Unlucky Farmers Will Pick Corn All Winter," Rapid City Daily Journal, October 13, 1944]</ref></item>
+</list>
+
+<p>Given the inability of many Great Plains farmers to meet their labor needs locally, they increasingly sought Mexican and Mexican American workers, particularly for work in the sugar beet fields for cultivating and harvesting as well as to chop and pick cotton in New Mexico and Texas.  In 1942, many Great Plains farmers were encouraged when the federal government negotiated an agreement with Mexico to support the temporary migration of workers to aid farmers with certain needs and who met specific wage, housing, and working regulations.  This agreement became effective on August 4, 1942.  Soon, farmers and agricultural officials referred to it as the Bracero Program.</p>
+
+<p>Mexican workers, called braceros, proved good workers in the Great Plains sugar beet fields.  Sugar beet growers and nearby refineries quickly stereotyped them as a people who would work long and hard for low wages and not complain, and many came from rural areas and understood farm work.  Few local or white migrant workers sought this back-aching work for about $10 per day.  During the remainder of the war, Great Plains farmers, particularly sugar beet growers, sought braceros that they contracted through the federal government.</p>
+
+<list>
+<item><ref n="homefront.news.wst.19440613">["A Mexico Will Send 20,000 to Labor for Beet Growers," Wyoming State Tribune, June 13, 1944]</ref></item>
+
+<item><ref n="homefront.news.owh.19430514">["50 Mexicans Reach State," Omaha World Herald, May 14, 1943]</ref></item>
+
+<item><ref n="homefront.news.bt.19440615">["2,000 Mexican Workers in North Dakota," Bismarck Tribune, June 15, 1944]</ref></item>
+
+<item><ref n="homefront.news.bt.19440701">["Mexican Workers May Come Here," Bismarck Tribune, July 1, 1944]</ref></item>
+
+<item><ref n="homefront.news.bt.19440721">["3,000 Mexican Harvest Workers Due in North Dakota Soon," Bismarck Tribune, July 21, 1944]</ref></item>
+
+<item><ref n="homefront.news.owh.19441022">["Few Sign Up for Beet Harvest Work, Recruiter May Try to Enlist Mexicans," Omaha World Herald, October 22, 1944]</ref></item>
+</list>
+
+<p>Braceros also worked for Great Plains farmers in other capacities.  They harvested potatoes, shocked corn, threshed grain, and stacked hay.  Great Plains farmers appreciated the willingness of braceros to do the required work, but they wanted the Mexicans to leave their farms and the area when the job ended because of their racist prejudices.  The braceros and Mexican American migrant workers from the southern Great Plains confronted segregation in businesses and public places across the Great Plains.  Great Plains farmers, who employed braceros, however, praised their work ethic and productivity.  Even though they sometimes lacked skills for harvesting corn and wheat or using machinery, they learned quickly and worked hard.  South Dakota farmers particularly welcomed bracero workers during the war years.</p>
+
+<list>
+<item><ref n="homefront.news.df.19450707">["Your Mexican Hired Hands," Dakota Farmer, July 7, 1945]</ref></item>
+
+<item><ref n="homefront.news.rcdj.19450205">["Mexicans Aid Harvest, ´Rapid City Daily Journal, February 5, 1945]</ref></item>
+</list>
+
+<p>In Nebraska the extension agent praised the ability of the braceros to learn any farm job.  The Fillmore County agent observed that they were accustomed to working with their hands which gave them an advantage over "most unskilled workers."  He also urged farmers to help ensure good working relations for them.</p>
+
+<!-- <ref>[Notes on Nebraska Farming From the Extension Service the University of Nebraska College of Agriculture, November 8, 1944]</ref>      [cannot locate this file]  -->
+
+<p>Great Plains farmers, particularly sugar beet growers, needed Mexican nationals in their fields, and their labor proved essential.  Between August 1943 and August 1945 approximately 20,000 braceros worked in the Great Plains where they served as an important labor force.  Braceros helped farmers provide food for the military and public and earn a profit.  Braceros, however, could not provide all of the labor needed on Great Plains farms.  Some agricultural officials in the USDA and state extension services believed that women in the cities and towns could help ease the farm labor shortage by joining a Women's Land Army.</p>
+
+<p>Confronted with a labor problem that had no male solution, some agricultural officials, state politicians, and women's organizations began considering women, both farm and town, as a collective agricultural labor pool.  The USDA studied the possibility of mobilizing nonfarm women for agricultural labor and, in February 1943, Secretary of Agriculture Wickard asked the Extension Service to develop a program for the recruitment of women for farm work.  And, in April Congress appropriated and authorized funding for a Women's Land Army (WLA).   Florence Hall, an experienced USDA employee, became head of the WLA.  The state extension services had the responsibility to appoint leaders for recruitment and organizational work.</p>
+
+<p>The WLA functioned as part of the Emergency Farm Labor Program and the U.S. Crop Corps.  The WLA sought women for assignment to farms on a part-time, weekly, or monthly basis.  Enlistment was available for women at least eighteen years of age who produced a doctor's certification of good health.  The WLA planned to recruit women in areas where a farm labor shortage existed.  This recruitment would help solve transportation and housing problems.  Each woman had to be willing to work on a farm continuously for at least one month.  WLA volunteers would receive training for "life on a farm" at a state agricultural college or similar institution.  Agriculture and home economic teachers would provide the training.</p>
+
+<p>Women employed by the WLA would receive the prevailing local wage for farm work.  Farmers interested in hiring these women could contact their county agent who would assign them women workers best suited for the situation from the local and state labor pool of the WLA.  The county extension service would monitor this employment to ensure the town women adjusted to farm life and the provision of adequate living quarters and sanitary facilities.</p>
+
+<p>Great Plains farm men and women appreciated patriotism, but they questioned whether nonfarm women could perform physical agricultural work.  Few town women volunteered for the WLA.  As a result, in October 1943, farm women became eligible to join the organization.  This decision enabled WLA officials to count more women as participants and claim some recruitment success. From 1943 to the termination of the WLA in 1945 as many as two million women became part of the WLA nationwide.</p>
+
+<p>In the Great Plains, farmers traditionally had not hired women for seasonal, that is, harvest work, and recruitment proved difficult.  In Nebraska, the extension service reported that farmers willingly accepted their wives and daughters in the fields, but they were reluctant to hire nonfarm women.  Moreover, few nonfarm women sought agricultural employment because they were not interested in this work or considered it a contribution to the war effort.  Moreover, it did not pay as much as defense industry jobs.  Still, in 1943, women primarily from the farms, but a few from the towns, played a major role in completing the wheat harvest.  One observer noted, "These are women of prosperous wheat farms.  They are mostly educated, refined women. . . .   many young college girls, out of school for the summer."</p>
+
+<list>
+<item><ref n="homefront.news.wye.19420423">["Labor Shortage Putting More Women Workers Upon Farms," Wyoming Eagle, April 23, 1942]</ref></item>
+
+<item><ref n="homefront.news.wye.19421008">["Increased Use of Women on Farms Sought," Wyoming Eagle, October 8, 1942]</ref></item>
+
+<item><ref n="homefront.news.do.19430627">["Men at War, Wheat Harvest Story of Women in the Fields," Daily Oklahoman, June 27, 1943]</ref></item>
+</list>
+
+<p>As the Selective Service System drafted more men for the military, one agricultural official reported, "If manpower continues to be drained . . .  we will have to accept the idea that women will supplant men in the fields."  He contended, "They do it in England and there's no reason we can't do it here."</p>
+
+<list>
+<item><ref n="homefront.news.we.19431023">["Suggests Training of Women Farmers," Wichita Eagle, October 23, 1943]</ref></item>
+</list>
+
+<p>WLA recruiters visited schools and women's groups and canvassed neighborhoods by going house-to-house to enlist women who would attend short courses at the colleges across the state where they would learn to tend poultry, milk cows, and conduct other farm work.</p>
+
+<p>The following documents were prepared by the Kansas State Extension Service to help home demonstration agents and others recruit women for agricultural labor.  Extension agents could use the documents to address local groups.  These documents stressed the importance of agriculture, noted the farm labor shortage, and urged women to enlist.</p>
+
+<list>
+<item><ref n="homefront.docs.0011">[A Call to Farms:  Basic Materials for use in discussing the Women's Land Army as a phase of the Kansas Farm Labor Program-1943]</ref></item>
+
+<item><ref n="homefront.docs.0012">[Kansas Women in the Farm Labor Program; Talk by Georgiana H. Smurthwaite, State Home Demonstration Leader, Kansas State College, Extension Service, Manhattan Regional Farm Meetings, Kansas-May 18-28, 1943]</ref></item>
+
+<item><ref n="homefront.docs.0013">[Questions and Answers on the Women's Land Army of the U.S. Crop Corps; Basic Materials for use in the Kansas Farm labor Program-1943.]</ref></item>
+
+<item><ref n="homefront.docs.0014">[Be a Soldier of the Soil, May 5, 1943]</ref></item>
+</list>
+
+<p>Although few women joined the WLA, many worked on Great Plains farms.  Women detassled corn and pitched hay in South Dakota, shocked wheat in North Dakota and harvest potatoes in Wyoming, where the number of women driving tractors also became noticeable.  In Nebraska, women also drove tractors to cultivate corn, and they harvested grain and picked corn.  Most of these women, however, were family members not nonfarm, that is, urban or town women.  Most of these farm women drove trucks and tractors during the harvest, with hauling grain their most common job.  Implement companies, state extension services, and agricultural employment committees often sponsored training courses for farm and nonfarm women to help them learn to operate agricultural implements, particularly tractors.</p>
+
+<list>
+<item><ref n="homefront.news.sj.19440331">["Women Undertake Work on Saline Farms," Salina Journal, March 31, 1944]</ref></item>
+
+<item><ref n="homefront.news.kf.19440304">["Women Will Drive Tractors," Kansas Farmer, March 4, 1944]</ref></item>
+</list>
+
+<p>Few farm women wanted city women working in their homes, unless they cleaned and cooked.  Farm women did not want nonfarm women working in the fields.  Moreover farmers were skeptical about hiring females, particularly nonfarm women.  They preferred to entrust their machinery to their wives and daughters or other farm women, because they had some knowledge about the operation of various implements.  Consequently, the women working on Great Plains farms generally were: first, the farmer's wife; second, his live-at-home daughter; third, the daughter who had moved away but retuned during the harvest; fourth a relative; fifth, friends; and sixth or last, town women who wanted to work on a farm, if the family accepted them.</p>
+
+<list>
+<item><ref n="homefront.news.owh.19430301">["Are Farmettes Worth Their Keep," Omaha World Herald, March 1, 1943]</ref></item>
+
+<item><ref n="homefront.news.owh.19430729">["State's Farm Women Earn a Chapter in War History," Omaha World Herald, July 29, 1943]</ref></item>
+
+<item><ref n="homefront.news.sj.19440114">["Women Will Be Enlisted For Harvest," Salina Journal, January 14, 1944]</ref></item>
+
+<item><ref n="homefront.news.we.19440514">["City Folk to Aid of Harvests," Wichita Eagle, May 14, 1944]</ref></item>
+</list>
+
+<p>No one can say precisely how many women worked on Great Plains farms as part of the WLA because the records are imprecise.  Thousand of women, however, labored on farms across the Great Plains, but they were so widely scattered and worked so unobtrusively that few people were aware of their contribution to the war effort.</p>
+
+<list>
+<item><ref n="homefront.news.dp.19440928">["Women's Land Army Is Doing Big Job in State," Denver Post, September 28, 1944]</ref></item>
+
+<item><ref n="homefront.news.dp.19450701">["Midwest Women Save America's Farms," Denver Post, July 1, 1945]</ref></item>
+</list>
+
+<p>The WLA achieved only modest success recruiting, enlisting, and placing nonfarm women in agricultural positions in the Great Plains.  But, as an organization that encouraged nonfarm women to leave their homes and jobs for farm work, the WLA served as an important symbol of collective unity and patriotic sacrifice.  In the Great Plains, however, women conducted a considerable amount of agricultural labor, but not as part of the WLA.  At best, farm men approved of nonfarm women helping their wives with domestic chores and farm women treated them as "hired girls" who did not know very much.  Farm women considered field work their responsibility in time of need.  In the end, farm women, not town recruits of the WLA, made the greatest contribution of women to agriculture work in the Great Plains during World War II.</p>
+
+<div2>
+<head type="sub">Table 1</head>
+<head type="sub">Estimated Number of Women in Farm Labor Through the Extension Farm Labor Program</head>
+
+<head type="sub">TOTAL<lb/>(Seasonal and Year-round</head>
+
+<table rows="11" cols="4">
+<row><cell role="label"></cell><cell role="label">1943</cell><cell role="label">1944</cell><cell role="label">1945</cell></row>
+<row><cell role="desc">Colorado</cell><cell role="data">4,075</cell><cell role="data">3,891</cell><cell role="data">2,484</cell></row>
+<row><cell role="desc">Kansas</cell><cell role="data">663</cell><cell role="data">1,408</cell><cell role="data">392</cell></row>
+<row><cell role="desc">Montana</cell><cell role="data">1,472</cell><cell role="data">602</cell><cell role="data">713</cell></row>
+<row><cell role="desc">Nebraska</cell><cell role="data">1,592</cell><cell role="data">1,043</cell><cell role="data">461</cell></row>
+<row><cell role="desc">New Mexico</cell><cell role="data">1,249</cell><cell role="data">2,234</cell><cell role="data">1,047</cell></row>
+<row><cell role="desc">North Dakota</cell><cell role="data">4,879</cell><cell role="data">5,600</cell><cell role="data">6,768</cell></row>
+<row><cell role="desc">Oklahoma</cell><cell role="data">8,231</cell><cell role="data">15,961</cell><cell role="data">18,499</cell></row>
+<row><cell role="desc">South Dakota</cell><cell role="data">755</cell><cell role="data">1,178</cell><cell role="data">778</cell></row>
+<row><cell role="desc">Texas&#185;</cell><cell role="data">75,707</cell><cell role="data">51,200</cell><cell role="data">53,868</cell></row>
+<row><cell role="desc">Wyoming</cell><cell role="data">288</cell><cell role="data">268</cell><cell role="data">171</cell></row>
+</table>
+
+<p>&#185;Includes farm women not in the region of the Great Plains</p>
+
+<p>Source: Wayne D. Rasmussen, <title level="m">A History of the Emergency Farm Labor Supply Program, 1943-47</title>.  Agriculture Monograph No. 13, (Washington, D.C.:  U.S. Department of Agriculture, September 1951), 148-49</p>
+
+<p>In retrospect when the war began farmers optimistically hoped the new conflict would benefit them.  Increased federal demands for greater production meant more money.  In 1940 farmers received an index price of 84 (1910-1914=100) for wheat, 83 for cotton, and 108 for livestock while their cost of living reached 121.  By the end of the war, the index wheat price reached 172, cotton, 178, and livestock 210, while the cost-of-living index reached 182.  Put differently, the index prices received on all farm products was 95 in 1939 and 204 in 1945.  At the same time, farmers paid an index price for commodities, interest, taxes and wages of 123 in 1939 and 192 in 1945.  Net income on a typical Great Plains wheat farms in Kansas, Oklahoma, and Texas rose from $558 in 1939 to $6,700 in 1945 for a 1,102 percent increase.  In Oklahoma and Texas, cotton farmers earned an average of $997 for their crop in 1939 and $2,894 in 1945, a 190 percent increase.  Overall, then, Great Plains farmers benefited from World War II.  They paid debts and mortgages, bought land, and saved.  They hoped that any post-war economic depression would pass quickly.  The war years had ended the price depressing surpluses and low farm income of the Great Depression.  Great Plains farmers agreed that war paid.</p>
+</div2>
+
+</div1>
+</body>
+</text>
+</TEI>
+

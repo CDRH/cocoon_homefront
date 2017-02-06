@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19420621 SYSTEM "homefront.news.owh.19420621.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19420621">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Women Given Auto Testing Jobs; 'Get Along Just Fine'</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19420621</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Sunday World-Herald</title>
+<title level="a">Women Given Auto Testing Jobs; 'Get Along Just Fine'</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">A:10</biblScope>
+<biblScope type="columns">6-7</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1942-06-21">1942-06-21</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Women/male work</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-05</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.owh.19420621">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="10"/>
+
+<figure>
+<figDesc>Petticoat corps at the city car testing station Misses Marjery Needham, Pauline Swengil, Mrs. Verona DuPont and Mrs. Margaret Howard.</figDesc>
+</figure>
+
+<milestone unit="smallbar"/>
+<head type="main">Women Given Auto Testing Jobs; 'Get Along Just Fine'</head>
+
+<p>Attempting to beat manpower shortage and rapid payroll turn over, Police Commissioner Richard Jepsen has hired four young women as <sic corr="employees">employes</sic> at the city auto testing station on an experimental basis.</p>
+
+<p>The feminine workers, who will replace men in operating headlight testing apparatus and pasting stickers on cars, are: Miss Pauline Swengil, 2917 Bristol street: Mrs. Vernoa DuPont, 1011 North Twenty-ninth street; Miss Marjery Needham, 3912 South Twenty-fifth street, and Mrs. Margaret Howard, 3324 Fowler avenue.</p>
+</div1>
+
+<div1>
+<head type="sub">Men to Police Force</head>
+
+<p>Men formerly on the job are among 14 appointed to become probationary policemen Tuesday to fill vacancies caused by retirements and leaves for military service.</p>
+
+<p>Patrolman Joe Bonacci, testing station superintendent, said the women workers "got along just fine" on their first day.</p>
+
+<p>Drawn from the American Women's Voluntary Services, Miss Swengil said she and her co-workers "are thrilled to be able to help do jobs that make more men available for war work."</p>
+
+<p>Jepsen said he decided to make temporary appointment of women because "there are less men applying for civil service tests than we need to cover our turnover." Sixteen changes have been made in recent months, due in part to low wages the city can pay, Jepsen said.</p>
+</div1>
+
+<div1>
+<head type="sub">Get $20 Weekly</head>
+
+<p>Women will draw $20 weekly, the same as men. If they prove satisfactory, women wil1 be admitted to civil service tests later for permanent jobs, Jepsen said.</p>
+
+<p>The 14 new policemen named by Jepsen are: William R. Andrew, 5335 South Thirtieth: Joseph Benish, 2917 T avenue; Charles R. Chleborad, 3123 North Fifty-fifth; George Dworak, 5109 South Twenty-third; Robert A. Hickey, 4504 South Thirty-second; John S. Regner, 2218 South Eighteenth, and Paul H. Slinkard, 1306 0 street, all promoted from testing station jobs: William S. Pattavina, 1216 South Tenth, son of Morals Squad Lt. Al Pattavina; George V. Belitz, 4221 South Thirty-ninth avenue; Edward J. Dropinski, 3930 South Thirty-third, son of the police jailer; James E. Dworak, 603 Dorcas, son of a retired policeman; Lloyd M. Hutter, 2424 1 street; Clarence H. Klinger, 2415 Pinkney, police traffic department civilian worker, and Walter F. Wilson, 1704 North Twenty-first avenue.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+

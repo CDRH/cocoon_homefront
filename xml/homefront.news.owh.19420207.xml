@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19420207 SYSTEM "homefront.news.owh.19420207.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19420207">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Urges School Boys to Fill Farm Jobs</title>
+<author>Carlyle Hodgkin</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19420207</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Omaha World-Herald</title>
+<title level="a">Urges School Boys to Fill Farm Jobs</title>
+<title level="a" type="sub">Shortening of Term Asked by Governor During Emergency</title>
+<author>Carlyle Hodgkin</author>
+<biblScope type="pages">2</biblScope>
+<biblScope type="columns">5</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1942-02-07">1942-02-07</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-24</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19420207">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p2"/>
+<head type="main">Urges School<lb/>Boys to Fill<lb/>Farm Jobs</head>
+<milestone unit="smallbar"/>
+<head type="sub">Shortening of Term<lb/>Asked by Governor<lb/>During Emergency</head>
+<milestone unit="smallbar"/>
+<byline>By Carlyle Hodgkin</byline>
+<p rend="right">World-Herald Bureau.</p>
+<p><address rend="right"><addrLine>Lincoln, Neb., Feb. 6.</addrLine></address></p>
+
+<p>Pinchhitting for the principal speaker at the concluding program of Organized Agriculture, Governor Dwight Griswold this afternoon urged that school programs throughout Nebraska be so arranged as to release boys for works on farms at the earliest possible moment.</p>
+
+<p>The governor told the audience the state's "most available source of farm labor is the 40 thousand high school boys."</p>
+
+<p>"I don't mean just the boys who live on farms," he declared. "I mean also boys who live in towns and cities. Nothing could be better for the boys themselves."</p>
+</div1>
+
+<div1>
+<head type="sub">Townsend Has Cold</head>
+
+<p>Griswold said it is necessary for Nebraska to "produce a tremendous crop this year and plan to do it again in 1943."</p>
+
+<p>Griswold appeared on the program in place of M. Clifford Townsend, former governor of Indiana and now director of agricultural defense relations in Washington, who wired Friday morning he could not appear because of a cold. Griswold was to have introduced Townsend.</p>
+
+<p>A second pitchhitter for Townsend was Francis Flood, former Nebraska and well known travel writer, who Thursday described a recent trip to England. Today he told of an airplane trip last year to every country is South America except Venezuela. Flood now lives in Oklahoma.</p>
+</div1>
+
+<div1>
+<head type="sub">'Have Talked Too Much'</head>
+
+<p>Mrs. Raymond Sayre of Ackworth, Ia., member of the national civilian defense committee, told the crowd "we have talked too much about defense in this country. We can't win this war except by taking the offensive with twice as much equipment as the enemy has."</p>
+
+<p>After the last war, she said, this country considered the choice to be between internationalism and rationalism and chose the latter. The choice now, she declared, is "internationalism or chaos."</p>
+
+<p>"You can't live in a world where a dive-bomber can go five hundred miles an hour and not have the theory of nationalism as dead as the theory the world is flat," she declared.</p>
+
+<p>Mrs. Sayre urged farm people not to "drift," as was done in many European countries and in England up to the war, but to "face up to your problems. You can't win the war unless you know why you are fighting."</p>
+</div1>
+
+<div1>
+<head type="sub">More Cows Needed</head>
+
+<p>J. C. Nisbet, official of the American Jersey Cattle club, said 17 million dairy cows, in addition to the 25 million now on farms, would be needed to supply all the people of this country with the milk they need for minimum health needs.</p>
+
+<p>Army tests have found nearly 50 per cent unfit, a high percentage of them because of lack of "protective foods" he said, and surveys have shown 45 million people in the nation living on diets "below the safety line" in content of these same foods.</p>
+
+<p>Two million of the nation's 25 million cows will be needed this year. Nisbet said, to supply the milk for our lease-lend commitments to Britain.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

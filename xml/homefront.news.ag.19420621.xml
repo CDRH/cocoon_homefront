@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.ag.19420621.01 SYSTEM "homefront.news.ag.19420621.01.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.ag.19420621">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Amarillo Women Are 'Doing Something, Too', in Keeping Business 'As Usual'</title>
+<author>Dixie Williams</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.ag.19420621</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Amarillo Globe</title>
+<title level="a">Amarillo Women Are 'Doing Something, Too', in Keeping Business 'As Usual'</title>
+<title level="a" type="sub"></title>
+<author>Dixie Williams</author>
+<biblScope type="pages">1, section 2</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Amarillo Globe</publisher>
+<pubPlace>Amarillo, TX</pubPlace>
+<date value="1942-06-21">1942-06-21</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Women/male work</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-08-28</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.ag.19420621.01">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p1"/>
+
+<head type="main">Amarillo Women Are 'Doing Something,<lb/>Too', in Keeping Business 'As Usual'</head>
+
+<byline>By Dixie Williams</byline>
+
+<p>As the war goes on, and more and more men are being taken away from their places in business and industry, new fields are being opened to the women left behind. Business is going on as usual, and to make this possible, women are taking over positions and learning trades which they have never before attempted.</p>
+
+<p>In Amarillo, many business houses and industries are pioneering in the field of hiring women. They are teaching women to take the places of men called into the armed services and defense industries. Many of those jobs are new and foreign to women who are filling them, and they are having to learn from the beginning. But they are learning fast, and the time may not be too far distant when the transformation of many businesses from the hands of men to the hands of women will be complete.</p>
+
+<p>In many instances, the women are doing the jobs better than the men they have replaced. They are willing to learn and work hard, but they cry for patience from a public used to the efficiency of well-trained men.</p>
+</div1>
+
+<div1>
+<head type="sub">They're Driving Taxis</head>
+
+<p>Various types of business are using women in jobs formerly held by men. Taxi companies are hiring them as drivers and dispatchers: and grocery stores are using them as checkers and stockers; department stores are using them as shoe clerks and window dressers and in men's departments where only salesmen have been used before. Women are working in drug stores and banks. All over the city they are leaving the routine of housework for the more exacting routine of business.</p>
+
+<p>Three taxi companies in Amarillo are using women drivers. The Triple A Taxi Company employs four, Mesdames Jean Mason, Odell Plummer, Zelma Johnson, and Anna Lovett. The Triple A started using women last July and is advertising for more at the present time. Hammond Taxi Company has two, Mrs. Jewel Porter and Miss Mary Jane Craddock. Rainbow Taxi has no drivers but has three women dispatchers.</p>
+
+<p>The Yellow Cab Company employs Ruby Berry and Gladys Sullivan as drivers. Both young women are eager to serve and serve as efficiently as their men co-workers. Concerning them, one of the men drivers for the company yesterday was full of praise.</p>
+
+<p>"A girl driving a taxi has to have more patience, more sense of humor and more endurance than a man, and these two girls have it. They're good scouts, and they show it by taking a lot of kidding from us men drivers and from the public," he said.</p>
+
+<p>Grocery stores all over town are employing women checkers, women butchers, women delivery girls and women in all other jobs that once only men dared seek.</p>
+</div1>
+
+<div1>
+<head type="sub">They Check Groceries</head>
+
+<p>The seven Furr Food Stores in Amarillo have a total of 22 women <sic corr="employees">employes</sic> who have replaced men, and six other Furr Food Stores in other West Texas towns are employing a total of eight more women. The women like their work so well and are so busy that some of them even loathed stopping long enough to pose for the picture of the group, shown elsewhere in today's paper.</p>
+
+<p>Their only criticism of their public is that some people get impatient when we have to look up prices." But they're studying the stock and learning fast. Soon, they'll be able to check those groceries as quickly and answer questions concerning merchandise as readily as did their men predecessors.</p>
+
+<p>McCartt Super Market's pioneer in the field that once was sacred to the men is Donnaleita Wilkinson, who was transferred from her cashier's stand in the cafeteria a month ago to the checker's position "for the duration."</p>
+
+<p>They have women "all over the place" in the two Ideal Food Stores, and one of them, Mrs. L. B. Turner who is in charge of the cellophane racks, takes pride in having "helped open up" the newest Ideal Food Store at Sixth and Mississippi Street. Mrs. Joe Sebastian is a checker in the new No. 2 store, Miss Norene Plemens is a checker in the No. 1 store and Miss Evelyn Farley is the butcher's helper in the No. 1 store.</p>
+
+<p>Miss Farley said the women customers, at first, preferred to wait until one of the men butchers could wait on them, but she is winning them over and now she claims quite a clientele of women customers who prefer her as a meat clerk.</p>
+
+<p>"But the men customers," she said, traded with her right from the start, "especially the older ones. They seemed to bet a big kick out of having a woman butcher wait on them."</p>
+
+<p>Mrs. Dale Garland holds a position as checker at the Live and Let Live Market, while the Pete Fowlkes Grocery employs Miss Ruby Thompson and Mrs. Marjorie Carroll for stocking groceries. Mrs. Myrtle Barton drives a delivery truck for Laing Grocery.</p>
+</div1>
+
+<div1>
+<head type="sub">They're Selling Shoes</head>
+
+<p>Many department stores and dress shops in Amarillo have added women in various positions. Hollywood Dress Shoppe employs Miss Ernestine mercer in the shoe department. Levine's has Mrs. Addie Shugart as a shoe clerk and also has added women in the men's department. Miss Ann Blackwell is a clerk at the Allen Shoe Store.</p>
+
+<p>The C. R. Anthony Company employs Miss Edith Powell in the men's furnishings, Miss Sue Linderer as a shoe clerk, and Mrs. Edna Rogers as a display worker. Mrs. Rogers has charge of window-dressing and card-writing. At Sears-Roebuck Company there are several women trained to hold men's jobs. Miss Lulu Legrande works in the hardware department, Miss Norma Grenthan, in the paint and wallpaper department. Mrs. Katherine King is in the men's work clothes department, and Mrs. Marjorie Joslin is credit manager.</p>
+
+<p>The J. C. Penny Company has the unique distinction of training women to hold every position in the store. Many are in training at the present time, including the heads of departments. At Montgomery Ward and Company women are at work in the hardware department, the furniture department, men's clothing and shoe departments, and as window trimmers.</p>
+</div1>
+
+<div1>
+<head type="sub">They're Jerking Sodas</head>
+
+<p>There are women at work at soda fountains in drug stores all over town. The Blackstone Drug Store also has a woman for an assistant pharmacist, as well as two girls on the soda fountain. Miss Letha Warren is the pharmacist, and Misses Ruth Clark and Wilma Jean Warren are at the fountain. Maxor Drug Company employs five girls at the soda fountain: Mesdames Marie Bell and Mickey Williams and Misses Helen Pitman, Jessie Brooks and Evelyn Beck.</p>
+
+<p>All <sic corr="employees">empolyes</sic> of the Nelson Drug Company, except the pharmacist, are women. Pool Drug Company, No. 2 employs Misses Johnnie Sadler and Maxine Mooney on the soda fountain, and Pool Drug No. 3 has live girls on the fountain. They are Mesdames Lucille Moore and Gladys Odom and Misses Cecilia Earl, Jane Wood and Tiny Mehigee. Mesdames Vivian Bradbury and Mabel Davis work at similar jobs at the Walgreen Drug Company.</p>
+
+<p>John Smithee employs a number of women as soda jerkers, clerks and deliverymen in his Fox Drug Stores.</p>
+
+<p>And the Pioneer Hotel Drug Store is operated entirely by women.</p>
+
+<p>The Victory Theater is the first theater in Amarillo to have an all-women staff. All <sic corr="employees">employes</sic> except the operator of the picture machine itself are girls. They usher, change signs, post advertising, sell tickets and confections, and do all the odd jobs at the theater. Mrs. Katherine Scott and Misses Nadine Murray, Maxine Martinay and Ferma Pointer compose the Victory's staff.</p>
+
+<p>The Paramouth Theater is the first of the Interstate Theaters to hire girls as usherettes. They will go to work there today.</p>
+</div1>
+
+<div1>
+<head type="sub">They're Fixing Flats</head>
+
+<p>Women already are finding work in service stations. Cal Farley's has three women working in the budget department where only men were used formerly. Mrs. Vera Walker and Misses Joan Bradley and Vesta Odell are the workers.</p>
+
+<p>Miss Nina Lee Sturch is making an excellent hand as attendant at one of the Gulf Company Stations, that of R. C. Wheeler at 2819 Sixth Avenue.</p>
+
+<p>Mr. Wheeler said last week that she is one of the best <sic corr="employees">employes</sic> he has had in his more than 20 years in the business. "She's not independent like a lot of boys," he explained. "She's eager to learn every phase of the business and do it exactly as I want it done. She's cheerful, she's energetic, she's conscientious and she's not afraid."</p>
+
+<p>Miss Sturch has been working almost two months in the station, and she's very thrilled over the job she has mastered in that length of time.</p>
+
+<p>Not new to the field of business is Mrs. Jim Golding. Besides being the manager of Buffalo Lake and owning an potato farm, she also flies and has the distinction of being the first woman member of the Defense Flying Club, Inc.</p>
+
+<p>Who would expect to find women machinists, women inspectors, women bottlers, women heavy lifters; in fact, women just practically running the place, in the Coca-Cola Bottling Company plant?</p>
+
+<p>But there they are, six of them. Six young women do the bottling and pertinent odd jobs in the local Coca-Cola plant. They are Juanita Raymond, who is in charge of bottling, June Finley, Jessie Griffin, Blanche Hess, Dorothy Robertson and Ena Lee Crawford.</p>
+
+<p>They wear coveralls and sling large cases of Coca-Cola around with all the ease of yesterday's housewife shuffling bridge cards.</p>
+
+<p>Mrs. John Daniel Davidson's husband answered an invitation from Uncle Sam several months ago, and now she's manager of the Moore-Smith Body Works which he owns. When Mr. Davidson was preparing to leave, she tried to "cheer him up" by not "talking business" but, rather, of things light and relatively unimportant. Now she says she swishes she had listened but that's a jesting remark.</p>
+
+<p>Although she knew very little bout automobile repairing and car parts, Mrs. Davidson is learning fast and is carrying on her husband's business with the efficiency of a veteran.</p>
+</div1>
+
+<div1>
+<head type="sub">They're Keeping Books</head>
+
+<p>And the banks, too, have given time-honored jobs, for men only, to the womenfolk. The First National Bank has a woman keeping the 
+
+<note>The story continues on the next page, which is unavailable.</note>
+
+<!-- the transcription terminates here at [next page] -->
+
+</p>
+
+</div1>
+
+</body>
+</text>
+</TEI>
+

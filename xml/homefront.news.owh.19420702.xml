@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19420702.01 SYSTEM "homefront.news.owh.19420702.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.owh.19420702.02 SYSTEM "homefront.news.owh.19420702.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19420702">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Alliance Becomes Typical Boom Town as Workers Swarm to Build Glider School</title>
+<author>Robert Klindworth</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19420702</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Omaha World-Herald</title>
+<title level="a">Alliance Becomes Typical Boom Town as Workers Swarm to Build Glider School</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<author>Robert Klindworth</author>
+<biblScope type="pages">1, 4</biblScope>
+<biblScope type="columns">3-5, 1</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, Nebraska</pubPlace>
+<date value="1942-07-02">1942-07-02</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-22</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.owh.19420702.01">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p1"/>
+<head type="main"><hi rend="italic">Alliance Becomes Typical Boom Town<lb/>
+As Workers Swarm to Build Gilder School</hi></head>
+
+<byline>By Robert Klindworth</byline>
+
+<p>"She has a basement, see? So she buys five army cots and rents 'em to the project workers for 10 bucks a week per cot. Ya think that's pretty good, but that's only half o' it. She rents the beds to three different shifts. About $150 a week, see, just for sleeping space."</p>
+
+<p>That story is making the rounds in Alliance, where the government is building a glider school which will cost in the neighborhood of four million dollars.</p>
+
+<p>About three thousand workers already have reached the city (population 6,243) and another couple of thousand are expected before construction reaches its peak.</p>
+
+<p>Hotel men, innkeepers and rooming house operators are agog, not to mention the merchants who for the past 10 years have watched family after family move away because of drouth conditions.</p>
+</div1>
+
+<div1>
+<head type="sub">Council Tries to Help</head>
+
+<p>Despite some excessive rentals in connection with the housing situation, Alliance is trying to cope with the problem. A house-to-house canvass is being made by the chamber of commerce seeking rooms for the workers.</p>
+
+<p>The city council has passed a new zoning law which will alleviate the matter tremendously, and also has arranged to provide for sewage, lights and running water at a trailerville near the project. But some of the stories being told are worth their weight in gold.</p>
+
+<p>One woman who had rented all her extra rooms called a friend and asked her if she would like to room a project worker at $5 a week.</p>
+
+<p>"Oh, I'm not interested in $5," the neighbor answered, "but if you can get me two workers on different shifts so I can get $10 a week, out of the same room, I'll take them."</p>
+
+<p>Before the boom the neighbor was fortunate to rent the room at $2.50 a week.</p>
+
+<p>Another yarn said a woman had rented one of her rooms for $25 a month, but before the worker could get his suitcases transported from downtown, another man had bid $35 and had taken over the dwelling.</p>
+</div1>
+
+<div1>
+<head type="sub">Hotels 'Double Up'</head>
+
+<p>Advertisements are carried in the local paper telling of vacancies, but some of the prices they are asking are a little too steep&#8211;even over the $25-a-month level.</p>
+
+<p>Hotels are fair. They are bunching several men into one room, but it's a case of "any 
+
+<note type="editorial" rend="jumpline">(Turn to Page 5&#8211;Col. 7.)</note>
+
+<pb n="p4"/>
+
+<!-- <figure entity="homefront.news.owh.19420702.02">
+<figDesc></figDesc>
+</figure> -->
+
+<note type="editorial" rend="jump">
+<note type="editorial" rend="mainhead">Alliance Is<lb/>
+Now Typical<lb/>
+Boom Town</note>
+<milestone unit="smallbar" />
+<note type="editorial" rend="subhead">Workers Swarming<lb/>
+to Help Construct<lb/>
+Huge Glider School</note>
+<milestone unit="smallbar" />
+<note type="editorial" rend="jumpline">(Continued from Page 1.)</note>
+</note>
+
+old port in a storm." The project men don't mind paying extra prices or doubling up or even sharing a room with three others so long as they get decent places to live.</p>
+
+<p>Trailers can be found behind most of the filling stations and on the outskirts of town. Some families are living in tents.</p>
+
+<p>Through the efforts of State Senator Harry Grantz, Alliance hopes to get more building materials in order to construct living quarters, because the town is now a vital defense area.</p>
+
+<p>There are many persons with large houses who are not renting rooms, but these owners probably will do so by the time the rest of the workers arrive.</p>
+</div1>
+
+<div1>
+<head type="sub">Ideas of 'Patriotism'</head>
+
+<p>One resident said to her neighbor, "I think it's only patriotic to rent all the extra space one can."</p>
+
+<p>The neighbor retorted, "Yeah, I'd be patriotic too if I could get $40 a month out of my basement rooms."</p>
+
+<p>With Alliance on its first boom since wheat made 60 bushels an acre back in 1928, the citizens are chipping in to do what ever they can to offer newcomers a good city in which to live.</p>
+
+<p>A United Service organization group is to be formed when the soldiers arrive. A second theater has been opened. Dance pavilions are being reconditioned, and the city is offering softball and baseball games every night in addition to band concerts, the all-weather tennis courts and swimming pool.</p>
+
+<p>Already one can see the effects of the expansion. At 4 a. m., last Sunday, it was impossible to find a seat in a café. People were walking up and down the streets, window-shopping, standing in groups on the corners or sitting on the curb as if were early in the evening. Most auto parking spaces were filled.</p>
+
+<p>It's Saturday night every night in Alliance.</p>
+</div1>
+
+<div1>
+<head type="sub">School Site Ideal</head>
+
+<p>Stories from the glider school vary, the rumors reach the city each day telling of how the site has been "doubled" or "another section has been added."</p>
+
+<p>Actually, the school is going to be immense. It's situated at the foot of the sandhills, where glider experts say the air currents are perfect for glider training.</p>
+
+<p>Businessmen believe it will be permanent. About five thousand soldiers are expected to take the glider training, and it has been said the Alliance school is to be the second largest in the United States.</p>
+
+<p>Merchants are finding it difficult to keep enough help to take care of the business. Nearly everybody, it seems, is wearing the blue or white button bearing the word "Project."</p>
+
+<p>A grocer employed his younger brother, about 18, to do delivery service. Soon after the contracts were let for the glider school the boy quit, went to work for $75 a week driving a truck.</p>
+</div1>
+
+<div1>
+<head type="sub">Two Paydays a Week</head>
+
+<p>An Omaha boy who played football for South High two years ago said he was making $65 a week excluding the time and a half for overtime. And he added that he hadn't received the minimum $65 yet because of extra hours.</p>
+
+<p>Several high school lads are earning all the way from one hundred to $135 a month for light work.</p>
+
+<p>It will take 110 days to lay the cement for the aprons, runways and foundations. The runways will be 150 feet wide. This is 30 feet wider than a four-<sic corr="lane">line</sic> highway.</p>
+
+<p>Pay days are twice a week, so the merchants are keeping their stores open until 9 p. m., on Wednesdays and Saturdays.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

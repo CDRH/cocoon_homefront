@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.rdr.19410808b SYSTEM "homefront.news.rdr.19410808b.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.rdr.19410808b">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Drive Tuesday for $30,000 to Buy Land for Army Air School</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.rdr.19410808b</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Roswell Daily Record</title>
+<title level="a">Drive Tuesday for $30,000 to Buy Land for Army Air School</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Roswell Daily Record</publisher>
+<pubPlace>Roswell, New Mexico</pubPlace>
+<date value="1941-08-08">1941-08-08</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-27</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.rdr.19410808b">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p1"/>
+<head type="main">DRIVE TUESDAY FOR<lb/>
+$30,000 TO BUY LAND<lb/>
+FOR ARMY AIR SCHOOL</head>
+
+<p>Next Tuesday morning a drive will be made by the Chamber of Commerce to raise $30,000 to purchase approximately 33,000 acres of land for the army air corps school to be located about four miles south of the city on the Y-O Crossing Road.</p>
+
+<p>The committee in charge of the drive is composed of Will C. Lawrence, chairman, A. f. Madison and John Hall.</p>
+
+<p>Easement for a railroad spur to the air field and other rights of way required by the government will also have to be purchased by the community, this being included in the $30,000 which is to be raised by public subscription.</p>
+
+<p>Letters were sent out by special messenger this afternoon to 70 business and professional men asking them to serve as solicitors in the finance campaign. A meeting of the workers will be held at the Chamber of Commerce next Monday night at 7:30.</p>
+
+<p>The land will be leased to the government at the nominal rental of $1 per year. The tract will be over four sections.</p>
+
+<p>A railroad spur will be built to the field from South Spring. The Southwestern Public Service Company will extend its power lines to the field and the Pecos Valley Gas Co. will take gas lines to the field. The government has the option on drilling its own artesian wells for water supply or having the city extend water mains to the field. It is believed that artesian wells will be drilled.</p>
+
+<p>The school is scheduled to be in operation by next March 7th, but the influx of troops into Roswell will start by next January, according to advices to the Chamber of <sic corr="Commerce">Comerce</sic> from army officers.</p>
+
+<p>Options have been obtained on a few scattered parcels of land but most of the owners are non-residents. These owners will be made an offer for their land. If they do not accept the offers, condemnation proceedings will be instituted immediately.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

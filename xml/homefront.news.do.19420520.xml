@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.do.19420520 SYSTEM "homefront.news.do.19420520.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.do.19420520">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">State Schools Need Seen As 400 Teachers</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.do.19420520</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Daily Oklahoman</title>
+<title level="a">State Schools Need Seen As 400 Teachers</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">22</biblScope>
+<biblScope type="columns">3</biblScope>
+<publisher>Daily Oklahoman</publisher>
+<pubPlace>Oklahoma City, OK</pubPlace>
+<date value="1942-05-20">1942-05-20</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Schools-teacher shortage</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-08-29</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.do.19420520">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p22"/>
+<head type="main">State Schools<lb/>Need Seen As<lb/>400 Teachers</head>
+
+<head type="sub">War Cuts Deeply<lb/>Into Ranks; Grave<lb/>Shortage Feared</head>
+
+<p>There is no unemployment problem among Oklahoma teachers, particularly in the fields of industrial arts and applied sciences, C. M. Howell, president of the Oklahoma Education association, said Tuesday.</p>
+
+<p>The armed forces and war industries are seeing to that.</p>
+
+<p>In fact, so rapidly are teachers moving into higher paying war jobs Howell predicted a shortage of between 400 and 500 instructors when the autumn school term opens in September.</p>
+
+<p>"Almost any industrial arts teacher in the state today has a letter in his pocket offering him more money than he's making as a teacher," Howell lamented. "Many of them are taking the jobs, and you can't blame them, because in some cases the salaries are from 50 to 100 percent higher than they can receive as teachers."</p>
+</div1>
+
+<div1>
+<head type="sub">Shortage is Apparent</head>
+
+<p>The shortage is most apparent, Howell pointed out, in highschools (sic), where industrial arts, science, mathematics, physical education, industrial education, home economics, commerce and vocational agriculture are taught. These teachers are most in demand by war plants, the army and navy.</p>
+
+<p>At a meeting of teachers last Saturday to discuss teaching of aviation in the highschools next year, one of the main problems in the setup was listed as finding a sufficient number of teachers, Howell said.</p>
+
+<p>To alleviate the situation, the O. E. A. has discussed three possible actions, two of which already have been put partly into operation.</p>
+
+<p>The first proposal was to request selective service deferment of male teachers.</p>
+</div1>
+
+<div1>
+<head type="sub">Plans Put in Operation</head>
+
+<p>The second suggestion, and one which is already in partial use, is to ask a federal subsidy of industrial arts teachers to bring their earnings up to a par with what they could earn in war industries. The government already is meeting part of the salary expenses in some war training courses.</p>
+
+<p>A speeded up, streamlined training program to turn out more teachers is another proposal being considered, Howell said. Already, universities and state colleges have scheduled full summer class work and have stripped their curriculum of all unnecessary subjects to graduate teachers in a shorter time.</p>
+
+<p>Howell said that at the present time, the teaching vacancies throughout the state would number possibly 700, but that figure is unusually high at this season because of teaching changes, transfers and moving, and will undoubtedly be reduced as school boards reassign their staffs for the next term.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

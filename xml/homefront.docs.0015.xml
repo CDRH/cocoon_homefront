@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.docs.0015">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Civilian Gasoline Supply</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.docs.0015</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<!-- ["Office of War Information. This Report on Civilian Gasoline Supply," October 13, 1943]
+Collection: Hon. Robert S. Kerr, Series: Gubernatorial, Box: 13, Folder: 23 -->
+
+<bibl>
+<title level="a" type="main">Civilian Gasoline Supply</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages"></biblScope>
+<publisher>Office of War Information</publisher>
+<pubPlace></pubPlace>
+<date value="1943-10-13">1943-10-13</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-31</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-10-31</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<head type="main">OFFICE OF WAR INFORMATION</head>
+
+<head type="sub">This Report<lb/>
+on<lb/>
+CIVILIAN GASOLINE SUPPLY<lb/>
+is<lb/>
+ADVANCE RELEASE: For WEDNESDAY MORNING Papers, October 13, 1943</head>
+<div1>
+
+<p>This attached release is a comprehensive report prepared by the Office of War Information and designed to meet the various needs of editors, writers, commentators, broadcasters, program planners, photographers, and others concerned with presenting the news. It may be reproduced in its entirety, excerpted, condensed or used as background and reference material.</p>
+</div1>
+
+<div1>
+<head type="sub">OFFICE OF WAR INFORMATION</head>
+<p>Gasoline available to civilians is running some 500,000 barrels short of the daily pre-war supply as military needs take ever-increasing amounts and production is urgently pressed, the Office of War Information reported today on the basis of information provided by government agencies. Sources consulted in the preparation of this report were; Office of Price Administration, Petroleum Administration for War, Office of Defense Transportation, Office of Civilian Requirements (War Production Board), War Food Administration.</p>
+
+<p>Although adjustments in rations like the recent ones may be expected from time to time, these will be within the framework of the basic shortage which will intensify for the duration. Degree of this fluctuation will depend upon the rate of military withdrawals from gasoline stocks and success of the new civilian allocations, and of measures taken to tighten the rationing system.</p>
+
+<p>Not only will there probably be less automobile gasoline but its quality will become progressively poorer as greater amounts of the limited supply of tera-ethyl of lead are absorbed for aviation gasoline and 80-octane all-purpose gasoline.</p>
+
+<p>Daily production of all types of gasoline, both for gasoline and military use, is about 1,800,000 barrels, of 42 gallons each. Of this, the armed forces and Lend-Lease take approximately 600,000 barrels daily, leaving for civilian use about 1,200,000 barrels a day. In 1941, civilians--including farmers and industrial users--consumed approximately 1,700,000 barrels a day, according to state gasoline tax figures.</p>
+
+<p>The present civilian total allows approximately 550,000 barrels a day for passenger automobiles, 450,000 barrels for trucks, buses, and cabs, and 200,000 barrels daily for off-highway industrial and farm use.</p>
+
+<p>Enough gasoline is assured for the nation's farmers, war workers, necessary community activities, and essential commercial transportation.</p>
+
+<p>Intensified military requirements have made cuts of between 10 and 15 per cent necessary in the Rocky Mountains and West Coast areas.</p>
+
+<p>Government agencies predict that "spot" local shortages, such as the East Coast has already experienced, will likely occur because of unforeseen factors such as sudden, large-scale military demands, submarine sinkings, disasters like the two recent Gulf Coast hurricanes, and, to a lesser extent, mechanical breakdown of transport facilities.</p>
+
+<p>Although it could not be revealed at the time, sinking of 14 large tankers bound for North Africa was responsible for last winter's Eastern fuel oil and gasoline crisis. The supplies lost were vital to the campaign in the Mediterranean which had reached a critical stage. Replacements had to be found and shipped at once.</p>
+
+<p>The only supplies within reach were East Coast stocks built up for civilian use. The Government had either to take these stocks and cause a severe shortage for civilians or to seek replacements farther afield and run grave risk of military failure in North Africa.</p>
+
+<p>Military needs had to come first. A large portion of Eastern civilian gasoline and fuel oil was diverted. The fuel, which Eastern civilians did without, arrived in time to contribute to the victory in North Africa.</p>
+
+<p>In the first quarter of 1943, a Navy demand for a 600 per cent increase for its East Coast stocks complicated the gasoline supply program. The increased shipments had to come by overland facilities previously scheduled for transport of civilian gasoline.</p>
+
+<p>The central fact in the problem of wartime gasoline is simple. Because of military needs, the drain on our gasoline supplies is increasing. Dwindling stocks must be parceled among a number of claimants. The government has met military demands fully -- demands unprecedented even in modern warfare. It has maintained essential civilian transportation, although at times with difficulty and some inequalities.</p>
+
+<p>Sudden military takings will occur again, but facts concerning them cannot always be immediately disclosed to the public. Supply cannot always be estimated accurately. Swift adjustments may have to be made. Civilian motorists consequently need not expect to drive "as usual" while war lasts.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">MILITARY REQUIREMENTS</head>
+<p>Because of the exigencies of war, it has been necessary for the United States to supply large amounts of gasoline for our Allies in addition to that used by our own fighting forces.</p>
+
+<p>Now that Axis naval and air power has been shattered in the Mediterranean, it will be possible to alleviate the disproportionate drain on the resources of the United States in the Western Hemisphere and at the same time to effect a distribution of the supply of oil between American and British controlled sources that will require of the British a larger and more equitable share of its oil resources in the prosecution of the war.</p>
+
+<p>The President on October 5 pointed out that the War Mobilization Committee had previously taken definite steps to relieve the demands on our own crude oil reserves and refining capacity by a greater use of oil primarily in the Middle East and secondary from the Caribbean.</p>
+
+<p>But even with this increased supply of oil from the reserves of our Allies, our own military demands are such that gasoline for civilian use in the Untied States will of necessity continue to be greatly curtailed but not to the extent it has been in Great Britain.</p>
+
+<p>Heaviest war drains on national gasoline stocks to date have been in the regions east of the Rocky Mountains because of their accessibility to Gulf and Atlantic ports.</p>
+
+<p>In 1942, 12.5 per cent of all gasoline produced in the East, Midwest, and Southeast went to the armed forces and Lend-Lease. The amount had risen to 21.4 per cent in the first quarter of 1943 and to 23.1 per cent in the second quarter. Estimated need for the last half of the year is 30.6, with requirements for 1944 and 1945 predicted as 36.6 per cent and 39.6 per cent respectively.</p>
+
+<p>It is virtually impossible to arrive at more than a rough estimate of the quantities of military gasoline that future developments may require. This is certain: War demands will swell with every shipment of tanks, jeeps, and planes sent abroad.</p>
+
+<p>Less automobile gasoline is being processed from each barrel of crude oil as increasing amounts of oil go into high-octane aviation fuel, toluene for explosives, butadiene for synthetic rubber, and into scores of other petroleum war products. Only about 25 per cent of each 42-gallon barrel of crude oil now goes into gasoline for civilian use. In 1940 and 1941, approximately 37 per cent of every barrel was processed into automotive gasoline.</p>
+
+<p>Need for 80-octane all-purpose gasoline is increasing rapidly, but tetra-ethyl of lead for stepping up this fuel to its high level is not plentiful. Lead content of automobile gasoline has already been reduced. Government agencies predict further curtailment of this component in civilian gasoline, with a consequent decline in motor and mileage performance.</p>
+
+<p>Mechanized warfare feeds insatiably on petroleum products. Tanks of one armored division will burn some 25,000 gallons in traveling 100 miles. On a single six-hour mission, a thousand Flying Fortresses use at least 1,500,000 gallons of high-octane fuel. During the North African campaign, tankers made up 60 per cent of the tonnage required for supplying the Allied forces.</p>
+
+<p>Where other armies use a variety of fuels, ours has based its operations largely on one product, thus immediately simplifying problems of supply. Gasoline is used in field hospitals to heat sterilizers for surgical instruments, to burn the lamps in tent operating rooms, to power refrigerators in which blood plasma is kept. It furnished the fuel for transport planes flying the wounded from field to base hospitals, and, in many cases, overseas to hospitals in this country. In the Arctic, the Aleutians and Greenland, gasoline heats soldier's quarters and cooks their meals. Even mechanical dough-kneaders in field kitchens are run with gasoline. This all-purpose fuel is put to literally hundreds of other vital uses. The list will grow as the war goes on.</p>
+
+<p>The war is "global" for the United Nations only. Germany and Japan are, in effect, logistical islands, organized to fight on tight interior lines. Axis supply routes are much shorter than ours. The need for gasoline and petroleum products is proportionately less.</p>
+
+<p>The United Nations face an immeasurably greater problem. We must operate from distant bases to encircle Axis strongholds. We must provide our equipment with more fuel than the Germans and Japanese can muster on the fighting lines. Moreover, we must consume enormous quantities of petroleum products in order to transport the fuel to the fronts. Undoubtedly the Axis planned on our inability to accomplish so vast and complex a task. But the task has been accomplished. When our forces clash with those of Japan and Germany, almost invariably ours have the deciding c<unclear></unclear>ge in equipment and fuel.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">GASOLINE SUPPLY AND ALLOCATION</head>
+<p>Gasoline for civilians has been rationed in the East since May 15, 1942, when a temporary card plan of rationing was instituted to meet the first supply crisis. Coupon rationing in the East followed on July 22, 1942. Nationwide rationing to save rubber began on December 1, 1942. Additional curtailment in the East Coast states and the District of Columbia became necessary when gasoline supplies could not be maintained without more transportation than was available from the Southwest and the Midwest.</p>
+
+<p>Before the war, 95 per cent of the East's petroleum supply came by tanker. On an average, one of the some 275 tankers would leave the Gulf of an Eastern port at intervals of about 100 minutes. Capacity of the tankers varied between 60,000 and 154,000 barrels per trip. The entire oil economy of the coastal region was based, not on periodic piling up of immense reserves, but on a steady, arterial flow of petroleum by tanker from the oil fields of the Southwest.</p>
+
+<p>As soon as war broke out, the Axis concentrated submarine attacks on our coastwise tankers and sank many. The remainder of the fleet had to be withdrawn to supply oil for the European and Pacific theaters of war.</p>
+
+<p>The only recourse was to improvise until the entire West-East overland transport system could be remodled to make up for the loss of the tanker fleet.</p>
+
+<p>The rapid mobilization of inland oil transport facilities, chiefly some 112,000 tank cars and fleets of tank trucks and barges, and the construction of new pipelines and barges, was one of our major home front victories.</p>
+
+<p>In January, 1942, the capacity for moving petroleum and its products overland from the Southwest to the East Coast was slightly more than 200,000 barrels a day. Nearly a million and a half -- or seven times as much -- can be moved daily now. It is estimated that by March, 1944, we will be able to transport between 1,600,000 and 1,700,000 barrels of petroleum products a day, providing supplies are available. Of the latter amount, 535,000 barrels a day will be provided by the 24" Big Inch pipeline and the 20" line, when both are operating at capacity. An ultimate capacity of 735,000 barrels a day of petroleum is foreseen by PAW when all its pipelines projects are completed.</p>
+
+<p>In the Southwest and Midwest there has never been a serious transportation shortage, even though more than 50,000 tank cars were shunted from areas to serve the East.</p>
+
+<p>The Office of Defense Transportation states that by late spring, when pipelines to the Midwest had been completed, thousands of tank cars previously utilized for long hauls from the Southwest to the East Coast were freed for shorter and more frequent trips between Midwest pipeline terminals and the Eastern shortage area. Tank cars moving oil exclusively from the Midwest to the East can deliver one-third more petroleum products than if they operate half across the continent from the Southwestern oil fields.</p>
+
+<p>However, according to the Petroleum Administration for War, by the time the problem of overland transportation had been brought under control, an entirely new problem had developed. Because of rapid growth of the military needs, a shortage of gasoline itself had developed throughout the area east of the Rocky Mountains. If the severely curtailed East Coast were to receive a more equitable share of the gasoline available to civilians, rations of motorists in the Midwest and Southwest had to be reduced.</p>
+
+<p>This plan, contemplated for months, faced a deep-rooted obstacle. Gasoline for the East had to be routed from Southwestern refineries through Midwestern Commercial channels. Traditionally, the oil industry in the Midwest and the East are in separate economic domains which, in normal times, have few or no dealings with each other. Consequently, Midwestern dealers, after purchasing gasoline from the Southwest, thought of supplying old customers in their own territory before considering resale and shipment to dealers in the East. And Midwestern markets could absorb practically all gasoline that could be brought in.</p>
+
+<p>By midsummer this year, prevailing opinion among the nation's oil men was that gasoline crisis was near. They supported the government in advocating a better balance of supplies between the regions.</p>
+
+<p>On August 15, the following measures were put into effect:</p>
+
+<list>
+<item>(1) PAW established quotas for the Midwest and Southwest, lowering available supplies by about 15 per cent.</item>
+<item>(2) OPA made a corresponding cut in "A", "B", "C" rations in the two regions.</item>
+</list>
+
+<p>When this failed to provide the 75,000 barrels a day needed for the East, PAW requisitioned the necessary gasoline. The full amount is now reaching the East Coast.</p>
+
+<p>In addition to petroleum shipped into the East by land, increasing amounts are now coming by the old coastal water route as more new tankers become available. During September, tanker shipments rose and reserve inventories of gasoline on the East Coast showed corresponding gains.</p>
+
+<p>The second cut in "B" and "C" coupons in the Midwest and Southwest, the raising by &#189; gallon a week of Eastern "A" rations, and the recent reduction of "A", "B", and "C" rations in the Rocky Mountains and West Coast areas were further steps in the planned "equalization" program.</p>
+
+<p>Five government agencies cooperate in the supply and distribution of wartime gasoline to civilians:</p>
+
+<p>THE PETROLEUM ADMINISTRATION FOR WAR has responsibility for production and distribution of all petroleum products to retail outlets where they are delivered to consumers. This agency allocates gasoline to the essential needs of the following: (1) military, (2) war industry, (3) agriculture, (4) basic transportation services, and (5) essential private transportation.</p>
+
+<p>THE OFFICE OF DEFENSE TRANSPORTATION presents to PAW estimates of the gasoline required for the nation's entire civilian transport system, including passenger cars, and certifies the amounts to be allocated to each class of consumer. Commercial rations are allotted through ODT field offices. Clerical details of distributing commercial rations are handled through OPA War Price and Rationing Boards.</p>
+
+<p>THE WAR FOOD ADMINISTRATION estimates the gasoline requirements of "off-highway" equipment used on farms such as tractors, combines, and irrigation machinery.</p>
+
+<p>THE OFFICE OF CIVILIAN REQUIREMENTS claims gasoline for other equipment -- for example, gasoline stoves, equipment for construction, logging, mining, quarrying, railroads, and fishing.</p>
+
+<p>A PETROLEUM REQUIREMENTS COMMITTEE, functioning within PAW and composed of members of all agencies involved in the gasoline problem, considers the claims. The Chairman of the Committee allots quotas on the basis of available supply and military demands.</p>
+
+<p>A PETROLEUM RATIONING POLICY COMMITTEE, functioning within OPA, and composed of representatives of OPA, WFA, PAW, OCR, ODT, and WPB, advises with OPA on rationing policy.</p>
+
+<p>PAW has advocated for its own reorganization greater control of the gasoline supply program. A few weeks ago the relative responsibilities of OPA, PAW, and ODT, were restated to provide for each an increased participation through the Requirements Committee and the Policy Committee in the major gasoline program decisions of the others.</p>
+
+<p>After quotas are set, the OFFICE OF PRICE ADMINISTRATION, through its thousands of local War Price and Rationing Boards, allots gasoline to individual noncommercial consumers. This agency also gives out the commercial rations previously allotted by ODT.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="sub">THE RATIONING SYSTEM</head>
+<p>There are several kinds of coupons because there are several kinds of users:</p>
+<list>
+<item>"A" &#8211; basic passenger car ration.</item>
+<item>"B" and "C" &#8211; supplemental rations for essential passenger car driving tailored to meet individual needs.</item>
+<item>"TT" &#8211; for commercial transportation.</item>
+<item>"E" and "R" &#8211; for farmers and other off-highway users.</item>
+</list>
+
+<p>Coupon rationing has drastically reduced gasoline consumption throughout the country. In January, 1943, according to state gasoline tax figures, civilian passenger car consumption was cut to about 61 per cent of normal. In the Eastern states, the decline in the same period was to 38 per cent of normal. The substantially greater decline in the East than for the country at large is accounted for by the fact that until August, only the East was being rationed to save gasoline. In the balance of the country, rationing was to save rubber.</p>
+
+<p>Severely reduced consumption in the East has had to be continued. Because of the need to keep commercial vehicles and non-highway equipment in operation, the cut in passenger car gasoline had been drastic. Currently Eastern passenger car consumption is about 68 percent below 1941. Even this was not always reduction enough to keep within the quota. Where the quota is exceeded, the excess consumption reduces reserve stocks.</p>
+
+<p>"Excess consumption" is a term often misunderstood. PAW provides a certain amount of gasoline per day, for b<unclear></unclear> quota needs and to maintain or build up reserve stocks. There is no means for segregating reserve from current supplies. Excess consumption simply overdraws from the total amount in bulk storage. At no time has over-consumption exhausted supplies in primary storage, but it has reduced them to such a point that distribution became extremely difficult.</p>
+
+<p>The oil industry estimates it must have a working capital of at least 7,000,000 barrels of gasoline for the Eastern area before there is freedom from distribution difficulties. A certain amount must be maintained in transit. Some stock must be maintained in storage. When stocks fall low, distribution troubles increase tremendously. An example of this principle is the "Big Inch" pipe which must have a line fill of 1,700,000 barrels before it can begin deliveries at its eastern terminal. That amount is, to all intents and purposes, a permanent loss to the consumer; it is as much a part of the machinery of transport as the pipe and pumps.</p>
+
+<p>Until enlarged allocations were made on October 1, civilian gasoline consumers in the East had legally been using about 35,000 barrels a day more than the quotas allotted to them. This was due in part to over-issuance of gasoline coupons and in part to underestimation of probable needs when quotas were originally determined.</p>
+
+<p>Both coupon issuance and quota figures had to be based on whatever estimates were available when the system was inaugurated. Since then surveys have shown that off-highway use (such as for farmers, mines, sawmills, raodbuilding, etc.) was considerably greater than anyone had reason to expect. Not until used coupons began flowing back to the ration boards was it possible to estimate how much gasoline was actually being used by each type of consumer When these coupons were compared with state gasoline tax figures, quotas could be established on the basis of actual consumption.</p>
+
+<p>Revised estimates of off-highway use, which were met in the October quotas for the East, Midwest, and Southwest, were about four times greater than the original allocations for this type of use.</p>
+
+<p>While most ration boards have been careful in issuance of gasoline coupons, OPA recognizes that some boards have been too generous or too lax in the issuance of B and C rations and steps are being taken to correct these situations. Most of this over-issuance stems from erroneous declarations of the amounts of gasoline actually needed by the applicants. In addition, earlier in 1943, ODT and County War Boards were too generous in their treatment of some commercial vehicle operators and farmers.</p>
+
+<p>Loss of gasoline through coupon thefts has been serious problem for the Office of Price Administration. It remains a threat to a tight rationing program.</p>
+
+<p>In the 15 months since coupon rationing went into effect, coupons representing more than 3,000,000 barrels of gasoline have been stolen from ration boards, large numbers o these stolen coupons have been recovered by OPA investigators, aided by other enforcement agents, federal and local.</p>
+
+<p>Counterfeiting was for several months a serious problem in the metropolitan areas of New York and Philadelphia. With the cooperation of the Secret Service and by use of a number of secret detecting devices, the rings were smashed.</p>
+
+<p>In its general efforts to tighten rationing, OPA has required motorists to write their license numbers on each of their gasoline coupons. This endorsement across the face of the coupons must be made as soon as the coupon book is received. It is extremely risky for a dealer to cover up by endorsing coupons bought on the black market because enforcement agents can always check the numbers. OPA enforcement is already taking action to suspend dealers who accept unendorsed coupons, and it plans to revoke the rations of motorists who fail to endorse their coupons.</p>
+
+<p>All persons engaged in illegal coupon traffic will be subject to criminal prosecution. Such offenders are subject, under the Second War Powers Act, to maximum sentences of one year in jail and fines up to $10,000. OPA has asked all United States attorneys to press for jail sentences in those cases.</p>
+
+<p>For several weeks preceding May 20, military taking increased. Civilian consumption rose because of seasonal increases in farm and commercial transportation use. These factors, plus operation of black markets and heavy demands for off-highway use, contributed to sending East Coast consumption 35,000 barrels a day above quota.</p>
+
+<p>It was hoped that reduction of coupon values in the Midwest and Southwest would build up stocks of gasoline for shipping to the East. This reduction, plus a continued building up of Eastern stocks through maintenance for the time being of the pleasure driving ban, was expected to permit complete lifting of the ban, and increase of "A" coupon allowances in the Eastern states.</p>
+
+<p>Unexpected developments prevented lifting of the ban.</p>
+
+<p>First, effectiveness of the pleasure driving ban rapidly deteriorated. Relaxation had started when limited vacation travel was permitted in July. This approved vacation travel made enforcement difficult. Compliance further decreased as optimistic statements were made on supply improvements. By the end of August, despite strong pleas from officials, consumption of gasoline had increased, stocks again were going down, and the supply program again had lagged.</p>
+
+<p>Second, PAW planned to get 50,000 barrels a day from the Midwest and 25,000 from the Southwest. For at least 3 weeks Midwestern gasoline glower east only in trickles until PAW requisitioned supplies at refineries.</p>
+
+<p>Third, in two different areas at least, military takings assumed unexpected proportions, again cutting into stocks. Margins for meeting unexpected demands are always close. Even small changes have a drastic effect.</p>
+
+<p>Fourth, a hurricane struck the Gulf Coast. A number of refineries were damaged severely. Little petroleum was lost directly, but refining capacity was reduced by an estimated 3 million barrels of refined petroleum products, including 100,000 barrels of high-octane gasoline.</p>
+
+<p>These conditions forced change in plains. While the pleasure ban was lifted September 1, the public was warned by OPA and PAW that the gasoline supply situation did not justify an increase in gasoline consumption--that use of gasoline in passenger cars must continue to be restricted to essential driving. Plans for increasing the "A" coupons were held up until October 1.</p>
+
+<p>OPA has found that the pleasure-driving ban is an unsatisfactory and temporary emergency device for use only when supplies break down and regular ration controls are inadequate to meet a crisis.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">OUTLOOK FOR SUPPLIES</head>
+<p>Total oil production for the midwest district has declined from an average of 1,180,000 barrels a day in December, 1941, to 960,000 barrels a day during May, 1943. Search for new midwest sources continues, but PAW estimates that production will drop another 70,000 barrels a day by the first quarter of 1944. Since Pearl Harbor, Midwest crude oil stocks above ground have dropped from 80,000,000 barrels to 69,000,000. Import of crude oil to the Midwest from the Southwest is subject to definite limits. Transport facilities in the region are operating at very nearly their peak, but more are being provided to offset the decline of local production.</p>
+
+<p>While production is still rising in the Southwest, PAW states that the only remaining oil fields capable of increasing supplies in any sizable amount are in West Texas, except for a limited number of fields in East Texas and on the Gulf Coast of Texas and Louisiana. These, according to PAW, can produce little more than 200,000 additional barrels a day--a temporary stop-gap, at best.</p>
+
+<p>The Rocky Mountain area has good prospects for increasing output, but it produces but three per cent of the nation's total. Even the most optimistic see only slight additions to our supply from this source.</p>
+
+<p>West Coast crude oil production has been stepped up from 630,000 barrels daily in December, 1941, to 770,000 barrels daily at the present. Nevertheless, military demands have caused total petroleum stocks to decline during that period by some 12 million barrels. Fuel oil for the Navy and war industries constitutes one of the major petroleum requirements on the Pacific Coast.</p>
+
+<p>Gasoline which is a by-product of refining this fuel oil has reached high stock levels on the West Coast. However, transportation is not available to move Far Western gasoline to the East. Forthcoming Pacific war demands will tax the productive ability of the West Coast to the limit, so that more severe rationing in this area is in prospect.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

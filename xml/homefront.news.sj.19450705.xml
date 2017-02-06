@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.sj.19450705 SYSTEM "homefront.news.sj.19450705.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.sj.19450705">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Horse Meat Has Moved to Table</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.sj.19450705</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Salina Journal</title>
+<title level="a">Horse Meat Has Moved to Table</title>
+<title level="a" type="sub">Topeka Packing Plant Manager Complains That Too Many Are Now in His Business</title>
+<author></author>
+<biblScope type="pages">9</biblScope>
+<biblScope type="columns">6</biblScope>
+<publisher>Salina Journal</publisher>
+<pubPlace>Salina, KS</pubPlace>
+<date value="1945-07-05">1945-07-05</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-meat</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.sj.19450705">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p9"/>
+<head type="main">HORSE MEAT HAS<lb/>MOVED TO TABLE</head>
+<milestone unit="smallbar"/>
+<head type="sub">Topeka Packing Plant Manager<lb/>Complains That Too Many Are<lb/>Now In His Business</head>
+
+<p>TOPEKA, <date value="1945-07-05">July 5</date> (AP)&#8211;Horses are much in the public mind these days-and not all of them are galloping around a race track. A goodly number are becoming the piece de resistance at the family dinner table, according to J. L. Hagens, manager of the Hill Packing Company.</p>
+
+<p>People are just eating the stuff because they can't get beef," Hagens said. "We're shipping between four and five carloads of quarters a day to Boston and New York from our two plants, they eat it back there. All that is in addition to millions of one-pound packages."</p>
+
+<p>War demands in this country, he said, had stopped shipment of horse meat to Europe and none has been sent recently. However, he disclosed plans to begin shipment of some in about 30 days if space becomes available. Asked if reports were true that there is a shortage of horse meat, Hagens said. "There's no particular shortage&#8211;people are just buying a lot of it."</p>
+
+<p>He explained that in the east the meat is sliced into steaks just like beef. Horse meat packers have their troubles with the office of price administration, too, Hagens said, but not because of low ceilings&#8211;they're too high.</p>
+
+<p>"About three years ago," he said, "the OPA got all hot and bothered and put a 10 to 12 cent ceiling on horse meat. If probably was too high for now there are a lot of new horse meat packers in business. It's just like all that publicity we got two or three years ago in the newspapers. That didn't do any good either."</p>
+
+<p>Thumbing casually through a two-foot square scrap book of clippings, Hagens sorrowfully remembered the results, "those clippings brought about 200 new horse meat packers into the business. Everything works out the wrong way."</p>
+
+<p>Besides the Topeka plant, Hill's operate a horse meat packing plant at Estherville, Ia. Other markets served by the two plants, Hagens said, included Chicago, South Bend, Ind., Louisville, Ky., and Kansas City.</p>
+
+<p>"Why Kansas City uses two million pounds of horse meats a year," Hagens said, adding, "and it isn't all fed to dogs, either."</p>
+
+<p>Some of the horses slaughtered by Hill's are of the wild range type, but mostly they are old, worn out "soapers," Hagens said.</p>
+
+<p>"There are also some plants in California serving the west coast," he said.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+
+

@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.docs.0016">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Community Pricing of Certain Food Products</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.docs.0016</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<!-- [Office of Price Administration, Oklahoma City District Office Region V Order No G-1, Under General Order 51, Community Pricing of Certain Food Products] May, 1943 -->
+
+<bibl>
+<title level="a" type="main">Community Pricing of Certain Food Products</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages"></biblScope>
+<publisher>Office of Price Administration</publisher>
+<pubPlace></pubPlace>
+<date value="1943-05">1943-05</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-01</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Encoding Enrichment</item>
+</change>
+<change>
+<date>2007-10-31</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-10-31</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<head type="main">OFFICE OF PRICE ADMINISTRATION<lb/>
+OKLAHOMA CITY DISTRICT OFFICE REGION V<lb/>
+ORDER NO. G-1 UNDER GENERAL ORDER NO. 51<lb/>
+COMMUNITY PRICING OF CERTAIN FOOD PRODUCTS<lb/></head>
+<div1>
+<p>SECTION 1.	WHAT THIS ORDER DOES.	In accordance with the provisions of General Order No. 51, this order establishes in Section 6, community dollars and cents ceiling prices for certain food items sold in Class 1 retail stores located in the following areas: Oklahoma, Canadian, and Cleveland Counties, Oklahoma.</p>
+
+<p>SECTION 2.	APPLICATION TO OTHER SELLERS.	No seller except a "Retail Route Seller", may charge more than these community dollars and cents ceiling prices. Retail Route Sellers may continue to charge their present ceiling prices. The community ceiling prices shall be the only ceiling prices for such food items for "Class 1 retail stores". (A Class 1 retail store is an independent retail establishment doing less than $50,000 annual gross volume.) All other sellers must continue to charge no more than ceiling prices established by any other applicable price regulations.</p>
+
+<p>SECTION 3.	POSTING (a)	Selling Prices. All retail stores must post their selling prices for the food items listed below on the item or at or near the place where such food item is offered for sale.</p>
+
+<p>(b)	Ceiling Prices. All Class 1 retail stores must post in a conspicuous place in the store, a list of the community ceiling prices for such food items, when such list is supplied by the Office of Price Administration. Other retailers must continue to post ceiling prices as required by any other applicable regulation fixing their ceiling prices.</p>
+
+<p>(c)	Class of Store. All retail stores selling any of the food items listed below must post a sign reading "OPA-1", "OPA-2", "OPA-3", or "OPA-4" whichever applies so that it can be clearly seen by their customers. The definitions of classes of retailers shall be those contained in Revised Maximum Price Regulation Nos. 238 and 268.</p>
+
+<p>SECTION 4.	APPLICABILITY OF GENERAL ORDER NO. 51.	This order is subject to all the provisions of General Order No. 51, which are hereby made a part of this order.</p>
+
+<p>SECTION 5.	EFFECTIVE DATE.	This order becomes effective on May 10, 1943.</p>
+
+<p>SECTION 6.	THE COMMUNITY DOLLARS AND CENTS CEILING PRICES ESTABLISHED.	The following is a list of the food items and the community ceiling prices thereof.</p>
+</div1>
+
+<div1>
+<head type="sub"><hi rend="underline">OKLAHOMA, CANADIAN, AND CLEVELAND COUNTIES<lb/>
+FOOD COMMODITY GROUPS<lb/>
+COMMUNITY PRICES</hi><lb/>
+</head>
+
+<table rows="56" cols="3">
+<row><cell role="label"></cell><cell role="label"></cell><cell role="label"><hi rend="underline">RETAIL COMMUNITY<lb/>PRICE</hi></cell></row>
+<row><cell role="label">I. <hi rend="underline">CEREALS, BREAKFAST</hi></cell><cell></cell><cell></cell></row>
+<row><cell role="desc">Corn Kix</cell><cell role="data">7 oz.</cell><cell role="data">14&#162;</cell></row>
+<row><cell role="desc">Wheaties</cell><cell role="data">8 oz.</cell><cell role="data">13&#162;</cell></row>
+<row><cell role="desc">Cherri Oats</cell><cell role="data">7 oz.</cell><cell role="data">14&#162;</cell></row>
+<row><cell role="desc">Kellogg Corn Flakes</cell><cell role="data">11 oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">Kellogg All Bran</cell><cell role="data">10 oz.</cell><cell role="data">14&#162;</cell></row>
+<row><cell role="desc">Kellogg All Bran</cell><cell role="data">16 oz.</cell><cell role="data">22&#162;</cell></row>
+<row><cell role="desc">Kellogg Rice Krispies</cell><cell role="data">5&#189; oz.</cell><cell role="data">14&#162;</cell></row>
+<row><cell role="desc">Kellogg Shredded Wheat</cell><cell role="data">12 oz.</cell><cell role="data">12&#162;</cell></row>
+<row><cell role="desc">Kellogg Wheat Krumbles</cell><cell role="data">9 oz.</cell><cell role="data">13&#162;</cell></row>
+<row><cell role="desc">Kellogg 40&#37; Bran Flakes</cell><cell role="data">8 oz.</cell><cell role="data">11&#162;</cell></row>
+<row><cell role="desc">Kellogg Varieties-Individuals- 10 pkgs. to Carton</cell><cell role="data"></cell><cell role="data">26&#162;</cell></row>
+<row><cell role="desc">Quaker Puffed Wheat</cell><cell role="data">4 oz.</cell><cell role="data">11&#162;</cell></row>
+<row><cell role="desc">Quaker Puffed Rice</cell><cell role="data">4&#189; oz.</cell><cell role="data">13&#162;</cell></row>
+<row><cell role="desc">Shredded Ralston</cell><cell role="data">12 oz.</cell><cell role="data">14&#162;</cell></row>
+<row><cell role="desc">Post Toasties</cell><cell role="data">11 oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">Post Toasties</cell><cell role="data">18 oz.</cell><cell role="data">14&#162;</cell></row>
+<row><cell role="desc">Grape Nuts</cell><cell role="data">12 oz.</cell><cell role="data">16&#162;</cell></row>
+<row><cell role="desc">Grape Nut Flakes</cell><cell role="data">7 oz.</cell><cell role="data">11&#162;</cell></row>
+<row><cell role="desc">Grape Nut Flakes</cell><cell role="data">12 oz.</cell><cell role="data">16&#162;</cell></row>
+<row><cell role="desc">Post's 40&#37; Bran Flakes</cell><cell role="data">8 oz.</cell><cell role="data">11&#162;</cell></row>
+<row><cell role="desc">Post's 40&#37; Bran Flakes</cell><cell role="data">14 oz.</cell><cell role="data">16&#162;</cell></row>
+<row><cell role="desc">Post-Tens (Individuals-10 pkgs to Carton)</cell><cell role="data"></cell><cell role="data">26&#162;</cell></row>
+<row><cell role="desc">Nabisco Shredded Wheat (Regular's)</cell><cell role="data"></cell><cell role="data">13&#162;</cell></row>
+<row><cell role="desc">Heinz Rice Flakes</cell><cell role="data">6&#189; oz</cell><cell role="data">12&#162;</cell></row>
+<row><cell role="desc">Skinner's Rasin Bran</cell><cell role="data">11 oz</cell><cell role="data">12&#162;</cell></row>
+<row><cell role="desc">Cream of Wheat-Regular and 5-minute</cell><cell role="data">28 oz</cell><cell role="data">26&#162;</cell></row>
+<row><cell role="desc">Cream of Wheat-Regular and 5-Minute</cell><cell role="data">14 oz.</cell><cell role="data">15&#162;</cell></row>
+<row><cell role="desc">Pillsbury's Best Farina</cell><cell role="data">1-3/4 lb.</cell><cell role="data">16&#162;</cell></row>
+<row><cell role="desc">Pillsbury's Best Farina</cell><cell role="data">14 oz</cell><cell role="data">9&#162;</cell></row>
+<row><cell role="desc">Mother's Oats with Premium</cell><cell role="data">48 oz</cell><cell role="data">33&#162;</cell></row>
+<row><cell role="desc">Crystal Wedding Oats</cell><cell role="data">20 oz.</cell><cell role="data">11&#162;</cell></row>
+<row><cell role="desc">Crystal Wedding Oats</cell><cell role="data">48 oz.</cell><cell role="data">24&#162;</cell></row>
+<row><cell role="desc">Quaker Oats</cell><cell role="data">48 oz.</cell><cell role="data">26&#162;</cell></row>
+<row><cell role="desc">Quaker Oats</cell><cell role="data">20 oz.</cell><cell role="data">12&#162;</cell></row>
+<row><cell role="desc">Quaker Hominy Grits</cell><cell role="data">24 oz.</cell><cell role="data">9&#162;</cell></row>
+<row><cell role="desc">Ralston Wheat Cereal</cell><cell role="data">24 oz.</cell><cell role="data">25&#162;</cell></row>
+<row><cell role="desc">Instant Ralston</cell><cell role="data">1 lb.</cell><cell role="data">24&#162;</cell></row>
+<row><cell role="desc">Malt-O-Meal</cell><cell role="data">26 oz.</cell><cell role="data">26&#162;</cell></row>
+<row><cell role="desc">Nat'l. 3-Minute Oats</cell><cell role="data">20 oz.</cell><cell role="data">12&#162;</cell></row>
+<row><cell role="desc">Nat'l. 3-Minute Oats</cell><cell role="data">48 oz.</cell><cell role="data">25&#162;</cell></row>
+<row><cell role="desc">Gerber's Dry Cereal</cell><cell role="data">8 oz.</cell><cell role="data">14&#162;</cell></row>
+<row><cell role="desc">Gerber's Dry Oatmeal</cell><cell role="data">8 oz.</cell><cell role="data">15&#162;</cell></row>
+<row><cell role="desc">Clapp's Dry Cereal</cell><cell role="data">8 oz.</cell><cell role="data">15&#162;</cell></row>
+<row><cell role="desc">Clapp's Dry Oatmeal</cell><cell role="data">8 oz.</cell><cell role="data">14&#162;</cell></row>
+<row><cell role="desc">Jersey Bran Flakes</cell><cell role="data">15 oz.</cell><cell role="data">11&#162;</cell></row>
+<row><cell role="desc">Jersey Corn Flakes</cell><cell role="data">11 oz.</cell><cell role="data">9&#162;</cell></row>
+<row><cell role="desc">O'So Good Bran Flakes</cell><cell role="data">15 oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">O'So Good Corn Flakes</cell><cell role="data">11 oz.</cell><cell role="data">8&#162;</cell></row>
+<row><cell role="desc">Shurfine Wheat Tempties</cell><cell role="data">8 oz.</cell><cell role="data">7&#162;</cell></row>
+<row><cell role="desc">Shurfine Corn Flakes</cell><cell role="data">11 oz.</cell><cell role="data">8&#162;</cell></row>
+<row><cell role="desc">Shurfine Bran Flakes</cell><cell role="data">14 oz.</cell><cell role="data">12&#162;</cell></row>
+<row><cell role="desc">Shurfine Oats</cell><cell role="data">Small</cell><cell role="data">11&#162;</cell></row>
+<row><cell role="desc">Shurfine Oats</cell><cell role="data">Large</cell><cell role="data">22&#162;</cell></row>
+
+<row><cell role="label">II. <hi rend="underline">COFFEE</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Del Monte &#8211; Glass</cell><cell role="data">1 lb.</cell><cell role="data">38&#162;</cell></row>
+<row><cell role="desc">Sanka &#8211; Glass</cell><cell role="data">1 lb.</cell><cell role="data">41&#162;</cell></row>
+<row><cell role="desc">Kaffee Hag &#8211; Glass</cell><cell role="data">1 lb.</cell><cell role="data">40&#162;</cell></row>
+<row><cell role="desc">Maxwell House&#8211;Paper</cell><cell role="data">1 lb.</cell><cell role="data">35&#162;</cell></row>
+<row><cell role="desc">Maxwell House &#8211; Glass</cell><cell role="data">1 lb.</cell><cell role="data">38&#162;</cell></row>
+<row><cell role="desc">Chase &amp; Sanborn - Paper</cell><cell role="data">1 lb.</cell><cell role="data">34&#162;</cell></row>
+<row><cell role="desc">Folger's &#8211; Paper</cell><cell role="data">1 lb.</cell><cell role="data">35&#162;</cell></row>
+<row><cell role="desc">Folger's &#8211; Glass</cell><cell role="data">1 lb.</cell><cell role="data">38&#162;</cell></row>
+<row><cell role="desc">Fleming's Vacuum Pack</cell><cell role="data">1 lb.</cell><cell role="data">35&#162;</cell></row>
+<row><cell role="desc">Griffin's Vacuum Sealed Bag</cell><cell role="data">1 lb.</cell><cell role="data">35&#162;</cell></row>
+<row><cell role="desc">Magnolia &#8211; Paper</cell><cell role="data">1 lb.</cell><cell role="data">34&#162;</cell></row>
+<row><cell role="desc">Nash's &#8211; Glass</cell><cell role="data">1 lb.</cell><cell role="data">35&#162;</cell></row>
+<row><cell role="desc">O'So Good Vactin</cell><cell role="data">1 lb.</cell><cell role="data">30&#162;</cell></row>
+<row><cell role="desc">Cain's &#8211; Paper</cell><cell role="data">1 lb.</cell><cell role="data">29&#162;</cell></row>
+
+<row><cell role="label">III. <hi rend="underline">FISH, PROCESSED<lb/>Salmon &#8211; Pink</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Whiteworth</cell><cell role="data">1 lb.</cell><cell role="data">27&#162;</cell></row>
+<row><cell role="desc">King Bird</cell><cell role="data">1 lb.</cell><cell role="data">27&#162;</cell></row>
+<row><cell role="desc">Pink Beauty</cell><cell role="data">1 lb.</cell><cell role="data">27&#162;</cell></row>
+<row><cell role="desc">Bell Lake</cell><cell role="data">1 lb.</cell><cell role="data">27&#162;</cell></row>
+<row><cell role="desc">Silvalaska</cell><cell role="data">1 lb.</cell><cell role="data">28&#162;</cell></row>
+<row><cell role="desc">QQ Fink</cell><cell role="data">1 lb.</cell><cell role="data">27&#162;</cell></row>
+<row><cell role="desc">Happy Vale</cell><cell role="data">1 lb.</cell><cell role="data">29&#162;</cell></row>
+<row><cell role="desc">Peter Pan</cell><cell role="data">1 lb.</cell><cell role="data">27&#162;</cell></row>
+
+<row><cell role="label"><hi rend="underline">Salmon &#8211; Medium Red</hi>:</cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Cohoe's Courage</cell><cell role="data">1 lb.</cell><cell role="data">37&#162;</cell></row>
+<row><cell role="desc">Cohoe's Red Bird</cell><cell role="data">1 lb.</cell><cell role="data">40&#162;</cell></row>
+<row><cell role="desc">Cohoe's Sweet Pea</cell><cell role="data">1 lb.</cell><cell role="data">39&#162;</cell></row>
+
+<row><cell role="label"><hi rend="underline">Salmon &#8211; Red</hi>:</cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Libby's</cell><cell role="data">1 lb.</cell><cell role="data">50&#162;</cell></row>
+<row><cell role="desc">Sea Kist</cell><cell role="data">1 lb.</cell><cell role="data">49&#162;</cell></row>
+<row><cell role="desc">Red Bay Red Sockeye</cell><cell role="data">1 lb.</cell><cell role="data">49&#162;</cell></row>
+<row><cell role="desc">Red Bay Red Sockeye</cell><cell role="data">&#189; lb.</cell><cell role="data">33&#162;</cell></row>
+<row><cell role="desc">Red Beauty</cell><cell role="data">1 lb.</cell><cell role="data">49&#162;</cell></row>
+
+<row><cell role="label"><hi rend="underline">Salmon &#8211; Chum</hi>:</cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Golden Ray Chum</cell><cell role="data">1 lb.</cell><cell role="data">26&#162;</cell></row>
+<row><cell role="desc">Ark Chum</cell><cell role="data">1 lb.</cell><cell role="data">26&#162;</cell></row>
+<row><cell role="desc">Tomah Chum</cell><cell role="data">1 lb.</cell><cell role="data">27&#162;</cell></row>
+
+<row><cell role="label"><hi rend="underline">Miscellaneous:</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Alamo Tuna</cell><cell role="data">&#189; lb.</cell><cell role="data">39&#162;</cell></row>
+<row><cell role="desc">Breast of Chicken Tuna</cell><cell role="data">&#189; lb.</cell><cell role="data">48&#162;</cell></row>
+
+<row><cell role="label">IV. <hi rend="underline">FLOUR AND FLOUR MIXES</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Swansdown</cell><cell role="data">2-3/4 lb.</cell><cell role="data">32&#162;</cell></row>
+<row><cell role="desc">Softasilk</cell><cell role="data">2-3/4 lb.</cell><cell role="data">32&#162;</cell></row>
+<row><cell role="desc">Snosheen</cell><cell role="data">2-3/4 lb.</cell><cell role="data">31&#162;</cell></row>
+<row><cell role="desc">I.G.A.</cell><cell role="data">2-3/4 lb.</cell><cell role="data">32&#162;</cell></row>
+<row><cell role="desc">Bisquick</cell><cell role="data">20 oz.</cell><cell role="data">21&#162;</cell></row>
+<row><cell role="desc">Bisquick</cell><cell role="data">40 oz.</cell><cell role="data">38&#162;</cell></row>
+<row><cell role="desc">Dromodary Gingerbread Mix</cell><cell role="data">14 oz.</cell><cell role="data">22&#162;</cell></row>
+<row><cell role="desc">Duff's Gingerbread Mix</cell><cell role="data">14 oz.</cell><cell role="data">24&#162;</cell></row>
+<row><cell role="desc">Duff's Waffle Mix</cell><cell role="data">14 oz.</cell><cell role="data">24&#162;</cell></row>
+<row><cell role="desc">Aunt Jemima Pancake</cell><cell role="data">1&#189; lb.</cell><cell role="data">13&#162;</cell></row>
+<row><cell role="desc">Aunt Jamima Pancake</cell><cell role="data">2&#189; lb.</cell><cell role="data">24&#162;</cell></row>
+<row><cell role="desc">Aunt Jemima Buckwheat</cell><cell role="data">1&#188; lb.</cell><cell role="data">15&#162;</cell></row>
+<row><cell role="desc">Aunt Jemima Buckwheat</cell><cell role="data">2&#189; lb.</cell><cell role="data">29&#162;</cell></row>
+<row><cell role="desc">Pillsbury's Pancake</cell><cell role="data">1&#188; lb.</cell><cell role="data">13&#162;</cell></row>
+<row><cell role="desc">Pillsbury's Pancake</cell><cell role="data">3&#189; lb.</cell><cell role="data">24&#162;</cell></row>
+<row><cell role="desc">Light Crust Pancake</cell><cell role="data">1&#188; lb.</cell><cell role="data">11&#162;</cell></row>
+
+<row><cell role="label"><hi rend="underline">FAMILY FLOUR</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc" cols="3">Note: Flour generally is selling well below ceiling prices, consequently quotations are not given herein.</cell></row>
+
+<row><cell role="label">V. <hi rend="underline">GRAPEFRUIT JUICE</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Belle Isle</cell><cell role="data">&#35;2</cell><cell role="data">16&#162;</cell></row>
+<row><cell role="desc">Belle Isle</cell><cell role="data">46 oz.</cell><cell role="data">35&#162;</cell></row>
+<row><cell role="desc">Tex Delta</cell><cell role="data">&#35;2</cell><cell role="data">16&#162;</cell></row>
+<row><cell role="desc">Tex Delta</cell><cell role="data">46 oz.</cell><cell role="data">46 oz.</cell></row>
+<row><cell role="desc">Bounty</cell><cell role="data">18 oz.</cell><cell role="data">15&#162;</cell></row>
+<row><cell role="desc">Bounty</cell><cell role="data">46 oz.</cell><cell role="data">36&#162;</cell></row>
+<row><cell role="desc">Val-Tex</cell><cell role="data">20 oz.</cell><cell role="data">15&#162;</cell></row>
+<row><cell role="desc">Val-Tex</cell><cell role="data">46 oz.</cell><cell role="data">34&#162;</cell></row>
+<row><cell role="desc">Tex-Sun</cell><cell role="data">46 oz.</cell><cell role="data">35&#162;</cell></row>
+<row><cell role="desc">Tex-Sun</cell><cell role="data">&#35;2</cell><cell role="data">15&#162;</cell></row>
+<row><cell role="desc">Nu-Zest</cell><cell role="data">&#35;2</cell><cell role="data">16&#162;</cell></row>
+<row><cell role="desc">Full-O-Sun</cell><cell role="data">46 oz.</cell><cell role="data">36&#162;</cell></row>
+<row><cell role="desc">Glen-Rae Pink</cell><cell role="data">46 oz.</cell><cell role="data">36&#162;</cell></row>
+<row><cell role="desc">Polar Bear</cell><cell role="data">&#35;2</cell><cell role="data">16&#162;</cell></row>
+<row><cell role="desc">Polar Bear</cell><cell role="data">46 oz.</cell><cell role="data">36&#162;</cell></row>
+<row><cell role="desc">Bordo</cell><cell role="data">&#35;2</cell><cell role="data">15&#162;</cell></row>
+<row><cell role="desc">Bordo</cell><cell role="data">46 oz.</cell><cell role="data">34&#162;</cell></row>
+<row><cell role="desc">Valley Rose</cell><cell role="data">&#35;2</cell><cell role="data">15&#162;</cell></row>
+<row><cell role="desc">Valley Rose</cell><cell role="data">46 oz.</cell><cell role="data">34&#162;</cell></row>
+<row><cell role="desc">Sunny South</cell><cell role="data">18 oz.</cell><cell role="data">15&#162;</cell></row>
+
+<row><cell role="label">VI. <hi rend="underline">ORANGE JUICE</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Treesweet</cell><cell role="data">12 oz.</cell><cell role="data">15&#162;</cell></row>
+<row><cell role="desc">Treesweet</cell><cell role="data">46 oz.</cell><cell role="data">48&#162;</cell></row>
+
+<row><cell role="label">VII. <hi rend="underline">FRUITS, DRIED AND DEHYDRATED</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Sunsweet Prunes, Medium Size</cell><cell role="data">1 lb.</cell><cell role="data">18&#162;</cell></row>
+<row><cell role="desc">Sunsweet Prunes, Medium Size</cell><cell role="data">2 lb.</cell><cell role="data">33&#162;</cell></row>
+<row><cell role="desc">Sunsweet Prunes, Large Size</cell><cell role="data">1 lb.</cell><cell role="data">20&#162;</cell></row>
+<row><cell role="desc">Sunsweet Prunes, Large Size</cell><cell role="data">2 lb.</cell><cell role="data">37&#162;</cell></row>
+<row><cell role="desc">Del Monte Prunes, Medium Size</cell><cell role="data">1 lb.</cell><cell role="data">18&#162;</cell></row>
+<row><cell role="desc">Del Monte Prunes, Medium Size</cell><cell role="data">2 lb.</cell><cell role="data">34&#162;</cell></row>
+<row><cell role="desc">Shurfine Prunes, Large</cell><cell role="data">1 lb.</cell><cell role="data">20&#162;</cell></row>
+<row><cell role="desc">I.G.A. Prunes, Large</cell><cell role="data">2 lb.</cell><cell role="data">36&#162;</cell></row>
+<row><cell role="desc">Honeybunch Thompson's Seedless Raisins</cell><cell role="data">2 lb.</cell><cell role="data">29&#162;</cell></row>
+<row><cell role="desc">Honeybunch Thompson's Seedless Raisins</cell><cell role="data">4 lb.</cell><cell role="data">57&#162;</cell></row>
+<row><cell role="desc">True Sweet Thompson's Seedless Raisins</cell><cell role="data">2 lb.</cell><cell role="data">29&#162;</cell></row>
+<row><cell role="desc">True Sweet Thompson's Seedless Raisins</cell><cell role="data">4 lb.</cell><cell role="data">57&#162;</cell></row>
+<row><cell role="desc">Polar Bear Seedless Raisins (Cello pkg.)</cell><cell role="data">2 lb.</cell><cell role="data">31&#162;</cell></row>
+<row><cell role="desc">Polar Bear Seedless Raisins (Cello pkg.)</cell><cell role="data">4 lb.</cell><cell role="data">62&#162;</cell></row>
+<row><cell role="desc">Shurfine Thompson's Seedless Raisins</cell><cell role="data">15 oz.</cell><cell role="data">15&#162;</cell></row>
+<row><cell role="desc">Shurfine Muscat Raisins</cell><cell role="data">15 oz.</cell><cell role="data">20&#162;</cell></row>
+<row><cell role="desc">Golden Glow Raisins</cell><cell role="data">15 oz.</cell><cell role="data">11&#162;</cell></row>
+
+<row><cell role="label">VIII. <hi rend="underline">HONEY AND PEANUT BUTTER</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Peter Pan Peanut Butter</cell><cell role="data">32 oz. jar</cell><cell role="data">88&#162;</cell></row>
+<row><cell role="desc">Peter Pan Peanut Butter</cell><cell role="data">13 oz. Jar</cell><cell role="data">40&#162;</cell></row>
+<row><cell role="desc">Peter Pan Peanut Butter</cell><cell role="data">4&#189; oz. Jar</cell><cell role="data">15&#162;</cell></row>
+<row><cell role="desc">Heinz Peanut Butter</cell><cell role="data">9&#189; oz. Jar</cell><cell role="data">29&#162;</cell></row>
+<row><cell role="desc">Heinz Peanut Butter</cell><cell role="data">1 lb. Jar</cell><cell role="data">45&#162;</cell></row>
+<row><cell role="desc">Polar Bear</cell><cell role="data">46 oz.</cell><cell role="data">36&#162;</cell></row>
+<row><cell role="desc">Bordo</cell><cell role="data">&#35;2</cell><cell role="data">15&#162;</cell></row>
+<row><cell role="desc">Bordo</cell><cell role="data">46 oz.</cell><cell role="data">34&#162;</cell></row>
+<row><cell role="desc">Valley Rose</cell><cell role="data">&#35;2</cell><cell role="data">15&#162;</cell></row>
+<row><cell role="desc">Valley Rose</cell><cell role="data">46 oz.</cell><cell role="data">34&#162;</cell></row>
+<row><cell role="desc">Sunny South</cell><cell role="data">18 oz.</cell><cell role="data">15&#162;</cell></row>
+
+<row><cell role="label">VI. <hi rend="underline">ORANGE JUICE</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Treesweet</cell><cell role="data">12 oz.</cell><cell role="data">15&#162;</cell></row>
+<row><cell role="desc">Treesweet</cell><cell role="data">46 oz.</cell><cell role="data">48&#162;</cell></row>
+
+<row><cell role="desc">VII. <hi rend="underline">FRUITS, DRIED AND DEHYDRATED</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Sunsweet Prunes, Medium Size</cell><cell role="data">1 lb.</cell><cell role="data">18&#162;</cell></row>
+<row><cell role="desc">Sunsweet Prunes, Medium Size</cell><cell role="data">2 lb.</cell><cell role="data">33&#162;</cell></row>
+<row><cell role="desc">Sunsweet Prunes, Large Size</cell><cell role="data">1 lb.</cell><cell role="data">20&#162;</cell></row>
+<row><cell role="desc">Sunsweet Prunes, Large Size</cell><cell role="data">2 lb.</cell><cell role="data">37&#162;</cell></row>
+<row><cell role="desc">Del Monte Prunes, Medium Size</cell><cell role="data">1 lb.</cell><cell role="data">18&#162;</cell></row>
+<row><cell role="desc">Del Monte Prunes, Medium Size</cell><cell role="data">2 lb.</cell><cell role="data">34&#162;</cell></row>
+<row><cell role="desc">Shurfine Prunes, Large</cell><cell role="data">1 lb.</cell><cell role="data">20&#162;</cell></row>
+<row><cell role="desc">I.G.A. Prunes, Large</cell><cell role="data">2 lb.</cell><cell role="data">36&#162;</cell></row>
+<row><cell role="desc">Honeybunch Thompson's Seedless Raisins</cell><cell role="data">2 lb.</cell><cell role="data">29&#162;</cell></row>
+<row><cell role="desc">Honeybunch Thompson's Seedless Raisins</cell><cell role="data">4 lb.</cell><cell role="data">57&#162;</cell></row>
+<row><cell role="desc">True Sweet Thompson's Seedless Raisins</cell><cell role="data">2 lb.</cell><cell role="data">29&#162;</cell></row>
+<row><cell role="desc">True Sweet Thompson's Seedless Raisins</cell><cell role="data">4 lb.</cell><cell role="data">57&#162;</cell></row>
+<row><cell role="desc">Polar Bear Seedless Raisins (Cello pkg.)</cell><cell role="data">2 lb.</cell><cell role="data">31&#162;</cell></row>
+<row><cell role="desc">Polar Bear Seedless Raisins (Cello pkg.)</cell><cell role="data">4 lb.</cell><cell role="data">62&#162;</cell></row>
+<row><cell role="desc">Shurfine Thompson's Seedless Raisins</cell><cell role="data">15 oz.</cell><cell role="data">15&#162;</cell></row>
+<row><cell role="desc">Shurfine Muscat Raisins</cell><cell role="data">15 oz.</cell><cell role="data">20&#162;</cell></row>
+<row><cell role="desc">Golden Glow Raisins</cell><cell role="data">15 oz.</cell><cell role="data">11&#162;</cell></row>
+
+<row><cell role="desc">Peter Pan Peanut Butter</cell><cell role="data">32 oz. jar</cell><cell role="data">88&#162;</cell></row>
+<row><cell role="desc">Peter Pan Peanut Butter</cell><cell role="data">13 oz. Jar</cell><cell role="data">40&#162;</cell></row>
+<row><cell role="desc">Peter Pan Peanut Butter</cell><cell role="data">4&#189; oz. Jar</cell><cell role="data">15&#162;</cell></row>
+<row><cell role="desc">Heinz Peanut Butter</cell><cell role="data">9&#189; oz. Jar</cell><cell role="data">29&#162;</cell></row>
+<row><cell role="desc">Heinz Peanut Butter</cell><cell role="data">1 lb. Jar</cell><cell role="data">45&#162;</cell></row>
+
+<row><cell role="desc">Pecan Valley Peanut Butter</cell><cell role="data">8 oz. jar</cell><cell role="data">17&#162;</cell></row>
+<row><cell role="desc">Pecan Valley Peanut Butter</cell><cell role="data">16 oz. Jar</cell><cell role="data">35&#162;</cell></row>
+<row><cell role="desc">Pecan Valley Peanut Butter</cell><cell role="data">24 oz. Jar</cell><cell role="data">51&#162;</cell></row>
+<row><cell role="desc">Pecan Valley Peanut Butter</cell><cell role="data">32 oz. Jar</cell><cell role="data">66&#162;</cell></row>
+<row><cell role="desc">Polar Bear Peanut Butter</cell><cell role="data">7 oz. Jar</cell><cell role="data">17&#162;</cell></row>
+<row><cell role="desc">Polar Bear Peanut Butter</cell><cell role="data">12 oz. Jar</cell><cell role="data">28&#162;</cell></row>
+<row><cell role="desc">Polar Bear Peanut Butter</cell><cell role="data">24 oz. Jar</cell><cell role="data">51&#162;</cell></row>
+<row><cell role="desc">Beechnut Peanut Butter</cell><cell role="data">8 oz. Jar</cell><cell role="data">26&#162;</cell></row>
+<row><cell role="desc">Beechnut Peanut Butter</cell><cell role="data">1 lb. Jar</cell><cell role="data">44&#162;</cell></row>
+<row><cell role="desc">Star Peanut Butter</cell><cell role="data">16 oz. Jar</cell><cell role="data">35&#162;</cell></row>
+<row><cell role="desc">Star Peanut Butter</cell><cell role="data">24 oz. Jar</cell><cell role="data">51&#162;</cell></row>
+<row><cell role="desc">Star Peanut Butter</cell><cell role="data">32 oz. Jar</cell><cell role="data">64&#162;</cell></row>
+<row><cell role="desc">K. B. Peanut Butter</cell><cell role="data">6 oz. Jar</cell><cell role="data">15&#162;</cell></row>
+<row><cell role="desc">K. B. Peanut Butter</cell><cell role="data">1 lb. Jar</cell><cell role="data">35&#162;</cell></row>
+<row><cell role="desc">K. B. Peanut Butter</cell><cell role="data">24 oz. Jar</cell><cell role="data">50&#162;</cell></row>
+<row><cell role="desc">Nature's Best Peanut Butter</cell><cell role="data">24 oz. Jar</cell><cell role="data">48&#162;</cell></row>
+<row><cell role="desc">Nature's Best Peanut Butter</cell><cell role="data">1 lb. Jar</cell><cell role="data">34&#162;</cell></row>
+<row><cell role="desc">Nature's Best Peanut Butter</cell><cell role="data">2 lb. Jar</cell><cell role="data">62&#162;</cell></row>
+<row><cell role="desc">Wholesome Peanut Butter</cell><cell role="data">1 lb. Jar</cell><cell role="data">43&#162;</cell></row>
+<row><cell role="desc">Tastewell Peanut Butter</cell><cell role="data">24 oz.</cell><cell role="data">34&#162;</cell></row>
+<row><cell role="desc">Jumbo Peanut Butter</cell><cell role="data">1 lb. Jar</cell><cell role="data">36&#162;</cell></row>
+<row><cell role="desc">Okla. Brand Peanut Butter</cell><cell role="data">9 oz. Jar</cell><cell role="data">50&#162;</cell></row>
+<row><cell role="desc">Cloverbloom Honey</cell><cell role="data">1 lb. Jar</cell><cell role="data">36&#162;</cell></row>
+<row><cell role="desc">White Pony Honey</cell><cell role="data">9 oz. Jar</cell><cell role="data">21&#162;</cell></row>
+<row><cell role="desc">Superior Honey</cell><cell role="data">1 lb. Jar</cell><cell role="data">36&#162;</cell></row>
+<row><cell role="desc">Superior Honey</cell><cell role="data">2 lb. Jar</cell><cell role="data">68&#162;</cell></row>
+<row><cell role="desc">Three Bee Honey</cell><cell role="data">8 oz. Jar</cell><cell role="data">20&#162;</cell></row>
+<row><cell role="desc">Three Bee Honey</cell><cell role="data">1 lb. Jar</cell><cell role="data">37&#162;</cell></row>
+<row><cell role="desc">Three Bee Honey</cell><cell role="data">2 lb. Tin</cell><cell role="data">69&#162;</cell></row>
+<row><cell role="desc">Bradshaw Strained Honey</cell><cell role="data">1 lb. Jar</cell><cell role="data">34&#162;</cell></row>
+<row><cell role="desc">Bradshaw Strained Honey</cell><cell role="data">1 lb. Tin</cell><cell role="data">34&#162;</cell></row>
+<row><cell role="desc">Bradshaw Strained Honey</cell><cell role="data">2&#189; lb. Tin</cell><cell role="data">74&#162;</cell></row>
+<row><cell role="desc">Bradshaw Strained Honey</cell><cell role="data">5 lb. Tin</cell><cell role="data">1.40</cell></row>
+<row><cell role="desc">Swift's Silverleaf Lard</cell><cell role="data">1 lb.</cell><cell role="data">22&#162;</cell></row>
+<row><cell role="desc">Wilson's Advance Lard</cell><cell role="data">1 lb.</cell><cell role="data">22&#162;</cell></row>
+<row><cell role="desc">Wilson's Laurel Leaf</cell><cell role="data">1 lb.</cell><cell role="data">20&#162;</cell></row>
+<row><cell role="desc">Armour's Lard</cell><cell role="data">2 lb.</cell><cell role="data">41&#162;</cell></row>
+
+<row><cell role="label">X. <hi rend="underline">MACARONI AND SPAGHETTI PRODUCTS</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Skinner's Macaroni</cell><cell role="data">7 oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">American Beauty Macaroni</cell><cell role="data">7 oz.</cell><cell role="data">9&#162;</cell></row>
+<row><cell role="desc">American Beauty Macaroni</cell><cell role="data">16 oz.</cell><cell role="data">16&#162;</cell></row>
+<row><cell role="desc">Ozark Macaroni</cell><cell role="data">6 oz.</cell><cell role="data">5&#162;</cell></row>
+<row><cell role="desc">Van Camp's Tenderoni</cell><cell role="data">6 oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">Rainbow Macaroni</cell><cell role="data">6 oz.</cell><cell role="data">5&#162;</cell></row>
+<row><cell role="desc">Four Star Macaroni</cell><cell role="data">32 oz.</cell><cell role="data">23&#162;</cell></row>
+<row><cell role="desc">Griffin's Macaroni</cell><cell role="data">6 oz.</cell><cell role="data">5&#162;</cell></row>
+<row><cell role="desc">Red Label Macaroni</cell><cell role="data">6 oz.</cell><cell role="data">5&#162;</cell></row>
+<row><cell role="desc">Eatmore Macaroni</cell><cell role="data">6 oz.</cell><cell role="data">5&#162;</cell></row>
+<row><cell role="desc">Volunteer Macaroni</cell><cell role="data">8 oz.</cell><cell role="data">9&#162;</cell></row>
+<row><cell role="desc">Golden Meadow Macaroni</cell><cell role="data">12 oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">Puritan Macaroni</cell><cell role="data">16 oz.</cell><cell role="data">17&#162;</cell></row>
+<row><cell role="desc">Quaker Milk Macaroni</cell><cell role="data">8 oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">K. C. Macaroni</cell><cell role="data">32 oz.</cell><cell role="data">35&#162;</cell></row>
+
+<row><cell role="label">XI. <hi rend="underline">OILS, COOKING AND SALAD</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Wesson Oil</cell><cell role="data">Pint</cell><cell role="data">33&#162;</cell></row>
+<row><cell role="desc">Wesson Oil</cell><cell role="data">Quart</cell><cell role="data">63&#162;</cell></row>
+<row><cell role="desc">Fluffo Oil</cell><cell role="data">1/2 Gallon</cell><cell role="data">1.00</cell></row>
+<row><cell role="desc">Fluffo Oil</cell><cell role="data">1 Gallon</cell><cell role="data">1.00</cell></row>
+<row><cell role="desc">Mazola Oil</cell><cell role="data">Pint</cell><cell role="data">33&#162;</cell></row>
+<row><cell role="desc">Mazola Oil</cell><cell role="data">Quart</cell><cell role="data">63&#162;</cell></row>
+<row><cell role="desc">Mazola Oil</cell><cell role="data">Gallon</cell><cell role="data">2.19</cell></row>
+<row><cell role="desc">Pompeiian Olive Oil</cell><cell role="data">1 oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">Pompeiian Olive Oil</cell><cell role="data">3 oz.</cell><cell role="data">25&#162;</cell></row>
+<row><cell role="desc">Pompeiian Olive Oil</cell><cell role="data">8 oz.</cell><cell role="data">55&#162;</cell></row>
+<row><cell role="desc">Pompeiian Olive Oil</cell><cell role="data">16 oz.</cell><cell role="data">1.00&#162;</cell></row>
+<row><cell role="desc">Pompeiian Olive Oil</cell><cell role="data">32 oz.</cell><cell role="data">2.00&#162;</cell></row>
+
+<row><cell role="label">XII. <hi rend="underline">SHORTENING<lb/>HYDROGENATED</hi>:</cell><cell role="desc"></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Spry</cell><cell role="data">1 lb.</cell><cell role="data">26&#162;</cell></row>
+<row><cell role="desc">Spry</cell><cell role="data">3 lb.</cell><cell role="data">75&#162;</cell></row>
+<row><cell role="desc">Spry</cell><cell role="data">6 lb.</cell><cell role="data">1.49</cell></row>
+<row><cell role="desc">Crisco</cell><cell role="data">1 lb.</cell><cell role="data">26&#162;</cell></row>
+<row><cell role="desc">Crisco</cell><cell role="data">3 lb.</cell><cell role="data">75&#162;</cell></row>
+<row><cell role="desc">Snowdrift</cell><cell role="data">3 lb.</cell><cell role="data">73&#162;</cell></row>
+<row><cell role="desc">Nu Crest</cell><cell role="data">1 lb.</cell><cell role="data">26&#162;</cell></row>
+<row><cell role="desc">Nu Crest</cell><cell role="data">3 lb.</cell><cell role="data">69&#162;</cell></row>
+<row><cell role="desc">Shurfine</cell><cell role="data">3 lb.</cell><cell role="data">69&#162;</cell></row>
+
+<row><cell role="label"><hi rend="underline">OTHER</hi>:</cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Jewel</cell><cell role="data">1 lb.</cell><cell role="data">21&#162;</cell></row>
+<row><cell role="desc">Jewel</cell><cell role="data">4 lb.</cell><cell role="data">83&#162;</cell></row>
+<row><cell role="desc">Sanco</cell><cell role="data">1 lb.</cell><cell role="data">21&#162;</cell></row>
+<row><cell role="desc">Sanco</cell><cell role="data">4 lb.</cell><cell role="data">83&#162;</cell></row>
+<row><cell role="desc">Vegetole</cell><cell role="data">1 lb.</cell><cell role="data">21&#162;</cell></row>
+<row><cell role="desc">Vegetole</cell><cell role="data">3 lb.</cell><cell role="data">63&#162;</cell></row>
+<row><cell role="desc">Vegetole</cell><cell role="data">4 lb.</cell><cell role="data">83&#162;</cell></row>
+<row><cell role="desc">Domino</cell><cell role="data">1 lb.</cell><cell role="data">21&#162;</cell></row>
+<row><cell role="desc">Domino</cell><cell role="data">4 lb.</cell><cell role="data">83&#162;</cell></row>
+<row><cell role="desc">Advance</cell><cell role="data">1 lb.</cell><cell role="data">21&#162;</cell></row>
+<row><cell role="desc">Advance</cell><cell role="data">4 lb.</cell><cell role="data">83&#162;</cell></row>
+<row><cell role="desc">Flakewhite</cell><cell role="data">1 lb.</cell><cell role="data">21&#162;</cell></row>
+<row><cell role="desc">Flakewhite</cell><cell role="data">4 lb.</cell><cell role="data">83&#162;</cell></row>
+<row><cell role="desc">Fluffo</cell><cell role="data">1 lb.</cell><cell role="data">21&#162;</cell></row>
+<row><cell role="desc">Fluffo</cell><cell role="data">3 lb.</cell><cell role="data">63&#162;</cell></row>
+<row><cell role="desc">Fluffo</cell><cell role="data">4 lb.</cell><cell role="data">83&#162;</cell></row>
+<row><cell role="desc">Scoco</cell><cell role="data">1 lb.</cell><cell role="data">21&#162;</cell></row>
+<row><cell role="desc">Scoco</cell><cell role="data">4 lb.</cell><cell role="data">83&#162;</cell></row>
+<row><cell role="desc">Kneedit</cell><cell role="data">1 lb.</cell><cell role="data">21&#162;</cell></row>
+<row><cell role="desc">Kneedit</cell><cell role="data">4 lb.</cell><cell role="data">83&#162;</cell></row>
+<row><cell role="desc">Crustene</cell><cell role="data">1 lb.</cell><cell role="data">21&#162;</cell></row>
+<row><cell role="desc">Crustene</cell><cell role="data">4 lb.</cell><cell role="data">83&#162;</cell></row>
+<row><cell role="desc">Blue Plate</cell><cell role="data">1 lb.</cell><cell role="data">21&#162;</cell></row>
+<row><cell role="desc">Blue Plate</cell><cell role="data">4 lb.</cell><cell role="data">83&#162;</cell></row>
+<row><cell role="desc">Mrs. Tucker's</cell><cell role="data">1 lb.</cell><cell role="data">21&#162;</cell></row>
+<row><cell role="desc">Mrs. Tucker's</cell><cell role="data">3 lb.</cell><cell role="data">63&#162;</cell></row>
+<row><cell role="desc">Mrs. Tucker's</cell><cell role="data">4 lb.</cell><cell role="data">83&#162;</cell></row>
+<row><cell role="desc">Hydora</cell><cell role="data">1 lb.</cell><cell role="data">21&#162;</cell></row>
+<row><cell role="desc">Hydora</cell><cell role="data">4 lb.</cell><cell role="data">83&#162;</cell></row>
+<row><cell role="desc">Humko</cell><cell role="data">1 lb.</cell><cell role="data">21&#162;</cell></row>
+<row><cell role="desc">Humko</cell><cell role="data">4 lb.</cell><cell role="data">83&#162;</cell></row>
+
+<row><cell role="label">XIII. <hi rend="underline">SUGAR</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Cane Sugar</cell><cell role="data">10 lb.</cell><cell role="data">75&#162;</cell></row>
+<row><cell role="desc">Cane Sugar</cell><cell role="data">5 lb.</cell><cell role="data">38&#162;</cell></row>
+<row><cell role="desc">Cane Sugar</cell><cell role="data">2 lb.</cell><cell role="data">15&#162;</cell></row>
+<row><cell role="desc">Cane Sugar</cell><cell role="data">1 lb.</cell><cell role="data">8&#162;</cell></row>
+<row><cell role="desc">Beet Sugar</cell><cell role="data">10 lb.</cell><cell role="data">74&#162;</cell></row>
+<row><cell role="desc">Beet Sugar</cell><cell role="data">5 lb.</cell><cell role="data">37&#162;</cell></row>
+<row><cell role="desc">Beet Sugar</cell><cell role="data">2 lb.</cell><cell role="data">15&#162;</cell></row>
+<row><cell role="desc">Beet Sugar</cell><cell role="data">1 lb.</cell><cell role="data">8&#162;</cell></row>
+<row><cell role="desc">C. &amp; H. Confectioners Powdered Sugar</cell><cell role="data">1 lb.</cell><cell role="data">9&#162;</cell></row>
+<row><cell role="desc">C. &amp; H. Brown Sugar</cell><cell role="data">1 lb.</cell><cell role="data">9&#162;</cell></row>
+
+<row><cell role="label">XIV. <hi rend="underline">SYRUPS</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Brer Rabbit, Blue Label</cell><cell role="data">11 oz.</cell><cell role="data">14&#162;</cell></row>
+<row><cell role="desc">Brer Rabbit, Blue Label</cell><cell role="data">25 oz.</cell><cell role="data">27&#162;</cell></row>
+<row><cell role="desc">Brer Rabbit, Red Label</cell><cell role="data">12 oz.</cell><cell role="data">11&#162;</cell></row>
+<row><cell role="desc">Brer Rabbit, Red Label</cell><cell role="data">25 oz.</cell><cell role="data">21&#162;</cell></row>
+<row><cell role="desc">Brer Rabbit, Red Label</cell><cell role="data">5 lb.</cell><cell role="data">40&#162;</cell></row>
+<row><cell role="desc">Brer Rabbit, Gold Label</cell><cell role="data">12 oz.</cell><cell role="data">20&#162;</cell></row>
+<row><cell role="desc">Brer Rabbit, Gold Label</cell><cell role="data">25 oz.</cell><cell role="data">38&#162;</cell></row>
+<row><cell role="desc">Brer Rabbit, Green Label</cell><cell role="data">12 oz.</cell><cell role="data">17&#162;</cell></row>
+<row><cell role="desc">Brer Rabbit, Green Label</cell><cell role="data">24 oz.</cell><cell role="data">32&#162;</cell></row>
+<row><cell role="desc">Old Time Pure Ribbon Cane</cell><cell role="data">5 lb.</cell><cell role="data">42&#162;</cell></row>
+<row><cell role="desc">Old Time Pure Ribbon Cane</cell><cell role="data">10 lb.</cell><cell role="data">78&#162;</cell></row>
+<row><cell role="desc">Bulliard's Pure Ribbon Cane</cell><cell role="data">5 lb.</cell><cell role="data">40&#162;</cell></row>
+<row><cell role="desc">Bulliard's Pure Ribbon Cane</cell><cell role="data">10 lb.</cell><cell role="data">79&#162;</cell></row>
+<row><cell role="desc">Karo, Red Label</cell><cell role="data">1&#189; lb.</cell><cell role="data">18&#162;</cell></row>
+<row><cell role="desc">Karo, Red Label</cell><cell role="data">5 lb.</cell><cell role="data">45&#162;</cell></row>
+<row><cell role="desc">Karo, Red Label</cell><cell role="data">10 lb.</cell><cell role="data">82&#162;</cell></row>
+<row><cell role="desc">Karo, Blue Label</cell><cell role="data">1&#189; lb.</cell><cell role="data">17&#162;</cell></row>
+<row><cell role="desc">Karo, Blue Label</cell><cell role="data">5 lb.</cell><cell role="data">43&#162;</cell></row>
+<row><cell role="desc">Karo, Blue Label</cell><cell role="data">10 lb.</cell><cell role="data">79&#162;</cell></row>
+<row><cell role="desc">Log Cabin Cane &amp; Maple Syrup</cell><cell role="data">12 oz.</cell><cell role="data">21&#162;</cell></row>
+<row><cell role="desc">Vermont Maid Cane &amp; Maple Syrup</cell><cell role="data">12 oz. Glass</cell><cell role="data">21&#162;</cell></row>
+<row><cell role="desc">Nu Crest White</cell><cell role="data">52 oz.</cell><cell role="data">42&#162;</cell></row>
+<row><cell role="desc">Nu Crest White</cell><cell role="data">10 lb.</cell><cell role="data">78&#162;</cell></row>
+<row><cell role="desc">Nu Crest Golden</cell><cell role="data">1&#189; lb.</cell><cell role="data">15&#162;</cell></row>
+<row><cell role="desc">Nu Crest Golden</cell><cell role="data">5 lb.</cell><cell role="data">40&#162;</cell></row>
+<row><cell role="desc">Griffin's Crystal White</cell><cell role="data">5 lb.</cell><cell role="data">41&#162;</cell></row>
+<row><cell role="desc">Griffin's Golden</cell><cell role="data">5 lb.</cell><cell role="data">38&#162;</cell></row>
+<row><cell role="desc">Pennent, Blue Label</cell><cell role="data">5 lb.</cell><cell role="data">41&#162;</cell></row>
+<row><cell role="desc">Shurfine, White</cell><cell role="data">10 lb.</cell><cell role="data">79&#162;</cell></row>
+<row><cell role="desc">Shurfine, Golden</cell><cell role="data">10 lb.</cell><cell role="data">76&#162;</cell></row>
+<row><cell role="desc">Staley's Waffle Syrup</cell><cell role="data">1&#189; lb.</cell><cell role="data">18&#162;</cell></row>
+<row><cell role="desc">Staley's Waffle Syrup</cell><cell role="data">5 lb.</cell><cell role="data">47&#162;</cell></row>
+<row><cell role="desc">Griffin's Waffle Syrup</cell><cell role="data">5 lb.</cell><cell role="data">46&#162;</cell></row>
+<row><cell role="desc">Pennent Waffle Syrup</cell><cell role="data">5 lb.</cell><cell role="data">44&#162;</cell></row>
+<row><cell role="desc">Nu Crest Waffle Syrup</cell><cell role="data">5 lb.</cell><cell role="data">45&#162;</cell></row>
+<row><cell role="desc">Nu Crest Waffle Syrup</cell><cell role="data">10 lb.</cell><cell role="data">82&#162;</cell></row>
+<row><cell role="desc">Shurfine Waffle Syrup</cell><cell role="data">10 lb.</cell><cell role="data">85&#162;</cell></row>
+
+<row><cell role="label">XV. <hi rend="underline">EVAPORATED MILK</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Pet</cell><cell role="data">Tall</cell><cell role="data">11&#162;</cell></row>
+<row><cell role="desc">Pet</cell><cell role="data">Small</cell><cell role="data">5&#162;</cell></row>
+<row><cell role="desc">Carnation</cell><cell role="data">Tall</cell><cell role="data">11&#162;</cell></row>
+<row><cell role="desc">Carnation</cell><cell role="data">Small</cell><cell role="data">5&#162;</cell></row>
+<row><cell role="desc">Silver Cow</cell><cell role="data">Tall</cell><cell role="data">11&#162;</cell></row>
+<row><cell role="desc">Silver Cow</cell><cell role="data">Small</cell><cell role="data">5&#162;</cell></row>
+<row><cell role="desc">Carolene</cell><cell role="data">Tall</cell><cell role="data">9&#162;</cell></row>
+<row><cell role="desc">Moon Rose</cell><cell role="data">Tall</cell><cell role="data">11&#162;</cell></row>
+<row><cell role="desc">Moon Rose</cell><cell role="data">Small</cell><cell role="data">5&#162;</cell></row>
+<row><cell role="desc">Marshall</cell><cell role="data">Tall</cell><cell role="data">11&#162;</cell></row>
+<row><cell role="desc">Marshall</cell><cell role="data">Small</cell><cell role="data">5&#162;</cell></row>
+<row><cell role="desc">Millnot Filler</cell><cell role="data">Tall</cell><cell role="data">8&#162;</cell></row>
+
+<row><cell role="label">XVI. <hi rend="underline">CONDENSED MILK</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Eagle</cell><cell role="data">15 oz.</cell><cell role="data">22&#162;</cell></row>
+<row><cell role="desc">Dime</cell><cell role="data">15 oz.</cell><cell role="data">14&#162;</cell></row>
+
+<row><cell role="label">XVII. <hi rend="underline">BUTTER</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Townley Dairy</cell><cell role="data">Quarters Per lb.</cell><cell role="data">55&#162;</cell></row>
+<row><cell role="desc">Townley Dairy</cell><cell role="data">Rolls Per lb.</cell><cell role="data">54&#162;</cell></row>
+<row><cell role="desc">Borden's Morning Glory</cell><cell role="data">Quarters Per lb.</cell><cell role="data">55&#162;</cell></row>
+<row><cell role="desc">Borden's Morning Glory</cell><cell role="data">Rolls Per lb.</cell><cell role="data">54&#162;</cell></row>
+<row><cell role="desc">Steffen's Blue Ribbon</cell><cell role="data">Quarters Per lb.</cell><cell role="data">55&#162;</cell></row>
+<row><cell role="desc">Steffen's Blue Ribbon</cell><cell role="data">Rolls Per lb.</cell><cell role="data">54&#162;</cell></row>
+<row><cell role="desc">Sterling Meadow Gold</cell><cell role="data">Quarters Per lb.</cell><cell role="data">55&#162;</cell></row>
+<row><cell role="desc">Sterling Meadow Gold</cell><cell role="data">Rolls Per lb.</cell><cell role="data">54&#162;</cell></row>
+<row><cell role="desc">Sterling Meadow Gold</cell><cell role="data">Quarters Per lb.</cell><cell role="data">55&#162;</cell></row>
+<row><cell role="desc">Sterling Meadow Gold</cell><cell role="data">Rolls Per lb.</cell><cell role="data">54&#162;</cell></row>
+<row><cell role="desc">O. K. Quarters</cell><cell role="data">Quarters Per lb.</cell><cell role="data">55&#162;</cell></row>
+<row><cell role="desc">O. K. Quarters</cell><cell role="data">Rolls Per lb.</cell><cell role="data">54&#162;</cell></row>
+<row><cell role="desc">Farimont's Better Butter</cell><cell role="data">Quarters Per lb.</cell><cell role="data">55&#162;</cell></row>
+<row><cell role="desc">Farimont's Better Butter</cell><cell role="data">Rolls Per lb.</cell><cell role="data">54&#162;</cell></row>
+<row><cell role="desc">Golden Dew (92 score)</cell><cell role="data">Quarters Per lb.</cell><cell role="data">56&#162;</cell></row>
+<row><cell role="desc">Golden Dew (92 score)</cell><cell role="data">Rolls Per lb.</cell><cell role="data">55&#162;</cell></row>
+
+<row><cell role="label">XVIII. <hi rend="underline">BREAD</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Bond &#8211; White</cell><cell role="data">18&#189; oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">Bond  &#8211; Cracked Wheat</cell><cell role="data">18 oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">Bond &#8211; Vita D</cell><cell role="data">18 oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">Bond &#8211; Half &amp; Half</cell><cell role="data">18 oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">Butter-Krust (Vita B) White</cell><cell role="data">18 oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">Butter-Krust (Whole Wheat Plain)</cell><cell role="data">17 oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">Butter-Krust (Whole Wheat Sesame)</cell><cell role="data">17 oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">Butter-Krust (Rye)</cell><cell role="data">16 oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">Butter-Krust (Club Sandwich Loaf)</cell><cell role="data">18 oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">Butter-Krust (Raisin)</cell><cell role="data"></cell><cell role="data">15&#162;</cell></row>
+<row><cell role="desc">Colonial (White)</cell><cell role="data">17&#189; oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">Colonial (Whole Wheat)</cell><cell role="data">17&#189; oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">Colonial (Cracked Wheat)</cell><cell role="data">17&#189; oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">Colonial (Rye)</cell><cell role="data">16 oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">Colonial (Club Sandwich)</cell><cell role="data">16 oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">Colonial (Half &amp; Half)</cell><cell role="data"></cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">Wonder (White)</cell><cell role="data">16 oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">Wonder (Whole Wheat)</cell><cell role="data">16 oz.</cell><cell role="data">10&#162;</cell></row>
+<row><cell role="desc">Staff (Whole Wheat)</cell><cell role="data">16 oz.</cell><cell role="data">10&#162;</cell></row>
+
+<row><cell role="label">XIX. <hi rend="underline">KRAFT CHEESE</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">American</cell><cell role="data">2 lb. per lb</cell><cell role="data">43&#162;</cell></row>
+<row><cell role="desc">American</cell><cell role="data">1 lb.</cell><cell role="data">44&#162;</cell></row>
+<row><cell role="desc">American</cell><cell role="data">&#189; lb.</cell><cell role="data">23&#162;</cell></row>
+<row><cell role="desc">American</cell><cell role="data">&#188; lb.</cell><cell role="data">12&#162;</cell></row>
+<row><cell role="desc">Pimento</cell><cell role="data">2 lb. Per lb</cell><cell role="data">40&#162;</cell></row>
+<row><cell role="desc">Pimento</cell><cell role="data">1 lb.</cell><cell role="data">54&#162;</cell></row>
+<row><cell role="desc">Pimento</cell><cell role="data">&#189; lb.</cell><cell role="data">29&#162;</cell></row>
+<row><cell role="desc">Pimento</cell><cell role="data">&#188; lb.</cell><cell role="data">14&#162;</cell></row>
+<row><cell role="desc">Swiss</cell><cell role="data">2 lb. Per lb</cell><cell role="data">40&#162;</cell></row>
+<row><cell role="desc">Swiss</cell><cell role="data">1 lb.</cell><cell role="data">54&#162;</cell></row>
+<row><cell role="desc">Swiss</cell><cell role="data">&#189; lb.</cell><cell role="data">29&#162;</cell></row>
+<row><cell role="desc">Swiss</cell><cell role="data">&#188; lb.</cell><cell role="data">14&#162;</cell></row>
+<row><cell role="desc">Brick</cell><cell role="data">2 lb. Per lb</cell><cell role="data">39&#162;</cell></row>
+<row><cell role="desc">Brick</cell><cell role="data">1 lb</cell><cell role="data">54&#162;</cell></row>
+<row><cell role="desc">Brick</cell><cell role="data">&#189; lb.</cell><cell role="data">29&#162;</cell></row>
+<row><cell role="desc">Brick</cell><cell role="data">&#188; lb.</cell><cell role="data">14&#162;</cell></row>
+<row><cell role="desc">Velveta</cell><cell role="data">2 lb Per lb</cell><cell role="data">39&#162;</cell></row>
+<row><cell role="desc">Velveta</cell><cell role="data">&#189; lb.</cell><cell role="data">29&#162;</cell></row>
+<row><cell role="desc">Velveta</cell><cell role="data">&#188; lb.</cell><cell role="data">14&#162;</cell></row>
+<row><cell role="desc">Velveta Pimento</cell><cell role="data">2 lb Per lb</cell><cell role="data">39&#162;</cell></row>
+<row><cell role="desc">Velveta Pimento</cell><cell role="data">&#189; lb.</cell><cell role="data">29&#162;</cell></row>
+<row><cell role="desc">Velveta Pimento</cell><cell role="data">&#188; lb.</cell><cell role="data">14&#162;</cell></row>
+<row><cell role="desc">Old English</cell><cell role="data">2 lb. Per lb</cell><cell role="data">46&#162;</cell></row>
+<row><cell role="desc">Old English</cell><cell role="data">&#189; lb</cell><cell role="data">35&#162;</cell></row>
+<row><cell role="desc">Limberger</cell><cell role="data">&#189; lb.</cell><cell role="data">39&#162;</cell></row>
+
+<row><cell role="label">XX. <hi rend="underline">POULTRY</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Broilers and Fryers under 4 lbs</cell><cell role="data">Purchased Live</cell><cell role="data">37&#162;</cell></row>
+<row><cell role="desc">Broilers and Fryers under 4 lbs</cell><cell role="data">Purchased Dressed</cell><cell role="data">42&#162;</cell></row>
+<row><cell role="desc">Broilers and Fryers under 4 lbs</cell><cell role="data">Purchased Drawn</cell><cell role="data">57&#162;</cell></row>
+<row><cell role="desc">Roasters over 4 lbs</cell><cell role="data">Purchased live</cell><cell role="data">37&#162;</cell></row>
+<row><cell role="desc">Roasters over 4 lbs</cell><cell role="data">Purchased Dressed</cell><cell role="data">42&#162;</cell></row>
+<row><cell role="desc">Roasters over 4 lbs</cell><cell role="data">Purchased Drawn</cell><cell role="data">55&#162;</cell></row>
+<row><cell role="desc">Hens &#8211; Fowl &#8211; all weights</cell><cell role="data">Purchased Live</cell><cell role="data">33&#162;</cell></row>
+<row><cell role="desc">Hens &#8211; Fowl &#8211; all weights</cell><cell role="data">Purchased Dressed</cell><cell role="data">38&#162;</cell></row>
+<row><cell role="desc">Hens &#8211; Fowl &#8211; all weights</cell><cell role="data">Purchased Drawn</cell><cell role="data">50&#162;</cell></row>
+<row><cell role="desc">Roosters and Stages &#8211; all weights</cell><cell role="data">Purchased live</cell><cell role="data">28&#162;</cell></row>
+<row><cell role="desc">Roosters and Stages &#8211; all weights</cell><cell role="data">Purchased Dressed</cell><cell role="data">32&#162;</cell></row>
+<row><cell role="desc">Roosters and Stages &#8211; all weights</cell><cell role="data">Purchased Drawn</cell><cell role="data">42&#162;</cell></row>
+
+<row><cell role="desc">XXI. <hi rend="underline">EGGS</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">"A" Extra Large</cell><cell role="data">In Cartons</cell><cell role="data">52&#162; doz.</cell></row>
+<row><cell role="desc">"A" LARGE</cell><cell role="data">In Cartons</cell><cell role="data">50&#162; doz.</cell></row>
+<row><cell role="desc">"A" Medium</cell><cell role="data">In Cartons</cell><cell role="data">45&#162; doz.</cell></row>
+<row><cell role="desc">"B" Large</cell><cell role="data">In Cartons</cell><cell role="data">47&#162; doz.</cell></row>
+<row><cell role="desc">"B" Medium</cell><cell role="data">In Cartons</cell><cell role="data">43&#162; doz.</cell></row>
+<row><cell role="desc">Country Assorted or "C" Large</cell><cell role="data">In Cartons</cell><cell role="data">45&#162; doz.</cell></row>
+<row><cell role="desc">"C" Medium</cell><cell role="data">In Cartons</cell><cell role="data">39&#162; doz.</cell></row>
+<row><cell role="desc" cols="3">For eggs sold in bulk, two (2) cents per dozen must be deducted from the above prices.</cell></row>
+
+<row><cell role="desc">XXII. <hi rend="underline">MILK</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc" cols="3">The maximum prices for Fluid Milk for human consumption, which meets the minimum requirements of the community in which it is sold in both retail stores and by route sellers within the city limits of Oklahoma City, Nichols Hills, Norman, and El Reno, is as follows:</cell></row>
+<row><cell role="desc">Oklahoma City</cell><cell role="data"></cell><cell role="data">15&#162; qt.</cell></row>
+<row><cell role="desc">Nichols Hills</cell><cell role="data"></cell><cell role="data">15&#162; qt.</cell></row>
+<row><cell role="desc">Norman</cell><cell role="data"></cell><cell role="data">15&#162; qt.</cell></row>
+<row><cell role="desc">El Reno</cell><cell role="data"></cell><cell role="data">14&#162; qt.</cell></row>
+<row><cell role="desc" cols="2">All other areas in Oklahoma, Canadian, and Cleveland Counties</cell><cell role="data">13&#162; qt.</cell></row>
+<row><cell role="desc" cols="3"><hi rend="underline">Note</hi>: Certain Premium Milk may qualify for one cent (1&#162;) per quart higher price.</cell></row>
+
+<row><cell role="label">XXII. <hi rend="underline">BANANAS</hi></cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Mexican Bananas, Best Grade</cell><cell role="data"></cell><cell role="data">10&#189;&#162; lb.</cell></row>
+<row><cell role="desc">South American Bananas, Best Grade</cell><cell role="data"></cell><cell role="data">14&#189;&#162; lb.</cell></row>
+</table>
+
+<p rend="center">Issued this 8th day of May, 1943.</p>
+
+<signed rend="right">Rex A. Hayes<lb/>District Director</signed>
+</div1>
+
+<pb/>
+<div1>
+
+<opener>
+<address>
+<addrLine>OFFICE OF PRICE ADMINISTRATION</addrLine>
+<addrLine>PRICE DIVISION</addrLine>
+<addrLine>Key Building</addrLine>
+<addrLine>Oklahoma City, Oklahoma</addrLine>
+</address>
+<dateline><date value="1943-06-26">June 26, 1943</date></dateline>
+
+<salute>TO ALL FOOD RETAILERS</salute>
+</opener>
+
+<p>Enclosed herewith is Order No. G-4, under General Order No. 51, effective July 4, 1943.</p>
+
+<p>This order establishes "community prices" on certain food items identified in the order for all of the fifty-three counties named in the Oklahoma City District; and, as "ceiling prices", supercede and take precedent over "ceiling prices" determined by an other method, under any other price regulation.</p>
+
+<p>All brands, sizes, quantities and qualities and all food items not specifically identified herein are subject to the "ceiling price" determination of the applicable Maximum Price Regulation.</p>
+
+<p>This community price order requires that the list of food items, which is a part of the order, be posted in the retailer's place of business at a place where the consumer may have access to it. The order further provides, that each store shall be identified with an adequate sign, conspicuously posted in the store, indentifying that particular store as "OPA-1", "OPA-2", "OPA-3" or "OPA-4", according to the class determination outlined in the order.</p>
+
+<p>We would remind every food retailer that Maximum Price Regulations No. 336 Revised, No. 355 Revised and No. 390 require that the official retail price charts on pork, beef, feal, lamb, mutton, soap and soap products be posted in the store where the consumer purchaser may have access to them.</p>
+
+<p>Additional copies of the "community price order", as well as the portk, beef and soap charts, may be obtained from the price clerk in your own County War Price and Rationing Board; and, any questions concerning these food regulations may be directed to the Price Clerk of th County War Price and Rationing Board, who either has, or will obtain the answers from the local Price Panel or the District Office in Oklahoma City.</p>
+
+<p>In addition to the price regulations referred to above covering pork, beef and soap, every retail grocer should be familiar with the requirements of Maximum Price Regulation No. 238 Revised and No. 268 Revised, Digests of which were recently mailed to you and which are available upon request of the Price Clerk in the County War Price and Rationing Board.</p>
+
+<closer><signed rend="right">HARRY CANUP<lb/>DISTRICT PRICE OFFICER</signed></closer>
+
+</div1>
+
+</body>
+</text>
+</TEI>

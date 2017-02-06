@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.ag.19430217 SYSTEM "homefront.news.ag.19430217.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.ag.19430217">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Clip This Consumer Ration Form At Home, Fill It Out, Save Time</title>
+<author>Peter Edson</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.ag.19430217</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Amarillo Globe</title>
+<title level="a">Clip This Consumer Ration Form At Home, Fill It Out, Save Time</title>
+<title level="a" type="sub"></title>
+<author>Peter Edson</author>
+<biblScope type="pages">1</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Amarillo Globe</publisher>
+<pubPlace>Amarillo, TX</pubPlace>
+<date value="1943-02-17">1943-02-17</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-general</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-08-28</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.ag.19430217">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p1"/>
+<head type="main">Clip This Consumer Ration Form<lb/>At Home, Fill It Out, Save Time</head>
+
+<byline>By Peter Edson</byline>
+<dateline><address><addrLine>Washington</addrLine></address>, <date value="1943-02-17">Feb. 17</date>&#8211;</dateline>
+
+<p>Office of Price Administration today released to the Globe a copy of the form for "Consumer Declaration for Processed Foods and Coffee," which must be filled out for every person to whom is issued a War Ration Book No. 2, covering canned goods and other processed foods to be rationed march 1. Copy of this form is shown in the adjoining column.</p>
+
+<p>This is the first time the government has presented a rationing form for first distribution through newspapers. Decision to permit the newspapers to issue this form as a public service to their readers was made in recognition of the fact that newspapers reach practically every individual in the United States and can therefore put over this rationing campaign as successfully as they handled the nation's scrap drive last fall.</p>
+
+<p>By presenting the Consumer Declaration form through this newspaper, the Globe makes it possible for the housewife or any individual making application for War Ration Book 2 to fill in the form at home during leisure moments. And by taking the completed form to the registration centers, during the week of Feb. 22-27, much time will be saved. Standing in line will be reduced to a minimum.</p>
+
+<p>The form announced by OPA headquarters and the local rationing boards today is comparatively simple and is largely self-explanatory, as shown in the proof presented herewith. Only four blank spaces have to be filled in, plus a list of names of persons for whom applications for Ration Book 2 are being made.</p>
+
+<p>The steps which everyone filling in the form should take are as follows:</p>
+
+<p>A.	Cut out this copy of the Consumer Declaration from today's newspaper.</p>
+
+<p>B.	On Feb. 21, go to your pantry and count all cans, jars and bottles containing 8 ounces or more of the following foods which you have bought in a store:</p>
+
+<p>Canned Fruits (including spiced fruits).</p>
+
+<p>Canned vegetables.</p>
+
+<p>Canned fruit and vegetables juices.</p>
+
+<p>Canned soups, chili sauce and catsup.</p>
+
+<p>The net weight contents of every can or jar is printed on the label. Don't count containers holding less than 8 ounces.</p>
+
+<p>Don't count canned olives, canned meat or fish, pickles, relish, jellies, jams, preserves, spaghetti, macaroni and noodles.</p>
+
+<p>Don't count dried or frozen foods.</p>
+
+<p>C.	You are now ready to fill out the form.</p>
+
+<p>First, under the heading "Coffee," in the blank space at the right of the number 1, write in the number of pounds of coffee you had on had Nov. 28, less 1 pound for every member of the family, 14 years of age or under. You were told to make a note of coffee on hand Nov. 28 when coffee rationing began. If there are five members of your family&#8211;Pop, Mom, Grandpa, a boy of 18 and a girl of 12&#8211;you would be entitled to have four pounds of coffee on hand. If you had only one pound or less for each person over 14, you would enter in the blank space the figure "2."</p>
+
+<p>If you have lost your Nov. 28 inventory of coffee on your shelves or if you can't remember it, they'll probably ask you to guess.</p>
+
+<p>Second, enter in the blank space at the right of question 2, the number of people in your household over 14 years of age for whom a War Ration Book No. 1 was issued. In the five-member family given above as an example, the number to enter would be "4." The 12-year-old daughter would have a book for sugar, but could get no coffee.</p>
+
+<p>Third, figure out the number of cans of goods you're entitled to have on hand. Suppose your Feb. 21 inventory shows that you have on the pantry shelves four cans of fruit, eight cans of vegetables, six cans of vegetable juice, five cans of soup, one jar of chili sauce and three bottles of catsup.</p>
+
+<p>That adds up to 27 units. All right, there are five members of the typical family as listed above. They're entitled to have on hand five cans per person, or a total of 25. So, in the blank space at the right of question 3, the correct figure to enter would be "2." (27 minus 25)</p>
+
+<p>Fourth, put in the blank space opposite question 4, the number of persons for whom you are making application for Book No. 2. In the family example given, the number would be "5."</p>
+
+<p>Finally, print the names of the members of your family, and opposite each name put the serial number appearing on the War Ration Book No. 1 issued for that person.</p>
+
+<p>Sign your name and put in the address, and then you're all set to go register for your Book No. 2. Be sure to take this consumer declaration form with you, and also the War Ration Book No. 1 for every person for whom you're applying for a Book No. 2. If you don't take the Book 1 with you, you won't be given a Book 2.</p>
+
+<p>As a warning, note that the penalty for making a false statement on this form is 10 years' imprisonment, or $10,000 fine, or both.</p>
+
+</div1>
+
+</body>
+</text>
+</TEI>

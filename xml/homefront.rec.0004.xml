@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.rec.0004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Appendix to the Congressional Record (July 18, 1939)</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.rec.0004</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Appendix to the Congressional Record</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date value="1939-7-18">(July 18, 1939)</date>
+<biblScope type="pages">3327-3328 </biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-01-16</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Validation</item>
+</change>
+<change>
+<date>2007-01-08</date>
+<respStmt>
+<name>Paul Fajman</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>2006-11-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+
+<head type="main">Neutrality</head>
+<milestone unit="smallbar" />
+<head type="sub">EXTENSION OF REMARKS<lb />
+OF<lb />
+HON. ERNEST LUNDEEN<lb />
+OF MINNESOTA<lb />
+IN THE SENATE OF THE UNITED STATES<lb />
+Tuesday, July 18, 1939</head>
+<milestone unit="smallbar" />
+<head type="sub">ARTICLE BY HON. GERALD P. NYE, OF NORTH DAKOTA</head>
+<milestone unit="smallbar" />
+
+	<p>Mr. LUNDEEN.  Mr. President, I ask unanimous consent to insert in the Appendix of the RECORD an article by the junior Senator from North Dakota [Mr. NYE], published in the July 15 issue of the Christian Science Monitor, entitled "Can the United States Be Neutral?" Yes; if It Minds Its Own Business."</p>
+	<p>There being no objection, the article was ordered to be published in the RECORD, as follows:</p>
+<p>CAN THE UNITED STATES BE NETRUAL?&#8211;YES; IF IT MINDS ITS OWN BUSINESS</p>
+<p rend="center">(By GERALD P. NYE, United States Senator from North Dakota)</p>
+	<p>Looking at the policies to alter the neutrality law from whatever angle one will, of necessity one must come back to the conclusion that the effort is one of gaining larger power for the President to exercise n the tense international field. To grant this larger power to the President, especially at this time, is to turn our back upon and make ourselves blind to every teaching of experience. The fact that President Roosevelt desires this power, and desires to occupy the same impossible spot that our country has forced others to occupy in the past, ought not in the least alter American determination to avoid repetition of an experience, the memory of which ought to be constantly with us.</p>
+	<p>There is a greater need today for calm, clear thinking about our country's relationship to the rest of the world than on any other subject. In the vent that the dreaded second world war should come, what we do now is far more crucial than what we can do after the conflict commences. If we are to be spared the agony and devastation of participation in another war the polices now formulated will achieve that merciful end. If we are to be plunged into another war it will be likewise because of what is done now.</p>
+	<p>This is so clearly demonstrated in retrospect by the years from 1914 to 1917 that is should require no argument. Those years are a story of a nation drifting into deepening entanglements with a European conflict with which it had originally little direct concern, and finally into that struggle. No single action was responsible for American involvement in the World War. Rather it was the cumulative force of a long series of day-by-day actions, each establishing precedents for those that were to follow and each bringing involvement closer.</p>
+	<p>With that experience still fresh in our minds, it is amazing that so many persons, in high and low places, should forget the lesson of 1914 and 1917. Yet today that lesson has been forgotten by the very men and women who best should remember it. Steps are being taken, policies are being inaugurated, precedents established today that in large degree parallel the "road to war" which American trod only a little more than 20 years ago.</p>
+	<p>Close examination of the words and deeds of our Chief Executive reveals a policy based on the belive&#8211;fallacious and erroneous, in my opinion&#8211;that if there is another general war in Europe the involvement of the United States in that conflict is inevitable; that there is nothing we can do, no step we can take, that will save us from being sucked into such a war. This is a counsel of despair, generated by emotion and hysteria, without a basis of facto r realistic appreciation of world affairs.</p>
+	<p>It is in the acceptance of this belief that we are asked to amend the neutrality law to permit sale of munitions and instruments of war to belligerent nations. It is on the acceptance of this belief that there is predicated the contention that American must give aid and support to the democracies of Europe in difficulties with which we have no concern. It is the basis of the contention that this country should not undertake to observe a rigid neutrality, but should take sides in words and deed among the quarreling nations of Europe and Asia.</p>
+	<p>In other words, our policy appears to be that since our involvement in another war is inevitable, then we should do all in our power now to assist and support nations which in a future conflict may be our allies in order to prevent such a war.</p>
+	<p>Since this proposition is predicated on a theory that we are doomed to be participants in another war, whether we like it or not, it is argued that by pursuing a policy of cooperation and collaboration with certain European nations we are running any risk which does not now confront us.</p>
+	<p>Of course it is fantastic to say that the United States is in danger of an impending attack from abroad. And it is just as fantastic to contend that this country cannot keep out of another war if its people are determined to do so and if its Government pursues a course of caution and wisdom. The knowledge of what happened between 1914 and 1917 should forearm us against the dangers which overwhelmed us in those earlier years. Because of that experience we should now be able to steer a course which would avoid the whirlpools which sucked us into war some 20 years ago. These factors, along with our geographic isolation, make it ridiculous to talk about this Nation facing an impending threat, either of actual invasion or to its institutions from beyond its borders, unless we deliberately ally ourselves with the affairs of Europe. It must be obvious that participation in another war by the United States would mean the end of those American institutions of liberty and freedom for which we now are being urged to fight.</p>
+	<p>We can keep out of war by keeping aloof from the hatreds, greed, and ambitions now rocking Europe. We can isolate ourselves from war, not by burying our heads in the sand but by pursuing a course based solely on what is for the best interests of America and spurning please to become the moral policeman of the world and to save democracy in other lands. The job of saving democracy in this country is task enough for this generation of Americans.</p>
+	<p>For over 2 years we have had what is commonly referred to as the neutrality law, which might more properly be called the law to help keep America out of other people's wars. This law was written as a result of the revelation of the selfish steps that led us into the World War, when we declared high purposes and discovered too late that we had won no purpose for which we fought, even though we won the war. Criticism of this law never took on serious proportions until last fall and winter, when the administration began to chafe under this harness of neutrality law. There came the announced desire to have the United States operate in a way that would punish the alleged aggressor in war, to invoke quarantines and sanctions upon the alleged aggressors. These warlike steps could not be lawfully taken by the President with the neutrality law upon the statute books. Then came the proposals to change the law, amend it, and repeal it. It is these proposals that are now pending before the Senate.</p>
+	<p>The truth of the whole controversy is that the Neutrality Act, even with its present shortcomings, which some of my colleagues and myself propose to remedy by amendments, is the only bulwark which the American people have been able to build and maintain that helps them fortify their resolve to stay out of other people's wars. And they had better be waking up to what is being undertaken at this hour or they will lose that.</p>
+	<p>Let there be no mistaking the present challenge and the issue involved in that challenge. The line is clearly drawn. The decision must be for a policy of law that will fortify America against being drawn into other peoples' wars, or for abandonment of such fortifying steps as have been taken and their replacement by a policy that leaves the Executive free to pursue a course of seeing how near he can get to the fires and hates of Europe without burning his fingers and, because of the burn, inviting an insult to all the people of America that would take us to war.</p>
+	<p>If we are really going to succeed in staying out of other peoples' wars, we are going to have to divorce ourselves from the profits available from other peoples' wars. A cash-and-carry basis on all commodities in time of war is not going to help us materially, and it certainly cheapens America to put herself on a basis of cash and carry in the name of peace. If we are going to stay out of other peoples' wars, we are going to have to learn to mind our own business and to keep minding our own business, however much the President or anyone else may want to meddle in foreign affairs or lead the hosts in splendid-sound causes.</p>
+	<p>Surely I would like to see a world peace accomplished and made permanent. But by what right do we Americans today assume that those we are choosing as allies, England and France, for example, are wanting the same thing? Wouldn't it be well to know what kind of democracy our allies would like to help save? Would it be the Chinese kind? The Ethiopian kind? The Czechoslovakian kind?</p>
+	<p>Of course we all want to see Europe cooled off and settled down. Our own stability would be served if that end were accomplished. But the job of cooling it isn't ours. That settling down, to my mind, is wholly dependent upon that day when England is ready to pull her chair up to the table and offer the world a chance, an outlet, a sufficiency. And this is not going to be done by British insistence upon holding everything she has, all that she has gained through generations of aggressions. Saving British imperialism isn't going to save the world. And until imperialism is removed as cause No. 1 of war abroad, there is every reason why the United States should refrain from making the job of halting the drifting border sands of Europe a W.P.A. project for the "relief" of the unemployed and millions of our American sons. There is plenty of work to be done right here within our own borders if we are really eager to save democracy, the kind of democracy that we know.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

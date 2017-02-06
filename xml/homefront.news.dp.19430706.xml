@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19430706 SYSTEM "homefront.news.dp.19430706.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19430706">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Great Land Army Being Mobilized for Harvest</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19430706</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">Great Land Army Being Mobilized for Harvest</title>
+<title level="a" type="sub">American Farmers Are Striving Strenuously to Produce Food Required to Win War, but They Need More Help</title>
+<author></author>
+<biblScope type="pages">2</biblScope>
+<biblScope type="columns">5-7</biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, CO</pubPlace>
+<date value="1943-07-06">1943-07-06</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-20</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.dp.19430706">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p2"/>
+
+<head type="main">Great Land Army Being<lb/>Mobilized for Harvest</head>
+<milestone unit="smallbar"/>
+<head type="sub">American Farmers Are Striving Strenuously to<lb/>Produce Food Required to Win War, but<lb/>They Need More Help.</head>
+<milestone unit="smallbar"/>
+
+<p>Chicago, July 5.&#8211;(A.P.)&#8211;American farmers are striving strenuously to produce the food required to win the war&#8211;but they need help.</p>
+
+<p>The land army engaged in this battle to fill the civilian's plate and the soldier's mess kit is massive but short-handed, too, as it faces the harvest season with mingled misgivings and hopes for reinforcements.</p>
+
+<p>In the center of this important home front line are the veteran planters. Around them labors a motley emergency force of dusky Bahamans and Jamaicans, Mexicans, Italian captives, conscientious objectors, Japanese internees, soft-handed girl stenographers, teachers, businessmen, skinny kids, troops, workers on leave from factories.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">FARM EMPLOYMENT<lb/>IS BELOW AVERAGE.</head>
+
+<p>Cold figures, perhaps, tell the story less dramatically but more graphically. The latest report by the bureau of agricultural economics showed farm employment totaled 11,659,000. That was a quarter million under June 1, 1942; a half million under the June 1 average of the 1937-41 period. Most of the decrease was in hired hands who went off to the wars or the war plants.</p>
+
+<p>Moreover, it was estimated that between one-half million and three-fourths million additional seasonal or part-time workers would be required to gather the crops.</p>
+
+<p>A coast-to-coast survey by the Associated Press disclosed that and agricultural labor shortage persists in most states, and that many of them expect a crisis at harvest time. For instance, California, source of one-tenth of the nation's food, wants more than 300,000 laborers for the big July-to-October push. Across the continent, New York figures it could use an extra 100,000 during the September peak. Demands very in other sections.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">RECRUITING DRIVE<lb/>HELD IN KANSAS.</head>
+
+<p>A half dozen states report their minimum needs have been or will be met. Among them are two where the harvest is under way. In Kansas, hundreds of children&#8211;from 10 up&#8211;white collar folk and others, enlisted thru an organized recruiting program, have gone into the fields. In Oklahoma, the gaps were filled by volunteers, including a "Victory corps" of high school boys and 300 former farm hands furloughed from the Oklahoma ordnance works.</p>
+
+<p>These expedients may outline the shadow of things to come in other regions as the harvest fans out over rural territory which already has formed the background for strange spectacles.</p>
+
+<p>One hundred and thirty troops from Camp Grant plucked peas, on a voluntary basis, in Illinois. Soldiers from Truax field gave similar aid in Wisconsin. In Iowa, they relate that lads of 8, 9 and 10 jockeyed tractors during the day-and-night plowing jam caused by a tardy spring. Urbanites on vacation&#8211;girl clerks, typists and teachers among them&#8211;turned out in considerable numbers in New York. Conscientious objectors furnished helping hands in Massachusetts.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">38,000 WORKERS<lb/>WERE IMPORTED.</head>
+
+<p>Thirty-eight thousands foreign farm workers have been imported and 25,000 others are expected. Bahamans, Jamaicans and Mexicans have been employed widely. Their bosses agreed they were satisfactory. Italians, prisoners of war were put to work in Georgia and Arizona, Japanese-Americans from relocation centers got jobs in the western mountain states, South Dakota and Nebraska.</p>
+
+<p>The nationwide inquiry among farmers, farm organization leaders, state and government agencies and others concerned established that labor supply has increased since expressions of alarm from the country sectors focused attention on the farm manpower problem last winter.</p>
+
+<p>There were several contributing factors. State officials advised that, for the most part and with some exceptions, draft boards now are deferring essential farm hands.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">BACKFLOW FROM<lb/>INDUSTRY APPARENT.</head>
+
+<p>In at least six states a backflow of men from industry and business to farms became apparent. The phenomenon was ascribed to "draft pressure"&#8211;i.e., a shift from nonessential pursuits to agricultural occupations affording deferment. In some cases, however, experienced farm men returned to the soil from war plans or at the conclusion of war construction projects.</p>
+
+<p>Volunteer vacationers swelled the working crews, <sic corr="although">altho</sic> it was acknowledged that they lacked the skill for many tasks in a highly mechanized agriculture. Importees and internees rendered assistance.</p>
+
+<p>But in the majority of the states, the release of men of 38 or older from the armed services resulted in only a thin trickle back to the land.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">FARMERS POOL RESOURCES<lb/>AND WORK LONGER.</head>
+
+<p>The decisive contribution to the food growing campaign came from bona fide farmers. And they did it the hard way. They labored longer hours&#8211;often from sunup to sundown or, as the colloquialists put it, "from kin-see to kaint-see." They helped themselves and their neighbors by trading labor and equipment, they pooled machinery and set up community repair shops in many districts to offset, as much as possible, the loss of men.</p>
+
+<p>Despite the influx of new helpers, many states contemplate the forthcoming harvest with some degree of trepidation. Agricultural authorities fear that, at best, Ohio can muster no more then 75 per cent of the labor required. Shortages were envisioned in Illinois and Nebraska. New Jersey reckoned it would have to have 6,000 more migratory workers. Pennsylvania calculated its needs at 40,000 seasonal hands.</p>
+
+<p>To prepare for the titanic test in these and some other states mobilization and recruiting drives are in progress. Much will depend on aid from townsfolk.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">NORTH DAKOTA PLANS<lb/>ALL-OUT MOBILIZATION.</head>
+
+<p>J.M. Fry, Pennsylvania's director of agricultural extension, warned that people who don't live on farms "will have to help out if we're going to get enough to eat next winter."</p>
+
+<p>North Dakota, going all-out, has begun registration in every county and most communities under the "North Dakota plan"&#8211;which calls for businessmen, students and housewives to drop whatever they are doing temporarily and help bring in the crops.</p>
+
+<p>The commandant of Camp Atterbury in Indiana has arranged to farm out Iranian prisoners in five nearby counties. Ohio American Legionnaires were asked to form labor groups to assist farmers and processors.</p>
+
+<p>In the far west volunteers, being organized under extension service supervision, may save millions of dollars worth of raw food. Oldsters, women and children have been turned to in the south. In many states the city dwellers&#8211;students in particular&#8211;are being importuned to spend their summer holidays on farms. Thousands of youngsters have enrolled.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">MARGINAL FARMERS<lb/>BECOME HIRED HELP.</head>
+
+<p>Some of the transplanted toilers have found the experience pleasant as well as profitable. Consider, for instance, this case:</p>
+
+<p>Four hundred and eighty marginal land tillers from Kentucky's hills were given short courses in dairying at Ohio State university and Rio Grande college. Then they were placed on farms as hired help.</p>
+
+<p>Earle J. Smith, Ohio farm consultant for the United States employment service, opined they were better off economically. He quoted them:</p>
+
+<p>"We're eatin' higher up on the hog now&#8211;less sow belly and more ham."</p>
+</div1>
+
+</body>
+</text>
+</TEI>

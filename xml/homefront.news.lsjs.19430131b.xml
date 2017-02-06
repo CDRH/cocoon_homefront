@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.lsjs.19430131b SYSTEM "homefront.news.lsjs.19430131b.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.lsjs.19430131b">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Union college trains women for civilian work in war</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.lsjs.19430131b</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Lincoln Sunday Journal and Star</title>
+<title level="a">Union college trains women for civilian work in war</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">C-8</biblScope>
+<biblScope type="columns">2-3</biblScope>
+<publisher>Lincoln Sunday Journal and Star</publisher>
+<pubPlace>Lincoln, NE</pubPlace>
+<date value="1943-01-31">1943-01-31</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Women/male work</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-05</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.lsjs.19430131b">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p8"/>
+
+<figure>
+<figDesc>Slate blue uniforms signify that these Union College students are learning to be useful in war emergencies.</figDesc>
+</figure>
+
+<head type="main">Union college trains women<lb/>for civilian work in war</head>
+
+<p>Union college is the first college in this part of the country to have developed an organization of its women for civilian work in the time of war. Since 1934, Union has had a medical cadet corps for young men, but in the fall of 1942, Dr. Everett Dick, dean of the college, organized a medical cadet corps for the girls of the college. The objective of this corps is to train the girls to assist in any civilian emergency in time of war, such as epidemics, nursing, first-aid work, stretcher bearing, and other general medical care.</p>
+
+<p>The young ladies drill every Monday and Wednesday afternoons in their slate blue military-fashioned uniforms. Their training consists of physical exercises, close order and litter drill, military courtesy, standard first-aid, Red Cross emergency nursing, discipline and other training that will enable them to cope with emergency situations.</p>
+
+<p>Miss Arlene Church, senior from Lincoln, is the staff sergeant and <sic corr="cadet">cadette</sic> leader. The three other sergeants are Madeleine Douma, sophomore from Iowa; Eileen Cobb, Sophomore, Lincoln; Haziel Clifford, sophomore, Texas. Dr. Everett Dick is the commanding officer. There was a total of twenty-five girls in the corps for the first semester, but many more are joining.</p>
+
+<p>Lieut. A. D. Carvin, chemical warfare officer at the Lincoln air base, visited at Union college Friday afternoon, January 15, for the purpose of inspecting the medical cadet and <sic corr="cadet">cadette</sic> corps, and he brought them a lecture picture on gas masks. After Lieutenant Carvin observed the ladies M. C. C. he remarked, "It is very good training and may be useful for civilian defense. It is the first corps of this type I have seen, but I believe it is a very good plan."</p>
+
+<p>Lieutenant Carvin was assisted in the films by Sergeant G. A. Bartz also for the chemical warfare department and Corporal Bert Waldo, 782 T. T. S.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+

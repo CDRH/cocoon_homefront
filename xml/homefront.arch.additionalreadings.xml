@@ -1,0 +1,2422 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+]>
+
+<TEI id="homefront.arch.additionalreadings">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Suggestions for Additional Research</title>
+                <title level="m" type="sub"/>
+                <author>R. Douglas Hurt</author>
+                <principal>R. Douglas Hurt</principal>
+                <respStmt>
+                    <resp>Project Team</resp>
+                    <name>Katherine Walter</name>
+                    <name>Brian Pytlik Zillig</name>
+                    <name>Laura Weakly</name>
+                    <name>Zach Bajaber</name>
+                    <name>Nic Swiercek</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2007</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>homefront.arch.additionalreadings</idno>
+                <authority>The Home Front in the Great Plains During World War II,
+                    1939&#8211;1945</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <date>2007</date>
+                <availability>
+                    <p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all
+                        rights reserved. Redistribution or republication in any medium, except as
+                        allowed under the Fair Use provisions of U.S. copyright law, requires
+                        express written consent from the editors and advance notification of the
+                        publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project"> </note>
+            </notesStmt>
+            <sourceDesc>
+                <p>Original.</p>
+            </sourceDesc>
+        </fileDesc>
+
+        <revisionDesc>
+            <change>
+                <date>2007-06-15</date>
+                <respStmt>
+                    <name>Laura Weakly</name>
+                </respStmt>
+                <item>Initial encoding</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+
+            <head>Suggestions for Additional Research</head>
+
+            <div1 type="Agriculture" subtype="labor">
+                <head type="sub">Agriculture&#8212;labor</head>
+                <bibl>
+                    <title level="a">"All Young Farmers in County Made 1-A"</title>
+                    <title level="j">Denver Post</title>
+                    <date value="1945-02-16">2/16/45</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"All Young Farmers Made 1-A by Jefferson County Board"</title>
+                    <title level="j">Denver Post</title>
+                    <date value="1945-02-16">2/16/45</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Vivian Urges Uniforms For Young Farm Help"</title>
+                    <title level="j">Denver Post</title>
+                    <date value="1943-04-20">4/20/43</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Farmers Affected By New Selective Service Rulings"</title>
+                    <title level="j">Wichita Eagle</title>
+                    <date value="1944-12-15">12/15/44</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Seeking More War Prisoners For N.M. Farm Labor"</title>
+                    <title level="j">Roswell Daily Record</title>
+                    <date value="1944-06-01">6/1/44</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"30,000 War Prisoners Needed for Farm Work"</title>
+                    <title level="j">Dallas Morning News</title>
+                    <date value="1944-03-25">3/25/44</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Farmers Expect Prisoners Soon"</title>
+                    <title level="j">Albuquerque Journal</title>
+                    <date value="1943-09-24">9/24/43</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Prisoners at Phillips Used as Farm Help"</title>
+                    <title level="j">Salina Journal</title>
+                    <date value="1943-05-18">5/18/43</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Harvest Wage to Be $7-10 a Day"</title>
+                    <title level="j">Salina Journal</title>
+                    <date value="1945-06-16">6/16/45</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"City Civic Clubbers Discover Cotton Picking's Not So
+                        Soft"</title>
+                    <title level="j">Daily Oklahoman</title>
+                    <date value="1942-10-10">10/10/42</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"First Southern Laborers to Arrive Tuesday"</title>
+                    <title level="j">Bismarck Tribune</title>
+                    <date value="1945-08-03">8/3/45</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Navajo Indians Begin Lambing Jobs in Wyoming"</title>
+                    <title level="j">Wyoming Eagle</title>
+                    <date value="1945-04-04">4/4/45</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"3,000 Mexican Harvest Workers Due in N.D. Soon"</title>
+                    <title level="j">Bismarck Tribune</title>
+                    <date value="1944-07-21">7/21/44</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Mexican Workers May Come Here"</title>
+                    <title level="j">Bismarck Tribune</title>
+                    <date value="1945-07-01">7/1/45</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Farmers Told how to Obtain Jap Evacuees"</title>
+                    <title level="j">Denver Post</title>
+                    <date value="1942-09-01">9/1/42</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Farmers to Mine in Slack Period"</title>
+                    <title level="j">Albuquerque Journal</title>
+                    <date value="1943-11-14">11/14/43</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Farm Labor Urged to Take Winter Jobs in Industry"</title>
+                    <title level="j">Wyoming Eagle</title>
+                    <date value="1943-10-26">10/26/43</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"City Folk to Aid of Harvest"</title>
+                    <title level="j">Wichita Eagle</title>
+                    <date value="1944-05-14">5/14/44</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"War Prisoners to Work on Montana Farm"</title>
+                    <title level="j">Bismarck Tribune</title>
+                    <date value="1944-06-19">6/19/44</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Postal Employees To Pick Cotton"</title>
+                    <title level="j">Dallas Morning News</title>
+                    <date value="1944-10-10">10/10/44</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Women's Land Army is Doing Big Job in State"</title>
+                    <title level="j">Denver Post</title>
+                    <date value="1944-09-28">9/28/44</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"New Job for Women&#8212;Sheep Shearing"</title>
+                    <title level="j">Omaha World Herald</title>
+                    <date value="1943-03-15">3/15/43</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Your Mexican Hired Hand"</title>
+                    <title level="j">Dakota Farmer</title>
+                    <date value="1945-07-07">7/7/45</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Mexicans Aid in State Harvest"</title>
+                    <title level="j">Rapid City Daily Journal</title>
+                    <date value="1945-02-05">2/5/45</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Suggest Training of Women Farmers"</title>
+                    <title level="j">Wichita Eagle</title>
+                    <date value="1943-10-23">10/23/43</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Clothes Designs Especially for Farm Women at Work
+                        Planned"</title>
+                    <title level="j">Wyoming Eagle</title>
+                    <date value="1942-01-14">1/14/42</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Kansas Farmers Worried About Food for Laborers"</title>
+                    <title level="j">Bismarck Tribune</title>
+                    <date value="1945-06-13">6/13/45</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Pea Crop's in, Thanks to Volunteers"</title>
+                    <title level="j">Omaha World Herald</title>
+                    <date value="1943-06-25">6/25/43</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Men at War, Wheat Harvest is Story of Women in Fields"</title>
+                    <title level="j">Daily Oklahoman</title>
+                    <date value="1943-06-27">6/27/43</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Guardsmen Battle to Save Crops, City Labor Encourages
+                        Farmers"</title>
+                    <title level="j">Dallas Morning News</title>
+                    <date value="1943-03-14">6/14/43</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Gov. Vivian Renews Demands Army Farmers Be Released"</title>
+                    <title level="j">Denver Post</title>
+                    <date value="1943-04-16">4/16/43</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Western Farmers Are Told to Solve Labor Problems"</title>
+                    <title level="j">Denver Post</title>
+                    <date value="1942-05-21">5/21/42</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Parents Urged to Help Keep Farm Boys Home"</title>
+                    <title level="j">Daily Oklahoman</title>
+                    <date value="1941-12-18">12/18/41</date>
+                    <note type="topic">Agriculture&#8212;labor</note>
+                </bibl>
+
+            </div1>
+
+            <div1 type="Agriculture" subtype="machinery">
+                <head type="sub">Agriculture&#8212;machinery</head>
+
+                <bibl>
+                    <title level="a">"Farmers Will Get Essential New Machines</title>
+                    <title level="j">Wyoming Eagle</title>
+                    <date value="1942-07-16">7/16/42</date>
+                    <note type="topic">Agriculture&#8212;machinery</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Farmers Guarantee Machine Parts Only Until February"</title>
+                    <title level="j">Denver Post</title>
+                    <date value="1941-11-02">11/2/41</date>
+                    <note type="topic">Agriculture&#8212;machinery</note>
+                </bibl>
+
+            </div1>
+
+            <div1 type="Agriculture" subtype="postwar">
+                <head type="sub">Agriculture&#8212;postwar</head>
+                <bibl>
+                    <title level="a">"Service Men Look Forward to Farming When War Ends"</title>
+                    <title level="j">Bismarck Tribune</title>
+                    <date value="1944-03-24">3/24/44</date>
+                    <note type="topic">Agriculture&#8212;postwar</note>
+                </bibl>
+
+            </div1>
+
+            <div1 type="Agriculture" subtype="production">
+                <head type="sub">Agriculture&#8212;production</head>
+
+                <bibl>
+                    <title level="a">"US will Ask Bigger Crops in Colorado"</title>
+                    <title level="j">Denver Post</title>
+                    <date value="1941-10-12">10/12/41</date>
+                    <note type="topic">Agriculture&#8212;production</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"State Food Goals"</title>
+                    <title level="j">Salina Journal</title>
+                    <date value="1940-10-04">10/4/41</date>
+                    <note type="topic">Agriculture&#8212;production</note>
+                </bibl>
+
+
+                <bibl>
+                    <title level="a">"Electrification of Farms Boost War Food Production"</title>
+                    <title level="j">Wyoming State Tribune-Leader and Wyoming Eagle</title>
+                    <date value="1944-07-15">7/25-28/1944</date>
+                    <note type="topic">Agriculture&#8212;production</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Reduction in Sugar Acreage is Predicted"</title>
+                    <title level="j">Wyoming State Tribune-Leader and Wyoming Eagle</title>
+                    <date value="1940-11-26">11/26/40</date>
+                    <note type="topic">Agriculture&#8212;production</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"As Tires Grow Tired"</title>
+                    <title level="j">Successful Farming</title>
+                    <date value="1942-06-01">6/1/42</date>
+                    <note type="topic">Agriculture&#8212;production</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"University Extension Official Sees Return of Horse on
+                        Farm"</title>
+                    <title level="j">Wyoming Eagle</title>
+                    <date value="1942-01-30">1/30/42</date>
+                    <note type="topic">Agriculture&#8212;production</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Livestock Population of State at Peak"</title>
+                    <title level="j">Wyoming State Tribune-Leader and Wyoming Eagle</title>
+                    <date value="1944-07-25">07-25-28-44</date>
+                    <note type="topic">Agriculture&#8212;production</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"War Crop Acreage to Drop, Lack of Loans Called Factor"</title>
+                    <title level="j">Omaha World Herald</title>
+                    <date value="1944-02-20">2/20/44</date>
+                    <note type="topic">Agriculture&#8212;production</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Cattle Thefts Increase in State"</title>
+                    <title level="j">Albuquerque Journal</title>
+                    <date value="1943-02-20">2/20/43</date>
+                    <note type="topic">Agriculture&#8212;production</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"This is Going to be Tough!: Farm Machinery Will Be Hard to
+                        Get"</title>
+                    <title level="j">Dakota Farmer</title>
+                    <date value="1942-11-14">11/14/42</date>
+                    <note type="topic">Agriculture&#8212;production</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Last Year's Record Farm Output is Base for Bigger
+                        Production"</title>
+                    <title level="j">Rapid City Daily Journal</title>
+                    <date value="1942-02-26">2/26/42</date>
+                    <note type="topic">Agriculture&#8212;production</note>
+                </bibl>
+
+            </div1>
+
+            <div1 type="Agriculture" subtype="war effect">
+                <head type="sub">Agriculture&#8212;war effect</head>
+                <bibl>
+                    <title level="a">"How Will War Affect the Farmer?"</title>
+                    <title level="j">Farmer-Stockman</title>
+                    <date value="1939-09-15">9/15/39</date>
+                    <note type="topic">Agriculture&#8212;war affect</note>
+                </bibl>
+
+                <div1 type="Bonds">
+                    <head type="sub">Bonds</head>
+                    <bibl>
+                        <title level="a">"Thousand Cheer Premiere of Denver-at-War
+                            Exposition"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1944-01-24">1/24/44</date>
+                        <note type="topic">Bonds</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Denver-at-War Exposition Will Be Extended Two
+                            Days"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1944-01-26">1/26/44</date>
+                        <note type="topic">Bonds</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Calf Auction Nets $5,700,000 in War Bonds at
+                            Premiere"</title>
+                        <title level="j">Omaha World Herald</title>
+                        <date value="1944-02-10">2/10/44</date>
+                        <note type="topic">Bonds</note>
+                    </bibl>
+                </div1>
+
+                <div1 type="Celebration">
+                    <head type="sub">Celebration</head>
+                    <bibl>
+                        <title level="a">"Two-Day State Holiday is Proclaimed"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1945-08-15">8/15/45</date>
+                        <note type="topic">Celebration</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Denver Returns to Normal After Celebrating
+                            Victory"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1945-08-17">8/17/45</date>
+                        <note type="topic">Celebration</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Second Night of Celebration in Denver Orderly, Say
+                            Police"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1945-08-16">8/16/45</date>
+                        <note type="topic">Celebration</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Only Two Injured Seriously in Denver Peace
+                            Celebration"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1945-08-15">8/15/45</date>
+                        <note type="topic">Celebration</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Dallasites Want Sirens' Wail to Signal Nazis'
+                            Surrender"</title>
+                        <title level="j">Dallas Morning News</title>
+                        <date value="1944-08-06">8/6/44</date>
+                        <note type="topic">Celebration</note>
+                    </bibl>
+                </div1>
+
+
+
+                <div1 type="Child Care">
+                    <head type="sub">Child Care</head>
+                    <bibl>
+                        <title level="a">"Day Nurseries Planned Here"</title>
+                        <title level="j">Wyoming State Tribune</title>
+                        <date value="1943-06-24">6/24/43</date>
+                        <note type="topic">Child Care</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"School's Out! Nursery Plans Rushed to Aid War
+                            Workers"</title>
+                        <title level="j">Daily Oklahoman</title>
+                        <date value="1943-05-29">5/29/43</date>
+                        <note type="topic">Child Care</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Higher Rates for Children's Centers Loom"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1945-09-03">9/3/45</date>
+                        <note type="topic">Child Care</note>
+                    </bibl>
+                </div1>
+
+                <div1 type="Defense">
+                    <head type="sub">Defense</head>
+                    <bibl>
+                        <title level="a">"Scout Leaders Discuss Defense"</title>
+                        <title level="j">Billings Gazette</title>
+                        <date value="1941-12-13">12/13/41</date>
+                        <note type="topic">defense</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"S.D. to Have Surprise Blackout This Month"</title>
+                        <title level="j">Rapid City Daily Journal</title>
+                        <date value="1943-04-07">4/7/43</date>
+                        <note type="topic">defense</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Full Dress 'Bomber Raid' Is Scheduled for Enid"</title>
+                        <title level="j">Daily Oklahoman</title>
+                        <date value="1942-09-23">9/23/42</date>
+                        <note type="topic">defense</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Nerve Center of City's Defense"</title>
+                        <title level="j">Daily Oklahoman</title>
+                        <date value="1942-11-15">11/15/42</date>
+                        <note type="topic">defense</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"If Dallas is Bombed What Would YOU Do?"</title>
+                        <title level="j">Dallas Morning News</title>
+                        <date value="1943-02-21">2/21/43</date>
+                        <note type="topic">defense</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Oklahoma City CAN Be Bombed"</title>
+                        <title level="j">Daily Oklahoman</title>
+                        <date value="1942-11-15">11/15/42</date>
+                        <note type="topic">defense</note>
+                    </bibl>
+
+                </div1>
+
+                <div1 type="Defense Raids">
+                    <head type="sub">Defense Raids</head>
+                    <bibl>
+                        <title level="a">"Civilian Defense Volunteer Office to Open Here"</title>
+                        <title level="j">Omaha World Herald</title>
+                        <date value="1941-12-11">12/11/41</date>
+                        <note type="topic">Defense Raids</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Omaha Meets Raid Test"</title>
+                        <title level="j">Omaha World Herald</title>
+                        <date value="1943-02-01">2/1/43</date>
+                        <note type="topic">Defense Raids</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"2,500 City Air Raid Wardens Being Issued Special Arm
+                            Bands"</title>
+                        <title level="j">Daily Oklahoman</title>
+                        <date value="1942-08-20">8/20/42</date>
+                        <note type="topic">Defense Raids</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"All Denver Homes Will Get Blackout Inspection"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1942-08-27">8/27/42</date>
+                        <note type="topic">Defense Raids</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"It All Goes Black"</title>
+                        <title level="j">Salina Journal</title>
+                        <date value="1942-12-08">12/8/42</date>
+                        <note type="topic">Defense Raids</note>
+                    </bibl>
+                </div1>
+
+                <div1 type="Housing">
+                    <head type="sub">Housing</head>
+                    <bibl>
+                        <title level="a">"500 New Homes to Relieve Housing Shortage in
+                            Dallas"</title>
+                        <title level="j">Dallas Morning News</title>
+                        <date value="1945-03-31">3/31/45</date>
+                        <note type="topic">Housing</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Build Homes in Bellevue"</title>
+                        <title level="a">Omaha World Herald</title>
+                        <date value="1941-11-28">11/28/41</date>
+                        <note type="topic">Housing</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Defense Housing Project Family Likes Security From
+                            Moving"</title>
+                        <title level="j">Wichita Eagle</title>
+                        <date value="1941-08-24">8/24/41</date>
+                        <note type="topic">Housing</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Landlords Urged to keep Rents at Normal Levels"</title>
+                        <title level="j">Bismarck Tribune</title>
+                        <date value="1944-05-01">5/1/44</date>
+                        <note type="topic">Housing</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Rooms Fade Away For Navy Wives"</title>
+                        <title level="j">Daily Oklahoman</title>
+                        <date value="1944-05-16">5/16/44</date>
+                        <note type="topic">Housing</note>
+                    </bibl>
+                </div1>
+
+                <div1 type="Industry">
+                    <head type="sub">Industry</head>
+                    <bibl>
+                        <title level="a">"Spawned of War, Omaha's DDT Industry is Now Booming
+                            Business"</title>
+                        <title level="j">Omaha World Herald</title>
+                        <date value="1945-09-23">9/23/45</date>
+                        <note type="topic">Industry</note>
+                    </bibl>
+                </div1>
+
+
+                <div1 type="Internment">
+                    <head type="sub">Internment</head>
+                    <bibl>
+                        <title level="a">"Last Resident of Amache Camp Leaves"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1945-10-15">10/15/45</date>
+                        <note type="topic">Internment</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Colorado Japs Flocking to Fat Jobs in Illinois"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1945-03-06">3/6/45</date>
+                        <note type="topic">Internment</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Japs Evacuees Will Return to Homes on Coast After Jan.
+                            1"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1944-12-18">12/18/44</date>
+                        <note type="topic">Internment</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"2,507 of Released Jap Camp Residents Settle in
+                            Colorado"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1944-05-25">5/25/44</date>
+                        <note type="topic">Internment</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Anti-Jap Bill Dies in Colorado Senate"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1944-02-09">2/9/44</date>
+                        <note type="topic">Internment</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Amanche Relocation Camp Japs Get Good Food and Plenty of
+                            It"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1943-02-19">2/19/43</date>
+                        <note type="topic">Internment</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"State Has No Voice in Pay at Jap Camp"</title>
+                        <title level="j">Wyoming Eagle</title>
+                        <date value="1942-08-13">8/13/42</date>
+                        <note type="topic">Internment</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"First Group of West Coast Jap Evacuees on Way to Cody
+                            Camp"</title>
+                        <title level="j">Wyoming Eagle</title>
+                        <date value="1942-08-11">8/11/42</date>
+                        <note type="topic">Internment</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Omaha Engineers Build City for 10 Thousand
+                            Japanese"</title>
+                        <title level="j">Sunday World-Herald</title>
+                        <date value="1942-08-02">8/2/42</date>
+                        <note type="topic">Internment</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Rumor Jap Camp To Be Built South of City"</title>
+                        <title level="j">Roswell Daily Record</title>
+                        <date value="1942-04-21">4/21/42</date>
+                        <note type="topic">Internment</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"No Jap in State"</title>
+                        <title level="j">Salina Journal</title>
+                        <date value="1942-04-02">4/2/42</date>
+                        <note type="topic">Internment</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Carr Says Colorado Will Take Evacuated Japs if Called
+                            On"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1942-03-01">3/1/42</date>
+                        <note type="topic">Internment</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"415 Jap Aliens Arrive at Fort"</title>
+                        <title level="j">Bismarck Tribune</title>
+                        <date value="1942-02-09">2/9/42</date>
+                        <note type="topic">Internment</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Japanese Colony at Clovis Receives War News
+                            Calmly"</title>
+                        <title level="j">Amarillo Globe</title>
+                        <date value="1941-12-08">12/8/41</date>
+                        <note type="topic">Internment</note>
+                    </bibl>
+                </div1>
+
+                <div1 type="Labor" subtype="general">
+                    <head type="sub">Labor&#8212;general</head>
+
+                    <bibl>
+                        <title level="a">"Vital Jobs Remains for Labor"</title>
+                        <title level="j">Omaha World Herald</title>
+                        <date value="1944-09-15">9/15/44</date>
+                        <note type="topic">Labor&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Supper at 8 am is Becoming Commonplace For Wichita's
+                            Defense Workers"</title>
+                        <title level="j">Wichita Eagle</title>
+                        <date value="1941-12-07">12/7/41</date>
+                        <note type="topic">Labor&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Many Workers Needed in Denver Meat Plants"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1945-09-25">9/25/45</date>
+                        <note type="topic">Labor&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Police Department Hard Hit As Armed Services Take
+                            Men"</title>
+                        <title level="j">Wichita Eagle</title>
+                        <date value="1942-05-13">5/13/42</date>
+                        <note type="topic">Labor&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"High School Grads Take Unusual Work"</title>
+                        <title level="j">Rapid City Daily Journal</title>
+                        <date value="1943-07-18">7/18/43</date>
+                        <note type="topic">Labor&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Vacant Chair Always There"</title>
+                        <title level="j">Omaha World Herald</title>
+                        <date value="1945-03-11">3/11/45</date>
+                        <note type="topic">Labor&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Smart Students Will Quit Jobs and Return to
+                            School"</title>
+                        <title level="j">Wyoming Eagle</title>
+                        <date value="1944-08-30">8/30/44</date>
+                        <note type="topic">Labor&#8212;general</note>
+                    </bibl>
+                </div1>
+
+                <div1 type="Labor" subtype="miscellaneous">
+                    <head type="sub">Labor&#8212;miscellaneous</head>
+                    <bibl>
+                        <title level="a">"School Children May be Allowed To Work"</title>
+                        <title level="j">Rapid City Daily Journal</title>
+                        <date value="1943-07-10">7/10/43</date>
+                        <note type="topic">Labor&#8212;misc.</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"City's U.S. Employment Office Places 1,000 in Jobs
+                            Monthly"</title>
+                        <title level="j">Daily Oklahoman</title>
+                        <date value="1942-11-15">11/15/42</date>
+                        <note type="topic">Labor&#8212;misc.</note>
+                    </bibl>
+                </div1>
+
+                <div1 type="Labor" subtype="training">
+                    <head type="sub">Labor&#8212;training</head>
+                    <bibl>
+                        <title level="a">"Vivian Offers Program for Defense Workers"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1943-10-31">10/31/43</date>
+                        <note type="topic">Labor&#8212;training</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Agency Officials Attack City's Labor Problem"</title>
+                        <title level="j">Daily Oklahoman</title>
+                        <date value="1942-12-29">12/29/42</date>
+                        <note type="topic">Labor&#8212;training</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"15,000 Train For Jobs in City's Plants"</title>
+                        <title level="j">Daily Oklahoman</title>
+                        <date value="1942-11-15">11/15/42</date>
+                        <note type="topic">Labor&#8212;training</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Tech School Approved for Defense"</title>
+                        <title level="j">Dallas Morning News</title>
+                        <date value="1940-07-10">7/10/40</date>
+                        <note type="topic">Labor&#8212;training</note>
+                    </bibl>
+                </div1>
+
+                <div1 type="Labor" subtype="post war">
+                    <head type="sub">Labor&#8212;post war</head>
+                    <bibl>"476,541 Unemployed in Texas Foreseen for Postwar Period Dallas Morning
+                        News 5/12/44 <note type="topic">Labor&#8212;post war</note></bibl>
+
+                    <bibl>
+                        <title level="a">"Colorado Realizes no Postwar Slump"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1945-09-07">9/7/45</date>
+                        <note type="topic">Labor&#8212;post war</note>
+                    </bibl>
+                </div1>
+
+                <div1 type="Liquor">
+                    <head type="sub">Liquor</head>
+                    <bibl>
+                        <title level="a">"Liquor? You're in the Wrong City"</title>
+                        <title level="j">Daily Oklahoman</title>
+                        <date value="1942-11-02">11/2/42</date>
+                        <note type="topic">liquor</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Law Divorcing Beer, Dancing Now In Effect"</title>
+                        <title level="j">Daily Oklahoman</title>
+                        <date value="1943-06-30">6/30/43</date>
+                        <note type="topic">liquor</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"New Liquor Licenses To Be Withheld Until After
+                            Victory"</title>
+                        <title level="j">Wyoming State Tribune</title>
+                        <date value="1945-08-01">8/1/45</date>
+                        <note type="topic">liquor</note>
+                    </bibl>
+                </div1>
+
+
+                <div1 type="Miscellaneous">
+                    <head type="sub">Miscellaneous</head>
+
+                    <bibl>
+                        <title level="a">"Hartman Will Check Watches of Civilian Defense
+                            Workers"</title>
+                        <title level="j">Amarillo Globe</title>
+                        <date value="1942-02-09">2/9/42</date>
+                        <note type="topic">Misc</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Despite War, Omahans Keep Up Special Interests"</title>
+                        <title level="j">Omaha World Herald</title>
+                        <date value="1945-02-11">2/11/45</date>
+                        <note type="topic">Misc</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Mid-West at War"</title>
+                        <title level="j">Salina Journal</title>
+                        <date value="1942-07-14">7/14/42</date>
+                        <note type="topic">Misc</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Laundries Overworked, Owners Say"</title>
+                        <title level="j">Dallas Morning News</title>
+                        <date value="1943-05-05">5/5/43</date>
+                        <note type="topic">Misc</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"War Brings Many Changes in Lincoln"</title>
+                        <title level="j">Lincoln Sunday Journal</title>
+                        <date value="1943-01-31">1/31/43</date>
+                        <note type="topic">Misc</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"No Worry Over Rationing for Clever Hostesses"</title>
+                        <title level="j">Omaha World Herald</title>
+                        <date value="1945-02-10">2/10/45</date>
+                        <note type="topic">Misc</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Defense Lure Brings Lack of Waitresses"</title>
+                        <title level="j">Daily Oklahoman</title>
+                        <date value="1941-11-04">11/4/41</date>
+                        <note type="topic">Misc</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"4-H Pledges War Support"</title>
+                        <title level="j">Omaha World Herald</title>
+                        <date value="1941-12-14">12/14/41</date>
+                        <note type="topic">Misc</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Few Counties in State Cancel Their Fairs"</title>
+                        <title level="j">Daily Oklahoman</title>
+                        <date value="1942-07-22">7/22/42</date>
+                        <note type="topic">Misc</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"University Starts Health Program For Draftees"</title>
+                        <title level="j">Daily Oklahoman</title>
+                        <date value="1941-03-23">3/23/41</date>
+                        <note type="topic">Misc</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Teachers of Denver Told to Emphasize Patriotism"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1941-09-03">9/3/41</date>
+                        <note type="topic">Misc</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Army Gets Ready"</title>
+                        <title level="j">Salina Journal</title>
+                        <date value="1939-10-28">10/28/39</date>
+                        <note type="topic">Misc</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Draft Objectors To Draw Program"</title>
+                        <title level="j">Daily Oklahoman</title>
+                        <date value="1941-01-31">1/31/41</date>
+                        <note type="topic">Misc</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"City is Canvassed For Contributions to Jewish
+                            Relief"</title>
+                        <title level="j">Bismarck Tribune</title>
+                        <date value="1939-01-14">1/14/39</date>
+                        <note type="topic">Misc</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"'Keep Peace' Says Bismarck's Legion"</title>
+                        <title level="j">Bismarck Tribune</title>
+                        <date value="1939-09-14">9/14/39</date>
+                        <note type="topic">Misc</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"State No Slacker"</title>
+                        <title level="j">Salina Journal</title>
+                        <date value="1941-09-18">9/18/41</date>
+                        <note type="topic">Misc</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"FBI Slates Defense School"</title>
+                        <title level="j">Billings Gazette</title>
+                        <date value="1941-11-14">11/14/41</date>
+                        <note type="topic">Misc</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Advises Stay in School"</title>
+                        <title level="j">Salina Journal</title>
+                        <date value="1941-08-18">8/28/41</date>
+                        <note type="topic">Misc</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"But Keep Peace, Say Local Folk"</title>
+                        <title level="j">Bismarck Tribune</title>
+                        <date value="1940-05-27">5/27/40</date>
+                        <note type="topic">Misc</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Finish Relief Fund Finds Support"</title>
+                        <title level="j">Bismarck Tribune</title>
+                        <date value="1940-01-26">1/26/40</date>
+                        <note type="topic">Misc</note>
+                    </bibl>
+                </div1>
+
+
+
+                <div1 type="Nursing">
+                    <head type="sub">Nursing</head>
+                    <bibl>
+                        <title level="a">"N.D. Nurses Urged to Serve With Army"</title>
+                        <title level="j">Bismarck Tribune</title>
+                        <date value="1941-12-10">12/10/41</date>
+                        <note type="topic">Nursing</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"More Nurses are Needed, Parley Told"</title>
+                        <title level="j">Wyoming State Tribune</title>
+                        <date value="1943-07-25">7/25/43</date>
+                        <note type="topic">Nursing</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Nurses of Colorado Will Be Ready for War Defense
+                            Call"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1941-03-16">3/16/41</date>
+                        <note type="topic">Nursing</note>
+                    </bibl>
+                </div1>
+
+
+                <div1 type="Post War">
+                    <head type="sub">Post War</head>
+                    <bibl>
+                        <title level="a">"Veteran Solves Own House Need with Garage; Offers to Help
+                            Others"</title>
+                        <title level="j">Omaha World Herald</title>
+                        <date value="1945-12-23">12/23/45</date>
+                        <note type="topic">Post War</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Vets and Families Arriving at Colorado U. Trailer
+                            Homes"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1945-11-04">11/4/45</date>
+                        <note type="topic">Post War</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Housing Rated No. 1 Problem in Denver"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1945-09-11">9/11/45</date>
+                        <note type="topic">Post War</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Ickes Reports Requests from Interested Service Men Running
+                            at 3,000 a Month"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1945-06-10">6/10/45</date>
+                        <note type="topic">Post War</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"South Dakota Town Plans Free Lots For War
+                            Veterans"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1845-06-10">6/10/45</date>
+                        <note type="topic">Post War</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Advocates Farm Settlements for Veterans of Wars"</title>
+                        <title level="j">Roswell Daily Record</title>
+                        <date value="1944-11-16">11/16/44</date>
+                        <note type="topic">Post War</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Landlords Urged to Accepts Vets' Tots"</title>
+                        <title level="j">Wyoming State Tribune</title>
+                        <date value="1945-12-06">12/6/45</date>
+                        <note type="topic">Post War</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"New Housing Regulations are Outlined"</title>
+                        <title level="j">Wyoming State Tribune</title>
+                        <date value="1945-12-31">12/31/45</date>
+                        <note type="topic">Post War</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Public Urged to Aid Vets Find Housing"</title>
+                        <title level="j">Wyoming State Tribune</title>
+                        <date value="1945-12-14">12/14/45</date>
+                        <note type="topic">Post War</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"After the War, What Will the Girl Workers Do? They’ll Get
+                            Into the Kitchen in a Hurry"</title>
+                        <title level="a">Daily Oklahoman</title>
+                        <date value="1943-06-13">6/13/43</date>
+                        <note type="topic">Post War</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Remain in College Students Told by Sorority
+                            Speaker"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1942-08-26">8/26/42</date>
+                        <note type="topic">Post War</note>
+                    </bibl>
+                </div1>
+
+                <div1 type="POW">
+                    <head type="sub">POW</head>
+                    <bibl>
+                        <title level="a">"Germans At Fort Lincoln Make IT&#8212;Hot and
+                            Heavy"</title>
+                        <title level="j">Bismarck Tribune</title>
+                        <date value="1941-08-22">8/22/41</date>
+                        <note type="topic">POW</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Public May See Internment Camp Soon at Open House"</title>
+                        <title level="j">Bismarck Tribune</title>
+                        <date value="1941-06-02">6/2/41</date>
+                        <note type="topic">POW</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Few Changes Needed to Ready Fort Lincoln for Housing of
+                            Italian and German Seaman"</title>
+                        <title level="j">Bismarck Tribune</title>
+                        <date value="1941-05-13">5/13/41</date>
+                        <note type="topic">POW</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Still Not Sure When Fort Will Be Ready for Seaman"</title>
+                        <title level="j">Bismarck Tribune</title>
+                        <date value="1941-18-04">4/18/41</date>
+                        <note type="topic">POW</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Only Part of Ft. Lincoln To be Fenced for Sailors"</title>
+                        <title level="j">Bismarck Tribune</title>
+                        <date value="1941-04-16">4/16/41</date>
+                        <note type="topic">POW</note>
+                    </bibl>
+                </div1>
+
+                <div1 type="Rationing" subtype="agriculture">
+                    <head type="sub">Rationing&#8212;agriculture</head>
+                    <bibl>
+                        <title level="a">"Tuesday to See Farm Mobilization; Texas Cotton Is Failure
+                            As War Unit"</title>
+                        <title level="j">Dallas Morning News</title>
+                        <date value="1943-01-11">1/11/43</date>
+                        <note type="topic">Rationing&#8212;agriculture</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Rations on Farm"</title>
+                        <title level="j">Salina Journal</title>
+                        <date value="1943-04-02">4/2/43</date>
+                        <note type="topic">Rationing&#8212;agriculture</note>
+                    </bibl>
+                </div1>
+
+                <div1 type="Rationing" subtype="automobile">
+                    <head type="sub">Rationing&#8212;automobile</head>
+                    <bibl>
+                        <title level="a">"Will Have Rubber"</title>
+                        <title level="j">Salina Journal</title>
+                        <date value="1942-09-19">9/19/42</date>
+                        <note type="topic">Rationing&#8212;automobile</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"4 Given Penalties in Hot Tire Trial; Gas Case Fines
+                            Made"</title>
+                        <title level="j">Dallas Morning News</title>
+                        <date value="1944-05-10">5/10/44</date>
+                        <note type="topic">Rationing&#8212;automobile</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Salina Already Realizes Absence of Gas Rationing"</title>
+                        <title level="j">Salina Journal</title>
+                        <date value="1945-09-08">9/8/45</date>
+                        <note type="topic">Rationing&#8212;automobile</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Denver Pupils to Gather Tons of Tin Monthly"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1944-01-03">1/3/44</date>
+                        <note type="topic">Rationing&#8212;automobile</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Laundry Truck is Equipped With Wood Tires"</title>
+                        <title level="j">Amarillo Globe</title>
+                        <date value="1942-02-24">2/24/42</date>
+                        <note type="topic">Rationing&#8212;automobile</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Colorado Given Only 475 Truck Tires for August"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1944-07-17">7/27/44</date>
+                        <note type="topic">Rationing&#8212;automobile</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"System of Registering Car Owners Set Up Here"</title>
+                        <title level="j">Salina Journal</title>
+                        <date value="1942-10-30">10/30/42</date>
+                        <note type="topic">Rationing&#8212;automobile</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Must Share Rides"</title>
+                        <title level="j">Salina Journal</title>
+                        <date value="1942-10-21">10/21/42</date>
+                        <note type="topic">Rationing&#8212;automobile</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Must Prove Need"</title>
+                        <title level="j">Salina Journal</title>
+                        <date value="1942-12-17">12/17/42</date>
+                        <note type="topic">Rationing&#8212;automobile</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Gasoline Is Available for Farm Worker"</title>
+                        <title level="j">Roswell Daily Record</title>
+                        <date value="1942-11-03">11/3/42</date>
+                        <note type="topic">Rationing&#8212;automobile</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"'A' Gas Ration Will Be Cut on March 22"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1944-03-14">3/14/44</date>
+                        <note type="topic">Rationing&#8212;automobile</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Kansas Allowed 1,802 New Cars"</title>
+                        <title level="j">Salina Journal</title>
+                        <date value="1942-02-25">2/25/42</date>
+                        <note type="topic">Rationing&#8212;automobile</note>
+                    </bibl>
+                </div1>
+
+                <div1 type="Rationing" subtype="fats">
+                    <head type="sub">Rationing&#8212;fats</head>
+                    <bibl>
+                        <title level="a">"Fats and Waster Paper No. 1 U.S. Salvage Needs"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1944-01-09">1/9/44</date>
+                        <note type="topic">Rationing&#8212;fats</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Housewives Urged to Turn in Waste Fats"</title>
+                        <title level="j">Wyoming State Tribune</title>
+                        <date value="1944-12-15">12/15/44</date>
+                        <note type="topic">Rationing&#8212;fats</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Waste Fat Shipments Show Gain"</title>
+                        <title level="j">Wyoming State Tribune</title>
+                        <date value="1944-06-18">6/18/44</date>
+                        <note type="topic">Rationing&#8212;fats</note>
+                    </bibl>
+                </div1>
+
+
+                <div1 type="Rationing" subtype="general">
+                    <head type="sub">Rationing&#8212;general</head>
+                    <bibl>
+                        <title level="a">"3,400 Old Girdles Are Wanted in Amarillo"</title>
+                        <title level="j">Amarillo Globe</title>
+                        <date value="1942-06-18">6/18/42</date>
+                        <note type="topic">Rationing&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"War Food Courses Set up in Schools"</title>
+                        <title level="j">Bismarck Tribune</title>
+                        <date value="1943-10-28">10/28/43</date>
+                        <note type="topic">Rationing&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Rationing Stamps To Be Made Good Indefinitely"</title>
+                        <title level="j">Roswell Daily Record</title>
+                        <date value="1944-03-27">3/27/44</date>
+                        <note type="topic">Rationing&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Hoarding Is Blamed As Tokens Run Short in Banks and
+                            Stores"</title>
+                        <title level="j">Dallas Morning News</title>
+                        <date value="1944-03-25">3/25/44</date>
+                        <note type="topic">Rationing&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Holiday Rationing Jitters Hits City Shoe Shops; What a
+                            Mob!"</title>
+                        <title level="j">Daily Oklahoman</title>
+                        <date value="1944-12-31">12/31/44</date>
+                        <note type="topic">Rationing&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"'Vitamins for Defense' Will Be Cooking School
+                            Subject"</title>
+                        <title level="j">Amarillo Globe</title>
+                        <date value="1942-02-11">2/11/42</date>
+                        <note type="topic">Rationing&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Denverites Lost 16,949 Ration Books During '44"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1945-01-14">1/14/45</date>
+                        <note type="topic">Rationing&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Ration Boost May Bar Caf&#233; Shutdown"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1945-07-26">7/26/45</date>
+                        <note type="topic">Rationing&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Denver Region Has Little Traffic In Fake Ration
+                            Stamps"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1945-07-11">7/11/45</date>
+                        <note type="topic">Rationing&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Denver Visitor Kills Himself By Long Leap"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1945-06-19">6/19/45</date>
+                        <note type="topic">Rationing&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Denver Stores Prepared to Issue Ration Tokens"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1944-02-27">2/27/44</date>
+                        <note type="topic">Rationing&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"One-Third of Restaurants Face Change"</title>
+                        <title level="j">Wyoming State Tribune</title>
+                        <date value="1944-12-03">12/3/44</date>
+                        <note type="topic">Rationing&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Here are Ration Point Changes for January"</title>
+                        <title level="j">Wyoming State Tribune</title>
+                        <date value="1944-01-03">1/3/44</date>
+                        <note type="topic">Rationing&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"You'll Have Less Food at Higher Prices Now with Point
+                            Rationing"</title>
+                        <title level="j">Amarillo Globe</title>
+                        <date value="1943-02-22">2/22/43</date>
+                        <note type="topic">Rationing&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Clip this Consumer Ration Form and Home, Fill It Out, Save
+                            Time"</title>
+                        <title level="j">Amarillo Globe</title>
+                        <date value="1943-02-07">2/7/43</date>
+                        <note type="topic">Rationing&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Pupils to Study Ration Methods in War Program"</title>
+                        <title level="j">Lincoln Star</title>
+                        <date value="1943-01-05">1/5/43</date>
+                        <note type="topic">Rationing&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Denver Grocers Amazed at Drastic Cut in Foods"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1943-02-22">2/22/43</date>
+                        <note type="topic">Rationing&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Washington Turns down Pleas of Caf&#225;
+                            Owners"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1945-07-31">7/31/45</date>
+                        <note type="topic">Rationing&#8212;general</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"City Cafes Win Ration Point Battle With Budget
+                            System"</title>
+                        <title level="j">Daily Oklahoman</title>
+                        <date value="1943-11-14">11/14/43</date>
+                        <note type="topic">Rationing&#8212;general</note>
+                    </bibl>
+                </div1>
+
+
+                <div1 type="Rationing" subtype="meat">
+                    <head type="sub">Rationing&#8212;meat</head>
+                    <bibl>
+                        <title level="a">"Wives Ponder Ration Cut Back, Find Turkey Scraps Look
+                            Better"</title>
+                        <title level="j">Daily Oklahoman</title>
+                        <date value="1944-12-27">12/27/44</date>
+                        <note type="topic">Rationing&#8212;meat</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Soldiers Here are Taught How to Handle Meat"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1944-06-25">6/25/44</date>
+                        <note type="topic">Rationing&#8212;meat</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Canned Rattlesnake Meat in Victory Garden Exhibit"</title>
+                        <title level="j">Omaha World Herald</title>
+                        <date value="1943-08-30">8/30/43</date>
+                        <note type="topic">Rationing&#8212;meat</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Urges Protein Foods to Take Place of Meat"</title>
+                        <title level="j">Wyoming Eagle</title>
+                        <date value="1942-10-10">10/10/42</date>
+                        <note type="topic">Rationing&#8212;meat</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Horse Meat has Moved to the Table"</title>
+                        <title level="j">Salina Journal</title>
+                        <date value="1945-07-04">7/4/45</date>
+                        <note type="topic">Rationing&#8212;meat</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Meat Shortage Reaches Acute Stage in Cheyenne"</title>
+                        <title level="j">Wyoming Eagle</title>
+                        <date value="1945-05-24">5/24/45</date>
+                        <note type="topic">Rationing&#8212;meat</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Cattle Roam State's Pastures But Vegetable Dinners
+                            Remain"</title>
+                        <title level="j">Daily Oklahoman</title>
+                        <date value="1945-05-26">5/26/45</date>
+                        <note type="topic">Rationing&#8212;meat</note>
+                    </bibl>
+                </div1>
+
+
+                <div1 type="Rationing" subtype="nonfood">
+                    <head type="sub">Rationing&#8212;nonfood</head>
+                    <bibl>
+                        <title level="a">"Farm Conference Helps Women to Remodel Clothes"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1942-05-21">5/21/42</date>
+                        <note type="topic">Rationing&#8212;nonfood</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Bulging Pocketbooks Star Wide Clothes Buying
+                            Spree"</title>
+                        <title level="j">Bismarck Tribune</title>
+                        <date value="1943-03-15">3/15/43</date>
+                        <note type="topic">Rationing&#8212;nonfood</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Groceries to Be Distributed But Daily Now"</title>
+                        <title level="j">Bismarck Tribune</title>
+                        <date value="1942-01-16">1/16/42</date>
+                        <note type="topic">Rationing&#8212;nonfood</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Ration Banking Difficulties Grow for Cheyenne
+                            Bankers"</title>
+                        <title level="j">Wyoming Eagle</title>
+                        <date value="1943-04-03">4/3/43</date>
+                        <note type="topic">Rationing&#8212;nonfood</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Shoppers Throng Toy Departments to Buy Plastic, Wooden
+                            Presents"</title>
+                        <title level="j">Dallas Morning News</title>
+                        <date value="1944-12-03">12/3/44</date>
+                        <note type="topic">Rationing&#8212;nonfood</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Materials for Many Repairs Are Available"</title>
+                        <title level="j">Daily Oklahoman</title>
+                        <date value="1942-04-12">4/12/42</date>
+                        <note type="topic">Rationing&#8212;nonfood</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Rural Folks' Rights Aired by Women"</title>
+                        <title level="j">Dallas Morning News</title>
+                        <date value="1943-08-19">8/19/43</date>
+                        <note type="topic">Rationing&#8212;nonfood</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Shoppers Warned of Paper Bag Shortage"</title>
+                        <title level="j">Wyoming State Tribune</title>
+                        <date value="1944-09-10">9/10/44</date>
+                        <note type="topic">Rationing&#8212;nonfood</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"All Amarillos' Chillun Got Shoes to Repair"</title>
+                        <title level="j">Amarillo Globe</title>
+                        <date value="1943-02-18">2/18/43</date>
+                        <note type="topic">Rationing&#8212;nonfood</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Shoe Rationing May Be Peril to Growth of Feet"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1943-09-29">9/29/43</date>
+                        <note type="topic">Rationing&#8212;nonfood</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Share-The-Ride Plan Launched at Wichita"</title>
+                        <title level="j">Wichita Eagle</title>
+                        <date value="1942-11-29">11/29/42</date>
+                        <note type="topic">Rationing&#8212;nonfood</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Women-at-War New Better: Elastic Girdles on Way
+                            Back"</title>
+                        <title level="j">Dallas Morning News</title>
+                        <date value="1943-10-29">10/29/43</date>
+                        <note type="topic">Rationing&#8212;nonfood</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Shoe Rationing Means Sale of More Footwear"</title>
+                        <title level="j">Dallas Morning News</title>
+                        <date value="1943-06-16">6/16/43</date>
+                        <note type="topic">Rationing&#8212;nonfood</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Sale of Silk Hose Now is Breaking Wichita Records"</title>
+                        <title level="j">Wichita Eagle</title>
+                        <date value="1941-08-03">8/3/41</date>
+                        <note type="topic">Rationing&#8212;nonfood</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Wichita Beacon Loses Appeal Against Government Penalty for
+                            Excessive Newsprint Use"</title>
+                        <title level="j">Wichita Eagle</title>
+                        <date value="1944-10-05">10/5/44</date>
+                        <note type="topic">Rationing&#8212;nonfood</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Library Aids Waste Paper Salvage Here"</title>
+                        <title level="j">Wyoming State Tribune</title>
+                        <date value="1944-04-14">4/14/44</date>
+                        <note type="topic">Rationing&#8212;nonfood</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Roll' Em Fashion in Cigaretless Falls City"</title>
+                        <title level="j">Omaha World Herald</title>
+                        <date value="1944-08-23">8/23/44</date>
+                        <note type="topic">Rationing&#8212;nonfood</note>
+                    </bibl>
+                </div1>
+
+
+                <div1 type="Rationing" subtype="salvage">
+                    <head type="sub">Rationing&#8212;salvage</head>
+                    <bibl>
+                        <title level="a">"Urging Wichitans to have Aluminum on Front
+                            Porches"</title>
+                        <title level="j">Wichita Eagle</title>
+                        <date value="1941-07-21">7/21/41</date>
+                        <note type="topic">Rationing&#8212;salvage</note>
+                    </bibl>
+                </div1>
+
+                <div1 type="Rationing" subtype="sugar">
+                    <head type="sub">Rationing&#8212;sugar</head>
+                    <bibl>
+                        <title level="a">"Schools To Suspend for Sugar Registry"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1942-04-14">4/14/42</date>
+                        <note type="topic">Rationing&#8212;sugar</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Caf&#225; Sugar Bowls to Vanish Thursday Until War is
+                            Ended"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1942-02-10">2/10/42</date>
+                        <note type="topic">Rationing&#8212;sugar</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Sign in for Sweets"</title>
+                        <title level="j">Salina Journal</title>
+                        <date value="1942-04-22">4/22/42</date>
+                        <note type="topic">Rationing&#8212;sugar</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Sugar Lack May Shut Bakeries Extra Day"</title>
+                        <title level="j">Dallas Morning News</title>
+                        <date value="1945-06-29">6/29/45</date>
+                        <note type="topic">Rationing&#8212;sugar</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Arrests Break up Huge Sugar Ring in Black Market"</title>
+                        <title level="j">Dallas Morning News</title>
+                        <date value="1945-06-16">6/16/45</date>
+                        <note type="topic">Rationing&#8212;sugar</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"False Rumor Starts Denver Stampede to use Sugar
+                            Stamps"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1945-05-24">5/24/45</date>
+                        <note type="topic">Rationing&#8212;sugar</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Sugar is Not Being Used for Alcohol"</title>
+                        <title level="j">Wyoming State Tribune</title>
+                        <date value="1945-06-13">6/13/45</date>
+                        <note type="topic">Rationing&#8212;sugar</note>
+                    </bibl>
+
+                    <bibl><title level="a">"Canning Sugar Not to be Issued Until Quotas are
+                            Drafted"</title><title level="j">Wyoming State Tribune</title>3<date
+                            value="1945-06-01">6/1/45</date><note type="topic"
+                            >Rationing&#8212;sugar</note></bibl>
+
+                    <bibl>
+                        <title level="a">"Canning Sugar Quota Reduced"</title>
+                        <title level="j">Wyoming State Tribune</title>
+                        <date value="1945-05-02">5/2/45</date>
+                        <note type="topic">Rationing&#8212;sugar</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Lack of Canning Sugar makes Fresh Fruit Drug on
+                            Market"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1945-07-05">7/5/45</date>
+                        <note type="topic">Rationing&#8212;sugar</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Rationing Hasn't Hurt Montana"</title>
+                        <title level="j">Billings Gazette</title>
+                        <date value="1944-01-01">1/1/44</date>
+                        <note type="topic">Rationing&#8212;sugar</note>
+                    </bibl>
+                </div1>
+
+
+                <div1 type="Rationing" subtype="victory gardens">
+                    <head type="sub">Rationing&#8212;victory gardens</head>
+                    <bibl>
+                        <title level="a">"Canning Army-Grown Corn"</title>
+                        <title level="j">Dallas Morning News</title>
+                        <date value="1943-06-20">6/20/43</date>
+                        <note type="topic">Rationing&#8212;victory gardens</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"1,000,000 Gardens in Texas Back Yards is Food Goal of
+                            1944"</title>
+                        <title level="j">Dallas Morning News</title>
+                        <date value="1944-02-06">2/6/44</date>
+                        <note type="topic">Rationing&#8212;victory gardens</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"y Aid to Advise on Victory Gardens"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1944-04-04">4/4/44</date>
+                        <note type="topic">Rationing&#8212;victory gardens</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Victory Gardens Still Available"</title>
+                        <title level="j">Bismarck Tribune</title>
+                        <date value="1944-04-14">4/14/44</date>
+                        <note type="topic">Rationing&#8212;victory gardens</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"N.D. Leads Nation in Series E Bond Sales Quota"</title>
+                        <title level="j">Bismarck Tribune</title>
+                        <date value="1944-05-09">5/9/44</date>
+                        <note type="topic">Rationing&#8212;victory gardens</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Victory Gardeners are Urged to Give Fodder to
+                            Farmers"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1944-09-27">9/27/44</date>
+                        <note type="topic">Rationing&#8212;victory gardens</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Produce from 42,000 Denver Victory Gardens
+                            Displayed"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1944-09-01">9/1/44</date>
+                        <note type="topic">Rationing&#8212;victory gardens</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Victory Gardeners Help Uncle Sam to Win War"</title>
+                        <title level="j">Amarillo Globe</title>
+                        <date value="1943-03-07">3/7/43</date>
+                        <note type="topic">Rationing&#8212;victory gardens</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"'Only' 900 Quarts Last Year, Her Garden Must Do
+                            Better"</title>
+                        <title level="j">Omaha World Herald</title>
+                        <date value="1943-01-10">1/10/43</date>
+                        <note type="topic">Rationing&#8212;victory gardens</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Victory Gardens will be Available to Bismarckers"</title>
+                        <title level="j">Bismarck Tribune</title>
+                        <date value="1943-03-06">3/6/43</date>
+                        <note type="topic">Rationing&#8212;victory gardens</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Denver Victory Garden Produces Coffee Beans"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1943-08-18">8/18/43</date>
+                        <note type="topic">Rationing&#8212;victory gardens</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Statehouse Flower Beds May Become Victory Gardens"</title>
+                        <title level="j">Wyoming State Tribune</title>
+                        <date value="1943-03-08">3/8/43</date>
+                        <note type="topic">Rationing&#8212;victory gardens</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Canned Goods Production to Be Sharply Cut After Jan.
+                            1"</title>
+                        <title level="j">Wyoming Eagle</title>
+                        <date value="1943-12-11">12/11/43</date>
+                        <note type="topic">Rationing&#8212;victory gardens</note>
+                    </bibl>
+                </div1>
+
+                <div1 type="Schools" subtype="defense children">
+                    <head type="sub">Schools&#8212;defense children</head>
+
+                    <bibl>
+                        <title level="a">"Defense Village Youngsters Lack School Facilities
+                            Now"</title>
+                        <title level="j">Wichita Eagle</title>
+                        <date value="1941-09-08">9/8/41</date>
+                        <note type="topic">Schools-defense children</note>
+                    </bibl>
+                </div1>
+
+                <div1 type="Schools" subtype="issues faced">
+                    <head type="sub">Schools&#8212;issues faced</head>
+
+                    <bibl>
+                        <title level="a">"Schools Join Plan to Retain War Teachers"</title>
+                        <title level="j">Daily Oklahoman</title>
+                        <date value="1942-05-17">5/17/42</date>
+                        <note type="topic">Schools&#8212;issues faced</note>
+                    </bibl>
+                </div1>
+
+                <div1 type="Schools" subtype="problems">
+                    <head type="sub">Schools&#8212;problems</head>
+                    <bibl>
+                        <title level="a">"Schools Beset By Handicaps in Colorado"</title>
+                        <title level="j">Denver Post</title>
+                        <date value="1943-08-17">8/17/43</date>
+                        <note type="topic">Schools&#8212;Problems</note>
+                    </bibl>
+                </div1>
+
+                <div1 type="Schools" subtype="ration work">
+                    <head type="sub">Schools&#8212;ration work</head>
+                    <bibl>
+                        <title level="a">"Schools Get Set for Registration"</title>
+                        <title level="j">Dallas Morning News</title>
+                        <date value="1943-02-10">2/10/43</date>
+                        <note type="topic">Schools&#8212;ration work</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"Schools Plan Basketball, . . . . The Rationing Boards
+                            Control Athletic Fates"</title>
+                        <title level="j">Salina Journal</title>
+                        <date value="1942-12-01">12/1/42</date>
+                        <note type="topic">schools&#8212;rationing</note>
+                    </bibl>
+
+                    <bibl>
+                        <title level="a">"50,000 Students May be 'Grounded' By War"</title>
+                        <title level="j">Salina Journal</title>
+                        <date value="1942-04-23">4/23/42</date>
+                        <note type="topic">schools&#8212;rationing</note>
+                    </bibl>
+                </div1>
+
+            </div1>
+
+            <div1 type="Schools" subtype="teacher shortage">
+                <head type="sub">Schools&#8212;teacher shortage</head>
+                <bibl>
+                    <title level="a">"State Teacher Shortage to be Severe in '45"</title>
+                    <title level="j">Wyoming Eagle</title>
+                    <date value="1945-08-30">8/30/45</date>
+                    <note type="topic">Schools&#8212;teacher Shortage</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Schools Continue War Certifications"</title>
+                    <title level="j">Denver Post</title>
+                    <date value="1945-07-09">7/9/45</date>
+                    <note type="topic">Schools&#8212;teacher Shortage</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"New Wartime Theory Seems to be: Let Teacher, Not George, Do
+                        It"</title>
+                    <title level="j">Amarillo Globe</title>
+                    <date value="1942-05-06">5/6/42</date>
+                    <note type="topic">Schools&#8212;ration work</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Many Colorado Schools Likely to Stay Closed"</title>
+                    <title level="j">Denver Post</title>
+                    <date value="1944-08-09">8/9/44</date>
+                    <note type="topic">Schools&#8212;teacher Shortage</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Shortage of Teachers is Said Acute"</title>
+                    <title level="j">Wyoming State Tribune</title>
+                    <date value="1944-08-25">8/25/44</date>
+                    <note type="topic">Schools&#8212;teacher Shortage</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Teachers are Scarce Despite Pay Raises"</title>
+                    <title level="a">Wyoming State Tribune</title>
+                    <date value="1944-08-08">8/8/44</date>
+                    <note type="topic">Schools&#8212;teacher Shortage</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">Shortage of Teachers To Continue</title>
+                    <title level="j">Wyoming State Tribune</title>
+                    <date value="1944-05-02">5/2/44</date>
+                    <note type="topic">Schools&#8212;teacher Shortage</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Some Rural Schools Not Able to Run"</title>
+                    <title level="j">Wyoming Eagle</title>
+                    <date value="1943-08-26">8/26/43</date>
+                    <note type="topic">Schools&#8212;teacher Shortage</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Locks on Schools"</title>
+                    <title level="j">Salina Journal</title>
+                    <date value="1943-07-19">7/19/43</date>
+                    <note type="topic">Schools&#8212;teacher Shortage</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Colorado to Lack 500 Teachers at Opening of Term"</title>
+                    <title level="j">Denver Post</title>
+                    <date value="1943-08-31">8/31/43</date>
+                    <note type="topic">Schools&#8212;teacher Shortage</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Sees Teacher Shortage"</title>
+                    <title level="j">Billings Gazette</title>
+                    <date value="1941-07-30">7/30/41</date>
+                    <note type="topic">Schools&#8212;teacher Shortage</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"500 Teachers are Needed in Wyoming"</title>
+                    <title level="j">Wyoming State Tribune</title>
+                    <date value="1943-08-18">8/18/43</date>
+                    <note type="topic">Schools&#8212;teacher Shortage</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"A School Merger"</title>
+                    <title level="j">Salina Journal</title>
+                    <date value="1941-10-09">10/9/41</date>
+                    <note type="topic">Schools&#8212;teacher Shortage</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"List Inactive Teachers in Reserve Pool"</title>
+                    <title level="j">Omaha World Herald</title>
+                    <date value="1942-05-24">5/24/42</date>
+                    <note type="topic">Schools&#8212;teacher Shortage</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Schools in County Face Big Problem as Teachers Quit"</title>
+                    <title level="j">Wichita Eagle</title>
+                    <date value="1942-04-15">4/15/42</date>
+                    <note type="topic">Schools&#8212;teacher Shortage</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"State Schools Need Seen as 400 Teachers"</title>
+                    <title level="j">Daily Oklahoman</title>
+                    <date value="1942-05-20">5/20/42</date>
+                    <note type="topic">Schools&#8212;teacher Shortage</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Teachers going to War Work"</title>
+                    <title level="j">Lincoln Star</title>
+                    <date value="1943-02-02">2/2/43</date>
+                    <note type="topic">Schools&#8212;teacher Shortage</note>
+                </bibl>
+            </div1>
+
+
+            <div1 type="Sexual Issues">
+                <head type="sub">Sexual Issues</head>
+                <bibl>
+                    <title level="a">"War Brings Sharp Increase in Girl's Sex Delinquencies"</title>
+                    <title level="j">Dallas Morning News</title>
+                    <date value="1943-04-07">4/7/43</date>
+                    <note type="topic">Sexual Issues</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Curbing of Venereal Diseases Essential to National Defense,
+                        State Health Officer Declares"</title>
+                    <title level="j">Wyoming Eagle</title>
+                    <date value="1940-04-05">4/5/40</date>
+                    <note type="topic">Sexual Issues</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"1 in 20 of Draft Group has Syphilis"</title>
+                    <title level="j">Daily Oklahoman</title>
+                    <date value="1941-08-26">8/26/41</date>
+                    <note type="topic">Sexual Issues</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Curfew for Women Discussed in Plans to Check Venereal
+                        Ills"</title>
+                    <title level="j">Dallas Morning News</title>
+                    <date value="1943-10-12">10/12/43</date>
+                    <note type="topic">Sexual Issues</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Plans Laid to Take Drive on Venereal Ills Into Public
+                        Schools"</title>
+                    <title level="j">Dallas Morning News</title>
+                    <date value="1944-02-03">2/3/44</date>
+                    <note type="topic">Sexual Issues</note>
+                </bibl>
+            </div1>
+
+            <div1 type="Social Concerns">
+                <head type="sub">Social Concerns</head>
+                <bibl>
+                    <title level="a">"Senator Nye Defends Loyalty of State's
+                        German-Americans"</title>
+                    <title level="j">Bismarck Tribune</title>
+                    <date value="1943-01-18">1/18/43</date>
+                    <note type="topic">Social Concerns</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Full Loyalty Pledged by Cheyenne Japanese"</title>
+                    <title level="j">Wyoming State Tribune-Leader and Wyoming Eagle</title>
+                    <date value="1941-12-10">12/10/41</date>
+                    <note type="topic">Social Concerns</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Denver Japanese Youth Enlists in Air Corps at Fort
+                        Logan"</title>
+                    <title level="j">Denver Post</title>
+                    <date value="1942-01-21">1/21/42</date>
+                    <note type="topic">Social Concerns</note>
+                </bibl>
+            </div1>
+
+            <div1 type="Teenage Delinquency">
+                <head type="sub">Teenage Delinquency</head>
+                <bibl>
+                    <title level="a">"Detailed 'Teen Town' Proposal To Curb Delinquency
+                        Offered"</title>
+                    <title level="j">Daily Oklahoman</title>
+                    <date value="1944-01-25">1/25/44</date>
+                    <note type="topic">Teenage Delinquency</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Conference on Juvenile Crime is Called Here"</title>
+                    <title level="j">Wyoming Eagle</title>
+                    <date value="1945-12-04">12/4/45</date>
+                    <note type="topic">Teenage Delinquency</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Defense Group Slates Classes"</title>
+                    <title level="j">Billings Gazette</title>
+                    <date value="1942-02-07">2/7/42</date>
+                    <note type="topic">Teenage Delinquency</note>
+                </bibl>
+            </div1>
+
+            <div1 type="Volunteer" subtype="aid to soldiers">
+                <head type="sub">Volunteer&#8212;aid to soldiers</head>
+                <bibl>
+                    <title level="a">"Dance for Colored Folk in Forum Here"</title>
+                    <title level="j">Wichita Eagle</title>
+                    <date value="1942-09-24">9/24/42</date>
+                    <note type="topic">Volunteer&#8212;aid to soldiers</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Dance in Forum A Decided Success"</title>
+                    <title level="j">Wichita Eagle</title>
+                    <date value="1942-09-26">9/26/42</date>
+                    <note type="topic">Volunteer&#8212;aid to soldiers</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Denver Response to Drive for Books For Men in Service"</title>
+                    <title level="j">Denver Post</title>
+                    <date value="1942-01-18">1/18/42</date>
+                    <note type="topic">Volunteer&#8212;aid to soldiers</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Billings Red Cross Canteen Gets Emphatic 'O.K.' From
+                        Servicemen"</title>
+                    <title level="j">Billings Gazette</title>
+                    <date value="1942-12-20">12/20/42</date>
+                    <note type="topic">Volunteer&#8212;aid to soldiers</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Women Will Visit Every Denver Home in Red Cross Drive"</title>
+                    <title level="j">Denver Post</title>
+                    <date value="1944-03-10">3/10/44</date>
+                    <note type="topic">Volunteer&#8212;aid to soldiers</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"10,800 Christmas Boxes for Wounded Service Men Overseas is
+                        Goal of Cheyenne Red Cross"</title>
+                    <title level="j">Wyoming Eagle</title>
+                    <date value="1945-08-02">8/2/45</date>
+                    <note type="topic">Volunteer&#8212;aid to soldiers</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Canteen for R.C."</title>
+                    <title level="j">Salina Journal</title>
+                    <date value="1942-06-12">6/12/42</date>
+                    <note type="topic">Volunteer&#8212;aid to soldiers</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Wichita's Two USO Clubs Planning Big Holiday Programs"</title>
+                    <title level="j">Wichita Eagle</title>
+                    <date value="1944-12-19">12/19/44</date>
+                    <note type="topic">Volunteer&#8212;aid to soldiers</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Dallas Lags in Blood Giving As Boys Spill Theirs in
+                        Mud"</title>
+                    <title level="j">Dallas Morning News</title>
+                    <date value="1944-04-09">4/9/44</date>
+                    <note type="topic">Volunteer&#8212;aid to soldiers</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"War Dads give Hot Dog Party with Visiting Servicemen as
+                        Guests"</title>
+                    <title level="j">Dallas Morning News</title>
+                    <date value="1944-06-19">6/19/44</date>
+                    <note type="topic">Volunteer&#8212;aid to soldiers</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Centers are Popular Here"</title>
+                    <title level="j">Omaha World Herald</title>
+                    <date value="1942-07-30">7/30/42</date>
+                    <note type="topic">Volunteer&#8212;aid to soldiers</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Victory Command Ranks Open as 1,000 Girls Needed for Soldier
+                        Dances in Amarillo"</title>
+                    <title level="j">Amarillo Globe</title>
+                    <date value="1942-09-24">9/24/42</date>
+                    <note type="topic">Volunteer&#8212;aid to soldiers</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Denver Women's Service Center Opens Wednesday"</title>
+                    <title level="j">Denver Post</title>
+                    <date value="1944-03-26">3/26/44</date>
+                    <note type="topic">Volunteer&#8212;aid to soldiers</note>
+                </bibl>
+            </div1>
+
+            <div1 type="Volunteer" subtype="miscellaneous">
+                <head type="sub">Volunteer&#8212;miscellaneous</head>
+                <!-- Too Farm or Too Far??? -->
+                <bibl>
+                    <title level="a">"Wichita Too Farm From Chicago to Be Blood Center"</title>
+                    <title level="j">Wichita Eagle</title>
+                    <date value="1943-04-16">4/16/43</date>
+                    <note type="topic">Volunteer&#8212;misc</note>
+                </bibl>
+            </div1>
+
+
+            <div1 type="War Production">
+                <head type="sub">War Production</head>
+                <bibl>
+                    <title level="a">"Wichita World's Greatest Manufacturer of Trainers"</title>
+                    <title level="j">Wichita Eagle</title>
+                    <date value="1945-05-30">5/30/45</date>
+                    <note type="topic">War Production</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Denver Must Go All-Out in Vital Drive for Scrap"</title>
+                    <title level="j">Denver Post</title>
+                    <date value="1942-09-21">9/21/42</date>
+                    <note type="topic">War Production</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"'Spirit of Nebraska' Off to the Wars"</title>
+                    <title level="j">Omaha World Herald</title>
+                    <date value="1943-01-16">1/16/43</date>
+                    <note type="topic">War Production</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Window Displays Show Denver War Production"</title>
+                    <title level="j">Denver Post</title>
+                    <date value="1943-10-06">10/6/43</date>
+                    <note type="topic">War Production</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Kansas to Share in War Expansion"</title>
+                    <title level="j">Salina Journal</title>
+                    <date value="1942-04-25">4/25/42</date>
+                    <note type="topic">War Production</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Midland Cannery Turns out Hundreds of Cans of Food for War
+                        Fronts; Community Projects In 14 Points in Montana Help Home Front"</title>
+                    <title level="j">Billings Gazette</title>
+                    <date value="1943-10-03">10/3/43</date>
+                    <note type="topic">War Production</note>
+                </bibl>
+            </div1>
+
+            <div1 type="Women and War">
+                <head type="sub">Women and War</head>
+                <bibl>
+                    <title level="a">"Social Work Parley to be Held Monday"</title>
+                    <title level="j">Denver Post</title>
+                    <date value="1945-06-03">6/3/45</date>
+                    <note type="topic">Women and War</note>
+                </bibl>
+            </div1>
+
+            <div1 type="Women at work" subtype="miscellaneous">
+                <head type="sub">Women at Work&#8212;miscellaneous</head>
+                <bibl>
+                    <title level="a">"Girl Reporter Discovers Eight Steps to Breaking Eggs, Work is
+                        Fun After Learning Rhythm Speeds Output"</title>
+                    <title level="j">Omaha World Herald</title>
+                    <date value="1944-04-16">4/16/44</date>
+                    <note type="topic">Women at work&#8212;misc</note>
+                </bibl>
+            </div1>
+
+            <div1 type="Women/male work">
+                <head type="sub">Women/male work</head>
+                <bibl>
+                    <title level="a">"2,000 More Martin Plant Workers Needed at Once"</title>
+                    <title level="j">Omaha World Herald</title>
+                    <date value="1944-11-19">11/19/44</date>
+                    <note type="topic">Women/male work</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Women in Special Woodworking Class At Defense School
+                        Here"</title>
+                    <title level="j">Wichita Eagle</title>
+                    <date value="1941-08-31">8/31/41</date>
+                    <note type="topic">Women/male work</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"First Feminine Pick and Shovel Gang at Work for Rio
+                        Grande"</title>
+                    <title level="j">Denver Post</title>
+                    <date value="1942-11-19">11/19/42</date>
+                    <note type="topic">Women/male work</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Women Fill Places of Men at Laurel Shops as They Did in First
+                        World War"</title>
+                    <title level="j">Billings Gazette</title>
+                    <date value="1944-01-09">1/9/44</date>
+                    <note type="topic">Women/male work</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Women Keep Trains Moving While Men Go Off to War"</title>
+                    <title level="j">Daily Oklahoman</title>
+                    <date value="1945-03-22">3/22/45</date>
+                    <note type="topic">Women/male work</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Increasing Number of Women Learning Defense Trades"</title>
+                    <title level="j">Salina Journal</title>
+                    <date value="1942-01-08">1/8/42</date>
+                    <note type="topic">Women/male work</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Now the Co-Eds Fly for Uncle Sam"</title>
+                    <title level="j">Omaha World Herald</title>
+                    <date value="1940-01-07">1/7/40</date>
+                    <note type="topic">Women/male work</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Stillwater Fire Station Echoes with Girlish Giggles"</title>
+                    <title level="j">Daily Oklahoman</title>
+                    <date value="1942-02-16">2/16/42</date>
+                    <note type="topic">Women/male work</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"War Plant Race to Put Women Behind Men Behind the
+                        Guns"</title>
+                    <title level="j">Daily Oklahoman</title>
+                    <date value="1942-03-15">3/15/42</date>
+                    <note type="topic">Women/male work</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Women to Train for Aircraft Jobs"</title>
+                    <title level="j">Daily Oklahoman</title>
+                    <date value="1942-04-06">4/6/42</date>
+                    <note type="topic">Women/male work</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Men May Well Be Amazed at Jobs Women are Holding"</title>
+                    <title level="j">Omaha World Herald</title>
+                    <date value="1943-07-11">7/11/43</date>
+                    <note type="topic">Women/male work</note>
+                </bibl>
+
+                <bibl>
+                    <title level="a">"Women to Fill 70 Percent of Douglas Jobs"</title>
+                    <title level="j">Daily Oklahoman</title>
+                    <date value="1943-03-08">3/8/43</date>
+                    <note type="topic">Women/male work</note>
+                </bibl>
+            </div1>
+
+
+
+        </body>
+    </text>
+</TEI>

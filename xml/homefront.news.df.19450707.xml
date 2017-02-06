@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.df.19450707 SYSTEM "homefront.news.df.19450707.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.df.19450707">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Your Mexican Hired Hand</title>
+<author>Elizabeth S. Pringle</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.df.19450707</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Dakota Farmer</title>
+<title level="a">Your Mexican Hired Hand</title>
+<title level="a" type="sub"></title>
+<author>Elizabeth S. Pringle</author>
+<biblScope type="pages">5</biblScope>
+<biblScope type="columns">1-4</biblScope>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date value="1945-07-07">1945-07-07</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Agriculture-Labor</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-01</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-19</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.df.19450707">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p5"/>
+<head type="main">Your MEXICAN Hired Hand</head>
+<byline><hi rend="italic">By Elizabeth S. Pringle, Assistant S.D. Extension Editor</hi></byline>
+
+<p>TO most Dakotans, international relations are something to be discussed. Last year, more than one family in the state found them to be personal. Many more will make a similar discovery in the next few months, as Mexican Nationals again arrive to help harvest in the beet, potato, and wheat fields of the state.</p>
+
+<p>In general, farm families found the workers from across the border amiable, willing to learn, and possessing a sense of humor. Language barriers caused complications, but were solved ingeniously by many Dakotans. Best amateur interpreter of the eastern part of South Dakota proved to be 9-year-old Kenneth Anderson, son of Mr. and Mrs. C. Anderson, who live near Badger. Only objection to Keneth's activities were the frequent stomach arches he acquired from overstuffing on ice cream and candy bought for him by grateful Mexican Nationals working on nearby farms. Kenneth accompanied them on their trips to town and helped with their purchases. Unfortunately he offers no clues as to how he understands his international friends.</p>
+
+<p>Farmers, members of their families, county agents, and labor assistants, who placed the men after they entered the state, all reported on the Mexican National's willingness to learn. Running, not walking, was the usual method of approaching a job. Many of them were not used to handling horses. In fact, a not uncommon sight was to see two Mexican driving a team, each with a rein. They are very interested in machinery, curious about our ways of ding things and the way we live. A number of the men had attended school in the United States. Many of them recognized pictures of President Roosevelt. As one employer pointed out, he wouldn't know a picture of the president of Mexico if he saw one.</p>
+</div1>
+
+<div1>
+<head type="sub">Many Mexicans In Dakota.</head>
+
+<p>Twenty Mexican Nationals entered the state April 9th this spring to work at nurseries in Yankton County. Forty workers went to Perkins and Corson Counties and 65 to Butte and Harding Counties to help with the job of lambing. These three groups of workers were transferred later to the Belle Fourche area to work in the sugar beets. They will work at thinning and hoeing until July 15th when they will go to other parts of the state to help with the harvest and threshing, and picking potatoes until October 1st, when they will return to harvest the beets. A total of 525 Mexican Nationals are expected to be working in South Dakota before the summer is over. A much larger number will find jobs on North Dakota farms.</p>
+
+<p>The workers have been recruited in the towns, cities, and countryside of Mexico. They are volunteers for war work. They enter the United States at El Paso or Laredo, Texas, where they receive physical examinations and are given their passports.</p>
+
+<p>Aftermath of the Mexicans' stay last year was varied. A number of farm boys and girls like Helen May, daughter of K.V. Anderson of Kingsbury County, studied Spanish in high school this year. They will be prepared for their fathers' out-of-the-country help this year. Konrad Stummier, county agent at Faulkton, was looking for the address of two boys who had worked on a Faulk County farm. They had enjoyed the candy made by the farmer's wife, and she was going to send them a Christmas box.</p>
+
+<p>One farmer, in talking about the Mexican Nationals' eagerness to help, told of one man who came out his first morning on the farm and offered, by signs, to help milk. He made an attempt at milking one bossie that had already been milked. When he found out, by signs again, he moved on to the next cow. Not around, but under&#8211;to save time. In all fairness it should be mentioned that the workers were good milkers. Some workers were more familiar with farm animals, however. There is a story about one worker who would lasso any leg of running livestock you picked you.</p>
+</div1>
+
+<div1>
+<head type="sub">Explaining Extra Pay.</head>
+
+<p>A piece of chalk proved to be one of the handiest items in translating. With a piece of chalk a number can be written on the back of a hand or on the nearest fence post. The extension service at State College prepared a booklet of phrases, vocabulary sentences in Spanish and English, and pointing in the book solved some situation. Some novel combinations of sentences cleared up some others. It was necessary to finish some shocking one Sunday so threshing could begin Monday. Complications set in. How to explain that there would be extra pay for working that day? Well "domingo" means "Sunday." Some more looking proved that "trabajo" meant "work." Another sentence yielded "pago" for "pay." With a little sign language and a great deal of mispronunciation, which caused additional complications, the idea was presented. The entire crew ran to the field to start shocking.</p>
+
+<p>When it was quitting time, someone had to go to the field to announce the fact. Work continued until the boss said time was up. The women folk commented on the workers' manners and their cleanliness. The traditional guitar did appear in a few cases. And singing among the workers was common. They were a good-natured lot, talking and joking among themselves, attempting to talk to the farmers, and their families.</p>
+
+<p>At DeSmet, the chamber of commerce sponsored a part for the Mexican Nationals who had worked in that area. After a big feed, the workers entertained everybody with Mexican songs, accompanying themselves on the guitar.</p>
+
+<p>A more ambitious booklet explaining some steps in lambing, potato picking, corn picking, haying, and other farming operations and with more vocabulary has been published by the extension service this year. John Noonan, county agent at Watertown, when asked for suggestions for the booklet, said it should tell the workers how to say good-bye to the American girls. It does.</p>
+</div1>
+
+<div1>
+<head type="sub">Mexicans Like Plain Food.</head>
+
+<p>On the women's side of the question, good, plain food seemed to suit the Mexican workers best. Potatoes and gravy, roast pork and beef, and all kinds of desserts proved to be the most popular items among the eight Mexican workers on their threshing run, June Anderson, daughter of Carl Anderson, Kingsbury County farmer, says.</p>
+
+<p>Anna M. Wilson, extension nutritionist at State College, and Evelyn Scott, executive secretary of the state nutrition committee, prepared a demonstration and mimeographed sheet on Mexican and southern dishes. They recommend that a special dish, prepared like home, should be served occasionally.</p>
+
+<p>Three foods form the basis of Mexican cooking, the two women report&#8211;cornmeal, chilies and beans. The pinto bean is the main vegetable dish of the Mexican family. And a meal without chili peppers is the exception. As the Mexican Nationals will be used to "hotter" foods than suit our taste, the housewife could keep a bottle of hot sauce or pepper sauce and a shaker of chili powder on the table.  The worker seasons to suit himself.</p>
+
+<p>Quelites are lambs quarters, greens which grow wild in most parts of South Dakota. They are used extensively in season and dried for later use. Tortillas, used in place of bread, can be made in several different ways. One method uses ordinary what flour. They are served with butter or molasses. Tortillas may be made by sifting two cups enriched flour and half teaspoon salt together and working in two tablespoons of lard. Add enough water for a stiff pastry. Roll out very thin and bake on an ungreased griddle until they begin to blister.</p>
+</div1>
+
+<div1>
+<head type="sub">Some Mexican Dishes.</head>
+
+<p>Miss Wilson suggests a fried bean recipe, Frijoles Refritos. Soak one pint pinto beans overnight. Add one clove garlic minced, salt and pepper, cook until soft. Drain off about one inch of juice. Mash some of the beans of thickening. Pour rest of beans in one quarter cup hot oil and fry. Add mashed beans. Fry until partly dry and crisp. Pinto beans are valuable for protein and starch and are high in vitamin B1 content.</p>
+
+<p>When one of the workers was not sure what a dish was, he would put a small bite on the back of his hand, taste it. If he decided he would like some, he would then dish it out on his plate. But there was no wasting resulting from one of the men taking something he could not eat.</p>
+</div1>
+
+<div1>
+<head type="sub">Fond of Salt Pork.</head>
+
+<p>Use cold, well-cooked rice for Pastello de Arroz, rice patties to you. Pat into small cakes, use a little flour to make them firm. Fry on hot greased pan until brown on both sides. Serve with meat gravy or chili sauce. Workers are fond of salt pork. Soak one pound salt pork, cut in quarter-inch slices, in milk enough to cover for four or six hours. Remove from milk, dredge in flour, and fry small amount of hot fat. Serve hot with or without chili sauce.</p>
+
+<p>Miss Wilson also suggests some chili con carne variations. Heat canned chili con carne and add chopped, hard-cooked eggs. Pour in serving dish and garnish with hard-cooked eggs, cut in wedges. Or line a casserole with corn meal mush, add canned chili con carne and heat in 350 degree oven. Or serve hot chili con carne on slices of corn meal mush.</p>
+
+<p>International relations evidently consist of some recipes, a complication of accents and words, a sense of humor and a smile, and how to say "Hasta Manana."</p>
+</div1>
+
+</body>
+</text>
+</TEI>

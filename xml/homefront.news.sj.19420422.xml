@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.sj.19420422 SYSTEM "homefront.news.sj.19420422.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.sj.19420422">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sign For Sweets</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.sj.19420422</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Salina Journal</title>
+<title level="a">Sign For Sweets</title>
+<title level="a" type="sub">Sugar Rationing Registration All Set</title>
+<title level="a" type="sub">In City and Rural Sections Machinery Ready for War Program</title>
+<author></author>
+<biblScope type="pages">5</biblScope>
+<biblScope type="columns">6</biblScope>
+<publisher>Salina Journal</publisher>
+<pubPlace>Salina, KS</pubPlace>
+<date value="1942-04-22">1942-04-22</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-sugar</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.sj.19420422">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p5"/>
+<head type="main">SIGN FOR SWEETS</head>
+<milestone unit="smallbar"/>
+<head type="sub">SUGAR RATIONING <orig reg="REGISTRATION">REGISTRA-</orig><lb/>TION ALL SET</head>
+<milestone unit="smallbar"/>
+<head type="sub">In City and Rural Sections<lb/>Machinery Ready for War<lb/>Program</head>
+<milestone unit="smallbar"/>
+
+<p>Although local plans for sugar rationing registration are still mostly in the embryonic stage, 153 Salina school teachers under the supervision of Charles E. Hawkes, superintendent, were preparing today to handle the extensive extra-curricular job, beginning April 28.</p>
+
+<p>Registration for the trade will be at one of the high schools of Salina, just which one has not yet been determined, according to Hawkes. Consumer registration will take place in the city's numerous elementary school buildings.</p>
+
+<p>"We are going to attempt to do it outside of school hours but it will take all of our faculty force," declared the superintendent. As an example Hawkes pointed out that there are over 200 retailers and wholesalers alone to be registered.</p>
+
+<p>Miss Ruth Gahnstrom who is in charge of lining up the rural sections for sugar rationing, was sending out instructions today, also, to various school authorities.</p>
+
+<p>Trade registration April 28-29 will be carried out at rural high schools only, and merchants in small towns not having high schools will go to the nearest one. Merchants of Hallville and Bridgeport will register at Assaria, those of New Cambria will come to Salina, and grocers in Hedville will register at Bavaria. Each high school principal will serve as administrator of his community.</p>
+
+<p>For civilian registration may 4 to may 7, the rural sections will go to the nearest of 70 rural schools to sign up for sweetness. Schools with eight month terms which will be closed for the summer will be expected to re-open for sugar rationing and a member of the board will take the place of teacher in signing up the neighbors.</p>
+
+</div1>
+
+</body>
+</text>
+</TEI>
+
+

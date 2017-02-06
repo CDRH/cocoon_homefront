@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.docs.0012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Kansas Women in the Farm Labor Program</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.docs.0012</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<!-- [Kansas Women in the Farm Labor Program; Talk by Georgiana H. Smurthwaite, State Home Demonstration Leader, Kansas State College, Extension Service, Manhattan Regional Farm Meetings, Kansas-May 18-28, 1943. F6, box 44, Correspondence of Gov. Smurthwaite, 1943-1947, KSHS] -->
+
+<bibl>
+<title level="a" type="main">Kansas Women in the Farm Labor Program</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages"></biblScope>
+<publisher>Kansas State College, Extension Service</publisher>
+<date value=""></date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-24</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-10-17</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<head type="main"><hi rend="underline">KANSAS WOMEN IN THE FARM LABOR PROGRAM</hi></head>
+
+<head type="sub">Talk by Georgiana H. Smurthwaite, State Home Demonstration Leader,<lb/>Kansas State College, Extension Service, Manhattan.<lb/>Regional Farm Labor Meetings, Kansas&#8211;May 18-28, 1943</head>
+
+<div1>
+<p>Even the most fantastic fables fail to overshadow the realities of today. Rip Van Winkle himself would be surprised and baffled. Among these realities are women in the Army, the Navy, and Marines, women building planes, making ammunition, and testing precision instruments and chemicals formulae. The words of Colonel Hobby--"Not to the Army, but of the Army"--express the labor relationship the country over.</p>
+
+<p>Women are employed to release men to the fighting forces. But in every instance they must first be trained fro the job. The WAACS, the WAVES, and the lady Marines need training and toughening to fit them for the job. Their employers were hesitant and reluctant, but finally came to the point where the replacing of men by women was essential to their successful performance. Manpower was lacking to build the Army, the Navy, and the Marines to the necessary size. Goals for the production of essential war equipment were dependent upon enough labor to alleviate the situation. It is inevitable that more women will have to be employed to reach all production goals.</p>
+
+<p>From actual experience it is known that women have the assets as workers in industry. Among these assets are:</p>
+
+<list>
+<item><hi rend="underline">Dexterity and Speed</hi>: Women give excellent performance in work requiring manipulative speed and finger dexterity.</item>
+<item><hi rend="underline">Accuracy</hi>: Women's services are satisfactory in the use of light instruments, in inspection and other work requiring care, constant alertness, and precision.</item>
+<item><hi rend="underline">Patience</hi>: Women in general seem more content than men to put up with the monotony of repetitive operations.</item>
+<item><hi rend="underline">Interest</hi>: The fields that women are now entering are new to most of them. Consequently, interest can be a strong motivation for production.</item>
+<item><hi rend="underline">Curiosity</hi>: Because this work is new to women, they want to know the "whys".</item>
+<item><hi rend="underline">Rivalry</hi>: There seems to be a natural rivalry among women workers.</item>
+<item><hi rend="underline">Patriotism</hi>: Patriotism, more than the pay check, is the reason some women are entering war work.</item>
+</list>
+
+<p>Today farmers are faced with the same problem that confronted industry and the defense forces in the past months--stupendous production with a shortage of labor. This year more food must be produced than ever before in our history and, on March 1 farm employment was at the lowest ebb in the last 20 years.</p>
+
+<p>Farmers, like defense and industry, will turn to woman labor--hesitatingly and reluctantly. Farmers know that their daughters and their wives can do many jobs equally well as their sons. That's because they have been trained over a period of years to do these jobs. Now the daughters and the wives will work longer hours to replace men, but even then there will not be enough manpower to take care of the farm labor necessary to reach food production goals.</p>
+
+<p>Farmers, too, will be forced to employ women. They will find that women can do many jobs formerly considered exclusively in man's field, due to their natural assets.</p>
+
+<p>Let us review the assets of women workers in industry to see to what extent these assets may apply to agriculture. Dexterity and speed makes them valuable in grading, cleaning, packing, and tying. Patience is essential in repeating farm jobs such as weeding gardens, gathering eggs, and milking. They are interested in living and growing things. Their natural curiosity makes scientific agriculture, plant and animal breeding, and plant and animal disease work intriguing. Many women are anxious to help by doing farm work to aid in feeding the United Nations.</p>
+
+<p>Natural limitations must be recognized. One of these is strength--women cannot lift heavy grain sacks or filled milk cans, pitch hay, or do other farm jobs that require unusual strength. Women are more susceptible to poisoning, so care should be taken when women aid in spraying fruit trees and vegetable gardens. Women are more susceptible to fatigue from standing than are men. If rest periods are provided women can work the same length of day as men.</p>
+
+<p>When the farmer's wife and his daughter help with the field work, the town woman's services will be most valuable in the homes. Volunteers for work in the farm home can do much for the war program by taking care of children, cooking the meals for farm workers, cleaning the house, canning, and otherwise preserving fruits and vegetables, doing the family washing and ironing, marketing for the farm family, doing the necessary sewing, and keeping the farm and home accounts.</p>
+
+<p>Some of the farm jobs which the city and town women might do on the farm include work on a farm specializing in commercial truck crops; on a poultry farm; a dairy farm; feeding and watering livestock; and work in the vegetable garden, the orchard, and the fields.</p>
+
+<p>Mobilization of women and girls to do farm work is one answer to the farmer's call for help.</p>
+
+<p>In the United States the proposal is to train women and girls to do part-time or full-time work on farms. These women will be members of the Women's Land Army of the United States Crop Corps. It is estimated there will be a need in the United States for 60,000 women for the <hi rend="underline">Women's Land Army</hi> for seasonal and year round work, and 300,000 for part-time work.</p>
+
+<p>Enrollees in the <hi rend="underline">Women's Land Army</hi> must be at least 18 years of age and have a physician certify as to their physical capacity for hard farm work. They must be willing to work on a farm continuously for not less than one month.</p>
+
+<p>Other qualified women are eligible as U. S. Crop Corps workers for shorter periods to help during the harvest, or for other part-time emergency jobson the farm or in the farm home. Girls 14 to 17 years of age, inclusive, will be classified as Victory Farm Volunteers.</p>
+
+<p>Great Britain has gone much farther in mobilization of the population for war purposes than any other of the United Nations. Women between the ages of 18 and 45 are registered and, as they are called up, they are given a choice among several vital wartime activities, one of these being the Women's Land Army. This army was organized in January, 1939, to provide a force of year-round service. There was also organized a group for strictly seasonal labor. On the first year, 15,000 volunteers were signed up in the Women's Land Army, but farmers employed only 2,800. Twenty months later, 14,000 were at work, and 12 months after that, 52,000 were employed on farms. This indicates that English farmers did not have much confidence in the women as farm laborers at first, but in time were ready to employ them.</p>
+
+<p>Farmers in Canada, as in the Untied States, have been troubled by labor shortages since the opening of World War II. To meet this situation, the Women's Land Brigades in Canada was organized. Eight thousand women and girls were placed on Ontario farms in 1941 and '42.</p>
+
+<p>The <hi rend="underline">Women's Land Army</hi> of the U. S. Crop Corps will be made up of women and girls who volunteer to do war service in the farm home or on the farm. <hi rend="underline">Recruiting</hi> will start with a campaign including talks to organized groups of farm people, as well as town people, and by demonstrations or skits at club meetings and on the air. A speakers' bureau of farm women will be set up in each county to discuss the subject at high schools and at clubs. The speakers will leave enrollment cards with the high school girls and town women to ascertain their interest, and with the farm women to find their labor needs.</p>
+
+<p>The high school girls and town women will indicate on the questionnaire the work they would like to do, the amount of time they could afford to spend, and the time of day when they would be willing to help farm women. The farm women will complete a similar questionnaire by indicating the kind of help they could use, the time of the year when they need it, and the services needed. The home demonstration agents in those counties employing home demonstration agents, and the agricultural agents in the other counties, will be responsible for summarizing the questionnaires. The home demonstration agents and the district agents will have the responsibility of selecting and training the members of the speakers' bureau.</p>
+
+<p>Neighborhood leaders will assist by carrying similar enrollment cards to their neighbors, and by keeping the Extension agents informed as to the labor needs of their neighborhood and as to the availability of extra labor in the neighborhoods.</p>
+
+<p><hi rend="underline">There will be training for women farm workers</hi>. Year-round workers and seasonal farm workers of the U. S. Crop Corps will be given some training to fit them for their duties on the farm. Women joining the <hi rend="underline">Women's Land Army</hi> for year-round work will receive from 3 to 6 weeks' training at the agricultural college or similar instruction. Women enrolling for 1 month or more for seasonal work will receive less training will be given some instruction to prepare them for their work and for life on a farm. This training will be done in the country by qualified teachers. The training in agriculture will be done by teachers of agriculture. The training in homemaking skills will be by home economics teachers in some places, and in some instances by farm women who are trained in educational methods and who have high standards of skill performance. Other qualified persons may also assist with this training.</p>
+
+<p>The Extension agents will be responsible for locating the qualified teachers in the county for training the Crop Corps members who are to be employed for short periods. The qualifications for these teachers will be specified by the assistant state supervisor of the Labor Program, and they will be certified as standard instructors by the assistant state supervisor of the Labor Program.</p>
+
+<p>The county advisory labor board will assist the agent or agents in locating qualified instructors.</p>
+
+<p>The services of the farm women who qualifies to instruct the enrollees for short-time labor work will be her contribution to the war effort.</p>
+
+<p>Members of the <hi rend="underline">Women's Land Army</hi> are entitled to wear the official uniform and insignia. The special insignia is a triangular shield with the letters "W L A" and the emblem of the Crop Corps. The basic colors are red, white, and blue. In the form used for seasonal or part-time workers the background is white; the triangle, letters, and sheaf of wheat are red; and the Crop Corps "C" is blue.</p>
+
+<p><hi rend="underline">Wages</hi>. U.S. Crop Corps workers will be paid according to the length of time employed and the type of work done. This wage will be the prevailing local wage.</p>
+
+<p>Many women and girls who help with food preservation and similar short-time tasks may prefer to do as Ruth did. You recall that Ruth "gleaned in the field until evening and beat out that she has gleaned---and she took it up and went into the city".</p>
+
+<p>From time immemorial women have measured up to the task ahead. "She considered a field and buyeth it; with the fruit of her hands she planteth a vineyard. Her children arise up and call her blessed; her husband also, and he praiseth her."</p>
+
+<p>The town women and girls in this country wan to help produce the food of the United Nations. Have faith in them and give them the opportunity.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

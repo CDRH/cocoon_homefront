@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19420716.01 SYSTEM "homefront.news.owh.19420716.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.owh.19420716.02 SYSTEM "homefront.news.owh.19420716.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19420716">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Collection Centers Are Set in City's Drive for Scrap; WPA Will Aid in State</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19420716</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Morning World-Herald</title>
+<title level="a">Collection Centers Are Set in City's Drive for Scrap; WPA Will Aid in State</title>
+<title level="a" type="sub">All Omaha to Mobilize in Campaign</title>
+<title level="a" type="sub">South Side to Erect Own Pile in Aid to Fighting Men</title>
+<author></author>
+<biblScope type="pages">1-A, 2-A</biblScope>
+<biblScope type="columns">1, 4</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1942-07-16">1942-07-16</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-salvage</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-05</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19420716.01">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">Collection Centers Are Set<lb/>in City's Drive for Scrap;<lb/>WPA Will Aid in State</head>
+<milestone unit="smallbar"/>
+<head type="sub">All Omaha<lb/>to Mobilize<lb/>in Campaign</head>
+<milestone unit="smallbar"/>
+<head type="sub">South Side to Erect<lb/>Own Pile in Aid<lb/>to Fighting Men</head>
+<milestone unit="smallbar"/>
+
+<p>Every section of Omaha is to be combed for scrap metal and rubber during the intensive three-week salvage drive which starts next week.</p>
+
+<p>Details of the local plan are announced here for the first time.</p>
+
+<p>South Omaha will conduct its own separate drive, and build a mountain of scrap on a vacant lot on the north side of L street between Twenty-third and Twenty-fourth streets.</p>
+
+<p>Collection center for the rest of Omaha and Douglas county will be the vacant block south of the City Market at Eleventh and Jackson streets.</p>
+
+<p>Trucks donated by patriotic business firms will pick up scrap in every section of the city, and in the thickly populated areas adjacent to the corporate limits. But only donated material will be gathered in this door-to-door pickup campaign.</p>
+</div1>
+
+<div1>
+<head type="sub">If Sold</head>
+
+<p>Persons who wish to sell their scrap or receive individual credit in the contest sponsored by The World-Herald will be expected to call the Omaha Salvage bureau (Jackson 7319), which will see that the scrap is picked up, and that they are paid for it and given a receipt stating the number of pounds sold.</p>
+
+<p>Only donated scrap will e dumped at the official piles at Eleventh and Jackson streets and Twenty-third and L streets. When these piles are sold all proceeds will go to charitable organizations. Downtown proceeds will go to the U.S.O. and army and navy relief; South Omaha proceeds will go to these same three organizations and to the Red Cross.</p>
+</div1>
+
+<div1>
+<head type="sub">All Counts</head>
+
+<p>However, remember that whether scrap is sold or whether it is given makes no difference as far as the contest is concerned. Every pound that is receipted counts toward Douglas county's total in the statewide World-Herald contest. The main thing is to get the scrap flowing into war&#8211;directed channels&#8211;and to do that soon!</p>
+
+<p>The committee in charge of collections in all but South Omaha is comprised of J. M. Harding, assistant publisher of The World-Herald, Police Commissioner Richard Jepsen, Harold Pollack, president of the Omaha Feeding company, and Thomas F. Quinland and Gene Hart of the Omaha salvage office.</p>
+
+<p><sic corr="Commissioner">Commisioner</sic> Jepsen will be in charge of the trucks and expects to have 15 or 20 working each day. Pollack will district the city, route the trucks and decide just what areas shall be covered on certain days. The maps of these areas will be published in The World-Herald a day or so in advance, so that householders will know when to have their scrap on the curb.</p>
+</div1>
+
+<div1>
+<head type="sub">No Rubbish</head>
+
+<p>The truck drivers will be instructed to pick up only scrap and metal&#8211;and not to collect tin cans, rags, paper or rubbish. Before starting out they will weigh their empty trucks at the Omaha auto testing station, Seventeenth and Cass streets, then will return to 
+
+<note type="editorial" rend="jumpline">(Continued on Page 2. Column 4.)</note> 
+
+<figure entity="homefront.news.owh.19420716.02">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p2"/>
+
+<note type="editorial" rend="jump"> 
+<note type="editorial" rend="mainhead">All Omaha<lb/>to Mobilize<lb/>in Campaign</note> 
+<milestone unit="smallbar" /> 
+<note type="editorial" rend="subhead">South Side to Erect<lb/>Own Pile in Aid<lb/>to Fighting Men</note> 
+<milestone unit="smallbar" /> 
+<note type="editorial" rend="jumpline">(Continued from Page 1)</note> 
+</note>
+
+the scales when they have collected their loads, so that the tonnage in the official scrap pile can be computed. At the scales each driver will be given a weight receipt, and all of these will be turned in a at the Omaha Salvage bureau, 300 Brandeis Theater building.</p>
+
+<p>Special weighing arrangements are being made for persons who want to take their own scrap to the official pile. Platform scales will be available at the site for small consignments, while truckloads will be weighed on scale sat Ninth and Jackson streets. In both instances, weight receipts will be given.</p>
+</div1>
+
+<div1>
+<head type="sub">Urged to Be Ready</head>
+
+<p>Boy Scouts, Girl Scouts, Red Cross block workers and the Union Pacific women's salvage organization all will join the campaign to urge householders to have their scrap ready for the trucks.</p>
+
+<p>Each youngster who collects 25 pounds of scrap will be entitled to a badge identifying the bearer as a "Scrap Scout." These badges will be handed out by the truck drivers, who will have explicit instructions to see that they are given only when earned.</p>
+
+<p>The site for the official scrap pile is owned by the Union Pacific which leases it to the city for restricted use at $1 per year. Under the agreement between the railroad and the city, the site was to be kept clear&#8211;but an exception was quickly made in this instance.</p>
+
+<p>The General Outdoor Advertising company is preparing a sign for the lot, and will erect another in behalf of the scrap campaign at Seventeenth and Farnam streets.</p>
+
+<p>The South Omaha drive will be directed by Gerald E. Collins, whose committee includes Frank Ackerman, vice-chairman, Charles Petersen and Emil Stahmer. Actively co-operating in the drive are the women's auxiliary post No. 2704, Veterans of Foreign Wars, the South Omaha Kiwanis club, and the Packing House Workers Joint Council of the CIO. Lawrence Gebhardt is chairman of the PYJC committee, Al Cheney heads the Kiwanis committee, and Mrs. Donald Munro, jr., is in charge of the veterans' auxiliary.</p>
+
+<p>Trucks for the pickup will be furnished through J. B. Watkins and Louis Cinek, and the PWJC will provide the manpower to make the collections.</p>
+</div1>
+
+<div1>
+<head type="sub">Bugle Corps Aids</head>
+
+<p>The South Omaha committee is asking all who can do so to deliver the scrap to the community pile. If unable to deliver it the owner is requested to call the CIO (Market 3134), Mrs. Munro (Harney 5816) or Cheney (Market 5700).</p>
+
+<p>Use of the collection center lot has been donated by the owner, August M. Hincliff.</p>
+
+<p>To put additional zip in the South Side campaign, the drum and bugle corps of the Rudolph Deml post, V. F., will parade through the business district this week-end.</p>
+
+<p>Thomas Quinlan, city salvage chairman, Wednesday said his committee had accepted a one-year theater pass as one of the special prizes to be given in the Omaha contest. The pass was offered by the R. D. Goldberg Theaters corporation, and, according <sic corr="to">ot</sic> Herman F. Levy, general managers, will be good for admission to the Avenue, Dundee and Military theaters. The Goldberg theaters will also run trailers in connection with the scrap campaign.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

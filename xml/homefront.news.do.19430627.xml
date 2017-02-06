@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.do.19430627.01 SYSTEM "homefront.news.do.19430627.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.do.19430627.02 SYSTEM "homefront.news.do.19430627.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.do.19430627">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Men at War, Wheat Harvest Is Story of Women in Fields</title>
+<author>George Cornell</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.do.19430627</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Daily Oklahoman</title>
+<title level="a">Men at War, Wheat Harvest Is Story of Women in Fields</title>
+<title level="a" type="sub">Hundreds of Eager Wives, Daughters Save State Crop</title>
+<author>George Cornell</author>
+<biblScope type="pages">1, 12</biblScope>
+<biblScope type="columns">2-3, 1-2</biblScope>
+<publisher>Daily Oklahoman</publisher>
+<pubPlace>Oklahoma City, OK</pubPlace>
+<date value="1943-06-27">1943-06-27</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Agriculture-labor</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-18</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.do.19430627.01">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+
+<figure>
+<figDesc>Mrs. Shirley Menard of Enid...in the harvest field.</figDesc>
+</figure>
+
+<head type="main">Men at War, Wheat Harvest<lb/>Is Story of Women in Fields</head>
+<head type="sub">Hundreds of Eager<lb/>Wives, Daughters<lb/>Save State Crop</head>
+<byline>By GEORGE CORNELL</byline>
+
+<p>A MID flying chaff and sifting dust, a young woman is buckling down to her most man-sized undertaking of the war.</p>
+
+<p>In her hands she holds a big scoop shovel. She heaves a shower of ripe grain through an open bin window.</p>
+
+<p>Along the edge of a yellowed swath, she guides a power-throbbing tractor. Goggles protect her eyes from exhaust smoke. The sun is hot.</p>
+
+<p>She stands on the jogging platform of a wheat combine, regulating by hand leavers the height of the sickle board. The machine sucks in the sheared stems.</p>
+
+<p>Across a cluttered field of sheaves she wades, racking the bundles into neat shocks. Grime lines her neck.</p>
+
+<p>Here is no easy task. She rises early, labors late. Sometimes as long as 17 hours at a stretch. She is doing a tough assignment because it is necessary. She is doing it voluntarily. She doesn't mind one bit.</p>
+
+<p>She is the hundreds of Oklahoma women who are helping to harvest the wheat.</p>
+
+<p>WHEN that new 1943 grain is sacked away in the nation's larder, it will be by the grit and sweat of the women that all of it got there.</p>
+
+<p>For in a half dozen counties strung along the northwestern Oklahoma wheat belt, women this year have put their shoulders to the reaping wheel. They have trudged into the grain fields, hundreds strong, run combines, driven trucks and tractors, scooped wheat, braved dirt and heat to bring in the land's produce.</p>
+
+<p>It took that. There was no other way to get the job well done. Without the women, it wasn't possible. There would have been delays, lack of labor, individual financial losses, losses of food, a nick in the country's defense line.</p>
+
+<p>When suddenly this spring rains ceased and the fields dried, wheat quickly matured. Harvest time was at hand in the grain region, but no extra labor was to be had. There weren't enough men to fill the crews. So wives, daughters, sisters and mothers took a part.</p>
+
+<p>In Garfield county alone, officials estimated more than 300 women overnight became harvest workers. Similar numbers moved into the labor gaps in Blaine. Major and other wheat counties. Household chores and normal feminine duties ere left to children, or ignored for a time.</p>
+
+<p>These women in the wheat fields each have an individual story. They are young girls, housewives, a visiting aunt, city friends, a hired neighbor woman, a mother-in-law. Some come from nearby towns to help. Most of
+
+<note type="editorial" rend="jumpline">(Continued on Page 12, Column 1)</note> 
+
+<pb n="p12" /> 
+
+<figure entity="homefront.news.do.19430627.02">
+<figDesc></figDesc>
+</figure>
+
+<note type="editorial" rend="jump">
+<note type="editorial" rend="mainhead">MEN at War, Wheat Harvest<lb/>Is Story of Women in Fields</note> 
+<note type="editorial" rend="jumpline">CONTINUED FROM PAGE ONE</note> 
+</note>
+
+them are members of farm families, all pitching in to get the wheat cut and stored.</p>
+
+<p>They are hard but cheerful workers. They come in for meals like a swarm of hungry boys. Their stamina is amazing. During the heavy toll of harvest, they eat four or five meals a day, and as hearty as men.</p>
+</div1>
+
+<div1>
+<head type="sub">No Cosmetics, Work Clothes</head>
+
+<p>When they dress in the morning, they need no cosmetics, bracelets, nothing in perfumes. Their clothing is not the usual skirt or light frock, but thick, though breeches, denim shirts and straw hats. They aren't planning a picnic. They wear gloves to protect their hands.</p>
+
+<p>These are women of prosperous wheat farms. They are mostly educated, refined women, good cooks and gracious hosts. Many are young college girls, out of school for the summer. All of them are women needed to fill a new role as harvest hands.</p>
+
+<p>Along the country road through the wheatlands, they can be seen in the fields.</p>
+</div1>
+
+<div1>
+<head type="sub">Former Teacher Likes It</head>
+
+<p>On a farm near Carrier, Mrs. Leslie Nay, an Enid school teacher until three years ago, drives a truck hauling wheat from the combine to the granaries. Part of the time she drives the tractor pulling the combine. She and her husband eat a lunch in the field at 5 p.m. Regular meals are prepared by Mrs. Nay's mother. Mrs. Sue Miller, who is staying with the couple during harvest.</p>
+
+<p>"This kind of work is a treat to me," said Mrs. Nay. "It makes me tired, but it makes me feel healthier too. I guess it's the sun. I like it."</p>
+
+<p>Two miles southwest of Drummond the Noel Hedges family tackled the combining job together, girls included. The two older daughters, Geraldine, 19, and Margaret, 18, were main cogs in the harvesting machine.</p>
+</div1>
+
+<div1>
+<head type="sub">Girls Drive Trucks, Tractor</head>
+
+<p>Geraldine, who next autumn will be a junior at McPherson college, Kan., drives the truck, catching wheat from the combine, hauling the load to an electrically-powered dump at the Hedges home site. At college, Geraldine is campus social chairman, a clarinetist in the orchestra, a participant in vocal music and drums.</p>
+
+<p>Margaret, who last spring was graduated from Drummond high-school, drives the tractor, sometimes rides the combine. The family had 200 acres to reap, and even an 11-year-old daughter, Nola Jo, lent a hand by doing farm chores morning and evening.</p>
+
+<p>For 23 years Hedges has lived on the land he now farms. The wheat yield this year was poor, averaging about 15 bushels per acre, but girls were needed to help gather what there was.</p>
+</div1>
+
+<div1>
+<head type="sub">Wonderful for Tan</head>
+
+<p>A few days in the fields and the women harvest workers have a tan that bests anything every picked up at a bathing beach. Some of the women are a little tender-skinned at first, and they pour on lotions to keep down blister. These were broad-billed bonnets.</p>
+
+<p>All Mrs. Chester Nay, near Carrier had on her head Friday was a scarf tied under chin. But she wasn't actually out in the sun. She was hauling wheat in a trailer behind her car from combine to elevator. Once she had a bit of hard luck, a flat tire. What do the women do in such cases?</p>
+
+<p>"We can always get out and flag down the next man that comes along," Mrs. Nay explained brightly.</p>
+</div1>
+
+<div1>
+<head type="sub">Boys Pitch In, Too</head>
+
+<p>The same solution would apply in case of motor trouble, mechanical difficulties with equipment, a broken rotary chain, a ripped grain belt. The women harvesters confess they don't know much about mechanics, and must call on the men to handle the technical harvesting problems.</p>
+
+<p>At Mrs. Chester Nay's home, a sister was visiting to cook the meals. Out in the fields, two Nay sons, Wilbur, 13 years old, and Darel, 10, ran the combine while their parents were off for dinner. Harvesting is a fast-paced, non-stop process that goes on seven days a week, all possible hours of the day, until the grain is in. For once ripe, brittle wheat stems crumble to the ground, it is gone. Harvest wont wait.</p>
+
+<p>The Adolf Eifert family near Waukomis already has most of its 300 acres of small grain harvested. It was the mother and a daughter that helped turn the trick.</p>
+</div1>
+
+<div1>
+<head type="sub">No Help to Be Had</head>
+
+<p>"I really didn't even try to find extra hired hands this harvest," said Eifert. "Everybody was hunting for them, and they just weren't to be had. I knew that, and so we just decided to do the work ourselves.</p>
+
+<p>Helen Eifert, a 19-year-old A. and M. college co-ed, plaplat, and a dean's honor roll student, did the wheat hauling and scooping. In college she s a home economics major. Last year she copped an award as the outstanding freshman in chemistry. Her 12-year-old brother, Donald, helped with the scooping.</p>
+</div1>
+
+<div1>
+<head type="sub">Time to Can Food, Too</head>
+
+<p>Mrs. Eifert drove the tractor. Her husband ran the combine. Meanwhile, in the Eifert home, a 14-year-old daughter, Jean, and 16-year-old daughter, Dorothy, kept house, cooked meals, and during the harvest season, have canned 52 quarts of beans, 20 pints of corn and 30 pints of pineapples.</p>
+
+<p>"I'll say that scooping is tiresome," said Helen, a pretty blonde. "If you'd ever tried it, you'd know. The way I do is to scoop until I'm tired, and then scoop 10 more shovelfuls just so I'm very tired. Then I let Don rest me for a few minutes."</p>
+
+<p>Eifert said his wheat crop this year was the worst in the 21 years he has lived on the place. In spots the yield was less than six bushels an acre. But farmers are not defected, he said. They are taking it, like the weather, as just "one of those things."</p>
+
+<p>Mrs. Clarence Gigoux, near Enid, drives a tractor or operates the combine. Her two children, Velda Joan, 12 years old, and Jack, 7 take care of things at home. Also a former A. and M. student, Mrs. Gigoux is putting in full time in the fields.</p>
+
+<p>Like hundreds of other women&#8211;maybe there are thousands in the state&#8211;she knows that there is a job to be done. "It's kind of dirty," she admitted, but the women are not afraid of that. They are bearing a heavy load, gladly. A visitor approached Mrs. Gigoux in the field. When the visitor prepared to depart, she called out above the roar of the tractor to Mrs. Gigoux:</p>
+
+<p>"Come over and see me some time."</p>
+
+<p>"I will," replied Mrs. Gigoux, "when the work's all done this autumn."</p>
+</div1>
+
+</body>
+</text>
+</TEI>

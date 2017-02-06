@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.bt.19440615 SYSTEM "homefront.news.bt.19440615.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.bt.19440615">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">2,000 Mexican Workers in N.D.</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.bt.19440615</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Bismarck Tribune</title>
+<title level="a">2,000 Mexican Workers in N.D.</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">3</biblScope>
+<biblScope type="columns">7</biblScope>
+<publisher>Bismarck Tribune Co.</publisher>
+<pubPlace>Bismarck, ND</pubPlace>
+<date value="1944-06-15">1944-06-15</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-01</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-17</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.bt.19440615">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p3"/>
+<head type="main">2,000 Mexican<lb/>Workers in N.D.</head>
+
+<p>More than 2,000 Mexican sugar beet workers already are in the state and many of these will be available to North Dakota farmers when the haying harvesting seasons begin, the N.D. extension service said Thursday.</p>
+
+<p>All have been brought into the state through the combined efforts of the extension service, the Untied States employment service and the American crystal Sugar Beet Company of Grand Forks.</p>
+
+<p>"Except for some 200 who are working in the McKenzie county area, the workers for the most part have been placed in the Red River Valley, where the largest acreage of beets has been planted." H. W. Herbison, supervisor of the emergency farm labor program, said.</p>
+
+<p>County extension agents throughout North Dakota now are completing a survey of farm labor needs so that arrangements can be made to bring in additional labor necessary for the small grain harvest.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

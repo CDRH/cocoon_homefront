@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.arch.suggestedreadings">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Suggested Readings</title>
+<title level="m" type="sub"></title>
+<author>R. Douglas Hurt</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.arch.suggestedreadings</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-08-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head>Suggested Readings</head>
+
+<listBibl>
+<bibl><author n="Allen, Susan L.">Allen, Susan L.</author> <title level="a">"Preparing Women for the National Crisis."</title> <title level="j">Chronicles of Oklahoma</title> <biblScope type="volume">69 (Winter 1991-92)</biblScope>: <biblScope type="pages">392-407</biblScope>.</bibl>
+
+<bibl><author n="Armstrong, Robert M.">Armstrong, Robert M.</author> <title level="a">"Nebraska and Nebraskans in World War II."</title> <title level="j">Nebraska History</title> <biblScope type="volume">24 (July-September 1943)</biblScope>: <biblScope type="pages">174-80</biblScope>.</bibl>
+
+<bibl><author n="&#193;, Henry J.">&#193;vila, Henry J.</author> <title level="a">"Immigration and Integration: The Mexican American Community in Garden City, Kansas, 1900-1950."</title> <title level="j">Kansas History</title> <biblScope type="volume">20 (Spring <date value="1997">1997</date>)</biblScope>: <biblScope type="pages">22-37</biblScope>.</bibl>
+
+<bibl><author n="Bentley, Amy">Bentley, Amy.</author> <title level="m">Eating for Victory: Food Rationing and the Politics of Domesticity</title>. <pubPlace>Urbana</pubPlace>: <publisher>University of Illinois Press</publisher>, <date value="1998">1998</date>.</bibl>
+
+<bibl><author n="Bergh, Helen J.">Bergh, Helen J.</author> <title level="a">"Troop Trains and Pheasant Sandwiches: The Aberdeen Canteen in World War II."</title> <title level="j">South Dakota History</title> <biblScope type="volume">23 (Summer 1993</biblScope>): 133-41.</bibl>
+
+<bibl><author n="Bernstein, Alison R.">Bernstein, Alison R.</author> <title level="m">American Indians and World War II: Toward a New Era in Indian Affairs</title>. <pubPlace>Norman</pubPlace>: <publisher>University of Oklahoma Press</publisher>, <date value="1991">1991</date>.</bibl>
+
+<bibl><author n="Billington, Ray Allen">Billington, Ray Allen.</author> <title level="a">"The Origins of Middle Western Isolationism."</title> <title level="j">Political Science Quarterly</title> <biblScope type="volume">60 (March 1945)</biblScope>: <biblScope type="pages">44-64</biblScope>.</bibl>
+
+<bibl><author n="Buecker, Thomas R.">Buecker, Thomas R.</author> <title level="a">"Mules, Horses and Dogs&#8211;Fort Robinson in World War II."</title> <title level="j">Council on America's Military Past</title> <biblScope type="volume">16</biblScope>, no. <biblScope type="number">1 (1989)</biblScope>: <biblScope type="pages">34-39</biblScope>.</bibl>
+
+<bibl><author n="Busse, Carole">Busse, Carole</author>. <title level="a">"'She's a Good Girl and Loves America, Too': Housing for Women in WW II Fort Worth, Texas."</title> <title level="j">Essays in History</title> <biblScope type="volume">12 (1991-1992)</biblScope>: <biblScope type="pages">174-94</biblScope>.</bibl>
+
+<bibl><author n="Campbell, D'Ann">Campbell, D'Ann</author>. <title level="m">Women at War with America: Private Lives in a Patriotic Era</title>. <pubPlace>Cambridge</pubPlace>: <publisher>Harvard University Press</publisher>, <date value="1984">1984</date>.</bibl>
+
+<bibl><author n="Carpenter, Stephanie A.">Carpenter, Stephanie A.</author> <title level="m">On the Farm Front: The Women's Land Army in World War II</title>. <pubPlace>DeKalb</pubPlace>: <publisher>Northern Illinois University Press</publisher>, <date value="2003">2003</date>.</bibl>
+
+<bibl><author n="Carpenter, Stephanie A.">&#8212;</author>. <title level="a">"'Regular Farm Girl': The Women's Land Army in World War II."</title> <title level="j">Agricultural History</title> <biblScope type="volume">71 (Spring 1997)</biblScope>: <biblScope type="pages">163-85</biblScope>.</bibl>
+
+<bibl><author n="Cassity, Michael">Cassity, Michael</author>. <title level="a">"'In a Narrow Grave': World War II and the Subjugation of Wyoming."</title> <title level="j">Wyoming Historical Journal</title> <biblScope type="number">no. 2</biblScope> <biblScope type="volume">(1996)</biblScope>: <biblScope type="pages">2-13</biblScope>.</bibl>
+
+<bibl><author n="Chamberlain, Charles D. III">Chamberlain, Charles D. III</author>. <title level="a">"'On the Train and Gone:' Worker Mobility in the Rural Southwest During World War II, 1939-1945."</title> <title level="j">Southwestern Historical Quarterly</title> <biblScope type="volume">53 (April 2000)</biblScope>: <biblScope type="pages">427-51</biblScope>.</bibl>
+
+<bibl><author n="Chavez, Carmen R.">Chavez, Carmen R.</author> <title level="a">"Coming of Age During the War: Reminiscences of an Albuquerque Hispana."</title> <title level="j">New Mexico Historical Review</title> <biblScope type="volume">70 (October 1995)</biblScope>: <biblScope type="pages">383-97</biblScope>.</bibl>
+
+<bibl><author n="Cherny, Robert W.">Cherny, Robert W.</author> <title level="a">"Isolationist Voting in 1940: A Statistical Analysis."</title> <title level="j">Nebraska History</title> <biblScope type="volume">52 (Fall 1971)</biblScope>: <biblScope type="pages">293-310</biblScope>.</bibl>
+
+<bibl><author n="Childs, William R.">Childs, William R.</author> <title level="a">"Texas, the Interstate Oil Compact Commission, and State Control of Oil Production: Regionalism, States' Rights, and Federalism during World War II."</title> <title level="j">Pacific Historical Review</title> <biblScope type="volume">64 (November 1995)</biblScope>: <biblScope type="pages">567-98</biblScope>.</bibl>
+
+<bibl><author n="Clifford, J. Garry">Clifford, J. Garry</author>. <title level="a">"A Note on the Break Between Senator Nye and President Roosevelt in 1939."</title> <title level="j">North Dakota History</title> <biblScope type="volume">49 (Fall 1982)</biblScope>: <biblScope type="pages">14-17</biblScope>.</bibl>
+
+<bibl><author n="Coalson, George O.">Coalson, George O.</author> <title level="m">The Development of the Migratory Farm Labor System in Texas: 1900-1954</title>. <pubPlace>San Francisco</pubPlace>: <publisher>R and E Research Associates</publisher>, <date value="1977">1977</date>.</bibl>
+
+<bibl><author n="Coffey, Marilyn">Coffey, Marilyn</author>. <title level="m">Great Plains Patchwork: A Memoir</title>. <pubPlace>Ames, Ia.</pubPlace>: <publisher>Iowa State University Press</publisher>, <date value="1989">1989</date>.</bibl>
+
+<bibl><author n="Collier, John">Collier, John</author>. <title level="a">"The Indian in a Wartime Nation."</title> <title level="j">Annals of the American Academy of Political Science</title> <biblScope type="volume">223 (September 1942)</biblScope>: <biblScope type="pages">29-35</biblScope>.</bibl>
+
+<bibl><author n="Craig, Richard B.">Craig, Richard B.</author> <title level="m">The Bracero Program: Interest Groups and Foreign Policy</title> <pubPlace>Austin</pubPlace>: <publisher>University of Texas Press</publisher>, <date value="1971">1971</date>.</bibl>
+
+<bibl><author n="Cross, George Flynn">Cross, George Flynn</author>. <title level="m">Professors, Presidents, and Politicians: Civil Rights at the University of Oklahoma, 1890-1968</title>. <pubPlace>Norman</pubPlace>: <publisher>University of Oklahoma Press</publisher>, <date value="1981">1981</date>.</bibl>
+
+<bibl><author n="Cummings, Tom">Cummings, Tom</author>. <title level="a">"An Examination of the Lubell Thesis: McIntosh County, North Dakota, 1936-1940."</title> <title level="j">North Dakota Quarterly</title> <biblScope type="volume">42</biblScope>, <biblScope type="number">no.4</biblScope> (<date value="1974">1974</date>): <biblScope type="pages">26-41</biblScope>.</bibl>
+
+<bibl><author n="Dalfiume, Richard M.">Dalfiume, Richard M.</author> <title level="a">"The 'Forgotten Years' of the Negro Revolution,"</title> <title level="j">Journal of American History</title> <biblScope type="volume">55 (June 1968)</biblScope>: <biblScope type="pages">90-106</biblScope>.</bibl>
+
+<bibl><author n="Erickson, Neis">Erickson, Neis</author>. <title level="a">"Prairie Pacifist: Senator Lynn J. Frazier and America's Global Mission, 1927-1940."</title> <title level="j">North Dakota History</title> <biblScope type="volume">52 (Fall 1985)</biblScope>: <biblScope type="pages">27-32</biblScope>.</bibl>
+
+<bibl><author n="Fagan, Michele L.">Fagan, Michele L.</author> <title level="a">"Nebraska Nursing Education During World War II."</title> <title level="j">Nebraska History</title> <biblScope type="volume">73 (Fall 1992)</biblScope>: <biblScope type="pages">126-37</biblScope>.</bibl>
+
+<bibl><author n="Fearon, Peter">Fearon, Peter</author>. <title level="a">"Ploughshares into Airplanes: Manufacturing Industry and Workers During World War II."</title> <title level="j">Kansas History</title> <biblScope type="volume">22 (Winter 1999-2000)</biblScope>: <biblScope type="pages">298-314</biblScope>.</bibl>
+
+<bibl><author n="Foley, Neil">Foley, Neil</author>. <title level="m">The White Scourge: Mexicans, Blacks, and Poor Whites in Texas Cotton Culture</title>. <pubPlace>Berkeley</pubPlace>: <publisher>University of California Press</publisher>, <date value="1997">1997</date>.</bibl>
+
+<bibl><author n="Fuller, Edward J.">Fuller, Edward J.</author> <title level="a">"Scrap Drives, New Vocational Courses, and Patriotic Songs: Dallas Schools	and Negro Support of World War II."</title> <title level="j">Journal of the Midwest History of Education</title> <biblScope type="volume">21 (1944)</biblScope>: <biblScope type="pages">173-89</biblScope>.</bibl>
+
+<bibl><author n="Furdell, William J.">Furdell, William J.</author> <title level="a">"The Great Falls Home Front During World War II."</title> <title level="j">Montana: The Magazine of Western History</title> <biblScope type="volume">48 (Winter 1998)</biblScope>: <biblScope type="pages">63-75</biblScope>.</bibl>
+
+<bibl><author n="Gamboa, Erasmo">Gamboa, Erasmo</author>. <title level="m">Mexican labor and World War II: Braceros in the Pacific Northwest, 1942-1947</title>. <pubPlace>Austin</pubPlace>: <publisher>University of Texas Press</publisher>, <date value="1990">1990</date>.</bibl>
+
+<bibl><author n="Gamradt, Crystal J.">Gamradt, Crystal J.</author> <title level="a">"Adapting to Serve: South Dakota State College Responds to World War II."</title> <title level="j">South Dakota History</title> <biblScope type="volume">36 (Spring 2006)</biblScope>: <biblScope type="pages">66-87</biblScope>.</bibl>
+
+<bibl><author n="Geistle, Gary">Geistle, Gary</author>. <title level="a">"The Crucial Decade: The 1940s and Beyond."</title> <title level="j">Journal of American History</title> <biblScope type="volume">92 (March 2006)</biblScope>: <biblScope type="pages">1292-99</biblScope>.</bibl>
+
+<bibl><author n="Gluck, Sheena Berger">Gluck, Sheena Berger</author>. <title level="m">Rosie the Riveter Revisited: Women, the War and Social Change</title>. <pubPlace>Boston</pubPlace>: <publisher>Twayne Pub.</publisher>, <date value="1987">1987</date>.</bibl>
+
+<bibl><author n="Grant, Michael J.">Grant, Michael J.</author> <title level="a">"'Food Will Win the War and Write the Peace:' The Federal Government and Kansas Farmers During World War II."</title> <title level="j">Kansas History</title> <biblScope type="volume">20 (Winter 1997-1998)</biblScope>: <biblScope type="pages">242-57</biblScope>.</bibl>
+
+<bibl><author n="Grant, Jr., Philip A.">Grant, Philip A. Jr.</author> <title level="a">"The Kansas Congressional Delegation and the Lend-Lease Act of 1941."</title> <title level="j">Kansas History</title> <biblScope type="volume">14 (Summer 1991)</biblScope>: <biblScope type="pages">72-81</biblScope>.</bibl>
+
+<bibl><author n="Grant, Jr., Philip A.">&#8212;</author>. <title level="a">"The Kansas Congressional Delegation and the Selective Service Act of 1940."</title> <title level="j">Kansas History</title> <biblScope type="volume">2 (Autumn 1979)</biblScope>: <biblScope type="pages">196-205</biblScope>.</bibl>
+
+<bibl><author n="Grove, Wayne A.">Grove, Wayne A.</author> <title level="a">"The Mexican Farm Labor Program, 1942-1964: Government-Administered Labor Market Insurance for Farmers."</title> <title level="j">Agricultural History</title> <biblScope type="volume">70 (Spring 1996)</biblScope>: <biblScope type="pages">302-20</biblScope>.</bibl>
+
+<bibl><author n="Guglielmo, Thomas A.">Guglielmo, Thomas A.</author> <title level="a">"Fighting for Caucasian Rights: Mexicans, Mexican Americans, and the Transnational Struggle for Civil Rights in World War II Texas."</title> <title level="j">Journal of American History</title> <biblScope type="volume">92 (March 2006)</biblScope>: <biblScope type="pages">212-37</biblScope>.</bibl>
+
+<bibl><author n="Guinsburg, Thomas N.">Guinsburg, Thomas N.</author> <title level="a">"The George W. Norris 'Conversion' to Internationalism, 1939-1941."</title> <title level="j">Nebraska History</title> <biblScope type="volume">53 (Winter 1972)</biblScope>: <biblScope type="pages">477-90</biblScope>.</bibl>
+
+<bibl><author n="Hale, Duane K.">Hale, Duane K.</author> <title level="a">"Uncle Sam's Warriors: American Indians in World War II."</title> <title level="j">Chronicles of Oklahoma</title> 69 (Winter 1992): 408-29.</bibl>
+
+<bibl><author n="Hartmann, Susan M.">Hartmann, Susan M.</author> <title level="m">The Home Front and Beyond: American Women in the 1940s</title>. <pubPlace>Boston</pubPlace>: <publisher>Twayne Pub.</publisher>, <date value="1982">1982</date>.</bibl>
+
+<bibl><author n="Hewitt, William L.">Hewitt, William L.</author> <title level="a">"Mexican Workers in Wyoming During World War II: Necessity, Discrimination and Protest."</title> <title level="j">Annals of Wyoming</title> <biblScope type="volume">54 (Fall 1982)</biblScope>: <biblScope type="pages">20-33</biblScope>.</bibl>
+
+<bibl><author n="Honey, Maureen">Honey, Maureen</author>. <title level="m">Bitter Fruit: African American Women in World War II</title>. <pubPlace>Columbia</pubPlace>: <publisher>University of New Mexico Press</publisher>, <date value="1999">1999</date>.</bibl>
+
+<bibl><author n="Honey, Maureen">&#8212;</author>. <title level="m">Creating Rosie the Riveter: Class, Gender, and Propaganda during World War II</title>. <pubPlace>Amherst, Mass.</pubPlace>: <publisher>University of Massachusetts Press</publisher>, <date value="1984">1984</date>.</bibl>
+
+<bibl><author n="Honey, Maureen">&#8212;</author>. <title level="a">"The 'Womanpower' Campaign: Advertising and Recruitment Propaganda during World War II."</title> <title level="j">Frontiers: A Journal of Women's Studies</title> <biblScope type="volume">6 (Spring/Summer 1981)</biblScope>: <biblScope type="pages">50-56</biblScope>.</bibl>
+
+<bibl><author n="Hurt, R. Douglas">Hurt, R. Douglas</author>. <title level="m">The Great Plains during World War II, 1939-1945</title>.  <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2008">2008</date>.</bibl>
+
+<bibl><author n="Johnson, Judith R.">Johnson, Judith R.</author> <title level="a">"Uncle Sam Wanted Them Too! Women Aircraft Workers in Wichita During World War II."</title> <title level="j">Kansas History</title> <biblScope type="volume">17 (Spring 1994)</biblScope>: <biblScope type="pages">38-49</biblScope>.</bibl>
+
+<bibl><author n="Jones, Robert C.">Jones, Robert C.</author> <title level="m">Mexican War Workers in the United States: The Mexico-United States Manpower Recruiting Program and Its Operation</title>. <pubPlace>Washington, D. C.</pubPlace>: <publisher>Pan American Union, Division of Labor and Social Information</publisher>, <date value="1945">1945</date>.</bibl>
+
+<bibl><author n="Karolevitz, Robert F.">Karolevitz, Robert F.</author> <title level="a">"Life on the Home Front: South Dakota in World War II."</title> <title level="j">South Dakota History</title> <biblScope type="volume">19 (Fall 1989)</biblScope>: <biblScope type="pages">392-423</biblScope>.</bibl>
+
+<bibl><author n="Kollmorgen, Walton M.">Kollmorgen, Walton M.</author> and <author n="Jenks, George F.">George F. Jenks</author>. <title level="a">"A Geographic Study of Population and Settlement Changes in Sherman County, Kansas, Part II Goodland."</title> <title level="j">Transactions of the Kansas Academy of Science</title> <biblScope type="volume">58 (March 1952)</biblScope>: <biblScope type="pages">1-37</biblScope>.</bibl>
+
+<bibl><author n="Larson, George A.">Larson, George A.</author> <title level="a">"Nebraska's World War II Bomber Plant: The Glenn L. Martin-Nebraska Company."</title> <title level="j">Nebraska History</title> <biblScope type="volume">74 (Spring 1993)</biblScope>: <biblScope type="pages">32-43</biblScope>.</bibl>
+
+<bibl><author n="Larson, T.A.">Larson, T. A.</author> <title level="m">Wyoming's War Years, 1941-1945</title>. <date value="1954">1954</date>. Reprint, <pubPlace>Cheyenne</pubPlace>: <publisher>Wyoming Historical Foundation</publisher>, <date value="1993">1993</date></bibl>
+
+<bibl><author n="Larsen, Lawrence H.">Larsen, Lawrence H.</author> <title level="a">"Gerald Nye and the Isolationist Argument."</title> <title level="j">North Dakota History</title> <biblScope type="volume">47 (Winter 1980)</biblScope>: <biblScope type="pages">25-27</biblScope>.</bibl>
+
+<bibl><author n="Lee, James Ward">Lee, James Ward</author>. <title level="m">1941: Texas Goes to War</title>. <pubPlace>Denton</pubPlace>: <publisher>University of North Texas Press</publisher>, <date value="1991">1991</date>.</bibl>
+
+<bibl><author n="Lee, R. Alton">Lee, R. Alton</author>. <title level="m">Farmers vs. Wage Earners: Organized Labor in Kansas, 1860-1960</title>. <pubPlace>Lawrence</pubPlace>: <publisher>University Press of Kansas</publisher>, <date value="2005">2005</date>.</bibl>
+
+<bibl><author n="Leff, Mark H.">Leff, Mark H.</author> <title level="a">"The Politics of Sacrifice on the American Home Front in World War II."</title> <title level="j">Journal of American History</title> <biblScope type="volume">77 (March 1991)</biblScope>: <biblScope type="pages">1296-1318</biblScope>.</bibl>
+
+<bibl><author n="Leonard, Robert James">Leonard, Robert James</author>. <title level="a">"The Nye Committee: Legislating Against War."</title> <title level="j">North Dakota History</title> <biblScope type="volume">41 (Fall 1974)</biblScope>: <biblScope type="pages">20-28</biblScope>.</bibl>
+
+<bibl><author n="Leonard, Stephen J.">Leonard, Stephen J.</author> <title level="a">"Denver at War: The Home Front in World War II."</title> <title level="j">Colorado Heritage</title>, <biblScope type="number">no. 4</biblScope> <biblScope type="volume">(1987)</biblScope>: <biblScope type="pages">30-39</biblScope>.</bibl>
+
+<bibl><author n="Lingeman, Richard R.">Lingeman, Richard R.</author> <title level="m">Don't You Know There's a War On?: The Home Front, 1941-1945</title>. <pubPlace>New York</pubPlace>: <publisher>Putnam's Sons</publisher>, <date value="1970">1970</date>.</bibl>
+
+<bibl><author n="Liss, Samuel">Liss, Samuel</author>. <title level="a">"Farm Wage Boards Under the Cooperative Extension Service During World War II."</title> <title level="j">Agricultural History</title> <biblScope type="volume">27 (July 1953)</biblScope>: <biblScope type="pages">103-08</biblScope>.</bibl>
+
+<bibl><author n="Liss, Samuel">&#8212;</author>. <title level="a">"The Concept and Determination of Prevailing Wage Scales in Agriculture During World War II."</title> <title level="j">Agricultural History</title> <biblScope type="volume">24 (January 1950)</biblScope>: <biblScope type="pages">4-18</biblScope>.</bibl>
+
+<bibl><author n="Litoff, Judy Barrett">Litoff, Judy Barrett</author> and <author n="Smith, David C.">David C. Smith</author>. <title level="a">"'To the Rescue of the Crops': The Women's Land Army during World War II."</title> <title level="j">Prologue: The Journal of the National Archives</title> <biblScope type="volume">25 (Winter 1993)</biblScope>: <biblScope type="pages">346-61</biblScope>.</bibl>
+
+<bibl><author n="McCusker, Kristine M.">McCusker, Kristine M.</author> <title level="a">"'The Forgotten Years' of America's Civil Rights Movement: Wartime Protests at the University of Kansas, 1939-1945."</title> <title level="j">Kansas History</title> <biblScope type="volume">17 (Spring 1994)</biblScope>: <biblScope type="pages">26-37</biblScope>.</bibl>
+
+<bibl><author n="McGlade, Jacqueline">McGlade, Jacqueline</author>. <title level="a">"The Zoning of Fort Crook: Urban Expansion vs. County Home Rule."</title> <title level="j">Nebraska History</title> <biblScope type="volume">64 (Spring 1983)</biblScope>: <biblScope type="pages">21-34</biblScope>.</bibl>
+
+<bibl><author n="Macias, Richard">Macias, Richard</author>. <title level="a">"'We All Had A Cause': Kansas City's Bomber Plant, 1941-1945."</title> <title level="j">Kansas History</title> <biblScope type="volume">28 (Winter 2005-2006)</biblScope>: <biblScope type="pages">244-61</biblScope>.</bibl>
+
+<bibl><author n="Mihelich, Dennis N.">Mihelich, Dennis N.</author> <title level="a">"The Lincoln Urban League: The Travail of Depression and War."</title> <title level="j">Nebraska History</title> <biblScope type="volume">70 (Winter 1989)</biblScope>: <biblScope type="pages">303-16</biblScope>.</bibl>
+
+<bibl><author n="Mihelich, Dennis N.">&#8212;</author>. <title level="a">"World War II and the Transformation of the Omaha Urban League."</title> <title level="j">Nebraska History</title> <biblScope type="volume">60 (Fall 1979)</biblScope>: <biblScope type="pages">401-23</biblScope>.</bibl>
+
+<bibl><author n="Milkman, Ruth">Milkman, Ruth</author>. <title level="m">Gender at Work: The Dynamics of Job Segregation by Sex During World War II</title>. <pubPlace>Urbana</pubPlace>: <publisher>University of Illinois Press</publisher>, <date value="1987">1987</date>.</bibl>
+
+<bibl><author n="Moeller, James C.">Moeller, James C.</author> <title level="a">"Answering the Call: Omaha Jewry and the War Effort, 1941-1945."</title> <title level="j">Memories of the Jewish Midwest</title> <biblScope type="volume">10 (1995)</biblScope>: <biblScope type="pages">2-7</biblScope>.</bibl>
+
+<bibl><author n="Montejano, David">Montejano, David</author>. <title level="a">"The Demise of 'Jim Crow' for Texas Mexicans, 1940-1970."</title> <title level="j">Azltan</title> <biblScope type="volume">16</biblScope>, <biblScope type="number">nos. 1-2</biblScope> (<date value="1987">1987</date>): <biblScope type="pages">27-69</biblScope>.</bibl>
+
+<bibl><author n="Nash, Gerald D.">Nash, Gerald D.</author> <title level="m">The American West Transformed: The Impact of the Second World War</title>. <pubPlace>Bloomington</pubPlace>: <publisher>Indiana University Press</publisher>, <date value="1985">1985</date>.</bibl>
+
+<bibl><author n="Nash, Gerald D.">&#8212;</author>. <title level="m">The Great Depression and World War II: Organizing America, 1933-1945</title>. <pubPlace>New York</pubPlace>: <publisher>St. Martin's</publisher>, <date value="1979">1979</date>.</bibl>
+
+<bibl><author n="Nash, Gerald D.">&#8212;</author>. <title level="m">World War II and the West: Reshaping the Economy</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="1990">1990</date>.</bibl>
+
+<bibl><author n="Neugebauer, Janet M.">Neugebauer, Janet M.</author> ed. <title level="m">Plains Farmer: The Diary of William G. DeLoach, 1914-1964</title>. <pubPlace>College Station</pubPlace>: <publisher>Texas A &amp; M. University Press</publisher>, <date value="1991">1991</date>.</bibl>
+
+<bibl><title level="a">"No Bread Today: Wartime Rationing."</title> <title level="j">Colorado Heritage</title>, <biblScope type="volume">no. 1 (Winter 1995)</biblScope>: <biblScope type="pages">29-31</biblScope>.</bibl>
+
+<bibl><author n="O'Brien, Kenneth Paul">O'Brien, Kenneth Paul</author> and <author n="Parsons, Lynn Judson">Lynn Judson Parsons</author>. <title level="m">The Home-Front War: World War II in American Society</title>. <pubPlace>Westport, Conn.</pubPlace>: <publisher>Greenwood Press</publisher>, <date value="1995">1995</date>.</bibl>
+
+<bibl><author n="O'Brien, Patrick G.">O'Brien, Patrick G.</author> <title level="a">"Kansas at War: The Home Front, 1941-1945."</title> <title level="j">Kansas History</title> <biblScope type="volume">17 (Spring 1994)</biblScope>: <biblScope type="pages">6-25</biblScope>.</bibl>
+
+<bibl><author n="Osburn, William S.">Osburn, William S.</author> <title level="a">"Curtains for Jim Crow: Law, Race, and the Texas Railroads."</title> <title level="j">Southwestern Historical Quarterly</title> <biblScope type="volume">105 (January 2002)</biblScope>: <biblScope type="pages">392-47</biblScope>.</bibl>
+
+<bibl><author n="Partin, John W.">Partin, John W.</author> <title level="a">"The Dilemma of 'A Good, Very Good Man': Capper and Noninterventionism, 1936-1941."</title> <title level="j">Kansas History</title> <biblScope type="volume">2 (Summer 1979)</biblScope>: <biblScope type="pages">86-95</biblScope>.</bibl>
+
+<bibl><author n="Peterson, Susan C.">Peterson, Susan C.</author> and <author n="Rieger, Amy K.">Amy K. Rieger</author>. <title level="a">"'They Needed Nurses at Home': The Cadet Nurse Corps in South Dakota and North Dakota."</title> <title level="j">South Dakota History</title> <biblScope type="volume">23 (Summer 1993)</biblScope>: <biblScope type="pages">122-32</biblScope>.</bibl>
+
+<bibl><author n="Pfaff, Christine">Pfaff, Christine</author>. <title level="a">"Bullets for the Yanks: Colorado's World War II Ammunition Factory."</title> <title level="j">Colorado Heritage</title> <biblScope type="number">no. 2</biblScope> (<biblScope type="volume">Summer 1992</biblScope>): <biblScope type="pages">33-45</biblScope>.</bibl>
+
+<bibl><author n="Pfluger, James R.">Pfluger, James R.</author> <title level="a">"Fuel for Victory: Texas Panhandle Petroleum, 1941-1945."</title> <title level="j">Panhandle-Plains Historical Review</title> 62 (1989): 19-56.</bibl>
+
+<bibl><author n="Rasmussen, Wayne D.">Rasmussen, Wayne D.</author> <title level="m">A History of the Emergency Farm Labor Supply Program, 1943-47</title>. <title level="m">Agriculture Monograph No. 13</title>. <pubPlace>Washington, D.C.</pubPlace>: <publisher>U.S. Department of Agriculture, Bureau of Agricultural Economics</publisher>, <date value="1951">1951</date>.</bibl>
+
+<bibl><author n="Rupp, Leila J.">Rupp, Leila J.</author> <title level="m">Mobilizing Women for War: German and American Propaganda, 1939-1945</title>. <pubPlace>Princeton</pubPlace>: <publisher>Princeton University Press</publisher>, <date value="1978">1978</date>.</bibl>
+
+<bibl><author n="Russell, Beverly">Russell, Beverly</author>. <title level="a">"World War II Boomtown: Hastings and the Naval Ammunition Depot,"</title> <title level="j">Nebraska History</title> <biblScope type="volume">76 (Summer/Fall 1995)</biblScope>: <biblScope type="pages">75-83</biblScope>.</bibl>
+
+<bibl><author n="Schlebecker, John T.">Schlebecker, John T.</author> <title level="m">Cattle Raising on the Plains, 1900-1950</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="1963">1963</date>.</bibl>
+
+<bibl><author n="Schwartz, Harry">Schwartz, Harry</author>. <title level="m">Seasonal Farm Labor in the United States, With Special Reference to Hired Workers in Fruit and Vegetable and Sugar-Beet Production</title>. <pubPlace>New York</pubPlace>: <publisher>Columbia University Press</publisher>, <date value="1945">1945</date>.</bibl>
+
+<bibl><author n="Scruggs, Otey M.">Scruggs, Otey M.</author> <title level="m">"Braceros, "Wetbacks," and the Farm Labor Problem</title>. <pubPlace>New York</pubPlace>: <publisher>Garland Pub. Inc.</publisher>, <date value="1988">1988</date>.</bibl>
+
+<bibl><author n="Scruggs, Otey M.">&#8212;</author>. <title level="a">"Texas and the Bracero Program, 1942-1947."</title> <title level="j">Pacific Historical Review</title> <biblScope type="volume">32 (February 1963)</biblScope>: <biblScope type="pages">251-64</biblScope>.</bibl>
+
+<bibl><author n="Scruggs, Otey M.">&#8212;</author>. <title level="a">"The Bracero Program Under the Farm Security Administration, 1942-1943."</title> <title level="j">Labor History</title> <biblScope type="volume">4 (Spring 1962)</biblScope>: <biblScope type="pages">149-68</biblScope>.</bibl>
+
+<bibl><author n="Scruggs, Otey M.">&#8212;</author>. <title level="a">"The United States, Mexico, and the Wetbacks, 1942-1947."</title> <title level="j">Pacific Historical Review</title> <biblScope type="volume">30 (May 1961)</biblScope>: <biblScope type="pages">149-64</biblScope>.</bibl>
+
+<bibl><author n="Simmons, Jerold">Simmons, Jerold</author>. <title level="a">"Public Leadership in a World War II Boom Town: Bellevue, Nebraska."</title> <title level="j">Nebraska History</title> <biblScope type="volume">65 (Winter 1984)</biblScope>: <biblScope type="pages">484-99</biblScope>.</bibl>
+
+<bibl><author n="Sitkoff, Harvard">Sitkoff, Harvard</author>. <title level="a">"Racial Militancy and Interracial Violence in the Second World War."</title> <title level="j">Journal of American History</title> <biblScope type="volume">58 (December 1971)</biblScope>: <biblScope type="pages">661-80</biblScope>.</bibl>
+
+<bibl><author n="Sloan, Jr., Charles William">Sloan, Charles William, Jr.</author>, ed. <title level="a">"The Newelletters: E. Gail Carpenter Describes Life on the Home Front: Part I."</title> <title level="j">Kansas History</title> <biblScope type="volume">11 (Spring 1988)</biblScope>: <biblScope type="pages">54-72</biblScope>.</bibl>
+
+<bibl><author n="Sloan, Jr., Charles William">&#8212;</author>. <title level="a">"The Newelletters: E. Gail Carpenter Describes Life on the Home Front: Part II."</title> <title level="j">Kansas History</title> <biblScope type="volume">11 (Summer 1988)</biblScope>: <biblScope type="pages">123-42</biblScope>.</bibl>
+
+<bibl><author n="Sloan, Jr., Charles William">&#8212;</author>. <title level="a">"The Newelletters: E. Gail Carpenter Describes Life on the Home Front: Part III."</title> <title level="j">Kansas History</title> <biblScope type="volume">11 (Autumn 1988)</biblScope>: <biblScope type="pages">150-70</biblScope>.</bibl>
+
+<bibl><author n="Sloan, Jr., Charles William">&#8212;</author>. <title level="a">"The Newelletters: E. Gail Carpenter Describes Life on the Home Front:  Part IV."</title> <title level="j">Kansas History</title> <biblScope type="volume">11 (Winter 1988-1989)</biblScope>: <biblScope type="pages">222-39</biblScope>.</bibl>
+
+<bibl><author n="Smith, Caron">Smith, Caron</author>. <title level="a">"The Women's Land Army During World War II."</title> <title level="j">Kansas History</title> <biblScope type="volume">14 (Summer 1991)</biblScope>: <biblScope type="pages">82-88</biblScope>.</bibl>
+
+<bibl><author n="Smith, Karen Manners">Smith, Karen Manners</author>. <title level="a">"Father, Son, and Country on the Eve of War: William Allen White, William Lindsay White, and American Isolationism, 1940-1941."</title> <title level="j">Kansas History</title> <biblScope type="volume">28 (Spring 2005)</biblScope>: <biblScope type="pages">30-43</biblScope>.</bibl>
+
+<bibl><author n="Smuckler, Ralph H.">Smuckler, Ralph H.</author> <title level="a">"The Region of Isolationism."</title> <title level="j">American Political Science Review</title> <biblScope type="volume">47 (June 1953)</biblScope>: <biblScope type="pages">386-401</biblScope>.</bibl>
+
+<bibl><author n="Spritzer, Donald E.">Spritzer, Donald E.</author> <title level="a">"Senators in Conflict."</title> <title level="j">Montana: The Magazine of Western History</title> <biblScope type="volume">23 (Spring 1973)</biblScope>: <biblScope type="pages">16-33</biblScope>.</bibl>
+
+<bibl><author n="Straub, Eleanor F.">Straub, Eleanor F.</author> <title level="a">"United States Government Policy Toward Civilian Women During World War II."</title> <title level="j">Prologue: The Journal of the National Archives</title> <biblScope type="volume">5 (Winter 1973)</biblScope>: <biblScope type="pages">240-54</biblScope>.</bibl>
+
+<bibl><author n="Terkel, Studs">Terkel, Studs</author>. <title level="m">"The Good War": An Oral History of World War II</title>. <pubPlace>New York</pubPlace>: <publisher>Pantheon Books</publisher>, <date value="1984">1984</date>.</bibl>
+
+<bibl><author n="Townsend, Kenneth W.">Townsend, Kenneth W.</author> <title level="m">World War II and the American Indian</title>. <pubPlace>Albuquerque</pubPlace>: <publisher>University of New Mexico Press</publisher>, <date value="2000">2000</date>.</bibl>
+
+<bibl><author n="Tuttle, William M.">Tuttle, William M.</author> <title level="a">"Aid-to-the Allies Short-of-War versus American Interventionism, 1940: A Reappraisal of William Allen White's Leadership."</title> <title level="j">Journal of American History</title> <biblScope type="volume">56 (March 1970)</biblScope>: <biblScope type="pages">840-58</biblScope>.</bibl>
+
+<bibl><author n="Tuttle, William M.">&#8212;</author>. <title level="a">"William Allen White and Verne Marshall: Two Midwestern Editors Debate Aid to the Allies versus Isolationism."</title> <title level="j">Kansas Historical Quarterly</title> <biblScope type="volume">32 (Summer 1966)</biblScope>: <biblScope type="pages">201-09</biblScope>.</bibl>
+
+<bibl><title level="a">"Uprooted: A Portfolio of Japanese-Americans in World War II."</title> <title level="j">Colorado Heritage</title>, <biblScope type="number">no 1.</biblScope> <biblScope type="volume">(1989)</biblScope>: <biblScope type="pages">12-28</biblScope>.</bibl>
+
+<bibl><author n="Weatherford, Doris">Weatherford, Doris</author>. <title level="m">American Women and World War II</title>. <pubPlace>New York</pubPlace>: <publisher>Facts on File</publisher>, <date value="1990">1990</date>.</bibl>
+
+<bibl><title level="a">"What Did You Do in the War?"</title> <title level="j">Nebraska History</title> <biblScope type="volume">72 (Winter 1991)</biblScope>. Theme Issue</bibl>
+
+<bibl><author n="White, William Allen">White, William Allen</author>. <title level="a">"This Is America: The Middle West Drifts to the Right."</title> <title level="j">Nation</title> <biblScope type="volume">148 (June 3, 1939)</biblScope>: <biblScope type="pages">635-38</biblScope>.</bibl>
+
+<bibl><author n="Wilcox, Walter W.">Wilcox, Walter W.</author> <title level="m">The Farmer in the Second World War</title>. <pubPlace>Ames</pubPlace>: <publisher>State College Press</publisher>, <date value="1947">1947</date>.</bibl>
+
+<bibl><author n="Wilkins, Robert P.">Wilkins, Robert P.</author> <title level="a">"The Non-Ethnic Roots of North Dakota Isolationism."</title> <title level="j">Nebraska History</title> <biblScope type="volume">44 (September 1963)</biblScope>: <biblScope type="pages">205-21</biblScope>.</bibl>
+
+<bibl><author n="Wit, Tracy Lyn">Wit, Tracy Lyn</author>. <title level="a">"The Social and Economic Impact of World War II Munitions Manufacture on Grand Island, Nebraska."</title> <title level="j">Nebraska History</title> <biblScope type="volume">71 (Fall 1990)</biblScope>: <biblScope type="pages">151-63</biblScope>.</bibl>
+
+</listBibl>
+
+</div1>
+</body>
+</text>
+</TEI>

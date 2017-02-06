@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.rec.0009">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Appendix to the Congressional Record (December 30, 1941)</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.rec.0009</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Appendix to the Congressional Record</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date value="1941-12-30">(December 30, 1941)</date>
+<biblScope type="pages">A5717-5719</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-01-16</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Validation</item>
+</change>
+<change>
+<date>2007-01-08</date>
+<respStmt>
+<name>Paul Fajman</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>2006-11-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+
+<head type="main">A United Nation</head>
+<milestone unit="smallbar" />
+<head type="sub">EXTENSION OF REMARKS<lb />
+OF<lb />
+HON. ARTHUR CAPPER<lb />
+OF KANSAS<lb />
+IN THE SENATE OF THE UNITED STATES<lb />
+<milestone unit="smallbar" />
+Tuesday, December 30, 1941</head>
+<milestone unit="smallbar" />
+<head type="sub">ADDRESS OF HON. ARTHUR CAPPER, OF KANSAS</head>
+<milestone unit="smallbar" />
+
+	<p>Mr. CAPPER.  Mr. President, I ask unanimous consent to have printed in the Appendix of the RECORD a radio addressed entitled "A United Nation" delivered by me December 29, 1941, over the national radio forum arranged by the Washington Evening Star and carried by the blue network of the National Broadcasting Co.</p>
+
+	<p>We were attacked without warning by treacherous foes. Every important influence at Washington, regardless of political consideration, is now backing our Commander in Chief in the supreme objective of an all-out defeat of the Axis Powers and Japan.</p>
+	<p>I am glad to assure you at this time of extreme peril that essential unity, military as well as economic, is being achieved; that there is common determination in Washington to fight side by side with our allies until all threats to freedom have been eliminated.</p>
+	<p>Plenty of trouble is ahead, no doubt, but I see gratifying evidence in the last week here in Washington of closer cooperation between Government and industry, between Government and labor&#8211;stronger than I have ever known before. There's a new unified spirit&#8211;not flag waving particularly&#8211;but a determination by all classes of citizens to stand by the Government and see it through. I find out in my home State the same feeling is rapidly growing in Kansas. The farmers are standing loyally by the President in the mightiest struggle our country has ever known. I believe this wholehearted support exists in every State of the Union.</p>
+	<p>We begin to realize that our war effort today dwarfs all previous military planning. It is, in fact, a world war&#8211;the first time in all history a world war. I believe we all are now fully aware of the necessity for a coordinated allied war effort.</p>
+	<p>The bulk of loyal Americans fully realize there must be complete confidence in the men now entrusted with working out the coordinated strategy necessary to win the war.</p>
+	<p>We are forced into this great struggle for the reestablishment of justice whether we want to be or not. There is no longer any withdrawing for any one of us. We enter the war with complete unity and with full confidence in ultimate victory. We must see this thing through. We must stay on the job until victory and final peace are won. It's time to fight with everything we have.</p>
+	<p>I say the traditional American spirit, united and strong, will win this war.</p>
+	<p>It was not until the disaster at Pearl Harbor that the country waked up and became fully ware of our peril. We were attacked at a moment when our Government was making an honest effort to secure peace in the Pacific. The United States will answer that traitorous attack in a way that the Japanese will understand.</p>
+	<p>It's the same story wherever in the world this war is being fought by the Allies: Not enough airplanes, not enough tanks, not enough ships, not enough antiaircraft guns&#8211;a terrible handicap for American fighters. America is producing at least five times as many military aircraft as Japan is producing; yet Japan is dominating the air over the Philippines because American aircraft has been scattered over much of the world. I can assure you that problem will be met just as quick as it is humanly possible.</p>
+	<p>There may be serious military reverses from time to time, but the conquering spirit of American unity and American courage will overcome our enemies.</p>
+	<p>We have the best and most efficient government in the world, but anything is possible in this era of disagreeable surprises. During the year ahead there will be losses and sorrows hard to bear, but also there will be that stalwart quality of heroism which God gives to a free people.</p>
+	<p>We are having staggering Government spending, but I think progress is being made in holding these enormous expenditures down to a reasonably sound basis.</p>
+	<p>Let me say, incidentally, that while we are urging our people to support the Government's war program, I think it is of the highest importance that we who are appropriating money, and the Government officials who are charged with the responsibility of spending it, should do our best to have every dollar spent wisely and honesty. It is no time for lavish, careless, wasteful spending of the people's dollars, especially nondefense expenditures not now urgently needed. The people are urged to save, sacrifice, do without. It is highly necessary. And they will d it. They can't do otherwise. Besides patriotically they really want to help. But the Government itself must set an example in its own spending program. I am glad to say that in the Senate we have a special committee known as the Truman committee and another known as the Byrd committee, both of which are doing good work in digging up the facts as to spending by various Government agencies. For my own part, I shall continue to protest with all my might against "pork barrel" hold-ups and big fortunes piled up by war profiteers. These are desperate days in America. It is a time when we must economize on the running expenses of the Government. Every dollar of the public tax money must do the work of the dollar.</p>
+	<p>Though the world is terribly disturbed and the future looks dark, I still have the utmost faith in American and our Government. The American people still believe in the Golden Rule and want to do the right thing by their fellow men. The same spirit which pioneered and built America is still here. It will solve the problems of today as it solved them years ago.</p>
+	<p>We are engaged now in a two-ocean war, a three-continent war, a real world war.</p>
+	<p>It is an all-out war. It is an all-American war. This means everyone of us is in it&#8211; in it with everything we have.</p>
+	<p>This war, although anticipated by many of us, nevertheless broke upon us with startling suddenness the Sunday morning when the Japanese struck their surprise blow at Pearl Harbor.</p>
+	<p>We know now that our armed forces were caught off guard. It is plain that we never had enough trained troops and material in the Philippines to cope with a major assault by Japan, but regardless of the outcome this is not a time for recriminations. I feel&#8211;and the Nation feels&#8211;that this must not happen again; that it will not happen again.</p>
+	<p>The fact is there has been nothing impressive about Japan's fighting ability. But she got the start and was able to put more men, more ships, more fire power at the places where the fighting occurs. Japan was ready. We were not. The outcome is dependent upon United States and British speed in sending reinforcements. That is coming through in a fine way. The new Navy leadership is noted for its fighting attitude. So I say, don't worry, our Navy will come through all right.</p>
+	<p>There had been serious disagreement among the people of the United States over our foreign policy. I was one of those who opposed with every legitimate means in my power United States intervention in this war.</p>
+	<p>Thank God those disagreements, that division of opinion, came to a sudden and complete end on the afternoon of December 7.</p>
+	<p>Within an hour after the Pearl Harbor disaster was broadcast over the United States we were a united people.</p>
+	<p>When the Untied States is attacked there is only one course open to all Americans. Any other is simply unthinkable.</p>
+	<p>National unity arrived by air that Sunday afternoon.</p>
+	<p>National unity will continue until victory is won, until our mission has been accomplished.</p>
+	<p>True, we face a hard war; perhaps a harder peace.</p>
+	<p>It probably will be a long war; no one can predict the future in this rapidly changing world.</p>
+	<p>It will take a united United States, a people ready, willing, and able to make the necessary sacrifices, to win this war.</p>
+	<p>Don't forget that all-out war means that the individual must give up his individuality, has individual hopes and aspirations, his individual manner of thinking and way of life&#8211;give it up for the common welfare, for the national defense.</p>
+	<p>For the time being, at least, the individual in many ways ceases to function as an individual.</p>	
+	<p>All-out war means more Government control (not just regulation but actual control) of business, industry, finance, transportation and communication, agriculture. It means Government control of labor to a greater extent than many of us have yet realized, Government control of the many actions of the individual.</p>
+	<p>This means that farmers are called upon to produce foodstuffs and fibers for the needs of our Army and Navy and air forces, for the needs of our civilian population, for the needs of our Allies&#8211;at home and in the field.</p>
+	<p>Our mines, our factories, our transportation systems, our entire production and distribution system, all these are being subordinated, coordinated, and used for the one purpose, winning the war.</p>
+	<p>Production for profit, for the time being, must and will be secondary to production for use. This is necessary; it is inevitable. I accept it as such and would not have it otherwise, under conditions as they are. I do not believe it would be possible, all things considered, for us to win a complete and final victory in this great enterprise upon which we are embarked, under any other kind of a war program.</p>
+	<p>It is my prayer, and will be my supreme effort, that our affairs are so conducted that when this war is over we may return as far as is humanly possible to our American system of free enterprise and our American way of life.</p>
+	<p>But for today, for the duration of this emergency, I realize fully that I must sacrifice, that all of us must sacrifice, whatever is necessary to win this war.</p>
+	<p>Where we are going before we get through, I do not know. All the things we may be called upon to do before we win victory I do not know. What our foreign and domestic policies and programs may be before we win through, I do not know.</p>
+	<p>What I do feel is that wherever we are going, whatever we may have to do, whatever foreign policies and domestic polices we may have to follow to win the war, all these things will do, and will do wholeheartedly and completely.</p>
+	<p>In the winning of a war there are many factors, some tangible, some intangible; some dealing with things material, others in the realm of the spirit.</p>
+	<p>In the world of material things&#8211;natural resources&#8211;the Untied States and the British Empire and their Allies have what should be a decisive and deciding advantage, if our spiritual strength is equal to the occasion.</p>
+	<p>Here are some of the material advantages possessed by the Allies: Seventy-eight percent of the world's petroleum, against 3 percent in the Axis and Axis-occupied countries; 63 percent of the iron-ore production, as against 18 percent for the Axis; 67 percent against 29 percent in coal; 64 percent against 21 percent in wheat; 51 percent in sugar compared to 23 percent.</p>
+	<p>The Allies also have an advantage in rubber production and in most critical metals, if we can continue to keep the sea lanes open.</p>
+	<p>As to airplanes, tanks, warships, and munitions, when once the industrial economy of the United States has been duly developed and put on a war basis, the Allies will dominate in the field. Time is working for us in this respect.</p>
+	<p>In effective manpower the Allies' advantage is not so apparent. It may be months before the United States can enlist, equip, and train enough men to equal the present land-force strength of the German and Japanese Armies.</p>
+	<p>We may have to face the reality of having to fight on the defensive for the next few months. Hitler, unless his retirement in Russia turns into a complete rout, seems to still hold the initiative in Europe. The Japanese today hold the initiative in the Orient, though perhaps by a narrower thread than appearances would indicate.</p>
+	<p>The British Empire's life line is a long, thin line today, and it will take all our courage and resources to hold it intact until the turning point comes.</p>
+	<p>If we can hold that long line through the Mediterranean, the Near East, the Middle East, and Singapore, for the necessary months, the mines and factories of the United States, plus the reserve resources of the British Empire, should give the Allies air and naval supremacy sufficient to more than offset the present land and air strength of the Axis Powers.</p>
+	<p>Having summed up the balance of all these material factors and considered them carefully, I cannot resist the conclusion that the scales in this conflict will be finally tipped by spiritual factors. They are the intangibles of the imponderables of which General Marshall spoke when he wisely remarked that in this present war morale is twice as important as Napoleon once declared it to be. That morale is now six times more important than mat&#233;rial in deciding the final outcome.</p>
+	<p>I was at home in Topeka, Kans., when the Japanese struck at Hawaii. I left for Washington within a few hours, but in that short time I saw and felt the people of my native State forget their past differences, their partisanships and disagreements, and find unity.</p>
+	<p>I find back home, in the midcontinent&#8211;for this goes farther than Kansas (it takes in the great interior of the United States, the heart of America)&#8211;I find at home always a belief in the basic things; a courage that is not dependent upon nor swept away by hysteria; a spiritual strength, if I may put it that way.</p>
+	<p>The reasons for this inner strength go back into the roots of our great American heritage. These people of Kansas and of the Great Plains States; of Iowa, Missouri, rural Illinois, and Indiana and Michigan and much of Ohio&#8211;these people are the lineal descendants of those pioneers who settled the Atlantic seaboard originally; those who fought the Revolutionary War for independence; those who drafted the Constitution and made it work in the early days of the Republic.</p>
+	<p>These pioneers carved this Nation out of the wilderness and the prairies not because they had material resources&#8211;for they did not; and not alone because of physical strength and stamina and love of adventure; but because they had the spiritual strength that moves mountains, breaks down opposition, conquers anything that stands in the way.</p>
+	<p>And this spiritual strength is the basis, the foundation, fort the kind of courage, the kind of faith, the kind of determination, the will to carry on and the will to win, which will carry this Nation and our people through the present emergency and the critical years to follow. It will win the war. And incidentally let me say they are putting their money into our Government's national-defense bonds in a marvelous way.</p>
+	<p>Now let me bring this vital subject of spiritual strength&#8211;of national morale&#8211;right down to earth. For in the last analysis final victory depends on the whole population being imbued with an unconquerable spirit.</p>
+	<p>As the Bangor Daily Commercial in the State of Maine states in a recent editorial: "It is going to take something tremendously powerful to turn back the 'isms.' The moral rearmament of the democratic peoples cannot, of course, do the job alone; but, conversely, the job simply cannot be done without moral rearmament."</p>
+	<p>We all know how important labor is in the war effort of our country. Let me quote from one of its official organs, Organized Labor, of San Francisco, Calif., which in a recent editorial entitled "morale the Mainstay," states: "Every day makes it clearer that the present war is going to be won by morale and material, not in material alone. As the war of arms and the war of nerves continue, the armed forces and civilian populations of all nations face ever greater tests. On the ocean, in the field, in the factory, on the farm, in the home&#8211;it is the spirit of Mr. and Mrs. Everyman that counts today."</p>
+	<p>During this part Christmas Week in Washington this issue was brought prominently to the fore on both sides of the Atlantic. For America, President Roosevelt stated it clearly in his Christmas Eve broadcast. I was privileged to be present when, speaking with Prime Minister Churchill beside the Christmas tree on the White House lawn, the President told the thousands crowded around and the radio millions at their homes, that: "There is another preparation demanded of this Nation beyond and beside the preparation of weapons and materials of war. There is demanded of us also the preparation of our hearts; the arming of our hearts." In London a distinguished group of British Members of Parliament echoed the same thought in a message to this country. Referring to our popular victory handbook You Can Defend America, with its foreword by my old friend General Pershing, they said: "It seems to many of us a platform on which our two nations can fight side by side in the present emergency. The qualities of sacrifice, devotion, and resolution fostered by such Christian influences are the secret of morale and productive power. They are the underlying strength of democracy and the guaranty of victory."</p>
+	<p>My friends, we have the strongest government on earth but the real strength of America is this moral and spiritual strength. It is this that enabled the early colonists to survive. It was this which enabled the fighters of '76 to win the War of Independence. It was this which inspired the framers of the Constitution. It was this which sustained the pioneers who carried the American flag and the American tradition across the Mississippi and across the Rockies to the far Pacific. It is this which will give wisdom and courage to the fighters of this present world conflict and enable us to pioneer again for a new world in the future.</p>
+	<p>But the hope for winning the peace, as well as winning the war, the hope for the continuance of the American way of life after the war is over, the future of our country, the future of all the English-speaking peoples, and of the millions in every nation, lies in our loyalty to these great truths.</p>
+	<p>As Prime Minister Mackenzie King, of Canada, who tomorrow welcomes Mr. Churchill to the Canadian Parliament in Ottawa, has so eloquently put it: "Much is being said about a new world order to take the place of the old world order when the war is at an end. If that new order is not already on its way before the war is over, we may look for it in vain. The new world order cannot be worked out at some given moment and reduced to writing at a conference table. It is not a matter of parchments and of seals. That was one of the mistaken beliefs at the end of the last war. A new world order to be worthy of the name is something that is born, not made. It is something that lives and breathes, something that needs to be developed in the minds and hearts of men."</p>
+	<p>Now, my friends, that is the challenge to the English-speaking world. I believe I speak for America when I say that, as we are determined to win the war, so we are no less determined to win the peace. We will be faithful to our present trust. We will be no less faithful in the mighty future task of reconstruction. May God give us the courage and the wisdom to carry through, no matter what the cost.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

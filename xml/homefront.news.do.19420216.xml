@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.do.19420216 SYSTEM "homefront.news.do.19420216.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.do.19420216">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Fifty Aggie Co-Eds Enter New Firemanship Course for Women</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.do.19420216</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Daily Oklahoman</title>
+<title level="a">Fifty Aggie Co-Eds Enter New Firemanship Course for Women</title>
+<title level="a" type="sub">Stillwater Fire Station Echoes With Girlish Giggles</title>
+<author></author>
+<biblScope type="pages">8-A</biblScope>
+<biblScope type="columns">3</biblScope>
+<publisher>Daily Oklahoman</publisher>
+<pubPlace>Oklahoma City, OK</pubPlace>
+<date value="1942-05-20">1942-05-20</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Women/male work</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-08-29</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.do.19420216">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p8"/>
+<head type="main">Fifty Aggie Co-Eds Enter New Firemanship Course for Women</head>
+
+<figure>
+<figDesc>All dressed up and ready for the fire…that's Madeline McLain of Hobart who believes if you're going out for fire-fighting, you'd better dress for the part. Miss McLain was one of the first women on A. and M. campus to sign up for the co-ed firemanship course offered this semester. Reason for same could be that national defense was brought pretty close to home when Austin Wallace, owner of that Sigma Nu pin she wears took off for the wars not long ago.</figDesc>
+</figure>
+
+<figure>
+<figDesc>Fire Chief Ray Pence uses a British practice bomb to prove to the girls that fire-fighting's not all fun. This particular one was sent him recently for exhibition purposes…not dropped for destructive purposes…but in this strange world of today, who can tell when we'll all be dodging those things? His three interested pupils are, left to right, Mary Bennett, Emma Adele Swim and Ruth Ann Hoke. All three Pi Beta Phi sorority sisters are Stillwater girls who've grown up in the shadow of Chief Pence's famous fire-station and have just "itched" to be on the inside looking out.</figDesc>
+</figure>
+
+<figure>
+<figDesc>Another would-be fire-fighter is pretty Betty Jean Van Pelt of Chelsea, who was simply fascinated with the amazing groups of hardware and hose tucked into the back part of a well-equipped fire-truck. Max Thomas, Stillwater fireman who spent most of the girls' first instruction time snickering at his future colleagues' antics, gives her some tips on what's what...and where it belongs. All pictures on this page today were taken at the initial meeting of the future feminine firemen.</figDesc>
+</figure>
+
+<head type="sub">Stillwater Fire Station<lb/>Echoes With Girlish Giggles</head>
+
+<p><dateline><address><addrLine>STILLWATER</addrLine></address>, <date value="1942-02-16">Feb. 15</date></dateline>&#8211;OVER HALF A HUNDRED WIDE-eyed and excited college girls at A. and M. have found their place in civilian defense&#8211;that place is the firemanship training class opened to women by Stillwater fire chief, J. Ray Pence, who says there's a lot of fun in store for the feminine firefighters, even if the project is a serious and vital undertaking.</p>
+
+<p>Although actual work with the hoses and ladders is included in the proposed work, the girls will give most of their service on the prevention and instruction sides. Pence has contended for quite a spell now that the logical thing to do is train the women&#8211;thus the present course has grown out of several months' effort on the part of the entire Stillwater fire department.</p>
+
+<p>Believed to be the first of this kind in the nation, the course will require intensified study throughout the entire semester. Pence feels the importance of such training only will be recognized when some have been "graduated," and then an increased emphasis will be placed on this type of work throughout the country.</p>
+
+<p>All instruction work will be carried through by Pence and assistant chiefs Don Thomas and Everett Huidburg. Men students will help with demonstrations and drills.</p>
+
+<p>At the first lesson of the hen firefighters Saturday, the lovely lasses, all done out in slacks suits, were turned loose to explore the station and look over the trucks and equipment. They spied those shiny poles which firemen use instead of stairs when an alarm sounds in the night. This looked like fun and the bevy of beautiful belles took off for the second floor.</p>
+
+<p>Giggle...giggle...whoops! One red-headed co-ed grabbed on to the pole like a monkey on a stick and left her wondering classmates oh-ing and ah-ing at her disappearing head. Giggle, giggle! Pause-silence. No more takers...the would-be firewomen walked down the <sic corr="stairs">stars</sic>...still eyeing those poles.</p>
+
+<p>Now usually when women invade men's work, said men resent it...but not the regular firemen or firemanship student s at A. and M. They believe in getting the job done and place very little importance on who does it. Which is why, perhaps, that the weekly wash jobs on cars and equipment was saved up for the women firefighters first class.</p>
+
+<p>After those long, white trucks were shiny and clean, and the washers were ruefully examining damaged manicures, one of those girls said it certainly did look funny to see three firemen hanging onto one little hose and why didn't each one grab a hose? She was promptly given a lesson in hosing...somewhat harder on pedestrians, passing cars and the building across the street than it was on her...but now she knows about the pressure in a fire hose which is turned on full blast.</p>
+
+<p>Of  course, much of the afternoon was spent in trying on helmets and the big, heavy coats and boots, and the girls were more concerned with how they looked than the practical value of the standard, modern equipment.</p>
+
+<p>Chief Pence believes in letting the novelty of the situation wear off before he really puts the gals to work. But he did suggest in a mild tone that perhaps, during firemanship classes, the only paint jobs they were going to have time for were on the trucks...Three compacts snapped shut&#8211;and three future firefighters looked uncomfortable.</p>
+
+<p>Maybe the siren does scare them, and some are still a bit <sic corr="leery">leary</sic> about sliding down the poles, but the women of A. and M. have started firemanship training, and what's more&#8211;they'll finish it.</p>
+</div1>
+
+<figure>
+<figDesc>First girl down the pole was red-headed Betty Black of Seminole, who took to the slide like a duck to water. This daring young lass even mastered in short order the difficult job of stopping mid-pole. Not, of course, that any firemen ever stops mid-pole, but it's a nice parlor trick, anyhow.</figDesc>
+</figure>
+
+<figure>
+<figDesc>When the ladder was brought out and leaned against the wall Emma Adele Swim volunteered to climb it…she'd climbed many a ladder in her early childhood and it was no trick at all. That's what she thought...until the assistant Chief Don Thomas taught her that half-hitch with her feet which enables a fireman to train a hose on a burning building and still maintain his own equilibrium</figDesc>
+</figure>
+
+</body>
+</text>
+</TEI>
+

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19430416 SYSTEM "homefront.news.dp.19430416.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19430416">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Gov. Vivian Renews Demands Army Farmers Be Release</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19430416</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">Gov. Vivian Renews Demands Army Farmers Be Release</title>
+<title level="a" type="sub">Sends Third Letter to Secretary Stimson Calling Attention to Alarming Agricultural Situation Due to Labor Draft</title>
+<author></author>
+<biblScope type="pages">13</biblScope>
+<biblScope type="columns">1-2</biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, CO</pubPlace>
+<date value="1943-04-16">1943-04-16</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Agriculture-Labor</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-19</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.dp.19430416">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p13"/>
+
+<head type="main">GOV. VIVIAN RENEWS DEMANDS<lb/>ARMY FARMERS BE RELEASED</head>
+<milestone unit="smallbar"/>
+<head type="sub">Sends Third Letter to Secretary Stimson Calling<lb/>Attention to Alarming Agricultural <orig reg="Situation">Situa-</orig><lb/>tion Due to Labor Draft.</head>
+<milestone unit="smallbar"/>
+
+<p>Describing the war department's farm labor policy as "most unfortunate," Governor Vivian renewed demands Friday for release of men in the armed services to plant and harvest 1943 crops.</p>
+
+<p>The governor dispatched his third letter to Secretary of War Stimson, repeating the plea that "the department should take notice of the alarming condition in which the states find themselves because of the drain by induction from farms, dairies and stock ranches of men skilled in these agricultural pursuits."</p>
+
+<p>His letter was in answer to one received this week from Stimson outlining the viewpoint of the war department on the issue. The army, he said, could not grant general furloughs to soldiers to permit them to work on farms.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">CAN'T SPARE TIME<lb/>TO UNWIND TAPE.</head>
+
+<p>Vivian reasserted his belief that the army should direct the release of men and agricultural work, and not merely permit certain soldiers to return to farms on their presentation of affidavits and applications.</p>
+
+<p>"If we wait for the men to appeal to their commanding officers for release," he wrote, "it will not be accomplished. We cannot wait for the untangling of the red tape involved. The average man will make no such request because he will feel it will draw the scorn and suspicion of his captain rather than his co-operation."</p>
+
+<p>The governor continued:</p>
+
+<p>"The secretary of agriculture is literally pleading that we raise more this year than in 1942. In the meantime, our farmers are unceremoniously and, in many instances, short-sightedly taken in the draft. As a result Colorado has insufficient manpower by about 40,000 to do the job.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">DAIRY CATTLE<lb/>BEING SLAUGHTERED.</head>
+
+<p>"Our situation is precarious. Our farmers are selling their herds. In many instances dairy cattle are being slaughtered, thus reducing materially the already limited supply of milk.</p>
+
+<p>"The executive order of this office of March 25, prohibiting further induction by selective service of men essential to the farm problem, has had a far-reaching effect but it does not solve the problem.</p>
+
+<p>"Unless the war department at once explores the situation of the men who were unwisely taken from farms, dairies and stock ranches and who are desperately needed on the identical farm places from which they were inducted to the end that they may be immediately released to plant their crops, it will be too late. This must be done within the next week or ten days. The situation is urgent. It is alarming. Many herds will be sold and many fertile acres will be barren unless this is assured. Unskilled labor will not do. We haven't the time to school sufficient untrained people to do the job.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">GRAVE SCARCITY OF<lb/>FOOD PROBABLY.</head>
+
+<p>"I appeal to you therefore:</p>
+
+<p>"a&#8211;Immediately to take steps to release all essential farmers, dairymen and stock raisers ascertained to be such after investigation by the government so they may proceed forthwith to the identical farms they left when they were inducted.</p>
+
+<p>"b&#8211;To place the burden upon the government&#8211;not the men&#8211;in order that we may do our full share to comply with Secretary Wickard's urgent request that we produce more food this year than last. There is no other alternative.</p>
+
+<p>"Unless this is done, there is likely to be a scarcity of food in Colorado probably never before paralleled. Farmers are the only ones who know how to farm. I submit their return forthwith to their homes, doing duty which others not skilled in food production can just as well do, will be of far greater value in aiding the war effort than languishing in the camps within the continental limits of the United States."</p>
+</div1>
+
+</body>
+</text>
+</TEI>

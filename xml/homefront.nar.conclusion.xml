@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.nar.conclusion">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Conclusion</title>
+<title level="m" type="sub"></title>
+<author>R. Douglas Hurt</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.nar.conclusion</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-01</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Encoding Enrichment</item>
+</change>
+<change>
+<date>2007-08-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+
+<head>Conclusion</head>
+
+<p>When the war ended, many defense plants began canceling contracts and closed.  Men and women soon returned from the military and sought jobs.  Employees of various war-related state and federal agencies lost their jobs.  City and town planners struggled to provide housing and city services as the men and women from the armed services returned home from the military.  Many business men and women and farmers feared a post-war economic recession.  Gasoline rationing abruptly ended but worn tires kept many drivers off the roads.  Great Plains residents had felt discriminated against by the federal government in relation to gasoline rationing, and they believed that they had sacrificed more than others.  Food rations also soon ended.  Bank deposits and agricultural production had expanded during the war, and Great Plains residents had considerable disposable income to spend on a host of goods that they had been unable to purchase during the war because of rationing or unavailability.  Everyone hoped the good times would continue with the peace.  Only time would tell.</p>
+
+<table rows="10" cols="5">
+<head>Table 1</head>
+<head type="sub">Personal Income<lb/>Great Plains States</head>
+
+<head type="sub">Total Income in Millions of Dollars / Per Capita Income in Dollars</head>
+
+<row><cell role="label"></cell><cell role="label">1940</cell><cell role="label">1948</cell><cell role="label">1940</cell><cell role="label">1948</cell></row>
+<row><cell role="desc">Colorado</cell><cell role="data">615</cell><cell role="data">1,810</cell><cell role="data">544</cell><cell role="data">1,433</cell></row>
+<row><cell role="desc">Kansas</cell><cell role="data">756</cell><cell role="data">2,523</cell><cell role="data">423</cell><cell role="data">1,333</cell></row>
+<row><cell role="desc">North Dakota</cell><cell role="data">218</cell><cell role="data">813</cell><cell role="data">340</cell><cell role="data">1,401</cell></row>
+<row><cell role="desc">South Dakota</cell><cell role="data">231</cell><cell role="data">916</cell><cell role="data">360</cell><cell role="data">1,497</cell></row>
+<row><cell role="desc">Oklahoma</cell><cell role="data">851</cell><cell role="data">2,390</cell><cell role="data">366</cell><cell role="data">1,144</cell></row>
+<row><cell role="desc">New Mexico</cell><cell role="data">198</cell><cell role="data">655</cell><cell role="data">373</cell><cell role="data">1,084</cell></row>
+<row><cell role="desc">Wyoming</cell><cell role="data">151</cell><cell role="data">429</cell><cell role="data">606</cell><cell role="data">1,595</cell></row>
+<row><cell role="desc">Montana</cell><cell role="data">316</cell><cell role="data">876</cell><cell role="data">566</cell><cell role="data">1,616</cell></row>
+<row><cell role="desc">Nebraska</cell><cell role="data">573</cell><cell role="data">1,909</cell><cell role="data">890</cell><cell role="data">1,814</cell></row>
+
+
+</table>
+    
+    <p>&#185;Texas is not included in this table because so much of the state is not part of the Great Plains, and most of the income from defense industries came from beyond the Plains.</p>
+    
+    <p>Source: <hi rend="underline">Historical Statistics of the United States</hi>, pp. 242-45</p>
+
+<p>During the war most of the workers for the defense industries came from the farms and small towns in the Great Plains.  In may areas the population loss occurred quickly, with California an ever popular destination for men and women seeking high paying, steady jobs.  The war also increased urbanization in the region, particularly in the aircraft manufacturing towns of Wichita, Oklahoma City, and Dallas.  Still, when the war ended, the major federal contracts and funds remained in the Far West not the Great Plains.  In the Great Plains, farming and agricultural services industries continued as the mainstay of the economy.  Defense industry contracts largely disappeared and residents often confronted loss of income while they adjusted to a peacetime economy.  Essentially, the Great Plains was an agricultural region when the war began and it remained so when peace returned.  The war could not change the dictates of geography.</p>
+
+<table>
+<head>Table 2</head>
+<head type="sub">Population&#185;<lb/>[In Thousands]</head>
+
+<row><cell role="label"></cell><cell role="label">1939</cell><cell role="label">1945</cell><cell role="label">Percent Change</cell></row>
+<row><cell role="desc">Colorado</cell><cell role="data">1,120</cell><cell role="data">1,071</cell><cell role="data">-4.3</cell></row>
+<row><cell role="desc">Kansas</cell><cell role="data">1,824</cell><cell role="data">1,793</cell><cell role="data">-1.6</cell></row>
+<row><cell role="desc">Montana</cell><cell role="data">555</cell><cell role="data">446</cell><cell role="data">-19.0</cell></row>
+<row><cell role="desc">Nebraska</cell><cell role="data">1,318</cell><cell role="data">1,230</cell><cell role="data">-6.6</cell></row>
+<row><cell role="desc">New Mexico</cell><cell role="data">523</cell><cell role="data">515</cell><cell role="data">-1.5</cell></row>
+<row><cell role="desc">North Dakota</cell><cell role="data">644</cell><cell role="data">510</cell><cell role="data">-20.0</cell></row>
+<row><cell role="desc">Oklahoma</cell><cell role="data">2,333</cell><cell role="data">2,195</cell><cell role="data">-5.9</cell></row>
+<row><cell role="desc">South Dakota</cell><cell role="data">645</cell><cell role="data">539</cell><cell role="data">-16.0</cell></row>
+<row><cell role="desc">Wyoming</cell><cell role="data">248</cell><cell role="data">252</cell><cell role="data">+1.5</cell></row>
+<row><cell role="desc">Texas&#178;</cell><cell role="data">6,360</cell><cell role="data">6,708</cell><cell role="data">+5.4</cell></row>
+<row><cell role="desc">California</cell><cell role="data">6,785</cell><cell role="data">9,073</cell><cell role="data">+25.0</cell></row>
+
+
+
+</table>
+    
+    <p>&#185;Excludes members of the armed forces</p>
+    
+    <p>&#178;Includes state population not in the Great Plains</p>
+    
+    <p>Source: <hi rend="underline">Statistical Abstract of the United States, 1949</hi> (Washington, D.C.: Government Printing Office, 1949), 31.</p>
+    
+    
+
+<p>Often isolationist when the war began in 1939, the people of the Great Plains became staunch supporters of the war after the Japanese attack on Pearl Harbor.  They embraced the wartime economy and welcomed high paying jobs.  They dealt with social and economic change that proved disruptive to their lives, but few wanted to return to the economic conditions of the 1930s no matter whether they lived in the cities or on the farms.</p>
+
+
+<table>
+<head>Manufacturing</head>
+<head type="sub">[Money in Thousands]</head>
+
+<row><cell role="label"></cell><cell role="label" cols="2">1939</cell><cell role="label" cols="2">1947</cell></row>
+<row><cell role="label"></cell><cell role="label">Number of Workers</cell><cell role="label">Value Added By Manufacturer&#185;</cell><cell role="label">Number of Workers</cell><cell role="label">Value Added By Manufacturer</cell></row>
+<row><cell role="desc">Colorado</cell><cell role="data">23,388</cell><cell role="data">90,330</cell><cell role="data">44,153</cell><cell role="data">286,774</cell></row>
+<row><cell role="desc">Kansas</cell><cell role="data">30,935</cell><cell role="data">117,391</cell><cell role="data">59,363</cell><cell role="data">461,061</cell></row>
+<row><cell role="desc">Montana</cell><cell role="data">8,802</cell><cell role="data">38,828</cell><cell role="data">13,606</cell><cell role="data">92,258</cell></row>
+<row><cell role="desc">Nebraska</cell><cell role="data">18,416</cell><cell role="data">68,139</cell><cell role="data">37,338</cell><cell role="data">260,658</cell></row>
+<row><cell role="desc">New Mexico</cell><cell role="data">3,219</cell><cell role="data">8,640</cell><cell role="data">6,349</cell><cell role="data">53,486</cell></row>
+<row><cell role="desc">North Dakota</cell><cell role="data">2,605</cell><cell role="data">10,984</cell><cell role="data">3,823</cell><cell role="data">29,461</cell></row>
+<row><cell role="desc">South Dakota</cell><cell role="data">5,421</cell><cell role="data">19,619</cell><cell role="data">8,062</cell><cell role="data">51,398</cell></row>
+<row><cell role="desc">Oklahoma</cell><cell role="data">27,642</cell><cell role="data">101,782</cell><cell role="data">44,302</cell><cell role="data">341,027</cell></row>
+<row><cell role="desc">Wyoming</cell><cell role="data">3,351</cell><cell role="data">15,336</cell><cell role="data">4,285</cell><cell role="data">34,957</cell></row>
+<row><cell role="desc">Texas&#178;</cell><cell role="data">125,115</cell><cell role="data">448,523</cell><cell role="data">242,014</cell><cell role="data">1,727,464</cell></row>
+<row><cell role="desc">California</cell><cell role="data">271,290</cell><cell role="data">1,122,545</cell><cell role="data">530,283</cell><cell role="data">3,994,981</cell></row>
+
+
+
+</table>
+    
+    <p>&#185;Value of manufactured products less cost of materials</p>
+    
+    <p>&#178;Includes figures for region not in the Great Plains</p>
+    
+    <p>Source: <hi rend="underline">Statistical Abstract of the United States</hi>, 1949 (Washington, D.C.: Government Printing office, 1949), 805.</p>
+
+<p>For most residents of the Great Plains, World War II was an indelible, transforming moment.  It would be their central reference point for the remainder of their lives.  Those who came after them would see the war years as a defining social, cultural, and economic moment in the history of the Great Plains.  They were correct.  After the war, life in the region would never be the same as it had been prior to the German invasion of Poland and the Japanese attack on Pearl Harbor.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

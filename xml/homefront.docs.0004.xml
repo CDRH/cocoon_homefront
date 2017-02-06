@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.docs.0004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Suggestions for Recruiting, Registering, and Placement of Non-Farm Labor</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.docs.0004</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+
+
+<bibl>
+<title level="a" type="main">Suggestions for Recruiting, Registering, and Placement of Non-Farm Labor</title>
+<title level="a" type="sub">General Statement</title>
+<author></author>
+<biblScope type="pages"></biblScope>
+<publisher></publisher>
+<date value=""></date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-17</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-10-15</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<head type="main">SUGGESTIONS FOR RECRUITING, REGISTERING, AND PLACEMENT OF NON-FARM LABOR</head>
+<head type="sub">GENERAL STATEMENT</head>
+
+<div1>
+<p>The bulk of the seasonal and emergency harvest labor for farms will have to come from non-farm rural areas, towns and cities. Until recent date this type of farm labor was either obtained locally by direct solicitation of the farmer; through agents of the U. S. Employment Service or through the County Extension Service.</p>
+
+<p>In some counties the urgency of the farm labor need or the urgency for definite assurance that seasonal and emergency harvest labor will be available when needed, may require more immediate action. To the end that some degree of uniformity may be maintained between the counties of the state it is suggested that county extension agent consider the following procedure in recruiting and registering volunteer farm help.</p>
+
+<p>I.  In Cooperation with the County Farm Labor Committee, establish a County Farm Labor Center in the county extension office where:</p>
+
+<p rend="indented1">A.  Farm worker volunteers will be registered.</p>
+
+<p rend="indented1">B.  Requests for farm help will be registered.</p>
+
+<p rend="indented1">C.  Recruiting campaign will be inaugurated which we suggest should include several of the following techniques: News stories, radio talks, leaflets, cards, circular letters, posters, window displays in town stores, talks to clubs, school groups, P.T.A., Civic organizations, etc. The appeals might include as major objectives:</p>
+
+<p rend="indented2">1.	Pointing out to the public the many handicaps under which the farmer is attempting to produce the biggest supply of food in history.</p>
+
+<p rend="indented2">2.	Pointing out to the farming community that emergency wartime farm workers are patriotic citizens trying to help produce food for the war and that there is need for the community to show its willingness to cooperate.</p>
+
+<p rend="indented2">3.	The urgency of knowing in advance of the crop planting season, that sufficient volunteer labor will be available for the producing and harvesting of the crop.</p>
+
+<p rend="indented2">4.	Appeals for early registration to insure sufficient time for advance training in these farm jobs.</p>
+
+<p rend="indented2">5.	The seriousness of failure to produce the much needed food products--failure which could be avoided by adequate seasonal help.</p>
+
+<p rend="indented1">There are but a few. The local need and urgent necessity will prompt many additional ones.</p>
+
+<p rend="indented1">D.  Records of both applicants for workers and non-farm labor volunteers will be filed.</p>
+
+<p rend="indented1">E.  Labor services will be promoted through:</p>
+
+<p rend="indented2">1.  Personal contacts with farmers, townspeople, farm laborers, etc.</p>
+
+<p rend="indented2">2.  Training programs.</p>
+
+<p rend="indented2">3.  Weekly news bulletins to local labor exchange centers.</p>
+
+<p rend="indented2">4.  Considerable telephoning between centers.</p>
+
+<p rend="indented2">5.  Systematic reporting from all local centers of: (1) any surplus labor in centers in county, (b) workers trained for special jobs, (c) unfilled farm requests -- etc., etc.</p>
+</div1>
+
+<div1>
+<head type="sub">PLACEMENT OF AVAILABLE WORKERS</head>
+
+<p>Placement centers to receive orders from farmers and to fill these orders from available recruits must be established.</p>
+
+<p>The orders for labor from farmers should indicate: the number of workers needed, when they are needed, how long they will be needed, the type of work to be done, the wages which will be paid, the provision for transportation, and whether meals will be furnished. Farmers should also indicate the amount of work to be done, such as the number of acres of tomatoes to be picked.</p>
+
+<p>The orders from farmers will need to be classified. The local classification system will vary, but will need to consider: location of the farm, physical requirements of work to be done, amount of skill required, wages offered, and time and duration of the work.</p>
+
+<p>It will also be necessary to classify available recruits.</p>
+
+<p>Small counties may have a single placement center located in the county extension office. In large counties, where farmers need considerable labor and where there are several towns or villages, it will probably be necessary to establish community placement centers. An area the same as that covered by a telephone exchange may be the most convenient for community centers.</p>
+
+<p>In some community centers a volunteer worker may receive orders from farmers and relay them to the county office. In other cases it may be desirable to employ a part-time worker in the community center. In many cases the community center can fill orders for short-time, special help, but will usually relay orders for summer-month or year-round workers to the county office.</p>
+</div1>
+
+<div1>
+<head type="sub">SPECIAL PROBLEMS</head>
+
+<p>The acute need for year-round farm workers needs special attention in plans for recruitment. Some of the groups that should be carefully explored include: "unnecessary" farm workers referred by Selective Service Boards; city residents with farm experience, who are in "nonessential" work; nonfarm women interested in training for farm work; conscientious objectors; and persons on small or unproductive farms. To make year-round farm work more attractive to men with families, steps should be taken to enable farmers to improve housing facilities.</p>
+
+<p>In areas where the effective use of machinery is a vital factor in the full utilization for labor resources, it may be desirable for the mobilization campaign to include an inventory of machinery. Plans could then be developed for local exchange of labor machinery, for labor and machinery pools, and for custom use of machinery.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.sj.19440830.01 SYSTEM "homefront.news.sj.19440830.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.sj.19440830.02 SYSTEM "homefront.news.sj.19440830.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.sj.19440830">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Camp Phillips to Be Closed</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.sj.19440830</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Salina Journal</title>
+<title level="a">Camp Phillips to Be Closed</title>
+<title level="a" type="sub">Action Will Come During Next Month</title>
+<title level="a" type="sub">Possibility Camp Hospital Will Be Put to New Use</title>
+<author></author>
+<biblScope type="pages">1, 11</biblScope>
+<biblScope type="columns"><!-- need to fill-in --></biblScope>
+<publisher>Salina Journal</publisher>
+<pubPlace>Salina, Kansas</pubPlace>
+<date value="1944-08-30">1944-08-30</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-22</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.sj.19440830.01">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p1"/>
+<head type="main">CAMP PHILLIPS<lb/>
+TO BE CLOSED</head>
+<milestone unit="smallbar"/>
+<head type="sub">ACTION WILL<lb/>
+COME DURING<lb/>
+NEXT MONTH</head>
+<milestone unit="smallbar"/>
+<head type="sub">POSSIBILITY CAMP<lb/>
+HOSPITAL WILL BE<lb/>
+PUT TO NEW USE</head>
+<milestone unit="smallbar"/>
+
+<p>WASHINGTON, Aug. 30 (AP)&#8211;Camp Philips, near Salina, Kan., has been declared surplus by the war department, it notified Senators Reed and Capper, and Congressman Carlson today. No details were given, but under usual procedure the department will offer the facility to other branches of the government for use, if desired. If there are no takers, the department then will dispose of the property.</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<div1>
+<p>First confirmation of the decision to close Camp Phillips, which had been a rumor for months, came in a telegram to the editor of the Journal from Senator Reed. Within half an hour similar messages had been received from Senator Capper and Congressman Carlson.</p>
+
+<p>Immediately wires were sent to all three, asking them for any additional information available, the probably time of closing, and such other data as the war department would release. They also were urged to get in touch with General Hines, of the veterans' administration, and suggest that the hospital at Camp Phillips, which generally is admitted to be one of the best in the middle west, be taken over as a hospital for the Midwest area, and that the possibilities of making this a demobilization center be probed.</p>
+
+<p>Some weeks ago a special investigator was in Salina checking upon hospital and other facilities at Camp Phillips, and it has been the hope of the chamber of commerce and other interested citizens that some use might be made of the great investment that has been made here, after the war ends. That there may be some possibilities along that line is indicated by this reply from Sen. Clyde M. Reed:</p>
+
+<p>"War department advises the proposed plan is to close Camp Phillips in several weeks, possibility sometimes in September. I called the veterans, administration, and Colonel Ijams, assistant administrator of veterans' affairs, advises that since Wadsworth is being closed to domiciliary patients and being converted to a psychiatric hospital, he has wired the utility officer at Wadsworth to make a survey of Camp Phillips as a possible site for a domiciliary facility. The navy also has been offered the camp. There was no immediate indication whether it has any intention to use it."</p>
+
+<p>For weeks Congressman Carlson and the Journal have been camping on the war department doorstep, trying to learn what plans were being made for Camp Phillips. At the same time they were trying to get the veterans administration interested in the hospital, or some of the other units that might be used permanently by the army. As a result of his contacts and previous investigations and in response to the Journal message, Mr. Carlson wired shortly after noon:</p>
+
+<p>"At a meeting this morning the war department declared Camp Phillips a surplus training area. So far ninety units of training have been declared surplus by the department. The camp will be maintained for several weeks or 
+
+<note type="editorial" rend="jumpline">(Continued on Page Eleven)</note>
+
+<pb n="p11"/>
+
+<!-- <figure entity="homefront.news.sj.19440830.02">
+<figDesc></figDesc>
+</figure> -->
+
+<note type="editorial" rend="jump">
+<note type="editorial" rend="mainhead">ACTION WILL<lb/>
+COME DURING<lb/>
+NEXT MONTH</note>
+<milestone unit="smallbar" />
+<note type="editorial" rend="jumpline">(Continued From Page One.)</note>
+</note>
+
+months as conditions warrant and no plans for final disposition have as yet been made.</p>
+
+<p>"The closing of Camp Philips and other training camps in the United States means the war is rapidly drawing to a conclusion for which we are all thankful. We can soon look forward to demobilization. General Hines has assured me every consideration will be given to the use of the excellent hospital facilities at Camp Phillips."</p>
+
+<p>From Senator Capper there came an explanation of the policy behind the closing of the camp here, showing that Salina is the ninetieth one to be effected, with more to follow. He also suggested action that might be taken, and offered to arrange meetings, and continued:</p>
+
+<p>"The war department has been closing military camps for several weeks. Salina is ninetieth declared surplus to the needs of the army out of a total of several hundred. Action will be taken from day to day on many other camps. Definite information can not be given by department here as to exact time of closing camp at Salina, but it will be at least several weeks.</p>
+
+<p>"The war department will be glad to have Salina's interests fully considered in connection with location of another veterans hospital in Kansas. Proposals have already been made by Fort Scott, Atchison, Phillipsburg, Emporia and Leavenworth. It would be well for the city of Salina to make known without delay its desire to be considered as a desirable location.</p>
+
+<p>"General Hines, administrator of veterans administration, Washington, has more to say about the location of this hospital than anyone else. Senator Capper and Congressman Carlson will be glad to arrange conference between representatives of Salina and General Hines of veterans administration, if desired."</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

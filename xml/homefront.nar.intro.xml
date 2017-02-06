@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.nar.intro">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Introduction</title>
+<title level="m" type="sub"></title>
+<author>R. Douglas Hurt</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.nar.intro</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-01</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Encoding Enrichment</item>
+</change>
+<change>
+<date>2007-08-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+
+<head>Introduction</head>
+
+<p>The region of the Great Plains is vast and amorphous.    The boundaries of the region have been identified in many ways&#8212;by annual precipitation, longitude, grass species, and soil types.  Each is satisfactory, but no definition is perfect and only a rough uniformity links them.  In this study, I consider the region in terms of the ten Great Plains states which include North Dakota, South Dakota, Nebraska, Kansas, Oklahoma, Texas (roughly the area bounded by a line from the Red River through Dallas to San Antonio and west to the New Mexico line), New Mexico, Colorado, Wyoming, and Montana.  Even though political boundaries are arbitrary geographical and political lines, these boundaries help shape historical developments that are unique to a specific place or region.  Overall, the Great Plains states do not have many large cities, and most urban areas are located on the fringe of the Great Plains, such as Albuquerque, Denver, and Omaha.</p>
+
+<p>This project emphasizes the region's social and economic history during World War II.  It begins with the late 1930s before the German invasion of Poland on September 1, 1939 which brought the Great Plains into the war in terms of mobilization, industrial production, and social change, and it ends with the surrender of Japan on August 15, 1945. In addition, this study is divided into four parts.  First, it considers the strong belief of most Great Plains residents that the United States should refrain from entangling relations with the European belligerents.  They favored isolationism, but believed the Roosevelt Administration and the corporations, soon collectively called the defense industry, would lead the nation into another world war with ill-considered polices that would cost American lives.  The representatives and senators from the Great Plains states in the United States Congress often argued vehemently for isolationism or at least non-interventionism and neutrality in the affairs of Europe.  Few gave much thought to the growing danger of Japanese expansionism driven by military power.  Only the Japanese attack on Pearl Harbor and the subsequent declaration of war by German and Japan on the United States drove the isolationists from their positions as protectors of the Great Plains and nation and as advocates of military preparedness only for purposes of defense.	The second part of this project involves discussion of Home Front activities.  The defense industries brought jobs and great economic and social change to the Great Plains, particularly to the cities where manufacturers gained federal contracts to produce planes, guns, and other equipment for the military.  This section also discusses the importance of women in the workforce and the economic and social ramifications of women working.  Daily activities and concerns also are addressed, such as scrap drives and the rationing of gasoline and food.</p>
+
+    <p>The third section analyzes the response of the agricultural community to the war.  It emphasizes production and technological changes as well as the importance of women and migrant workers to the farm workforce.  Cattle raising and the problems of the distribution of beef and the emergence of black market indicate that common daily problems sometimes superseded patriotism.  Section four emphasizes military affairs.  It discusses the construction of military bases and the economic benefits and social problems that they created for nearby communities.  It also notes the disappointment of local residents when the bases closed at the end of the war. This project concludes with a table listing economic growth that will enable comparison among the Great Plains states and with California which particularly profited from the war.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

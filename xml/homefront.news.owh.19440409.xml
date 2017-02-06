@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19440409 SYSTEM "homefront.news.owh.19440409.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19440409">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Thousand Women Needed at Once to Cope with Patriotic Hens' Output</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19440409</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Sunday World-Herald</title>
+<title level="a">Thousand Women Needed at Once to Cope with Patriotic Hens' Output</title>
+<author></author>
+<biblScope type="pages">4-A</biblScope>
+<biblScope type="columns">2-3</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1944-04-09">1944-04-09</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Agriculture-production</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19440409">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p4"/>
+
+<figure>
+<figDesc>Egg breakers on the "production line" at Jerpe Commission company…they break, sniff and empty one thousand eggs an hour but need a thousand more Omaha women to help them.</figDesc>
+</figure>
+
+<head type="main">Thousand Women Needed at Once<lb/>to Cope with Patriotic Hens' Output</head>
+
+<p>From behind a mountain of eggs, Omaha wholesalers and war manpower commission officials emerged Saturday to issue a hurried call for "emergency" help.</p>
+
+<p>Leading the cry was William Parkinson, area director for WMC, who asked Omahans to volunteer in large numbers&#8211;women as egg breakers and men to help in commission house freezers. His appeal results from the superpatriotism of Midwestern hens, which are laying eggs faster than they can be handled and stored, or powdered.</p>
+
+<p>"If we don't get help for the wholesalers," he pointed out, "there will be a lot of eggs spoiling on sidings and in country receiving stations. Omahans who possibly can spare the time should come to the rescue as a patriotic duty."</p>
+
+<p>His words were echoed by commission men, who said the present womanpower situation particularly critical.</p>
+
+<p>"The four plants powdering eggs for lend-lease and in military use could employ at least one six weeks if we could find them," [ed note: misprint] thousand more women for the next said Gilbert C. Swanson, vice-president of the Jerpe Commission company.</p>
+
+<p>Homer C. Sheridan, vice-president of the Omaha Cold Storage company, said his firm is willing to adjust working hours to get additional women egg-breakers. School girls and other s are welcome on a part-time basis, he said, and can arrange a working shift anywhere between 7 a. m. and 10 p. m. Swanson said the Jerpe firm would put on an additional shift if workers could be found.</p>
+
+<p>Sheridan pointed out that working conditions at the plants here are under government supervision, and said women would find them pleasant. He added that the Fairmont Creamery and Blue Diamond Produce company, other powdering plants, have felt a similar labor shortage.</p>
+
+<p>Parkinson said Omahans interested in volunteering to help handle the record egg "harvest" can apply either at the individual plants or at the United States employment office, 210 South Eighteenth street.</p>
+
+
+</div1>
+
+</body>
+</text>
+</TEI>
+
+

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.wye.19411225 SYSTEM "homefront.news.wye.19411225.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.wye.19411225">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">State Orders Tire Rationing Committees for All Counties</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.wye.19411225</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Wyoming Eagle</title>
+<title level="a">State Orders Tire Rationing Committees for All Counties</title>
+<title level="a" type="sub">Appeal Board Will Also Be Named for Wyoming</title>
+<author></author>
+<biblScope type="pages">8</biblScope>
+<biblScope type="columns">2-3</biblScope>
+<publisher>Wyoming Eagle</publisher>
+<pubPlace>Cheyenne, WY</pubPlace>
+<date value="1941-12-25">1941-12-25</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-salvage</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.wye.19411225">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p8"/>
+<head type="main">State Orders Tire Rationing<lb/>Committees for All Counties</head>
+<milestone unit="smallbar"/>
+<head type="sub">Appeal Board Will<lb/>Also Be Named<lb/>For Wyoming</head>
+<milestone unit="smallbar"/>
+
+<p><hi rend="bold">Establishment of three-member rationing committees in all county seat towns in Wyoming was ordered yesterday in preparation rationing of new automobile tires and tubes after Jan. 5.</hi></p>
+
+<p>Appointment of a three-member state committee also will be effected soon by Gov. Nels H. Smith, officials said. The state group will act as an appeal board to handle cases in which applicants for tires or tubes are dissatisfied with local rationing committee decisions.</p>
+
+<p>Announcement of the plans was made after state officials had conferred with O. W. Campbell, field representative of the office of price administration.</p>
+
+<p>Conferees included Governor Smith; Col. R. L. Esmay, state defense activities coordinator; and George O. Houser, assistant defense activities coordinator in charge of nonmilitary affairs.</p>
+
+<p><hi rend="bold">The local rationing boards are to be appointed by county defense councils with approval of state officials, while the state board will be named by the governor upon recommendation of state defense chiefs.</hi></p>
+
+<p>Additional details on the tire rationing program will be sent here within a short time, Campbell said.</p>
+
+<p>Instructions will include standards for deciding who is eligible to receive new tires, methods of procedure, and similar matters.</p>
+
+<p>It was emphasized that allocations of new tires will be extremely restricted so far as civilians are concerned. The restrictions will apply not only to passenger cars, but also to many commercial delivery vehicles, taxicabs and other motor cars, officials said.</p>
+
+<p><hi rend="bold">Until Jan. 5, no new tires are permitted to be sold for any purpose. The sales ban has been effective since Dec. 11.</hi></p>
+
+<p>Penalties for evasion of the new rationing system or for fraudulent attempts to obtain tires through false application statements will be punishable by a maximum fine of $10,000 or 10 years in a federal penitentiary, officials revealed.</p>
+
+<p>Cooperating in handling the rationing setup are the office of price administration and the office of production management.</p>
+
+<p>According to statements by Leon Henderson, OPA administrator, war in the Pacific threatens future importation of rubber Into the United States. About 50 per cent of all crude rubber comes from land areas already occupied or being invaded by the Japanese, and another 43 per cent comes from adjacent Dutch and British islands which are threatened by the Japanese.</p>
+
+<p>Goal for civilian consumption of crude rubber is 10,000 tons a month, compared with normal consumption of 47,000 tons.</p>
+
+<p><hi rend="bold">Most of the 10,000 tons must be used for essential products such as fire hose, conveyor belts, jar rings, surgeons gloves, hot water bottles, protective clothing and other articles.</hi></p>
+
+<p>Sales of new tires will be limited to persons requiring them for maintenance of industrial efficiency and civilian health. These will include the following broad classes: vehicles required for maintenance of public safety and health; passenger transportation equipment, exclusive of private passenger cars; and a limited group of essential truck operators.</p>
+
+<p><hi rend="bold">In any event, sales of new tires to owners of private passenger vehicles will be virtually prohibited for the present, officials said.</hi></p>
+
+<p>Controls are also being developed by the OPA and OPM over sale of retreaded tires and over the retreading of tires.</p>
+
+<p>Appropriate price action to stabilize tire prices will be taken by the office of price administration before the rationing plans become effective.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+
+

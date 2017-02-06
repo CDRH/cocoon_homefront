@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19400915 SYSTEM "homefront.news.dp.19400915.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19400915">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Minneapolis Bid Is Low on Lowry Job</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19400915</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">Minneapolis Bid Is Low on Lowry Job</title>
+<title level="a" type="sub">Company Offers to Construct Airport Buildings for $523,680</title>
+<title level="a" type="sub">Minnesota Price Is Lowest of Eight Received on 84-Structure Work, First of Program to Cost Total of Million and a Quarter</title>
+<author></author>
+<biblScope type="pages">4</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, Colorado</pubPlace>
+<date value="1940-09-15">1940-09-15</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-27</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.dp.19400915">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p4"/>
+<head type="main">MINNEAPOLIS BID IS LOW ON LOWRY JOB</head>
+<milestone unit="smallbar"/>
+<head type="sub">COMPANY OFFERS TO CONSTRUCT<lb/>
+AIRPORT BUILDINGS FOR $523,680</head>
+<milestone unit="smallbar"/>
+<head type="sub">Minnesota Price Is Lowest of Eight Received on<lb/>
+84-Structure Work, First of Program to Cost<lb/>
+Total of Million and a Quarter.</head>
+<milestone unit="smallbar"/>
+
+<p>The lowest of eight bids on the first part of a million-and-a-quarter-dollar program of temporary construction at Lowry field was submitted Saturday afternoon by Joseph A. Bass-W. C. Smith, Inc., of Minneapolis, Minn., Lieut. Col. Carl H. Jabelonsky, constructing quartermaster, said.</p>
+
+<p>For the construction of eighty-four buildings the Bass-Smith firm submitted a bid of $523,680. The company, one of the largest in the Midwest, had never previously bid on construction work at Lowry field.</p>
+
+<p>Second low bidder was Peter Kewit Sons &amp; Co. of Omaha, Neb., with a figure of $541,000, while third low was Merchant-Dutton-Kendall-Hunt of Denver with an estimate of $558,561.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">LAST MINUTE CUT<lb/>
+MADE BY BUILDER.</head>
+
+<p>Colonel Jabelonsky said he was "well pleased" with the bids submitted. All of the figures offered by the contractors were unusually close. They ranged to a top of $666,000.</p>
+
+<p>Only a few minutes before the bids were to be opened at 2 p. m., Colonel Jabelonsky received a telegram from the Bass-Smith company directing him to deduct $26,320 from their original bid of $550,000. This was enough to make them the lowest bidder.</p>
+
+<p>The opening of the bids was done in lightening fashion. Colonel Jabelonsky immediately tried to contact officials of the quartermaster general's office in Washington, D. C., by long distance telephone to secure an award of a contract for the new work, but failed to reach the right persons.</p>
+
+<p>The results of the bidding were radioed to Washington and Colonel Jabelonsky said a contract probably would be awarded within two or three days.</p>
+
+<p>All of the buildings in this part of the program must be completed within ninety days. The Bass-Smith firm said, if successful in the bidding, they would be able to start work within five days after being notified of the contract award.</p>
+
+<p>At the conclusion of the bid-opening Colonel Jabelonsky announced that that other bids will be advertised within fifteen days and opened about Oct. 10 or another portion of the temporary construction program.</p>
+
+<p>The second portion will include a 250-bed hospital unit of twenty-two buildings.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">BIDS TO BE ASKED<lb/>
+ON BIG MESS HALL.</head>
+
+<p>If plans and specifications are ready in time, bids will be asked at this time for a gigantic mess hall to accommodate 5,000 men.</p>
+
+<p>Later, bids will be offered for laying of utility lines for the new temporary buildings.</p>
+
+<p>The first layout of eight-four buildings will consist of forty two-story barracks with toilets and washrooms. These will be thirty by eighty feet in size. They will be built north of the temporary barracks, erected last year north of East Sixth avenue. The new buildings will extend to East Eleventh avenue, the north boundary of the field.</p>
+
+<p>The other buildings include three administration buildings; eleven day rooms, or study halls; one guard house, two infirmaries, one officers' mess hall, a post exchange, three recreation buildings, twelve storehouses and eight school buildings. All of these will be of one study.</p>
+
+<p>One two-story building, 29 feet by 130 feet will be officers' quarters. It will accommodate forty men.</p>
+
+<p>The other bids submitted were $585,325 by Brown &amp; Schrepferman-Platt-Rogers &amp; Nicholas G. Petry of Denver; $589,610 by Thomas Bate &amp; Sons company of Denver; $683,868 by Peter Seerie &amp; Co. of Denever; $649,000 by the Frank J. Kirchhof Construction company, and $666,000 by the Mead &amp; Mount Construction company.</p>
+
+<p>All of the million and a quarter dollars program at Lowry field to be done by the first of the year will be done by private contract, Colonel Jabelonsky said.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.sj.19440114.01 SYSTEM "homefront.news.sj.19440114.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.sj.19440114.02 SYSTEM "homefront.news.sj.19440114.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.sj.19440114">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Women Will Be Enlisted for Harvest</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.sj.19440114</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Salina Journal</title>
+<title level="a">Women Will Be Enlisted for Harvest</title>
+<title level="a" type="sub">Promised They May Pilot Big Combines and Heavy Tractors</title>
+<author></author>
+<biblScope type="pages">1, 5</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Salina Journal</publisher>
+<pubPlace>Salina, KS</pubPlace>
+<date value="1944-01-14">1944-01-14</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-26</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.sj.19440114.01">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">WOMEN WILL<lb/>BE ENLISTED<lb/>FOR HARVEST</head>
+<milestone unit="smallbar"/>
+<head type="sub">PROMISED THEY MAY<lb/>PILOT BIG COMBINES<lb/>AND HEAVY TRACTORS</head>
+<milestone unit="smallbar"/>
+
+<p>TOPEKA, Jan. 14 (AP)&#8211;Kansas is out to lure its women-folk to the harvest fields next summer, holding out as bait the promise they can drive the big tractors and combines.</p>
+
+<p>"We have found out that what women want to do is to drive tractors and operate machinery," said Frank Blecha, Manhattan, state supervisor of emergency farm labor.</p>
+
+<p>"So&#8211;This year we are going to set up tractor operating schools for women in every county that will need women farm workers. Women don't want to know anything about how to repair tractors, but they do want to know how to drive and service them." These schools will be in operation by April and the goal is 100 new tractor operators in each county.</p>
+
+<p>Harvest work is no work for glamour girls and thrill seekers Blecha warned, "but we need a lot of women who can soil their hands and get good and tired without having their feelings hurt." Last summer hundreds of women turned out to help harvest the big wheat crop and they worked valiantly, driving tractors, trucks and combines and lending a hand whenever it would do the most good. Next summer the manpower shortage will be greater and the need for women workers correspondingly more pressing.</p>
+
+<p>"Our figures tell us that we have not even started to tap the possibilities of using women for farm work," explained Blecha. "In spite of scoffing and prejudice, women are doing physical labor. We want them in the harvest fields next summer."</p>
+
+<p>Blecha also said in his address to the annual meting of the state board of agriculture today that town women would be called on to help during the harvest peak by taking over the town jobs of teen-age boys who will be asked to work in the fields. In addition, neighbors will be urged to help each other combine their wheat, spreading the sue of available equipment to the limit, and in eastern Kansas "we hope some of the peak loads can be taken care of by the use of German prisoners of war."</p>
+
+<p>Reporting on the 1943 program, Bert Culp of Beloit, chairman of the state farm labor commission, said the cooperative effort was
+
+<note type="editorial" rend="jumpline">(Continued on Page Five)</note> 
+
+<pb n="p5"/> 
+
+<figure entity="homefront.news.sj.19440114.02">
+<figDesc></figDesc>
+</figure>
+
+<note type="editorial" rend="jump"> 
+<milestone unit="smallbar" />
+<note type="editorial" rend="mainhead">WOMEN WILL<lb/>BE ENLISTED<lb/>FOR HARVEST</note> 
+<milestone unit="smallbar" /> 
+<note type="editorial" rend="jumpline">(Continued from Page One)</note> 
+</note>
+
+so successful farmers actually had more labor than in 1942, with a total 39,000 workers placed on Kansas farms. But, he warned, "the big battle is still ahead. More men have gone to the armed forces, while food requirements of the services and of lend-lease will be larger than last year. Lack of moisture in the western states points to a 1944 crop considerably short of the bumper crops of the past two years; it will be even more important to save every bit of grain this year."</p>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.photo.RG2843-20 SYSTEM "homefront.photo.RG2843-20.jpg" NDATA jpeg>
+<!ENTITY homefront.photo.RG2183-1943-0219-7 SYSTEM "homefront.photo.RG2183-1943-0219-7.jpg" NDATA jpeg>
+<!ENTITY homefront.photo.RG2183-1943-0811-5 SYSTEM "homefront.photo.RG2183-1943-0811-5.jpg" NDATA jpeg>
+<!ENTITY homefront.photo.RG2183-1943-0903-4 SYSTEM "homefront.photo.RG2183-1943-0903-4.jpg" NDATA jpeg>
+<!ENTITY homefront.photo.RG2183-1943-0903-5 SYSTEM "homefront.photo.RG2183-1943-0903-5.jpg" NDATA jpeg>
+<!ENTITY homefront.photo.RG2183-1943-0903-7 SYSTEM "homefront.photo.RG2183-1943-0903-7.jpg" NDATA jpeg>
+<!ENTITY homefront.photo.RG2183-1944-1103-1 SYSTEM "homefront.photo.RG2183-1944-1103-1.jpg" NDATA jpeg>
+<!ENTITY homefront.photo.RG2183-1945-0524-6 SYSTEM "homefront.photo.RG2183-1945-0524-6.jpg" NDATA jpeg>
+<!ENTITY homefront.photo.RG2843-19 SYSTEM "homefront.photo.RG2843-19.jpg" NDATA jpeg>
+<!ENTITY homefront.photo.RG2843-193 SYSTEM "homefront.photo.RG2843-193.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.images">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Homefront Images</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.images</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2009</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<head>The Homefront</head>
+
+<div1>
+
+
+<p><ref n="warindustry">War Industries</ref></p><lb/>
+    <p> <ref n="women">Women</ref></p>
+        <p> <ref n="homedefense">Home Defense</ref></p>
+            <p><ref n="dailylife">Daily Life</ref></p>
+                <p><ref n="rationing">Rationing</ref></p>
+    
+
+
+
+
+<p></p>
+</div1>
+</body>
+</text>
+</TEI>

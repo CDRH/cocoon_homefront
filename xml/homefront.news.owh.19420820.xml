@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19420820 SYSTEM "homefront.news.owh.19420820.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19420820">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Memo to Mrs. Public</title>
+<author>Carlyle Hodgkin</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19420820</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Morning World-Herald</title>
+<title level="a">Memo to Mrs. Public:</title>
+<title level="a" type="sub">Meat Shortage Doesn't Mean Farmers are Laying Down on Job; More Soon</title>
+<author>Carlyle Hodgkin</author>
+<biblScope type="pages">15-A</biblScope>
+<biblScope type="columns">2-3</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1942-08-20">1942-08-20</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-meat</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-05</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19420820">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p15"/>
+<head type="main">Memo to Mrs. Public:</head>
+<milestone unit="smallbar"/>
+<head type="sub">Meat Shortage Doesn't Mean Farmers<lb/>Are Laying Down on Job; More Soon</head>
+<milestone unit="smallbar"/>
+<byline>By Carlyle Hodgkin</byline>
+<p rend="center">(World-Herald Farm Editor)</p>
+
+<p>Memo to Mrs. John Public: Reading of the meat scarcity and bumping into it at the <sic corr="butcher shop">butchershop</sic>, you perhaps (sic) have wondered what's going on here. Are the farmers laying down on their job?</p>
+
+<p>The answer to that one is quite definitely "No."</p>
+
+<p>Meat has grown scarce just now because meat animals, like fruits and vegetables, tend to go to market "in season." Right now is the normal season of lightest marketings of cattle, hogs and sheep.</p>
+
+<p>Actually, the supplies of these animals on farms and ranches are the largest in history. This summer, for instance, farmers in the nation are raising 62 million pigs, nearly one pig for every two persons, compared with 49 million head last year.</p>
+</div1>
+
+<div1>
+<head type="sub">More Pork Soon</head>
+
+<p>Marketing this huge crop of porkers will begin about September 15 and build up to a peak in December or January. Thus pork in your <sic corr="butcher shop">butchershop</sic> in about a month should become more plentiful.</p>
+
+<p>Cattle numbers reached 74 million head at the beginning of this year, an all-time high. Sheep also were up over last year.</p>
+
+<p>Cattle and lambs shipped in from the pastures reach a normal market peak about October 15, which means the supply of these meats should begin to increase very soon. How much finds its way to your <sic corr="butcher shop">butchershop</sic> will depend a lot on the needs of Uncle Sam.</p>
+
+<p>Some talk has been that farmers, though they have large numbers of meat animals, are holding them back for higher prices. That notion can quickly be disproved.</p>
+</div1>
+
+<div1>
+<head type="sub">Receipts Higher</head>
+
+<p>Receipts of cattle last week at the 12 principal markets, which include Omaha, were 29 per cent ahead of the same week last year. Hogs were up slightly and sheep were up 24 per cent. In the first six months of this year cattle marketings were 16 per cent ahead of last year and hogs were ahead by 17 per cent.</p>
+
+<p>As a matter of fact, farmers can't hold back fat cattle, pigs and lambs much more than a fruit grower can hold back peaches or plums once they are ripe. If animals are held after they are "ripe," the additional gain becomes expensive and the risk great. Farmers just don't do it. Meat animals mostly go to market as soon as they are ready.</p>
+
+<p>But even with this all-time supply of meat animals on head, voluntary "meatless days" have been suggested. How come?</p>
+
+<p>William J. Loeffel, livestock chairman at the college of agriculture in Lincoln, explained thus:</p>
+
+<p>"This is war. We're having to feed our own fighting forces and help to feed our allies. Army rations call for 18 ounces of meat a day, three times as much as the average for civilians. A lot of meat is being dehydrated or processed in other ways and sent abroad.</p>
+</div1>
+
+<div1>
+<head type="sub">Meatless Days Likely</head>
+
+<p>"Industrial people are working harder and have more money to spend. They can't buy a lot of other things, so they're buying more food, particularly meat.</p>
+
+<p>"Fruits and vegetables are scarce, due largely to lack of hand labor. Much of our fruit and vegetable supply from the west coast was produced by Japs now in internment camps.</p>
+
+<p>"The fishing industry is disorganized because of lack of men and boats. All of these things put greater demand son the supply of meat."</p>
+
+<p>The short-time picture as you see it, Mrs. Public, is that meat supplies will increase as we move out of this low into the period of heavier livestock marketings.</p>
+
+<p>But from a long-time view, with the tremendous demands being put upon it, how can meat be other than scarce? To use it sparingly, so others can have it who need it more, probably will be one more way you can help to win the war.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+

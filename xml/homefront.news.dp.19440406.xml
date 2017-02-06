@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19440406.01 SYSTEM "homefront.news.dp.19440406.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.dp.19440406.02 SYSTEM "homefront.news.dp.19440406.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19440406">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Fort Logan Will Get First Convalescent Cases in Two Weeks</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19440406</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">Fort Logan Will Get First Convalescent Cases in Two Weeks</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1, 5</biblScope>
+<biblScope type="columns">7-8; 1</biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, Colorado</pubPlace>
+<date value="1944-04-06">1944-04-06</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-22</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.dp.19440406.01">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p1"/>
+<head type="main">FORT LOGAN WILL GET<lb/>
+FIRST CONVALESCENT<lb/>
+CASES IN TWO WEEKS</head>
+<milestone unit="smallbar"/>
+
+<p>Lieut. Col. Howard A. Rusk, head of the convalescent division of the air surgeon's office in Washington, announced Wednesday night that within two weeks the first contingent of 2,000 convalescent members of the army air force will arrive at Fort Logan, a newly established rehabilitation center for air force personnel.</p>
+
+<p>Fort Logan, formerly and army air forces clerical school and army receiving station, will become a major link in the air forces' expanding convalescent training program. Personnel of the administrative staff of the new center has not been announced. Col. W. W. Doe is the present commanding officer.</p>
+
+<p>Colonel Rush said that by the end of this month pilots, bombardiers and other air force members will be started on the road to rehabilitation thru the Fort Logan training program. Mostly men who have served overseas and have been injured or become ill, they will come from general hospitals and air force 
+
+<note type="editorial" rend="jumpline">(Turn to Page 5&#8211;Col. 1.)</note>
+
+<pb n="p5"/>
+<!-- 
+<figure entity="homefront.news.dp.19440406.02">
+<figDesc></figDesc>
+</figure> -->
+
+<note type="editorial" rend="jump">
+<note type="editorial" rend="mainhead">FT. LOGAN WILL<lb/>
+GET WOUNDED<lb/>
+IN TWO WEEKS</note>
+<milestone unit="smallbar" />
+<note type="editorial" rend="jumpline">(Continued From Page One.)</note>
+</note>
+
+installations in the south and southwest.</p>
+
+<p>The convalescent program for Fort Logan will be the same that has been followed by the air force for more than a year with success, according to Colonel Rusk, who said the program is designed to return the soldier to service or start him on his way to becoming a self-supporting civilian.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">COMBAT FITNESS<lb/>
+MAIN OBJECTIVE.</head>
+
+<p>The major objective is to restore the convalescent to full combat fitness, but when this is impossible, the patient is trained for other air force assignments or returned to civilian life.</p>
+
+<p>"These convalescent centers are no bed of roses," said Colonel Rusk. "Training and work go on as usual and there is no opportunity for boredom. The best vocational teachers available are used and the men are kept busy, mentally and physically."</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

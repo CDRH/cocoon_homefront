@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.docs.0001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Notes on Nebraska Farming</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.docs.0001</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="a" type="main">Notes on Nebraska Farming</title>
+<title level="a" type="sub">Mexican National Labor</title>
+<author></author>
+<biblScope type="pages"></biblScope>
+<publisher>Extension Service of the University of Nebraska College of Agriculture</publisher>
+<date value="1944-11-08">1944-11-08</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-17</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-10-15</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<head type="main">NOTES ON<lb/>NEBRASKA FARMING</head>
+<byline>FROM THE EXTENSION SERVICE OF THE<lb/>UNIVERSITY OF NEBRASKA COLLEGE OF AGRICULTURE</byline>
+<p rend="right">For Use: November 8, 1944</p>
+
+<div1>
+<head type="sub" rend="left"><hi rend="underline">Mexican National Labor</hi></head>
+
+<p>Mexican Nationals are being released from beet and potato harvest and can be used for corn husking. They are, in general, hard workers and with little training and supervision can learn any farm job, according to I. E. Lindstrom county Agricultural Agent in Fillmore county.</p>
+
+<p>Although the Mexicans have never picked corn as it is done here in Nebraska they are used to working with their hands which gives them an advantage over most unskilled workers.</p>
+
+<p>Mr. Lindstrom says that separate housing is not necessary. The Mexicans have been found to be cleaner and more courteous than most transient domestic workers. Although in the work agreement they will do their own cooking it is recommended that they be given their meals as they will be better fed and able to put more hours in the field. They like American food when it is properly cooked by American cooks.</p>
+
+<p>It is <sic corr="advisable">advisible</sic> to put more than on Mexican on a farm since very few of them speak English. They appreciate any attention given by employer, county agent or labor assistant. They, like any other worker, needs to go into town at least once a week.</p>
+
+<p>Fillmore county will probably use about 12 or 15 Mexican Nationals, which will be secured through the county labor organization. Other corn pickers and custom workers from out of state will be available at a later date.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

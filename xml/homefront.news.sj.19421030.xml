@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.sj.19421030 SYSTEM "homefront.news.sj.19421030.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.sj.19421030">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Ready for Ration</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.sj.19421030</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Salina Journal</title>
+<title level="a">Ready for Ration</title>
+<title level="a" type="sub">System of Registering Car Owners Set Up Here</title>
+<title level="a" type="sub">Four Gallons per Week for Passenger Car Owners Soon the Rule</title>
+<author></author>
+<biblScope type="pages">2</biblScope>
+<biblScope type="columns">6-7</biblScope>
+<publisher>Salina Journal</publisher>
+<pubPlace>Salina, KS</pubPlace>
+<date value="1942-10-30">1942-10-30</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-salvage</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.sj.19421030">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p2"/>
+<head type="main">READY FOR RATION</head>
+<milestone unit="smallbar"/>
+<head type="sub">SYSTEM OF REGISTRERING CAR<lb/>OWNERS SET UP HERE</head>
+<milestone unit="smallbar"/>
+<head type="sub">Four Gallons per Week For<lb/>Passenger Car Owners<lb/>Soon the Rule</head>
+<milestone unit="smallbar"/>
+
+<p>The first step toward a rationing which will mean four gallons of gasoline per week for passenger car owners was set in motion Thursday in Salina with the holding of three schools for gasoline dealers, school registrars, and the transportation advisory committee. In charge was a representative of the state rationing office, who stressed that the reason for the program is not to ration gasoline but to ration mileage in order to save the known rubber supply. We are a have-not nation as far as rubber is concerned, the speaker said.</p>
+
+<p>Registration in Salina will take place at the nearest grade or high school building, the hours being from 9:30 to 11:30 in the mornings, and from 1:30 afternoons to 9 evenings, with members of the P. T. A. helping the teachers. Those in charge or registration in the county, and place of registration are: Paul Chrisman, Gypsum; Edgar Reed, Kipp; Paul Ridgway, Assaria; Forrest Stern, Falun; F. Even Johnson, Smolan; Roland Vanderbilt, Bavaria; and Frank Rosser, Glendale, principals of high schools; Helen Higgins, New Cambria  grade school; Amos Ostberg, Bridgeport hall, and Heiko Bunger, Hedville hall.</p>
+
+<p>Passenger car owners will be given basic A cards at the time of registration. These cards entitle them to four galls of gasoline per week. This applies only to passenger cards and not to pickups, trucks, farm trailers, taxis, or transports. Forms may be secured at gasoline stations with in the next few days and are to be filled out with serial numbers of the five tires which the owner will be allowed to keep. The applicant must present his state car registration card when making application at the school. Any registrant having more than five tires will not be issued a rationing card, and should dispose of extra tires through the Railway Express agency before registration, or he will have to make affidavits to the rationing board that he has disposed of the extra tires before the card will be issued.</p>
+
+<p>Each applicant will receive an A sticker to place on his windshield and a book of instructions as to how and when his tires must be inspected thereafter. For the initial registration an applicant need not go to a tire inspector, but may determine the serial number from his tires, or if illegible, may give size or identifying marks.</p>
+
+<p>If, after the applicant has secured his basic A card, he feels that the use of his car in his business entitles him to more gasoline than the A card provides for, he may apply for B card at the rationing board. B application forms will be available at the schools at the time of registration and after filling out, should be mailed to the rationing board, where they will be acted on by the Transportation Advisory committee composed of Charles T. Smith, Glenn Mason, T. C. Oehlert, Bruce Baker, Wayne Daily, Fred Rustenbach, La Rue Royce, Sam L. Robbins, Enoch Harris, R. M. Smith and H. B. Eagle.</p>
+
+<p>Anyone with the basic A card has four months in which to have his tires checked and B card holders, 60 days. Basic A coupons are for four gallons per week or 32 gallons for a period of 60 days and if that amount is not used during that period it will not be good in the next period. The first set of coupons are good from November 23 to January 21.</p>
+
+<p>Rationing officials announce that city gasoline dealers should get a supply of application forms immediately at the rationing board office and forms to county dealers will be mailed to them.</p>
+
+<p>Workers a the cantonment will register a the regional office of O. D. Weitzel and air base workers at the office of R. H. Schellschmidt, Jr. where application forms may be secured now. Arrangements are being made for the armed forces stationed at the air base and cantonment to register under the supervision of their officers.</p>
+
+<p>Anyone may register wherever he chooses, those in charge say, even though he is from a different county or state. The registrar will write on the back of the state car registration card the date and serial number of the basic A book. Car owners must sign the application, although they need not appear in person.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+
+

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19411231 SYSTEM "homefront.news.dp.19411231.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19411231">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">State's Tire Rationing Boards Setup Nearing Completion</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19411231</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">State's Tire Rationing Boards Setup Nearing Completion</title>
+<title level="a" type="sub">Personnel Is Selected for Forces in 49 Counties and Makeup of Denver's Six Will Be Determined to Start New Year.</title>
+<author></author>
+<biblScope type="pages">4-A</biblScope>
+<biblScope type="columns">6-7</biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, CO</pubPlace>
+<date value="1941-12-31">1941-12-31</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-automobile</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-04</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.dp.19411231">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p4"/>
+<head type="main">STATE'S TIRE RATIONING BOARDS<lb/>SETUP IS NEARING COMPLETION</head>
+<milestone unit="smallbar"/>
+<head type="sub">Personnel Is Selected for Forces in 49 Counties and<lb/>Makeup of Denver's Six Will be <orig reg="Determined">Deter-</orig><lb/>mined to Start New Year.</head>
+<milestone unit="smallbar"/>
+
+<p>The setting-up of tire rationing boards throughout the state was almost completed Wednesday morning, and the personnel of Denver's six boards was to be determined by late afternoon.</p>
+
+<p>Gov. Ralph L. Carr, Wilbur Newton, state tire rationing administrator and members of the policy committee of the state defense council, completed the selection of tire rationing boards in forty-nine counties. The board members for remaining counties will be chosen by Friday.</p>
+
+<p>Selection of the remaining twenty-seven Denver board members&#8211;in addition to the nine announced Tuesday&#8211;will be completed at a late afternoon meeting Wednesday, Robert E. Harvey, Denver tire rationing administrator, announced.</p>
+
+<p>Both city and state officials said they are confident all of the machinery of rationing will be in operating order by Jan. 5, when the rationing regulations are to go in effect.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">PERSONNEL SET<lb/>FOR 73 BOARDS.</head>
+
+<p>The number of board appointments announced Wednesday by Governor Carr was 236, plus nineteen town and county administrators. All but three of the appointees are men. The number of boards for which the personnel already has been announced is seventy-three.</p>
+
+<p>The governor said the response to the call for service on the board was almost unanimous and was an "eloquent demonstration of the patriotic, unselfish spirit of all Colorado in a time of great crisis."</p>
+
+<p>The governor said that in nearly every county, the county boards of commissioners responded to his request that headquarters and a clerk be supplied for the rationing boards without cost to the federal or state governments.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left"><sic corr="COMMITTEE">COMMITEE</sic> WILL<lb/>SELECT INSPECTORS.</head>
+
+<p>Harvey announced Wednesday the appointment of a three-man technical advisory committee which will determine if dealers, garage men and service station men are qualified to inspect tires. Before applying to a rationing board for permission to buy a tire, a motorist must have an inspection certificate attesting to his need for the tire.</p>
+
+<p>The advisory committee consists of Phillip X. Daniels, chairman; Abe Okner and W. F. Hand. They are to meet at 10 a. m. Saturday in the city council chambers with prospective tire inspectors to explain the equipment and experience needed for inspection. All tires inspected will have to be dismounted from rims, the experts said.</p>
+
+<p>The office of price administration in Washington announced Wednesday that regulations governing the rationing of tires will be flexible, so that they can be changed with changes in the conditions affecting the rubber supply. In a pamphlet listing regulations effective Jan. 5, the OPA said new tires and tubes will be considered as those which have been used for fewer than 1,000 miles.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">TIRE AND TUBE<lb/>PRICES "FROZEN."</head>
+
+<p>The OPA also issued a price schedule on tires and tubes designed to stabilize retail prices under the rationing plan. Copies of the schedule are to be distributed to dealers by Jan. 5.</p>
+
+<p>The headquarters of the American Automobile association announced that it was launching a "budget your mileage" campaign in Colorado, Wyoming and New Mexico.</p>
+
+<p>The club is asking its members to hold a family conference and discuss the use of the family car during 1942. The club suggests the family car use be reduced at least 50 per cent immediately, that "doubling up" with neighbors and friends be encouraged in trips to and from work and social affairs, that streetcars be used more frequently and that the use of cars be eliminated for short trips to the neighborhood store.</p>
+
+<p>All motorists also were urged to drive more slowly in order to conserve tires, automobiles and prevent accidents.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

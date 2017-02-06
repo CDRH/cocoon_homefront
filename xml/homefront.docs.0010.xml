@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.docs.0010">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Letter: O.M. Olsen to Governor Dwight Griswold</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.docs.0010</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<!-- [Letter:  O. M. Olsen to Governor Dwight Griswold, June 28, 1942, Folder 218, Box 12, 1942 Correspondence, Griswold Papers, Nebraska State Historical Society] -->
+
+<bibl>
+<title level="a" type="main"></title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages"></biblScope>
+<publisher></publisher>
+<date value=""></date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-24</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-10-17</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+<head type="main">State of Nebraska</head>
+<head type="sub">DWIGHT GRISWOLD, G<hi rend="smallcaps">OVERNOR</hi><lb/>LINCOLN</head>
+
+<dateline rend="right"><date value="1942-06-28">June 28, 1942</date></dateline>
+
+<opener>
+<address>
+<addrLine>Honorable Dwight Griswold, Governor</addrLine>
+<addrLine>State House</addrLine>
+<addrLine>Lincoln, Nebraska</addrLine>
+</address>
+
+<salute>Dear Governor Griswold:</salute>
+</opener>
+
+<p>Following our Conference on Friday afternoon, June 5th, I proceeded to Scottsbluff Friday evening, arriving there Saturday forenoon to inquire into the labor situation as it affected the sugar beet industry in that part of the state.</p>
+
+<p>The forenoon was devoted to an inquiry at the local office of the United States Employment Service into the extent of the labor shortage and to what extent the Service had supplied the needed workers. I was informed that thus far nearly all of the help secured, except those few workers who had followed the custom of former years and reported directly to the Sugar Company and the growers, had been located by the Employment Service and the names and whereabouts given to the Sugar Company whose labor scouts, numbering 22, then contacted the workers and made arrangements to have them report for work; that normally the Sugar Beet Acreage is approximately 42,000 acres requiring about one worker to 10 acres, or 4,200 workers; that this year the acreage runs up to about 60,000 acres and about 6,000 workers are needed. It is estimated that there is a shortage of about 1,000 workers.</p>
+
+<p>The Employment Service, aided by the Junior Chamber of Commerce at Scottsbluff, has just completed a survey of the boys in and about Scottsbluff over 14 years of age to determine how many such boys might be available for beet field work. The survey disclosed that there are about 100 who would be suitable but that probably not more than 25 would be available due to the fact that some of them will work on their own home farms or will have jobs in town. During this week all of the boys who were located in this survey will be interviewed to determine just how many of them will be available. Boys under 14 are not being considered.</p>
+
+<p>In addition to that survey, the Employment Service is also conducting a further survey of all towns in the State in an effort to recruit additional workers if any are to be found.</p>
+
+<p>There has been some shifting of labor from Nebraska to Colorado within the last week or two, due to the fact that weather conditions have <sic corr="retarded">retarted</sic> the growth of the crop in Nebraska, leaving some workers available for Colorado, where the crop is advancing faster than in Nebraska, but it is understood, however, that the first part of this week about 300 of those workers will be available for transfer back to Nebraska, thereby reducing the number still needed to about 700.</p>
+
+<p>It is estimated that within another week a peak will be reached in both states lasting for about 10 days during which the real need of workers will be felt.</p>
+
+<p>About two weeks ago, through the efforts of the Employment Service, about 150 men were located in Oklahoma, referred to the Sugar Beet Company and brought into Nebraska. They were not immediately put to work and were not satisfied with the living quarters offered and went to Sidney to work on the Government Defense Job there and are no longer available for beet field work.</p>
+
+<p>The afternoon was devoted to a Conference with the following named persons:</p>
+
+<p>J. R. Mason, District Manager of the Great Western Sugar Company;</p>
+
+<p>C. W. Nebler, County Extension Agent;</p>
+
+<p>Neil Barbour, Chairman of Civilian Defense Labor Committee, and who is also one of the largest beet growers in the vicinity;</p>
+
+<p>G. W. Lemley, AAA Representative, and Chairman of the United States Department of Agricultural War Board;</p>
+
+<p>William Trimbull, County Chairman Civilian Defense;</p>
+
+<p>Russell Hand, Manager of the Scottsbluff Office of the United States Employment Service.</p>
+
+<p>In this Conference the need of additional beet field workers was fully discussed and it was generally agreed that in addition to the 300 workers who would be available for transfer from Colorado back to Nebraska the first of this week, there would still be a shortage of approximately 700. There was a general preference expressed for Japanese workers, but inasmuch as my mission there was to discuss the possibilities of securing alien Mexican laborers rather than Japanese laborers, the discussion of the Japanese question was discontinued and the discussion confined to ways and means of securing Mexican workers.</p>
+
+<p>All of those in the Conference except Mr. Mason were disposed to be cooperative and were willing to consider any feasible plan for securing Mexican help as quickly as possible. Mr. Mason, however, maintained a <sic corr="persistent">persistant</sic>, although courteous  attitude of pessimism and opposition up to the time of adjournment to any plan for bringing in Mexican labor, taking the view that inasmuch as the additional help needed must be supplied within a period of a week or ten days, it would be impossible to secure any such help within that time considering the necessary formalities which must be gone through with by the State Departments, both in the United States and Mexico.</p>
+
+<p>The discussion disclosed that the work for which laborers are now required is the thinning and blocking of the growing crop and that such work must be done before the growth advances too far, as delayed blocking and thinning will impair the crop and will also become more expensive as the crop develops, for the reason that it requires more time to do the thinning as the crop advances. There was some discussion also of a possible reduction in the sugar content of the crop if thinning is too long delayed, that, however, was not urged very seriously and it seemed to me that it was more imaginary than real.</p>
+
+<p>After a long drawn out discussion of the whole problem it was generally agreed at the time of adjournment that the United States Employment Service in Nebraska should contact the proper <sic corr="immigration">immagration</sic> officials and recertify Nebraska's need for 700 alien Mexican workers in which Mr. Mason concurred on the condition that such workers be made available at Scottsbluff within one week, asserting that unless they could be made available within that length of time they would not be of enough value to the Sugar Industry to justify bringing them in.</p>
+
+<p><sic corr="Pursuant">Persuant</sic> to that agreement the Director of the Employment Service at Scottsbluff immediately contacted the Lincoln Office which, in turn, communicated by wire with the Director of <sic corr="Immigration">Immagration</sic> and Naturalization for the Mexican Government at Salt Lake City, Utah, and with Thomas D. Shoemaker, Deputy Commissioner of <sic corr="Immigration">Immagration</sic> and Naturalization at Philadelphia, acting for the United States Government, and recertified Nebraska's need for 700 Mexican workers, and was assured that such workers were available but no immediate assurance could be given that they could be supplied within a seven-day period, but would advise later just how soon the workers could be supplied, stating at the time if the workers could be made available within the time limit set it would then be necessary for the Great Western Sugar Company to enter into certain guarantees with the Mexican Government for the employment of such workers and for their return to Mexico upon completion of their employment.</p>
+
+<p>We are now awaiting further word from these <sic corr="Immigration">Immagration</sic> Officers which , as soon as received, will be transmitted to the Company, unless the <sic corr="Immigration">Immagration</sic> Officers contact the Company themselves.</p>
+
+<p>From the trend of the discussion in the Conference and the general attitude of all of those participating, both the writer and the Manager of the Employment Service at Scottsbluff, are of the opinion that although there is, in fact, a need for additional beet field workers, probably about 700 in number, the crop will not necessarily suffer or be damaged appreciably if these additional workers are not procured. There will, no doubt, be some increase in cost of thinning and blocking due to the fact that it will take a little longer to do the job with the limited number of workers on hand, but beyond that I do not feel that there is anything to be alarmed about as far as the handling of the growing crop is concerned. Nether do I think there will be any acreage plowed under and replanted with another crop. Were this not true, I am sure that Mr. Mason, who represents the largest interest involved would have been more willing to cooperate in advising plans for procuring additional workers.</p>
+
+<closer>Respectfully submitted,<lb/><signed><hi rend="underline">O.M. Olsen</hi></signed><lb/>Commissioner of Labor</closer>
+
+</div1>
+
+</body>
+</text>
+</TEI>

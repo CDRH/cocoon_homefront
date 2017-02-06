@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.rec.0014">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Congressional Record-Senate (October 12, 1939)</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.rec.0014</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Congressional Record-Senate</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date value="1939-10-12">(Oct.12, 1939)</date>
+<biblScope type="pages">311-312, 316</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-01-16</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Validation</item>
+</change>
+<change>
+<date>2007-01-08</date>
+<respStmt>
+<name>Paul Fajman</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>2006-11-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1>
+
+
+<p>The distinguished Senator from Nebraska argued at length yesterday about the horrors of Hitlerism, and it was his contention, if I remember correctly, that we should furnish war materials to France and England so that Hitlerism might be destroyed. Perhaps that is what we ought to do; but that is not neutrality.</p>
+
+<p>. . . let me say that my position is that the present Neutrality Act is not an act of neutrality; that it is distinctly and wholly and immeasurably in favor of Hitler and the things for which he stands, and that our plain duty is to repeal the arms embargo conferring those very great and unneutral benefits. But I did proceed to say that when we repeal it and make the sale of arms and munitions for cash, and to be carried in foreign vessels, available to who will come and buy them, I look at the realities and say that, of course, we know that there is a difference in the nations as to their ability to come in their own vessels and pay for the goods; and therefore the substitute is not neutral either.</p>
+	<p>If I may say a word further, I respect the Senator's opinion that we ought to have neutrality legislation. We cannot have under the present situation. If we do nothing, an unneutral act remains which benefits one side. If we make the suggested change, that is also unneutral, because it makes benefits available to the other side. In my judgment, the Senator is discussing an ideal condition which will not exist whether we do nothing or do what it is proposed that we do.</p>
+
+	<p>Mr. BULLOW.  Mr. President, the Senator from Nebraska says that our present act is unneutral, and that if we repeal it our action would be unneutral. I agree with him in that statement. Perhaps the present law is unneutral; but is it any more unneutral for us to refuse to sell arms to any warring people than it is to sell to all of them? Of course, it would be impossible by any legislation we might enact to bring about an ideal situation such as the Senator from Nebraska and I both want. That is humanly impossible.</p>
+	<p>Mr. President, the question is resolved down to this: The people of the United States want to remain neutral; they do not desire to get into the war now raging in Europe; they are going to remain neutral; there is no doubt about that in their mind. So the question is, Can we better keep out of the war if we sell arms and other materials which will enable the warring nations to continue the war, or can we better stay out of it if we refuse to sell?</p>
+	<p>Mr. WHEELER.  Mr. President, will the Senator yield?</p>
+	<p>Mr. BULOW.  I yield.</p>
+	<p>Mr. WHEELER.  The Senator from Nebraska yesterday and again today spoke of idealism, as did also the Senator from South Dakota. Perhaps I am too idealistic, but I cannot conceive that the American people, in their idealism, desire to put guns and powder and bombs into the hands of any people with which to kill others. That is the issue so far as I am concerned. Yesterday the Senator from Nebraska spoke of what grand people the German people are, and said that they are among the finest citizens. Their boys are just as lovely, just as fine, as are American boys. They have been among our best citizens. So far as I am concerned, I do not believe that the American people have sunk so low in their idealism that they want to have bombs placed in the hands of any people with which to kill others; they do not want to have their boys "hang their wash on the Siegfried line," and they do not want to see the bodies of their boys hung on the Siegfried line.</p>
+	<p>Mr. BULOW.  Mr. President, I thank the Senator from Montana for that contribution. He expressed my own ideas exactly, though in much better language than I could employ. It seems to me we would protect the peace of this country better if we refused to deal in arms and munitions of warfare. It seems to me there can be no argument upon that point.</p>
+	<p>I fully realize that the sympathies of the American people are with the Allies. That, no doubt, is true. But we are considering a neutrality act. That is what we call it, but the fact of the matter is, when we get right down to rock bottom fats, when we get right down to a gnat's heel, that we want to pass a neutrality bill that will help France and England. Now, it is all very well for us as individuals to express our sympathies, but when our Government speaks, it must speak, "if we want to remain neutral," in neutral tones, and if it does not so speak, then this is not a neutral measure. The views of the Government cannot be camouflaged. You and I, Mr. President, may "kid" ourselves by saying that we want to keep our good right hand neutral and keep it where everyone can see it, and use our powerful left in the fight to help out France and England and not let our right hand know what our left is doing, but we, as a government, cannot go half-and-half. As a government, we must be one way or the other. We can stay out of this war if we want to, or we can get in if we want to, but there is no middle ground; there is no half way haven. We must go whole hog or none.</p>
+	<p>The people of this country want to stay out, and they are going to stay out. The voice of the American people is the voice of this Republic, and their voice is never employed in camouflage or in deceptive words to conceal real thought. The composite mind of American citizenship is always right. When the American people reach a conclusion based upon proper information, that conclusion is never wrong. The American people are never again going to fight upon a European battlefield in a cause that is not their own, and they are not going to respond to the idle dreams of men who may feel that they have a call to adjust the politics of the world. The voice of the American people is the voice of neutrality, absolute neutrality. It speaks for American and frowns upon any ambitions for world power. The American people expect us to pass a neutrality bill that will not link us to either side in the European conflict, though I realize that there are a few of our people who feel and actually believe that, for the safety of our country, we should immediately join England and France and go over and help them defeat Hitler before they themselves are defeated, which might, it is said, compel us to fight Hitler alone.</p>
+<p rend="center">HITLER WILL NOT MENACE UNITED STATES</p>
+	<p>Mr. President, I have no fear that Hitler will ever attack us if we do not attack him. He has said he would not do so. He has said that he had no desire for world conquest. He has said that his only ambition was to restore the German people under the German Reich. He has said that he desired only that territory whose citizenship was predominately German and taken away from the Reich during the World War. Oh, but some Senators may say: "His word is no good. We cannot rely upon him. We cannot trust him." Perhaps that is so; perhaps we cannot trust him; but what are we going to do about it now?</p>
+	<p>What is the best thing for us to do about it now? Two roads are open to us. One is to take a chance on his word being good, and prepare ourselves to meet him when he comes over here if his promise is not good, and the other is to thrown this neutrality legislation into the waste basket, join France and England and go over there and help them track Hitler down and hang him to a sour apple tree. It may be that Hitler ought to be hung.</p>
+	<p>In my State in an early day we used to hang horse thieves, but our old timers tell me that they had to catch a horse thief before they could hang him; they had to get their hands on him; and we had not got our hands on Hitler. We would have to kill off several million Germans before we could get our hands on him. As it looks now, we probably would also have to kill about 10,000,000 Russians before they would let us hang him. We would not do that job in 1 day or 2. Before would get our hands on Hitler to hang him we would sacrifice several million of our own good American boys, who are worth more to us than all of Europe, and then when we got all of that done we might find that Hitler had died a natural death; after we went to all that trouble we might be deprived of the pleasure of hanging him to a sour apple tree. I myself am not going over there and attempt to do that, and I am not going to vote for any legislation that will start any American boy down the road that I myself would not travel. I would rather take a chance on Hitler's word&#8211;bad though it is&#8211;than to take a chance on sacrificing a million American boys for the pleasure of hanging Mr. Hitler on any kind of a tree.</p>
+
+<p rend="center">LET'S KEEP OUR NOSE OUT OF EUROPE'S AFFAIRS</p>
+<p>I do not know what the fate of Hitler will be, but I do know that he will not live forever. I know that nazi-ism will not conquer the earth. I know that if we "keep our shirts on," keep our feet on the ground, keep our nose out of Europe's business, take no sides in their quarrel, let them live under such ism as they desire, let them adjust their boundary lines as they see fit, get the hankering for world power out of our systems, forget about our desires to assume guardianship of other peoples, take care of the business of America, and let Europe run its own affairs; if we do that, I know that Hitler will never hoist the swastika flag on the dome of our Capitol, or over our people.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

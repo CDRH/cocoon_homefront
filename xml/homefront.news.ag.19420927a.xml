@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.ag.19420927a SYSTEM "homefront.news.ag.19420927a.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.ag.19420927a">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Roswell School Now Turning Out First-Rate Bombardiers, Pilots</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.ag.19420927a</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Amarillo Sunday News-Globe</title>
+<title level="a">Roswell School Now Turning Out First-Rate Bombardiers, Pilots</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">4</biblScope>
+<biblScope type="columns">1-3</biblScope>
+<publisher>Amarillo Sunday News-Globe</publisher>
+<pubPlace>Amarillo, Texas</pubPlace>
+<date value="1942-09-27">1942-09-27</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-23</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.ag.19420927a">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p4"/>
+<head type="main"><hi rend="italic">Roswell School Now Turning Out<lb/>
+First-Rate Bombardiers, Pilots</hi></head>
+<milestone unit="smallbar"/>
+
+<figure>
+<figDesc>A FLIGHT OF AT-11’s FROM THE ROSWELL ARMY FLYING SCHOOL dip their wings in salute as they fly over the Administration Building of New Mexico Military Institute. This famous Cavalry school of the Southwest now is sharing honors with the new Army Air Base, an advanced Air Force training school which has been established just outside the city limits of Roswell.</figDesc>
+</figure>
+
+<p>ROSWELL, N. M., Sept. 26&#8211;Daily, at the first crack of dawn, powerful twin-engined training planes may be seen taking off from the Roswell Army Flying School, flying in perfect formation over the peaceful New Mexico plains, and viciously dropping practice bombs on harmless targets below. These planes are manned by a crew of young men in their early twenties, most of whom at this time last year had nothing more serious on their minds than the outcome of next week's football game. "Death to the Axis," their slogan is now, and most of their waking hours are spent learning the deadly art of dealing destruction . . . dealing it efficiently, and returning for another load.</p>
+
+<p>With construction crews hardly out the gate of the Army's new Air Base at Roswell, New Mexico, this advanced flying school already has established a reputation as one of the finest bombardier schools in the country. In addition, excellent training is given in twin-engine piloting, and the school maintains a large retinue of highly skilled mechanics, radiomen, and repairmen whose jobs it is to train recruits for the task of "keeping 'em flying." Aerial photography is taught here, and the photo laboratory has equipment equal to the best.</p>
+
+<p>Set up first as a temporary defense unit, the Roswell Army Flying School was designated as a permanent Army Air Base in the fall of 1941, after the transfer of Moffatt Field, Calif., to the Navy. Pearl Harbor hastened the completion of plans, and construction was begun early in January of 1942. A skeleton organization under the command of Col. A. C. Kincaid arrived in Roswell in December, and by the middle of May, barracks were ready for the first contingent of troops. With landing mats at the Air Base proper yet to be completed, flying instruction was commenced at the Roswell Municipal Airport, and the first two classes of graduating pilots received the major part of their training from this auxiliary field.</p>
+
+<p>In choosing Roswell as a location for a permanent Army Air Base, the weather terrain, and other factors which affect year-round flying were carefully checked by a corps of Army specialists. Weather bureau records showed the climate of southeastern New Mexico to be highly satisfactory for this type of school. With a visibility of 80 miles 90 over cent of the time and a ceiling ordinarily above 5000 feet, there are very few days during the year when places are grounding on account of weather. Training at the Roswell Army Flying School goes on almost continuously.</p>
+
+<p>The RAFS is ably commanded by Col. A. C. Kincaid, who saw active service in the first World War. He is a native of Indiana, a graduate of the Command General Staff School, and is rated as a command pilot. Col. Kincaid is assisted by Col. John C. Horton, Director of Training; Lieut. Col. John G. Armstrong, Director of the Twin-Engine Pilot School; Lieut. Col. Henry B. Fisher, Director of Bombardier Training, and Lieut. Col. Robert R. Estill, Post Surgeon.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

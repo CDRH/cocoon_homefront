@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.docs.0009">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Suggestions to Town Boys Who Will Work on the Farm</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.docs.0009</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="a" type="main">Suggestions to Town Boys Who Will Work on the Farm</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages"></biblScope>
+<publisher>Kansas State Board for Vocational Education, Topeka</publisher>
+<date value=""></date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-24</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-10-17</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<head type="sub">KANSAS STATE BOARD FOR VOCATIONAL EDUCATION<lb/>TOPEKA</head>
+<head type="main"><hi rend="underline">SUGGESTIONS</hi> <hi rend="underline">TO</hi> <hi rend="underline">TOWN</hi> <hi rend="underline">BOYS</hi> <hi rend="underline">WHO</hi> <hi rend="underline">WILL</hi> <hi rend="underline">WORK</hi> <hi rend="underline">ON</hi> <hi rend="underline">THE</hi> <hi rend="underline">FARM</hi></head>
+<div1>
+<p>The farmer can not observe uniform hours throughout the working season. The nature of the work or the weather may occasionally make it necessary to work long hours. Other days will be a normal day's work.</p>
+
+<p>In hiring inexperienced help, most farmers prefer not to set wages until the young man has demonstrated what he is worth.</p>
+
+<p>Be alert, listen carefully when the farmer is explaining how to do a thing. He will think you are not very bright if he has to tell you several times.</p>
+
+<p>Do not try to tell the farmer how he should do things, or how his place should be operated. He is the boss.</p>
+
+<p>Don't enter into controversial discussions carried on in the family circle of the farmer.</p>
+
+<p>Don't remind the farmer or his wife of it if your home in the city is nicer than that of the farmer.</p>
+
+<p>Don't tell the farmer's wife how your mother things unless she asks you. The things a fellow says gets him into more trouble than the things he doesn't say.</p>
+
+<p>Be pleasant and agreeable. Do your best and you will soon be considered one of the family.</p>
+
+<p>Don't become confused or impatient if different members of the farm family assign you different tasks to be done at the same time. As a rule the farmer himself is boss of the farm work. When this is true, his orders should be obeyed first.</p>
+
+<p>Farm work develops strong appetites. Eat plenty of wholesome food but do not eat too fast.</p>
+
+<p>Avoid drinking large quantities of cold water. Better drink moderately more frequently.</p>
+
+<p>In hot weather use generously of salt. Perhaps it would be well to have some salt tablets with you. This will help to replace the salt lost through perspiration.</p>
+
+<p>A small bottle of disinfectant to apply to cuts, scratches, and insect bites might ward off infection.</p>
+
+<p>Sulphur dusted on the ankles, shins, and forearms are a repellant to chiggers. If sulphur is not available, sponge the ankles, sins, and forearms lightly with a cloth wrung out of kerosene.</p>
+
+<p>Don't be afraid to eat all you want if you eat slowly. Farmers' wives will feel their cooking is being complimented if you eat heartily. The farmer knows you cannot do a great deal of work unless you eat heartily.</p>
+
+<p>Don't approach a horse, mule, or cow without speaking.</p>
+
+<p>Take criticism cheerfully; don't talk back. Do not hesitate to ask the farmer questions about things on which you are not clear.</p>
+
+<p>It is usually wise to take precautions against sunburn. Much farm work is in the full light of the sun and unless your skin is accustomed to it, your arms and back can become a mass of painful blisters in a short time.</p>
+
+<p>Light, loose-fitting clothing, with a broad brim straw hat are usually standard farm wear. A plain shirt, and bib overalls or jeans, ankle length, are suitable.</p>
+
+<p>If early mornings or late evenings are cool, a light jacket or sweater should be available. It is easy to catch cold in the evening after a hard day's work.</p>
+
+<p>Standard work shoes are much to be preferred over low shoes or oxfords. They will keep out dirt, pebbles, stickers, etc.</p>
+
+<p>Get up promptly in the morning when called.</p>
+
+<p>Try to be at meals on time.</p>
+
+<p>Some farm homes are modern, others are not. Cheerfully adjust yourself to whatever convenience the farm home offers. You may be obliged to bunk with the farmer's boy or with the hired man.</p>
+
+<p>An old gasoline or oil barrel that has been cleaned out can be mounted on posts about shoulder high and a short piece of hose or pipe attach&#233;. Water pumped in by the wind-mill in the morning should be warm enough for a comfortable shower bath in the evening. Your personal habits may have to be adjusted to circumstances as they exist on the farm.</p>
+
+<p>Don't smoke around hay, straw, in the barn, or any place where it would be easy to start a fire. Dry wheat stubble burns easily. No farmer wants a fire hazard walking about his place.</p>
+
+<p>Always appreciate the fact that the farmer has a great deal of money tied up in his machinery and equipment. It means a great deal to him from the financial standpoint and efficiency standpoint to know that he has a worker on whom he can depend to be careful and painstaking and not abuse his machinery and equipment.</p>
+
+<p>Moreover, in war times when machinery and equipment becomes damaged or broken, it may be impossible to get parts or repairs.</p>
+
+<p>It is usually best to have a definite understanding with the farmer as to when you can go home. The arrangements of course will depend on the facilities for travel and the distance you are working from home.</p>
+
+<p>If life on the farm seems tough, remember it wasn't easy on Bataan, Corregidor, and Guadalcanal. Neither has the going been easy in North Africa.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

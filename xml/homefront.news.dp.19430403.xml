@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19430403 SYSTEM "homefront.news.dp.19430403.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19430403">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Ordnance Plant Has Fine Record</title>
+<author>Jack Carberry</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19430403</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">Ordnance Plant Has Fine Record</title>
+<title level="a" type="sub">Absenteeism Virtually Nonexistent Among 15,000Employes, Almost Half of Whom are Women;Output at 97.6 Per Cent Perfect.</title>
+<author>Jack Carberry</author>
+<biblScope type="pages">1</biblScope>
+<biblScope type="columns">1-2</biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, CO</pubPlace>
+<date value="1943-04-03">1943-04-03</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>War Production</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-04</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.dp.19430403">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">ORDNANCE PLANT<lb/>HAS FINE RECORD</head>
+<milestone unit="smallbar"/>
+<head type="sub">Absenteeism Virtually Nonexistent Among 15,000<lb/>Employes, Almost Half of Whom are Women;<lb/>Output at 97.6 Per Cent Perfect.</head>
+<milestone unit="smallbar"/>
+<byline>(By JACK CARBERRY.)</byline>
+
+<p>The more than 15,000 workers, 47 per cent of them women, at the 40-million-dollar Denver ordnance plant call themselves "DOPES"&#8211;Denver ordnance plant <sic corr="employees">employes</sic>.</p>
+
+<p>Newspapermen who with high-ranking army officers are making a tour of all installation and camps under jurisdiction of the army's Seventh Service command in this area, voted the self-applied nickname the most inappropriate in the long list of alphabetical designations now in use.</p>
+
+<p>Not only does the Denver plant, turning out undisclosed millions of .30-caliber bullets for use against the Japs and Nazis, boast one of the best production records of any war plant in the nation&#8211;a fact attested by the army's "E" flag which flies from the administration building mast&#8211;but it also holds an outstanding record of work attendance.</p>
+</div1>
+
+<div1>
+<head type="sub">ABSENTEEISM VIRTUALLY<lb/>UNKNOWN.</head>
+
+<p>There is virtually no such thing as absenteeism at the Denver plant. Figures released by Works Manager A. T. Twing and presented to the newspapermen and army officers, showed unexcused absenteeism was only .32 per cent. Total absence from work, including all cases of sickness is but 53 per cent.</p>
+
+<p>While the exact production at the Denver plant is a military secret, as are some details of a new war weapon the plant is now producing in quantity, the army authorized Friday the announcement that the Denver plant is now turning out an all-steel .30-caliber cartridge as contrasted with the brass cartridge manufactured in the past.</p>
+
+<p>This, it was stated, will step up the output of not only the Denver plant, but the production of cartridges throughout the nation. The new all-steel cartridge, which is given only a copper-coating bath&#8211;it is not copper-plated&#8211;was said to be every bit as good as the old type. Its development and production have solved a problem which grew out of the scarcity of brass&#8211;a problem which at times has slowed somewhat the output of not only the Denver ordinance plant, but similar plants throughout the country.</p>
+</div1>
+
+<div1>
+<head type="sub">INCENDIARY BULLETS<lb/>BEING PRODUCED.</head>
+
+<p>The army also allowed use of the statement that this plant is producing, in vast quantity, an incendiary bullet.</p>
+
+<p>Methods of production used at the plant were explained to the visitors by Twing and a staff of plant officials. All sections of the great war industry were visited.</p>
+
+<p>The processes used in making a cartridge&#8211;operations which require just a bit under seven days&#8211;were followed thru the plant.</p>
+
+<p>The visitors saw the arrival of the metal for the finished product aboard the plant's own freight cars, carried over its own branch railroad spur. They watched this raw material go thru the various processes along the many assembly and production lines until the cartridge came out of the last machine, tested and ready for packing and shipment to the battle fronts.</p>
+</div1>
+
+<div1>
+<head type="sub">RECORD CLOSE<lb/>TO PERFECTION.</head>
+
+<p>Plant records revealed that of the five plant buildings one was turning out a 97.6 perfect production. All buildings were high in perfect work, according to these figures.</p>
+
+<p>Greatest care, it was revealed, is exercised in inspection of the cartridges. This is designed to prevent imperfections which might result in gun jams at critical moments in battle. Each cartridge&#8211;and millions are being turned out&#8211;is individually inspected, not once but three times. In addition there are more than twenty "spot check" inspections. These are both manual and machine inspections of samples taken from each cartridge-making machine every few minutes.</p>
+
+<p>Twing, in discussing the high production record of the Denver plant, gave all credit to the <sic corr="employees">employes</sic>. His figures showed that four months ago only 20 per cent of the workers were women. Now women make up 47 per cent. Twing said investigation showed there was a pool of 10,000 women in the Denver area still unemployed and believes the number of women workers at the plant would increase materially over the next few months. He especially praised the work of the women.</p>
+</div1>
+
+<div1>
+<head type="sub">CRIPPLES AND<lb/>BLIND EMPLOYED.</head>
+
+<p> "We are finding some very efficient and highly skilled workers among crippled people," Twing said. "We even have some blind folk here. There are so many tasks to be done in a war plant of this kind that we are able to employ persons who ordinarily would not fit into industry. We have been able to find places for them where they not only do satisfactory work but excellent work."</p>
+
+<p>Twing said a check of records showed the workers at the Denver plant to be among the most "war-minded" in the nation. The <sic corr="employees">employes</sic>' subscription to the current Red Cross is $4,000. In the recent War Chest drive the workers gave $60,000. The plant, Twing stated, has never experienced labor trouble of any kind, nor has there ever been anything resembling either a work stoppage or slow down.</p>
+
+<p>"This plant," Twing said, "considers itself a war agency&#8211;considers it has a fighting job to do just as the soldier at the front has his fighting job to do. The Denver ordnance plant workers are doing that job."</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+

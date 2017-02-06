@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.kf.19440304 SYSTEM "homefront.news.kf.19440304.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.kf.19440304">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Women Will Drive Tractors</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.kf.19440304</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Kansas Farmer</title>
+<title level="a">Women Will Drive Tractors</title>
+<title level="a" type="sub">But Want No Back-Seat Instructions From Friend Husband</title>
+<author></author>
+<biblScope type="pages">22</biblScope>
+<biblScope type="columns">2-4</biblScope>
+<publisher>Kansas Farmer</publisher>
+<pubPlace>Topeka, KS</pubPlace>
+<date value="1944-03-04">1944-03-04</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-02</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-24</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.kf.19440304">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p22"/>
+
+<figure>
+<figDesc>Schoolteacher Ruth Kadel was busy in the Kansas wheat harvest last summer operating the combine, driving the tractor, or hauling wheat to market for her father, J. F. Kadel, of Scottsville, Mitchell county. She taught last year at Barnard, Kansas, and last fall joined the Wichita grade school staff.</figDesc>
+</figure>
+
+<head type="main">Women Will Drive Tractors</head>
+<head type="sub"><hi rend="italic">But Want No Back-Seat Instructions From Friend Husband</hi></head>
+
+<p>KANSAS women by wartime are willing to drive a tractor or truck, says Mrs. Ethel Self, Kansas State College, and assistant state supervisor of the Emergency Farm Labor program. She has traveled all over the state assisting in plans for the training schools which will aid these loyal Kansas women to do their jobs better.</p>
+
+<p>A week's delay in harvesting wheat may mean a 5 per cent loss of the crop&#8211;enough to feed a sixth of Uncle Sam's armed forces for a year. But the loss in wheat production does not stop there. Delay in harvesting wheat means time lost in getting the ground ready for the next crop, and lower production for the following year.</p>
+
+<p>A survey has just been completed by the college which largely determines the "way out" of the farm labor problem for the 1944 harvest. In the first place, the chance for out-of-state workers is smaller than last year. War industries such as ship building have taken another class of both out-of-state as well as in-state labor, both of which have been dependable labor sources in past years. Two and one-half times more women worked in harvest fields last summer than in 1942. There was more exchange of labor and more short-period workers&#8211;presumably town people taking a few days or weeks to work on nearby farms.</p>
+
+<p>In the past, those in charge of the farm labor problem believed that it might be possible to recruit a considerable number of town women to work in harvest fields. This plan has been abandoned in favor of one which meets general approval. Homemakers in town can take over management of a local filling station or drugstore fountain during the most critical days, thus relieving men to go to work on nearby farms. Farmers believe the town man is more efficient and physically able to operate farm machinery than town women. It is hoped that this plan will develop to the extent that a large number will respond.</p>
+
+<p>The majority of the women workers last year were relatives of the farm operator, wife, daughter or other relative. This adds weight to the opinion of farmers that a farm woman is more adaptable, capable, and all-around more efficient for driving heavy machinery. Eighty-five per cent of all women who worked last year drove machinery&#8211;trucks and tractors. An average of 424 women worked on farms during the wheat harvest in each county is South-Central Kansas.</p>
+</div1>
+
+<div1>
+<head type="sub">Not Like Family Car</head>
+
+<p>Mrs. Self found farm women want training schools where someone other than members of their families will teach them exactly how to ease a tractor down into a ditch and up the other side, and how to turn around in a wheat field with the tractor hitched to a combine. They want to know how to oil the machine, to grease it and change spark plugs, but loudly deny any desire to make major repairs. They learned last year that driving the family car has little in common with the skill necessary in handling a tractor, and that their own "men folks" have little patience with them.</p>
+
+<p>The Vocational Agriculture teachers are co-operating with the Extension service and have agreed to do the actual teaching at the training schools. If demand is great enough on the part of farm women these 2-day schools will be held in all counties west of Salina and will begin in April. Each class member will be given tractor driving experience, oiling, greasing, and some other of the more simple unkeep demanded of any operator.</p>
+
+<p>The Women's Land Army on the national basis has adopted a work outfit which is both good-looking and practical, consisting of a cloth hat which covers the hair, blue slacks or overalls and a blouse, with a lighter blue shirt. Comments on this outfit sound most enthusiastic, and one of the desirable features is that at the ankles and wrists, the garment fits snugly, so that no part will catch machinery.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">More Milk Results</head>
+
+<p>Three things which have a favorable effect on milk production, but which are not always taken into consideration, were outlined in a recent farm meeting by James W. Linn, extension dairy specialist, Kansas State College.</p>
+
+<p>One of these items is the varying digestible protein and total digestible nutrients of alfalfa hay cut at different stages. These have shown that alfalfa at initial bloom stage has 14.2 per cent digestible protein and 53.2 per cent total digestible nutrients. At one-tenth to one-half bloom stage these figures drop to 11 per cent and 50.1 per cent, and at three-fourths bloom stage to 9.9 and 49.7 per cent.</p>
+
+<p>The calving interval is another important item. At calving intervals of 18 months tested cows produced 297 pounds of butterfat a year. This was increased to 344 pounds when the calving interval was 11.2 months. It also was proved that a cow fat at freshening time will produce 10 per cent more milk the following lactation than if she freshens thin.</p>
+
+<p>The effect of rest periods on production during the following lactation also proved interesting. A 55-day rest period was found to increase production 24.1 per cent on a cow capable of producing 10,000 pounds of milk a year. A 25-day rest period reduced the gain to 18.6 per cent, or 9,027 pounds milk, and no rest brought no increase or 7,129 pounds of milk.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">Help of Dairymen</head>
+
+<p>Milking machines, needed desperately now because of the labor shortage, again are obtainable, announcement the state AAA board.</p>
+
+<p>About 40,000 machines will be manufactured and distributes this year in the U.S. Where electricity is available on the farm wire can be obtained to do the necessary wiring, it is reported.</p>
+
+<p>Fewer than one half of the dairymen milking 10 or more cows have a milking machines. Mechanical milkers will save from 1 to 5 hours of labor every day, depending on size of the herd.</p>
+</div1>
+
+<figure>
+<figDesc>Nineteen-year-old Lorna Cox, an assembler at the Cessna Aircraft Company in Wichita, spent her 3-week vocation helping her father Carl Cox and her brother Lindley, of Scottsville, Mitchell county, harvest 600 acres of grain. "She's ace-high on the tractor," proudly brags the brother.</figDesc>
+</figure>
+
+</body>
+</text>
+</TEI>
+
+

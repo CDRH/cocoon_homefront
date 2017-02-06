@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19440414 SYSTEM "homefront.news.dp.19440414.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19440414">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Ft. Logan to Be Convalescent Center Starting at Midnight</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19440414</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">Ft. Logan to Be Convalescent Center Starting at Midnight</title>
+<title level="a" type="sub">New Chapter in History of Military Unit to Be Written When Army Air Service Command Takes Over From Training Branch</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">9</biblScope>
+<biblScope type="columns">1-2</biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, Colorado</pubPlace>
+<date value="1944-04-14">1944-04-14</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-22</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.dp.19440414">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p9"/>
+<head type="main">FT. LOGAN TO BE CONVALESCENT<lb/>
+CENTER STARTING AT MIDNIGHT</head>
+<milestone unit="smallbar"/>
+<head type="sub">New Chapter in History of Military Unit to Be<lb/>
+Written When Army Air Service Command<lb/>
+Takes Over From Training Branch</head>
+<milestone unit="smallbar"/>
+
+<p>A new chapter in the 57-year-old history of Fort Logan will begin at midnight Friday when the army air service command will take over the post from the army air forces western technical command, which has operated it since March 1, 1941, as a clerical school. Under the air service command, Fort Logan will become a center for the training of convalescent air force  service men returning from overseas.</p>
+
+<p>An announcement from western technical training command headquarters in Denver Friday said Col. Weldon W. Doe, who has been the commanding officer at Fort Logan, is being transferred to Camp Kearns, Salt Lake City, where he will be in command of a training depot.</p>
+
+<p>All other members of the administrative personnel at Fort Logan will remain and will be transferred to the air service forces when the fort changes hands.</p>
+
+<p>Lieut. Col.. Clarence C. Wilson, who has been executive officer at Fort Logan since he was transferred there in June, 1942, is the new commanding officer, succeeding Colonel Doe.</p>
+
+<p>When Fort Logan is transferred, the western technical training command will take back from the Second air force the Utah post which Colonel Doe will head.</p>
+
+<p>The training command also will deactivate its Lincoln, Neb., air base and turn it over to the Second air force, which has headquarters in Colorado Springs.</p>
+
+<p>The air service command also has headquarters at Patterson field, Fairfield O., and is under the command of Maj. Gen. Walter H. Frank. Headquarters of the local air service forces area is at Hill field, Ogden, Utah, under the command of Brig. Gen. Morris Berman.</p>
+</div1>
+
+<div1>
+<head type="sub">WOUNDED TO GET<lb/>
+VOCATIONAL TRAINING.</head>
+
+<p>Wounded service men sent to the new center at fort Logan will be given both medical care and vocational training.</p>
+
+<p>Colonel Doe has been at Fort Logan since March 11, 1943, when he came here from an air forces mechanics school at Gulfport, Miss., where he was executive officer.</p>
+
+<p>During his administration at Fort Logan, many improvements were made at the post, including landscaping of the grounds, erection of many new buildings and development of an intensive training program.</p>
+
+<p>Thousands of administrative, operational and engineering clerks trained at Fort Logan are serving at bases all over the world.</p>
+
+<p>Colonel Doe was graduated from the United States Military academy in 1914. He saw service in World war I and later served with the Fifteenth infantry in China.</p>
+
+<p>In 1923 he left the army to enter business. With the outbreak of the present war he returned to the army as executive officer of the Gulfport school.</p>
+
+<p>Colonel Wilson was administrative inspector at Lowry field from January, 1941, to June, 1942, when he was transferred to Fort Logan.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

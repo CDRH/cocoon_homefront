@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.sj.19420429.01 SYSTEM "homefront.news.sj.19420429.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.sj.19420429.02 SYSTEM "homefront.news.sj.19420429.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.sj.19420429">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Air Base Sure</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.sj.19420429</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Salina Journal</title>
+<title level="a">Air Base Sure</title>
+<title level="a" type="sub">War Department Authorizes Salina Project</title>
+<title level="a" type="sub">Confirmed to Journal</title>
+<title level="a" type="sub">Messages Today From Senators Reed and Capper and Congressman Carlson</title>
+<author></author>
+<biblScope type="pages">1, 9</biblScope>
+<biblScope type="columns"><!-- need to fill-in --></biblScope>
+<publisher>Salina Journal</publisher>
+<pubPlace>Salina, Kansas</pubPlace>
+<date value="1942-04-29">1942-04-29</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-23</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.sj.19420429.01">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p1"/>
+<head type="main">AIR BASE SURE</head>
+<milestone unit="smallbar"/>
+<head type="sub">WAR DEPARTMENT <orig reg="AUTHORIZES">AUTHOR-<lb/>
+IZES</orig> SALINE PROJECT</head>
+<milestone unit="smallbar"/>
+<head type="sub">CONFIRMED TO JOURNAL</head>
+<milestone unit="smallbar"/>
+<head type="sub">Messages Today From Senators<lb/>
+Reed and Capper and <orig reg="Congressman">Con-<lb/>
+gressman</orig> Carlson</head>
+<milestone unit="smallbar"/>
+
+<p>From two senators and a congressman today the Salina Journal received official confirmation of Salina's multi-million dollar army air base which was announced in Tuesday's Journal, but a lot of details remain to be ironed out.. Not the least of these is the matter of getting adequate road and rail facilities as well as utilities to the 1,441 acre field, two miles southwest of Salina, to which the government took title Tuesday.</p>
+
+<p>Today's confirmation was by telegram, Associated Press dispatch, and long distance telephone. It came from Congressman Frank Carlson. Senator Clyde Reed, and
+
+<note type="inline"><p>Assurance that rents and allied costs of living in Salina will not hike with establishment of the government air base here, as far as the Salina Real Estate Board can influence the situation, came today with release of a resolution adopted by the organization a week ago. The action was taken when the air base was merely a rumored development, this along revealing the good faith of the real estate men in trying to prevent inflationary living costs. The resolution, signed by John Frederick, president, and H. L. Glover, secretary, and made known when the air base became an assured fact Tuesday, says:</p>
+
+<p>"Be it resolved by members of the Salina Real Estate Board that they will exert every possible effort to keep rentals in Salina on an equitable basis and to cooperate to the fullest extend in handling any housing emergency that may arise in connection with any proposed development within the are of or near Salina.&#8211;Salina Real Estate Board."</p></note>
+
+Senator Arthur Capper. None gave exact figures on the cost of this county's first big defense project, but unofficial though will informed sources here previously placed it at not less than seven million. The announcement by 
+
+<note type="editorial" rend="jumpline">(Please Turn to Page Nine)</note>
+
+<pb n="p9"/>
+
+<figure entity="homefront.news.sj.19420429.02">
+<figDesc></figDesc>
+</figure>
+
+<note type="editorial" rend="jump">
+<note type="editorial" rend="mainhead">AIR BASE SURE</note>
+<milestone unit="smallbar" />
+<note type="editorial" rend="jumpline">(Continued from Page One)</note>
+</note>
+
+Kansas spokesmen says "over three million."</p>
+
+<p>This afternoon George Campbell, assistant county engineer, and E. W. Hopkins, city engineer, were busy surveying a roadway leading into the base.</p>
+</div1>
+
+<div1>
+<head type="sub">County Builds Hotel</head>
+
+<p>Under present plans, the county will build a mile of road and one bridge, grading and widening the existing roadway and later surfacing it with crushed rocks and asphalt. The road will leave U.S.-81's pavement two miles south of the Salina city limits and extend a mile west to the east line o the army air base. This will be between section 34, Smoky Hill township, and section three, Smolan township. The bridge will span Dry Creek and may take the form of a trestle. As to the cost of financing this <sic corr="project">projecti</sic> there were indications the county may have to do so by bonds or deficiency warrants unless a WPA project can be rushed through as W. H. Cost, county engineer, hopes.</p>
+
+<p>Reports that the Missouri Pacific is going to build a new track from its yards in Salina out to the air base met with the reply from local railroad officials: "We have received no information about it. However, we will have to build a spur leading into the base, but it will be from our main track, paralleling the field."</p>
+</div1>
+
+<div1>
+<head type="sub">City Extends Water Line</head>
+
+<p>It was understood the city will build 8,000-feet of water line extending from the city system to the northeast corner of the air base and capable of supplying a half million gallons a day.</p>
+
+<p>As to the other utilities, these should present no great obstacle. The Kansas Power and Light company's high line extends through the air base along the section line north and south and must be moved, as is true with a Rural Electrification association sub-station located on the F. P. Battersby farm at the northwest corner of section 34. The nearest gas line is a mile east.</p>
+
+<p>The gist of word received today from Congressman Carlson and the senators is indicated in an Associated Press dispatch from Washington, quoting Clyde Reed.</p>
+</div1>
+
+<div1>
+<head type="sub">Senator Reed Announces</head>
+
+<p>WASHINGTON, April 29 (AP)&#8211;Senator Reed (R-Kan) said today the war department had authorized construction of an "air force installation" at Salina, Kansas.</p>
+
+<p>The cost was estimated at "in excess of $3,00,000." Construction will be under supervision of the Kansas City office of the corps of army engineers. No additional details were disclosed.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

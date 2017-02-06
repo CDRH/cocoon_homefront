@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19440928 SYSTEM "homefront.news.dp.19440928.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19440928">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Women's Land Army Is Doing Big Job in State</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19440928</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">Women's Land Army Is Doing Big Job in State</title>
+<title level="a" type="sub">Official Reports Examples Of Aid in Harvesting Colorado Crop</title>
+<author></author>
+<biblScope type="pages">2</biblScope>
+<biblScope type="columns">4</biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, CO</pubPlace>
+<date value="1944-09-28">1944-09-28</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Agriculture-Labor</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-20</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.dp.19440928">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p2"/>
+
+<head type="main">WOMEN'S LAND<lb/>ARMY IS DOING<lb/>BIG JOB IN STATE</head>
+<milestone unit="smallbar"/>
+<head type="sub">Official Reports Examples<lb/>Of Aid in Harvesting<lb/>Colorado Crop.</head>
+<milestone unit="smallbar"/>
+
+<p>Fort Collins, Colo., Sept. 28&#8211;(A.P.)&#8211;The Colorado women's land army, thousands strong, is doing a man-sized job in the harvest of Colorado crops this year.</p>
+
+<p>Mary Sutherland, assistant state supervisor of the army of the extension service of Colorado State college, reports these examples of front-line action by the women's land army:</p>
+
+<p>Women hauled grain into an elevator in Julesburg and saved their husbands and fathers a total of about $1,000.</p>
+
+<p>Ferne Dollison, Sedgwick county high school student, hauled grain in a truck every day for nearly three weeks.</p>
+
+<p>Mrs. Lloyd Hodges of Julesburg has hauled grain for three years and invested the money in war savings bonds.</p>
+
+<p>Mrs. Thelma Anderson of Denver goes to Julesburg each harvest season to drive a grain truck along with Mrs. Hodges.</p>
+
+<p>Mrs. Alvin Sowder runs a rod weeder to help with summer fallow during harvest season in Sedgwick county.</p>
+
+<p>Shirley and Helda Smyth, Julesburg high school students, worked eight-hour shifts on tractors with their brothers.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

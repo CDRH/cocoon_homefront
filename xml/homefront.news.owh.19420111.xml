@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19420111 SYSTEM "homefront.news.owh.19420111.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19420111">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Rigid Quotas for Machinery for Farmers</title>
+<author>Carlyle Hodgkin</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19420111</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Omaha World-Herald</title>
+<title level="a">Rigid Quotas for Machinery for Farmers</title>
+<title level="a" type="sub">Stress on Parts and Food Producing Tools, Equipment</title>
+<author>Carlyle Hodgkin</author>
+<biblScope type="pages">8-A</biblScope>
+<biblScope type="columns">1</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1942-01-11">1942-01-11</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-02</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-24</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19420111">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p8"/>
+<head type="main">Rigid Quotas<lb/>for Machinery for<lb/>Farmers</head>
+<milestone unit="smallbar"/>
+<head type="sub">Stress on Parts and<lb/>Food Producing<lb/>Tools, Equipment</head>
+<milestone unit="smallbar"/>
+<byline>By Carlyle Hodgkin</byline>
+<p rend="center">(World-Herald Farm Editor.)</p>
+
+<p>Any doubt about the realness of the coming scarcity of new farm machinery fades with study of the official quotas worked on by the government.</p>
+
+<p>The machinery companies can manufacture and sell in 1942, as an over-all average, 83 per cent as much equipment as they did in 1940.</p>
+
+<p>In "Schedule A of Limitation Order L 26" the government has listed every kind of farm machine or tool you can think of, giving the specific quota for each. These range from 353 per cent of 1940 for windrow pickup balers to 30 per cent for tractor plows of five bottoms or more and 11 per cent for steel grain bins.</p>
+
+<p>From these quotas the manufacturers have now figured out about what they can do and dealers over the country are beginning to find out how many machines of different kinds they can expect to get. Some of the figures make them gasp for breath.</p>
+</div1>
+
+<div1>
+<head type="sub">Pinch Worse Here</head>
+
+<p>As machinery men see it, the pinch, through the farming country will be more severe than the "83 per cent of 1940" sounds, and will be especially severe in the plains states, which include Nebraska.</p>
+
+<p>In 1941, prices of hogs, cattle, wheat and corn were better. Farmers everywhere bought a lot more machinery than in 1940. So the output for this year will be far less than 83 per cent of 1941.</p>
+
+<p>"Take our 1940 sales as 100," said one Omaha dealer, "and 1941 would be 180." Which means a quantity of machinery equal to 83 per cent of that firm's 1940 sales would be only 44 per cent of its 1941 sales.</p>
+
+<p>Another dealer estimated the total his firm gets to sell in 1942 probably will not be more than 50, or at the most 60, per cent of 1941.</p>
+
+<p>Another said his firm's national average in 1941 was 38 per cent above 1940 while for the Omaha district (Nebraska and western Iowa) it was up 67 per cent.</p>
+</div1>
+
+<div1>
+<head type="sub">Quotas Rigid</head>
+
+<p>Farm machinery men, while going the whole way to co-operate, generally think a more flexible plan might have been just to allot the manufacturers steel on the basis of '40 or '41 and then let them determine the quantity to be devoted to each individual item.</p>
+
+<p>For instance, the quotas permit 213 per cent of 1940 on cream separators of 350 to five hundred pounds capacity per hour but only 157 per cent on separators of more than five hundred pounds capacity per hour. Suppose a firm finds that because of increased dairying the demand is for the larger machine. It doesn't have to build up 213 per cent on the smaller machine but still t can't build over 157 per cent on the larger one.</p>
+</div1>
+
+<div1>
+<head type="sub">Farm Takes 3 Pct.</head>
+
+<p>Another question being given thought is this: With labor as drastically scarce as it will be, with emphasis on dairy, poultry and livestock, which takes a lot of hand labor, and with prospects good for a big 1942 crop to handle, is so stiff a cut in the quantity of steel going into farm machinery justified?</p>
+
+<p>One basic difference between agriculture and other types of war industry is pointed out: If a battleship is sunk or a bomber shot down or a munitions plant blown up by <sic corr="saboteurs">sabatours</sic>, the building of a new one can begin next day. But if a crop is lost you can't grow another one for a whole year.</p>
+
+<p>In the magazine "Farm Machinery and Equipment" H. T. Reishus of International Harvester company published a tabulation of total national supplies of materials and the percentage of the total going into farm machinery. The tabulation for some of the materials follows:</p>
+
+<p>Thus farm equipment in 1942, based on 138 per cent of 1940 instead of 83 per cent as the government has ruled, would take less than 3 per cent of the total supply of steel. And by now steel capacity is said to be boosted to something like 80 million tons a year instead of 61 million.</p>
+
+<p>The question is raised: Since farm equipment takes so smell a part of the nation's total steel, is a cut in its production a wise thing at all?</p>
+</div1>
+
+<div1>
+<head type="sub">Parts Quotas Higher</head>
+
+<p>On parts, however, the prospect is some better.</p>
+
+<p>The government clearly wants existing machinery kept in use by repairing whenever at all practical. The quota for parts in most every instance is substantially higher than the quota for the machine they fit on.</p>
+
+<p>Harvesting machinery, for instance, draws a variety of percentages&#8211;75 for grain binders, 92 per cent for combines under six feet, 76 per cent for corn binders, 84 per cent for beet lifters, but 160 per cent for parts for all kinds of harvesting machines.</p>
+
+<p>The USDA county and local defense board have been urging farmers to buy parts early and get their machinery turned up. The machinery people, both through their advertising and dealer service, have been encouraging the same thing. The agricultural extension service is organizing a series of farm machinery repair schools, soon to begin.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

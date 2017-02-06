@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.do.19401128 SYSTEM "homefront.news.do.19401128.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.do.19401128">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Army to Expand Its Expenditures at City Airport</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.do.19401128</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Daily Oklahoman</title>
+<title level="a">Army to Expand Its Expenditures at City Airport</title>
+<title level="a" type="sub">Heavier Service To Require Rugged Runway Bases</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Daily Oklahoman</publisher>
+<pubPlace>Oklahoma City, Oklahoma</pubPlace>
+<date value="1940-11-28">1940-11-28</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-27</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.do.19401128">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p1"/>
+<head type="main">Army to Expand<lb/>
+Its Expenditures<lb/>
+At City Airport</head>
+
+<head type="sub">Heavier Service<lb/>
+To Require Rugged<lb/>
+Runway Bases</head>
+
+<p>Addition of $270,000 to allocations to change Municipal airport into a military air base and boosting the outlay on the field to $685,000 appeared assured Wednesday, Chamber of Commerce officials announced.</p>
+
+<p>The new funds for which application already has been made to Washington will be added to the $415,000 program already approved. R. A. Singletary, manager of the chamber's Washington bureau, notified officials here Wednesday he feels approval of the additional expenditures virtually assured.</p>
+
+<p>Steady enlargement of the proposed force of army air corps officers and men along with the type of equipment they will use at the bombardment base here has necessitated a change in the original plans, chamber officials explained.</p>
+</div1>
+
+<div1>
+<head type="sub">Runways to Be Heavier</head>
+
+<p>In view of the size and type of aerial equipment to be used a new base material of greater durability and thickness must be used on the flying field, Singletary said. Much of the additional funds will be used on runways at the field.</p>
+
+<p>Enlargement of the plans here will call for larger outlays on lighting and drainage facilities at the airport. Such expenditures will be made possible with the additional funds.</p>
+
+<p>"The original base contemplated here would not be sufficient for the size and number of planes now planned," Singletary said.</p>
+
+<p>Size of the base and its proposed personnel have been raised repeatedly in recent months until now 350 officers and 4,200 enlisted men are expected here by the time the base is in full operation.</p>
+</div1>
+
+<div1>
+<head type="sub">Barracks Are in Addition</head>
+
+<p>Of the original expenditure planned on the field, the war department was to supply $181,000. Remainder of the $415,000 to come from the federal government was to be supplied by the work projects administration under contract to the war department.</p>
+
+<p>In his communication to chamber officials predicting approval of the new figure, Singletary indicated the war department likely will supply the additional $270,000 without help from WPA.</p>
+</div1>
+
+<div1>
+<head type="sub">Fickel to Be in Command</head>
+
+<p>Added to the expenditures on hangars, runways, lighting and similar equipment for the field itself will be an outlay of $1,400,000 allotted by the army for housing the air units. They will be stationed on 60 acres of airport property.</p>
+
+<p>Personnel to be stationed here will be members of the 48th Bombardment squadron, 15th Bombardment squadron, and the 37th Air Base detachment.</p>
+
+<p>Commanding the air units will be Major Gen. Jacob E. Fickel, March Field, Calif., who has been influential and helpful to city interests in obtaining the huge aviation improvement program.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19441022 SYSTEM "homefront.news.owh.19441022.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19441022">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Few Sign Up for Beet Harvest Work; Recruiter May Try to Enlist Mexicans</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19441022</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Sunday World-Herald</title>
+<title level="a">Few Sign Up for Beet Harvest Work; Recruiter May Try to Enlist Mexicans</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">15-A</biblScope>
+<biblScope type="columns">2-3</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1944-10-22">1944-10-22</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-24</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19441022">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p15"/>
+
+<figure>
+<figDesc>Robert Miller . . . listens to Mrs. M. A. Sadler's sales talk that he can earn from $10 to $12 a day topping beets.</figDesc>
+</figure>
+
+
+<head type="main">Few Sign Up for Beet Harvest Work;<lb/>Recruiter May Try to Enlist Mexicans</head>
+
+<p>If Mrs. M. A. Sadler, veteran recruiter of beet workers, doesn't get any better response than she has so far to her call for 150 men to top beets in the fields around Grand Island, she may have to look for them down in her old stamping grounds along the Mexican border.</p>
+
+<p>So far only a few have called at her newly established office on the fifth floor of the Old Merchants National Bank Building at 1222 Farnam Street, following her "go where the big money is" appeal.</p>
+
+<p>She has scoured South Omaha where she used to find Mexican workers who like to top beets, and visited the federal job agencies without much success. And only a few have called at her office.</p>
+
+<p>So she thinks she may try the Mexican border. There are plenty of Mexican workers down there. Of course, they are probably deep in the cotton fields. But she thinks when she tells them that the beet crop around Grand Island may be lost if it is not topped by November 15, and that the crop is so good they can make from $10 to $12 a day, they'll leave the cotton planters and follow her north.</p>
+
+<p>Several years ago when the Nebraska beet industry faced a similar crisis, Mrs. Sadler hurried south and sounded her appeal, "Vamos al batabel" (Let's go to the beets). Her plea, with her picture, appeared in the Texas papers. It took two special trains to transport to Nebraska  the thousand Mexican workers who signed up.</p>
+
+<p>An Iowa man, Robert Miller, who has been working on war housing projects in Nebraska and Iowa, was one of the first applicants. He used to top beets as a boy and thinks he'll do fine.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

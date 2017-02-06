@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.docs.0007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Farm Labor and Agricultural Production</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.docs.0007</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="a" type="main">Farm Labor and Agricultural Production</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages"></biblScope>
+<publisher>Kansas Agricultural Extension Service</publisher>
+<date value="1943-04-14">1943-04-14</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-24</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-10-16</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<head type="main">FARM LABOR<lb/>and<lb/>AGRICULTURAL PRODUCTION</head>
+<div1>
+<p>Kansas is one of the leading agricultural states of the nation. Within its borders are 29,000,000 acres of plowland utilized for crop production, and 19,000,000 acres of productive pasture.</p>
+
+<p>Kansas ranks first in wheat, supplying annually one-fifth of the nation's crop. In 1942, Kansas produced 206,661,000 bushels of this most important food grain, valued at more than $190,000,000. The April crop report recently released by the Bureau of Agricultural Economics, United States Department of Agriculture, in cooperation with the Kansas State Board of Agriculture, forecasts a 1943 wheat crop of 167,186,000 bushels, a yield of 16 bushels per seeded acre, on 10,499,000 acres seeded last fall.</p>
+
+<p>The tremendous worth of the Kansas wheat crop is annually surpassed by the value of livestock and livestock products, including meat, milk, butter, cheese, eggs, and wool. The state's livestock production in 1943 had a cash value in excess of $300,000,000. Estimates prepared by the United States Department of Agriculture, based on January 1, 1943, placed Kansas third among the states from the standpoint of all cattle on farms, with a total of 3,889,000 head; thirteenth in sheep and lambs, with 1,539,000 head; and eighth in chickens, totaling 20,338,000. Kansas is much more than self-sustaining with respect to the principal food commodities. A large proportion of its agricultural production is now available for the armed forces and for the civilian populations of this nation and her allies. This supply of food must pour fourth without interruption.</p>
+
+<p>Nineteen forty-two was a banner year for Kansas agriculture--the total production was the greatest in the history of the state, but further increases are called for in the 1943 goals. For example, Kansas has been asked to increase pork production 30 percent; egg production 14 percent; and the slaughter of beef cattle and calves 12 percent. Beef cattle numbers should not be increased for 1944, as the state total for that type of livestock is approaching the danger point when pasture and feed supplies are considered. Reaching or exceeding the slaughter goal for beef animals will mean a major contribution to the state's war program and will assist in maintaining a desirable balance in its agriculture. Kansas has been assigned one-fifteenth of the total beef cattle and calf slaughter goals for the United States.</p>
+
+<p>In striving for increased production in 1943 over the banner year of 1942, Kansas farmers are finding many difficulties to surmount. Among these are shortages in new machinery and repairs for old machines now in operation, restricted transportation facilities, limited supplies of protein feed, and most serious of all, a great reduction in the number of trained farm operators and workers now available. Kansans will do everything in their power to overcome these obstacles and to exceed the food production goals. Much depends upon unity of effort and neighborliness in a time of need, remembering that our state motto truly expresses the Kansas spirit--ad astra per aspera, (through adversity we reach the stars).</p>
+
+<p>Every effort must be made to compensate for <sic corr="the ever-growing">theever-growing</sic> shortage of skilled workers on Kansas farms.</p>
+
+<p>Efficient and full time use of available machinery and equipment will be an important factor. The best production practices which have been demonstrated by the successful farmers of the state, year after year, in cooperation with the Experiment Stations and Extension Service must be, in so far as possible, placed in effect on every farm. Exchange of work in communities during harvesting seasons may prove helpful. Many well-informed people are of the opinion that each community will have to depend in a large measure on its own resources to solve its labor shortages.</p>
+
+<p>There are sources from which farm labor can be recruited right here at home. In some cases farmers who have only sufficient acreage or livestock for part-time employment can increase their productive capacity by assisting neighbors, especially in haying and in harvesting  grain crops. Boys in towns who are not of military age can be trained to do farm work. The men of the villages and towns can volunteer to help as needed--most of them spending only a portion of the time which can be spared from their regular occupations. The women and girls from urban communities can do important work, also. There is much food to conserve for winter use. Some of this can be done on the share in farm homes, in other cases community canning centers may be provided. There are also hay and harvest crews to cook for and farm chores to be done.</p>
+
+<p>Some labor will be brought in from surplus areas, especially during periods of emergency. It is as yet uncertain how much help of this type will be available. Some experienced farm workers past 38 years of age are being returned from the Army to the farm. Recognition has been given to the vital need for essential farm workers through deferred classification under the Selective Service program, and some farm workers are returning from employment in construction camps and war industries.</p>
+
+<p>In the main, however, the farm labor shortage is an immediate and pressing problem demanding immediate action. Recent surveys made by County USDA War Boards indicate the probably shortage of farm labor in Kansas by months: April-5,000; May-7,000; June-20,000; July-25,000. This shortage must be supplied. It may take two boys to make one man, or three businessmen to replace one skilled farmer, but the help that is here must be utilized. It will take patience on the part of the farmer to train unskilled help. It will also require that sacrifices be made by townspeople unused to farm work under summer sun. All of this is incidental to getting the job done.</p>
+
+<p>It will take Kansas beef and Kansas bread to feed the liberty-loving people who fight and work and sacrifice in this war against oppression and tyranny. Kansas eggs and Kansas bacon will also help to start the day for our boys wherever they may be in <sic corr="all parts">allparts</sic> of this world-wide conflict. What a wonderful thing it is to want to help in a great cause, and how much more splendid it is to be able to help abundantly. Food alone will not win the war and write the peace, but the lack of the right kind of food in the right amounts in the right places at the right time can lose the war and make peace impossible.</p>
+
+<p><hi rend="underline">It</hi> <hi rend="underline">takes</hi> <hi rend="underline">labor</hi> <hi rend="underline">to</hi> <hi rend="underline">produce</hi> <hi rend="underline">food</hi>. Kansans are united in a common cause. Let there be no division lines between the people of the town and the people of the farm. All can be mutually helpful. The smallest Victory Garden and the largest ranch can both make important contributions to the food supply. The 1943 crop is the responsibility of all. It is equally important for those who can help to volunteer their services, and for those who need assistance to use these volunteers as effectively as possible. Each community and each neighborhood will organize in such manner that there will be no idle hands when important work needs doing.</p>
+
+<p>A comparison of the 1943 Kansas food production goals with those of 1942 clearly shows the great increase needed and the tremendous importance of Kansas agricultural production:</p>
+
+<div2>
+<table rows="18" cols="5">
+<head type="sub">KANSAS FOOD PRODUCTION GOALS</head>
+<row><cell role="label">Item</cell><cell role="label">Unit</cell><cell role="label">1942</cell><cell>1943</cell><cell role="label">Percent<lb/>increase<lb/>for 1943</cell></row>
+<row><cell role="disc">Eggs</cell><cell role="data">Dozen</cell><cell role="data">1,896,000</cell><cell role="data">2,160,000</cell><cell role="data">14</cell></row>
+<row><cell role="disc">Milk</cell><cell role="data">Pounds</cell><cell role="data">3,301,000,000</cell><cell role="data">3,320,000,000</cell><cell role="data">1</cell></row>
+<row><cell role="disc">Chickens</cell><cell role="data">Number<lb/>raised</cell><cell role="data">31,194,000</cell><cell role="data">34,937,000</cell><cell role="data">12</cell></row>
+<row><cell role="disc">Turkeys</cell><cell role="data">Number<lb/>raised></cell><cell role="data">1,064,000</cell><cell role="data">1,224,000</cell><cell role="data">15</cell></row>
+<row><cell role="disc">Cattle and calves</cell><cell role="data">Number<lb/>slaughtered</cell><cell role="data">1,787,120</cell><cell role="data">2,008,000</cell><cell role="data">12</cell></row>
+<row><cell role="disc">Spring and fall pigs</cell><cell role="data">Number<lb/>slaughtered</cell><cell role="data">3,234,000</cell><cell role="data">*4,206,000</cell><cell role="data">30</cell></row>
+<row><cell role="disc">Sheep and lambs</cell><cell role="data">Number<lb/>slaughtered</cell><cell role="data">1,123,200</cell><cell role="data">1,248,000</cell><cell role="data">11</cell></row>
+<row><cell role="disc">Milk cows</cell><cell role="data">Number</cell><cell role="data">773,000</cell><cell role="data">796,000</cell><cell role="data">3</cell></row>
+<row><cell role="disc">Corn</cell><cell role="data"></cell><cell role="data">3,254,000</cell><cell role="data">3,600,000</cell><cell role="data">11</cell></row>
+<row><cell role="disc">Grain Sorghums</cell><cell role="data">Acres</cell><cell role="data">1,574,000</cell><cell role="data">1,800,000</cell><cell role="data">14</cell></row>
+<row><cell role="disc">Irish Potatoes</cell><cell role="data">Acres</cell><cell role="data">24,000</cell><cell role="data">30,000</cell><cell role="data">21</cell></row>
+<row><cell role="disc">Sweet Potatoes</cell><cell role="data">Acres</cell><cell role="data">2,500</cell><cell role="data">5,000</cell><cell role="data">100</cell></row>
+<row><cell role="disc">Flaxseed</cell><cell role="data">Acres</cell><cell role="data">280,000</cell><cell role="data">320,000</cell><cell role="data">14</cell></row>
+<row><cell role="disc">Soybeans</cell><cell role="data">Acres</cell><cell role="data">212,000</cell><cell role="data">275,000</cell><cell role="data">30</cell></row>
+<row><cell role="disc">**Oats</cell><cell role="data">Acres</cell><cell role="data">1,970,000</cell><cell role="data">1,872,000</cell><cell role="data">**</cell></row>
+<row><cell role="disc">**Barley</cell><cell role="data">Acres</cell><cell role="data">1,803,000</cell><cell role="data">1,713,000</cell><cell role="data">**</cell></row>
+<row><cell role="disc">Wheat</cell><cell role="data">Acres</cell><cell role="data">11,372,000</cell><cell role="data">11,234,000</cell><cell role="data"></cell></row>
+</table>
+
+<p>*The state goal for hogs is figured on a litter average of 6 pigs.</p>
+<p>**Decreased acreage in these two crops is to provide for increased acreage in corn, grain sorghums, and other food and feed crops.</p>
+
+<p>These goals represent the absolute minimum of food and fiber needed to adequately supply the needs of our Armed Forces, our Allies, and our own civilian population.</p>
+</div2>
+
+<closer><signed>L. C. Williams.</signed> <date value="1943-04-14">April 14, 1943</date></closer>
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

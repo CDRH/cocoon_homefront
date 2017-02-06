@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.nf.19420711.01 SYSTEM "homefront.news.nf.19420711.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.nf.19420711.02 SYSTEM "homefront.news.nf.19420711.02.jpg" NDATA jpeg>
+<!ENTITY homefront.news.nf.19420711.03 SYSTEM "homefront.news.nf.19420711.03.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.nf.19420711">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Nebraska's 120 Thousand Fighting Farmers</title>
+<author>Henry W. Biedermann</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.nf.19420711</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Nebraska Farmer</title>
+<title level="a">Nebraska's 120 Thousand Fighting Farmers</title>
+<title level="a" type="sub"></title>
+<author>Henry W. Biedermann</author>
+<biblScope type="pages">6-7, 15</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Nebraska Farmer</publisher>
+<pubPlace>Lincoln, NE</pubPlace>
+<date value="1942-07-11">1942-07-11</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-02</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-24</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.nf.19420711.01">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p6"/>
+
+<figure>
+<figDesc>(Left) Paul Robertson, one of Jess Robertson's two sons, successfully brought 1,300 pullets through to maturity.</figDesc>
+</figure>
+
+<figure>
+<figDesc>(Right) The Robertson dairy herd of 16 cows is producing at the maximum on terraced pastures. Better feeding is increasing production.</figDesc>
+</figure>
+
+<figure>
+<figDesc>(Left) Three irrigation pumps with a total capacity of 2,800 gallons per minute furnish water for 180 acres on the Robertson, Madison county farm. The irrigation system was laid out by the Union Creek conservation district staff. Here Jess Robertson and his son, Paul, prime the pump for the first irrigation of the season.</figDesc>
+</figure>
+
+<figure>
+<figDesc>(Right) Ray, another Robertson son, is just finishing cutting an alfalfa field. High yields are a common occurrence on this farm.</figDesc>
+</figure>
+
+<figure>
+<figDesc>(Below) Paul's wife finds many vitamins in her farm garden which is grown under irrigation.</figDesc>
+</figure>
+
+<figure>
+<figDesc>(Right) Mother Robertson canned 225 quarts of fruit and vegetables last year. This will be doubled in 1942.</figDesc>
+</figure>
+
+<head type="main">Nebraska's 120 Thousand<lb/>Fighting Farmers</head>
+<byline>By HENRY W. BIEDERMANN</byline>
+
+<p>FARMERS in Nebraska are meeting the challenge to produce more food. They are exerting every effort to step up production of all food commodities, especially dairy products, pork and eggs. An abundance of rainfall throughout the entire state has created favorable growing conditions which practically assure a bumper crop of grain, hay and pasture. Many of these crops will in turn be converted into more concentrated products to feed the armed forces of this nation and her Allies.</p>
+
+<p>Pictured on these pages are a few of the many things Nebraska farmers and their families are doing to increase food production. They could be duplicated on most of Nebraska's 121,062 farms. The Jess Robertson farm in Madison county is a typical example of what is being done by these tillers of the soil. The  Robertson dairy herd has been increased by eight cows this year. Each cow is producing more than she did last year. Thirty-three sows have farrowed 300 pigs on this farm this year. Last year only 17 sows were kept and 156 pigs raised. Three irrigation pumps furnish water for 180 acres. Last year only 105 acres were irrigated. A total of 1100 chicks were brooded on this farm in 1941. This year the number was increased to 1300, but they are all pullets. The Robertson farm has 20 acres terraced and 60 acres is farmed on the contour. This progressive farmer and his two sons are taking advantage of the facilities and advice of the Union Creek Conservation district organization to put their farm in shape to produce the maximum, yet maintain its fertility and top soil by the prevention of erosion.</p>
+
+<p>The 15 Holsteins in the Linus Chase herd in Pawnee county produced 55,379 pounds of butterfat in 1941 or an average of 363.6 pounds per cow. His cows have always produced at the maximum of their ability, so when it came to meeting a higher goal of dairy production on this farm, the only thing to do was to increase the number of cows.</p>
+
+<p>Emil Rinne of Pawnee county is a member of the board of supervisors of the Turkey Creek Conservation district. Of his 320 acres, 125 are terraced. Besides sending one son to the army, this family has shown its patriotism by increasing production along all lines, the greatest being in the beef herd, which has been doubled in size. There are only a few of the many examples of what farmers in this state are doing to "Keep Them Eating!" When the efforts of the few we have space to tell about are multiplied 120 thousand fold, a fair idea can be gained of what this extra effort will amount to for the entire state.</p>
+
+<p>On every Nebraska farm there is a dramatic story of sacrifices, hard work, long hours. Farm women and children are filling the vacant places left by sons and brothers off at war. Lights burn early and late in farm buildings as farmers crowd many arduous tasks into an all-too-short day.</p>
+
+<p>The results of the farmer's labor, however, are gratifying and he sees production goals met and shattered. He does not complain but faces a turbulent world with a resolute determination to do even better. He counts not the cost but says, "Give me the tools and I will feed the world."</p>
+
+<p>Nebraska farmers were faced with drouth depleted herds at the outbreak of the war, but in spite of these handicaps they are producing their full share of the quotas set by the U.S. Department of Agriculture.</p>
+
+<p>The egg goal calls for 120,083,000 dozens of eggs from Nebraska farms in 1942. In May, this year, over 2 million more hens cackled in Nebraska hen houses as 10,846,000 biddies proudly proclaimed that each one of them laid an average of one more egg during May than their 8,751,000 sisters did last year. In that month, this year, Nebraska hens laid 45 million more eggs than for the same month last year. They fairly "busted" themselves during the first five months of the year by producing 844 million "cackle berries". . . nearly 200 million more than for the same period a year ago. The battle was more than half won by the end of May with 70 and one-third million dozens of the 120 million dozen egg goal already in the egg basket.</p>
+
+<p>Reports from commercial hatcheries show that 17 percent more youngsters were "peeping" in Nebraska brooder houses than a year
+
+<pb n="p7"/>
+
+<figure entity="homefront.news.nf.19420711.02">
+<figDesc></figDesc>
+</figure>
+
+<figure>
+<figDesc>Caroline Chase, 16-year-old daughter of Linus Chase, Pawnee county farmer, takes pride in her ability to help with the food production program on her father's farm.</figDesc>
+</figure>
+
+<figure>
+<figDesc>Linus Chase finds a mixture of alfalfa and brome grass hay an ideal feed for dairy cows.</figDesc>
+</figure>
+
+<figure>
+<figDesc>(Above) "Bring him safely home." The Emil Rinne family is carrying on a program of increased production in spite of the fact that one son is in the army.</figDesc>
+</figure>
+
+<figure>
+<figDesc>(Left) Margaret and Katherine Stewart of Friend, have acted as their father's "hired men" since their brother was called into the service. Staff photo.</figDesc>
+</figure>
+
+<figure>
+<figDesc>(Below left) Emil Rinne doubled his beef cattle herd this year.</figDesc>
+</figure>
+
+<figure>
+<figDesc>(Below) Nebraska's 1942 pig crop will be the largest since 1934. Photo by Kenneth Aikens.</figDesc>
+</figure>
+
+ago. They will be developed mostly by the master hands of Nebraska farm women to take their places in the laying houses and in turn, furnish an increased number of eggs this coming year.</p>
+
+<p>The Oink! Oink! of the lowly porker is again being heard on an ever increasing number of Nebraska farms where but a few years ago old corn cobs an caked mud were the only reminders of previous habitation by this much acclaimed mortgage lifter. This year, 1,084,000 more little pigs nuzzled the udders of indulgent, patient mothers whose offspring will not meet the fate of a "kill the little pig campaign," but will live to become great big pigs whose savory pork chops will grace some soldier's mess kit and whose lard will grease many a skillet or take final form in a flaky pie crust. Nebraska's 1942 spring pig crop is estimated at 3,106,000 head, the largest since 1934, and 54 percent greater than last year.</p>
+
+<p>Nebraska farmers were asked to produce fifty and a quarter million pounds of mutton during 1941. During the first four months of the year, market receipts showed a 7 percent increase. Shipment of lambs and sheep to country points for feeding during the first five months of 1942, were three times as great as for the same period in 1941. Farm flocks have been gradually increasing in size and in number during the past few years and it is expected that wool clip in Nebraska, this year, will be materially increased.</p>
+
+<p>Dale Stewart, chairman of the American Dairy association of Nebraska, estimates that Nebraska will have a total of 653 thousand dairy cows this year, which are expected to produce 3&#189; billion pounds of milk. Other authorities are not quite so optimistic and some feel that Nebraska will do well to meet the goal of 644,000 dairy cows and 2,990,000,000 pounds of milk. The cows farmers are milking are giving down every ounce and it is expected that the average production per cow will be increased. Better feed conditions in all parts of the state and the special effort being exerted by their owners in their feed and care will make it possible for this state to meet if not exceed its dairy goal. Cheese and powdered milk are being manufactured by several Nebraska companies and many thousands of tons of these products have been shipped to our Allies.</p>
+
+<p>If beef is rationed in this country it will not be because Nebraska stockmen have not done their full share of increasing production. During the first four months of 1942, marketings of cattle and calves in this state showed an increase of about 13 percent. Shipments to country points for the first five months of 1942, were up 20 percent over 1941. It appears that the percentage of calf crop is as good or better than last year. Range and pasture conditions are excellent and it can be expected that these factors together with the plentiful crop of feed grains in prospect will make possible a sizeable increase in beef production. Nebraska's goal for 1942 is 1,598,000 head of cattle and calves.</p>
+
+<p>It is estimated that twenty million more bushels of golden wheat will flow from combines and threshing machines in Nebraska, this year, than in 1941.</p>
+
+<note type="editorial" rend="jumpline">(CONTINUED ON PAGE 15)</note>
+
+<pb n="p15"/>
+
+<figure entity="homefront.news.nf.19420711.03">
+<figDesc></figDesc>
+</figure>
+
+<note type="editorial" rend="jump">
+<note type="editorial" rend="mainhead">Fighting Farmers</note>
+<note type="editorial" rend="jumpline">(CONTINUED FROM PAGE 7)</note>
+</note>
+
+<p>Nebraska's wheat acreage goal is 365 thousand acres less than it was last year, but favorable conditions have boosted the indicated yield to 19 bushels per acre with a very small percent of abandonment. In spite of the special emphasis on such foods as eggs, milk and fats, wheat is still an important food product. Out Home Circle editor points out in another article in this issue that bread is the largest single food item in our army. Nebraska will continue to furnish her share of this vital food. The 54,238,000 bushels of wheat Nebraska farmers expect to harvest this year is the largest crop since 1931.</p>
+
+<p>Grain feed crops with which to feed the increasing numbers of livestock will be produced in abundance. Barley planting intentions were well above the goal of 1,900,000 acres. A good crop of both oats and barley is in prospect. The goal of one million acres of tame hay will be exceeded by a considerable margin. The heaviest crop of wild hay in years is in prospect in the range country.</p>
+
+<p>It is expected that the goal of 7,805,000 acres of corn for Nebraska will be reached if not exceeded. Half of the corn acreage in Nebraska is planted to Hybrids and these improved varieties will be an important factor in increasing the total as well as the yield per acre.</p>
+
+<p>Beet growers can be expected to do their bit to alleviate the sugar shortage and will undoubtedly be able to follow through with the 25 percent increase in plantings indicated early in the season.</p>
+
+<p>Much of the state is not adapted to the growing of soybeans, however, in areas where this crop can be grown, the goal of 30,000 acres is expected to be exceeded by a considerable margin.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

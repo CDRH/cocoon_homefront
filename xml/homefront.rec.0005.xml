@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.rec.0005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Appendix to the Congressional Record (January 10, 1941)</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.rec.0005</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Appendix to the Congressional Record</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date value="1941-01-10">(January 10, 1941)</date>
+<biblScope type="pages">A71-A72</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-01-16</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Validation</item>
+</change>
+<change>
+<date>2007-01-08</date>
+<respStmt>
+<name>Paul Fajman</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>2006-11-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+
+<head type="main">Views of the Middle West on Questions of the Day</head>
+<milestone unit="smallbar" />
+<head type="sub">EXTENSION OF REMARKS<lb />
+OF<lb />
+HON. CHAN GURNEY<lb />
+OF SOUTH DAKOTA<lb />
+IN THE SENATE OF THE UNITED STATES<lb />
+<milestone unit="smallbar" />
+Friday, January 10, 1941</head>
+<milestone unit="smallbar" />
+<head type="sub">EDITORIALS FROM THE YANKTON (S. DAK.) PRESS AND DAKOTAN</head>
+<milestone unit="smallbar" />
+
+	<p>Mr. Gurney.  Mr. President, I ask unanimous consent to have two editorials printed in the Appendix of the RECORD. These editorials will be unusual in the sense that, while it is not unusual to find in the RECORD editorials from Washington, new York, and other eastern newspapers, we do not see many from the Middle West. So I feel, at this time, it is proper that there should be printed in the RECORD editorials indicating how the people of the Middle West are now thinking on questions of the day. So I offer for the RECORD two editorials written by Mr. Fred H. Monroe, a very capable and well-informed man, who is editor of my home town paper. One editorial is entitled "President's Message," and the other "Our Peace Role."</p>
+	<p>There being no objection, the editorials were ordered to be printed in the RECORD, as follows:</p>
+
+<p rend="center">[From the Yankton (S. Dak.) Press and Dakotan of January 7, 1941]</p>
+<p rend="center">PRESIDENT'S MESSAGE</p>
+	<p>If any doubt had remained concerning this country's foreign policy following President Roosevelt's recent fireside chat, delivered just before the close of the old year, it must have been pretty well dispelled by the declarations in his message to the new Congress yesterday on the state of the Nation.</p>
+	<p>The foreign peril of the aggressor nations is now this country's paramount concern to which our "actions and our policy should be devoted primarily&#8211;almost exclusively," the President declared, because "our domestic problems are now a part of the great emergency."</p>
+	<p>The United States is now committed, he boldly told Congress and the world, not only to "all-inclusive national defense" and to "full support of all those resolute peoples everywhere who are resisting aggression and are thereby keeping war away from our hemisphere," but to "the proposition that principles of morality and considerations for our own security will never permit us to acquiesce in a peace dictated by aggressors and sponsored by appeasers."</p>
+	<p>This means, of course, that the United States is committed to complete defeat of the aggressors in Europe and in Asia by any steps that may be found to be necessary. There is no room for a compromise or negotiated peace in this program, for Mr. Roosevelt specifically ruled that out. It is for complete victory that he obligates the United States.</p>
+	<p>Peace must embody four "essential human freedoms," not merely for the Western Hemisphere but for the entire world, he emphasized. These he listed as freedom of speech and expression, freedom of every person to worship God in his own way, freedom from want, and freedom from fear&#8211;the last involving a world-wide reduction in armaments.</p>
+	<p>It is doubtful if the idealism of democracy has every been better stated in a general way, or a more clear summary made of the basis upon which any sound world peace actually must rest.</p>
+	<p>Like President Wilson, however, Mr. Roosevelt conceives it to be our duty to compel acceptance of those ideals by the world at large. He feels we should try again to "make the world safe for democracy"&#8211;something we failed miserably to do some 20 years ago.</p>
+	<p>Unless those who oppose our ideas can be persuaded by argument and threat to accept them, such a course can only mean war.</p>
+	<p>Mr. Roosevelt's message was just that&#8211;a personal declaration of war.</p>
+
+<milestone unit="smallbar" />
+
+<p rend="center">[From the Yankton (S. Dak.) Press and Dakotan of January 6, 1941]</p>
+<p rend="center">OUR PEACE ROLE</p>
+	<p>Does the United States owe Europe and the world its services as peacemaker? If so, to what extent and how?</p>
+	<p>No one questions any longer the intense interest of the United States in the war and its outcome. All agree that our own future must be lived out in the world which emerges from the war.</p>
+	<p>It is a war we did not will. True, it has been argued that the United States egged some of the European countries into resisting in 1939. That is sheer bosh. It is inconceivable that either the Germans, in starting the war on Poland, or the English or French in their decision to resist, were influenced to any measurable extent by what the United States thought or might do. It is true that the British undoubtedly counted on being able to obtain supplied from the United States, but that was implicit in her situation as mistress of the seas, not in any promises, policies, or exhortations from this side of the Atlantic.</p>
+	<p>The war, let us repeat, was not of our making. By the same token, the decision as to how long it is to be carried on is not our own.</p>
+	<p>It would ill become the United States to put excessive pressure for peace on any country which believes it is temporarily on the short end of a fight for a righteous and vital cause. It would equally ill become the Untied States to say, "You are fighting my fight, though I prefer to remain aloof. Get in there and keep fighting, no matter what t costs you." the man who draws no cars in the game has no right to kibitz.</p>
+	<p>As long as the United States continues to feel that its interests are not strongly enough affected to warrant going to war, it must also feel that its interests do not warrant a judgment as to how long the fight shall go on, or what shall be the settlement.</p>
+	<p>One of President Wilson's reasons for urging neutrality in thought and deed in 1914 was that he felt that the United States might become the peacemaker. As late as January 1918 he made his "peace without victory" speech with its famous phrase, "Only peace between equals can last." It was a failure. The time never came when both sides at once really wanted peace.</p>
+	<p>Peace feelers are a recognized technique of warfare, especially in these days when propaganda is worth many divisions. The United States now faces this hard duty: To take up and further no false peace moves advanced mainly for their possible effect on the war, and yet to avoid becoming more "bitter-end" than the belligerents themselves.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

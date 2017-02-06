@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.rcdj.19441013.01 SYSTEM "homefront.news.rcdj.19441013.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.rcdj.19441013.02 SYSTEM "homefront.news.rcdj.19441013.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.rcdj.19441013">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Unlucky Farmers Will Pick Corn All Winter</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.rcdj.19441013</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Rapid City Daily Journal</title>
+<title level="a">Unlucky Farmers Will Pick Corn All Winter</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1, 2</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Rapid City Daily Journal</publisher>
+<pubPlace>Rapid City, SD</pubPlace>
+<date value="1944-10-13">1944-10-13</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-25</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.rcdj.19441013.01">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">Unluck Farmers Will<lb/>Pick Corn All Winter</head>
+<milestone unit="smallbar"/>
+
+<p>Huron, Oct. 13&#8211;(AP)&#8211;Consider the plight of South Dakota's corn farmer, despite the fact he's going to reap one of the greatest yields in the state's history.</p>
+
+<p>If he has to husk it by hand, it probably will take him all winter, or longer, to get it in the crib.</p>
+
+<p>If he's one of the lucky ones in nearly nine who will be permitted to buy a mechanical picker under the rationing plan, where is he going to get enough help to keep the wagons empty? In 60-bushel per acre corn, of which there will be a considerable acreage, it is estimated that a two-row picker will lead up 60 bushels every 30 minutes. One, or even two men, cannot shovel corn that fast.</p>
+
+<p>South Dakota has been allotted 1,423 machine pickers this year, and state AAA headquarters here estimates more than 9,000 applications already are on file with county farm machinery rationing committees.</p>
+
+<p>Here's how AAA officials handling the rationing program proposes to ease the disappointment of those who are denied the opportunity of buying machines:</p>
+
+<p>1. The purchaser of every machines has agreed to pick at least
+
+<note type="editorial" rend="jumpline">(Page 2, Column 6)</note>
+
+<pb n="p2"/>
+
+<figure entity="homefront.news.rcdj.19441013.02">
+<figDesc></figDesc>
+</figure>
+
+<note type="editorial" rend="jump">
+<note type="editorial" rend="mainhead">UNLUCKY FARMERS</note>
+<note type="editorial" rend="jumpline">(From Page One)</note>
+<milestone unit="smallbar" />
+</note>
+
+800 acres of his neighbors' corn, in addition to his own. The prevailing rates for such custom work are between $3 and $4 per acre, AAA representatives indicate.</p>
+
+<p>2. Farmers are urged to organize "picking rings," similar to threshing rings, so that enough wagons and handlers will be available to keep each machine going steadily. Where portable elevators are not available, it is estimated that a crew of three of four scoopers will be required to keep the wagons empty.</p>
+
+<p>3. It is suggested that farmers fence in areas of their corn fields and let livestock eat it off the stalks. E. L. Jacobsen, head of the AAA's rationing department, told of one farmer in the eastern part of the state who bought a carload of cattle and a carload of sheep to turn in a field he has just fenced. Others are fencing off parts of a field at a time, then moving the fence as the animals clean up the corn.</p>
+
+<p>Hand pickers are in great demand, and next week W. E. Dittmer, head of the extension service's labor office, is calling meetings of county agents in various points throughout the corn-growing areas to seek means of meeting the problem. Some labor will be sought from countries in which little corn is grown, it was learned. Wage scales for this work will vary according to yields, farm leaders said, but nothing less than 10 cents per bushel is being offered so far.</p>
+
+<p>The head of one county rationing committee sends away unlucky applicants for machine pickers this way:</p>
+
+<p>"Just start picking by hand now and keep on picking as long as the snow doesn't stop you. If you don't get it all picked this winter or spring, and even if you have to pick some of it next summer, you'll still be ahead of the game, because this year's crop probably will yield more corn than in any two years during the past 20."</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<div1>
+<p>Sioux Falls, Oct. 13&#8211;(AP)&#8211;A record yield on an acreage basis of all South Dakota corn at 35 bushels was estimated today by the state crop reporting service.</p>
+
+<p>Total production, though not a record, was calculated at 128,975,000 bushels, which would be the largest corn crop since the 144-million-bushel production of 1927.</p>
+
+<p>There have been eight years in the record beginning with 1882 when corn yield reached the 30-bushel mark, but the 35-bushel prospect for 1944 is two barrels greater than the previous high of 33 bushels per acre in 1942.</p>
+
+<p>This year's yield may be compared with 22.5 bushels per acre in 1913, indicating production this year would be three-fifths greater than 1943's crop of 79,718,000 bushels.</p>
+
+<p>Delay in arrival of killing frosts was beneficial and only scattered fields will be soft compared with 15 to 18 percent of the production which was immature or soft two years ago, according to Samuel J. Gilbert, statistician in charge of the reporting service.</p>
+
+<p>Due to the unfavorable weather in September, a considerable quantity of small grain remains to be threshed, with some deteriorating badly in the shock from rotting and sprouting. The yields of small grain are estimated the same as a month ago with the exception of durum wheat which is now 10.5 bushels per harvested acre compared with 1.5 last month and flaxseed at 8.5 compared with nine bushels a month ago.</p>
+
+<p>Reports from farmers indicate the supply of labor for corn picking is only 50 percent of normal while the demand is 103 percent.</p>
+
+<p>Wage returns on Oct. 1 reached the highest level ever recorded. Hired help received an average of $92.50 per month with board as compared with $78.75 a year earlier. Wages paid per day with board the first of October where $5.50 compared with $4.70 on that date last year.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

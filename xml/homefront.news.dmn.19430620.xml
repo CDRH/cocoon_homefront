@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dmn.19430620 SYSTEM "homefront.news.dmn.19430620.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dmn.19430620">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Average Soldier on Week End In Dallas Not Rowdy With Girls Or Liquor; 1.67 Per Cent Jailed</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dmn.19430620</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Dallas Morning News</title>
+<title level="a">Low-Flying Fortress 'Bombs' City Home With Lead Weight</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">8</biblScope>
+<biblScope type="columns">6-7</biblScope>
+<publisher>Dallas Morning News</publisher>
+<pubPlace>Dallas, Texas</pubPlace>
+<date value="1943-06-20">1943-06-20</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-22</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.dmn.19430620">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p1"/>
+<head type="main" rend="italic">Average Soldier on Week End<lb/>
+In Dallas Not Rowdy With Girls<lb/>
+Or Liquor; 1.67 Per Cent Jailed</head>
+<milestone unit="smallbar"/>
+
+<p>The average soldier on week-end leave in Dallas is not a liquor-toting, woman-chasing rowdy.</p>
+
+<p>He's probably the best-behaved soldier in the history of the Army, military police believe, and Saturday they gave this picture of his conduct:</p>
+
+<p>An average of 6,000 are here Friday through Sunday; Dallas is one of the largest concentration centers for soldiers on leave in the Southwest.</p>
+
+<p>Only one out of sixty&#8211;1.67 per cent&#8211;is picked up for disturbance and misconduct.</p>
+
+<p>Nearly 85 per cent come here primarily for visiting friends and relatives and spend much of their time in homes and servicemen's clubs where they conduct themselves creditably.</p>
+
+<p>Last week end was typical. Nearly 6,000 soldiers were here, the military police said, and only 100 were picked up and taken to the stockade.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">Beer Joint Trouble.</head>
+
+<p>Nearly all of the complaints were for drunkenness and fighting.</p>
+
+<p>Most of the trouble is centered in downtown Dallas in the beer joints and taverns, the police say. These areas are carefully watched by fifty-five military police on duty every week end who travel in pairs and apprehend the intoxicated almost as quickly as the beer or whisky hits him. There are no military police in the residential section.</p>
+
+<p>Most of the soldiers on Dallas streets are from this immediate vicinity. The others come from Camp Barkeley, Camp Howze, Camp Hood, Camp Wolters, Perrin Field and a few from San Antonio.</p>
+
+<p>Stern measures are taken, however, by the Army in case of a disturbance. In wartime the military assumes jurisdiction over its personnel and should a soldier be picked up for being drunk by civilian police he would immediately be turned over to military officials.</p>
+</div1>
+
+<div1>
+<head type="sub">Sober Up in Stockade.</head>
+
+<p>If he's drunk, he's placed in the stockade on Young and Austin and kept there until he's sober and ready to go on his way. What the military police tell him was not divulged. If he has overstayed his leave he is held here for apprehensive by his commanding officer.</p>
+
+<p>The record of conduct, Army men believe, is due to the fact that men have to train much harder this war than last and they are forced to maintain harder and stricter schedules. Another big factors is that the average soldier in World War II is more serious-minded.</p>
+
+<p>The percentage of soldier-drunkenness in this war is far below that of the last war, the police said.</p>
+
+<p>Chief of Police J. M. Welch said he thought the soldiers were remarkably well behaved, probably better than average. Sheriff Smoot Schmid said that in view of the fact most of the men in uniform are far away from their homes they acted particularly well&#8211;much better than a group of civilians under similar circumstances.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

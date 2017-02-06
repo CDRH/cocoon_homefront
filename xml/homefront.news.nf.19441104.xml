@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.nf.19441104.01 SYSTEM "homefront.news.nf.19441104.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.nf.19441104.02 SYSTEM "homefront.news.nf.19441104.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.nf.19441104">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Corn Harvest Is Big Job</title>
+<author>Everett T. Winter</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.nf.19441104</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Nebraska Farmer</title>
+<title level="a">Corn Harvest Is Big Job</title>
+<title level="a" type="sub">Men, Women, Machines, and Livestock Are Helping</title>
+<author>Everett T. Winter</author>
+<biblScope type="pages">4, 14</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Nebraska Farmer</publisher>
+<pubPlace>Lincoln, NE</pubPlace>
+<date value="1944-11-04">1944-11-04</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-02</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-24</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.nf.19441104.01">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p4" />
+
+<figure>
+<figDesc>Clarence Raabe, Stanton, uses a two-row mechanical cornpicker to harvest his big crop.</figDesc>
+</figure>
+
+<figure>
+<figDesc>Below: Corn being elevated into the crib on the Markle brothers' farm near Denton.</figDesc>
+</figure>
+
+<figure>
+<figDesc>Above: Two Lancaster county farmers and their county agent decided that the corn is dry enough to crib. Left to right: Arius Markle, Country Agent V.H. Petersen, and Truman Markle.</figDesc>
+</figure>
+
+<figure>
+<figDesc>Right: Glen Mitchell, Sprague, bought 400 hogs to harvest 100 acres of corn. Below: One electrified barbed wire fence controls the hogs in Mitchell's corn field.</figDesc>
+</figure>
+
+<head type="main">Corn Harvest Is Big Job</head>
+<head type="sub">Men, Women, Machines, and<lb/>Livestock Are Helping</head>
+<byline>By EVERETT T. WINTER,<lb/>Agricultural Extension Service</byline>
+
+<p>NEBRASKA farmers planted and cultivated their record breaking 328 million bushel 1944 crop of corn under all of the handicaps of war and they will get it harvested under the same conditions.</p>
+
+<p>The gathering of the crop started in the northeast part of the state and then all at once the sound of the ears on the bang board and the click and chug of the mechanical pickers was to be heard all over Nebraska. Few and isolated are the spots in the cultivated crop counties of Nebraska this year that have no corn to pick.</p>
+
+<p>Just when the mammoth job will be completed no one knows to the day, but A. H. Maunder, state farm labor supervisor at the College of Agriculture, still believes that there will be no food lost in Nebraska because there is no way to harvest it. Each of the 100,000 corn growers of the state has a pretty good ideas as to how he is going to harvest and market his corn. True there are 1,500 filled orders for corn pickers in the county agents' offices over the state as the corn picking season opens, but workers are begin brought in from other states, Mexican Nationals are being used, prisoners-of-war are being used, and many townspeople and high school students are taking time off to do their bits in this all important task of bringing in the crop.</p>
+
+<p>There will be some soft corn, especially in the areas of the state where floods delayed planting last spring. There will be much custom picking this fall and winter by those who own corn picking machines.</p>
+
+<p>In Gage county, corn will average about 37 bushels to the acre on about 185,000 acres, according to County Agent Kenneth Reed. Less than 5 percent of the total will be soft corn. Reed says there are about 100 mechanical pickers in Gage county and that most machines will be equipped with lights and will be operated day and night.</p>
+
+<p>To keep corn that might be a little wet from piling up too fast, many of the custom pickers in Gage county are planning to pick for just a day at a time for a number of farmers. The farmers using these custom pickers are filling in ditches in the fields to save the machines' time and they are rigging up the biggest and best wagons they can find for hauling corn.</p>
+
+<p>York county is expecting to harvest 4,000,000 bushels of corn in 1944. How to harvest this all-time production record is on the mind of practically every farmer in the county. There are about 130 mechanical corn pickers in the county. They cannot possibly harvest the corn on more than 600 to 700 farms, which means that 1,000 to 1,100 farmers must depend on their own labor, plus what hired labor can be secured. Their county labor committee has asked for 100 out-of-state laborers.</p>
+
+<p>Perkins county is planning to import about 100 men from the south to help get their bumper crop into the cribs.</p>
+
+<p>Farmers everywhere have made plans for the enormous job of harvesting this great wartime crop. For example, Paul Egger, prominent Lancaster county farmer, has made a deal with Mathias Geistlinger, a 65-year-old retired farmer, to help him get his corn harvested. On nice days, Mrs. Geistlinger helps her husband and last fall the two of them brought in as much as 55 bushels of corn in a half day. Alone, Mr. Geistlinger can pick 65 bushels per day and last fall he picked more than 1,500 bushels for Egger.</p>
+
+<p>Apparently a lot of town and city folks are hoping to help pick corn over Nebraska this fall also. Paul Hellerick, a middle-aged man whose regular job is driving a bread truck in Lincoln, is planning on taking a 30-day leave from his regular job to pick corn.</p>
+
+<p>W. F. Rumbaugh, whose regular job is with the Weather Bureau, is taking his two weeks vacation in the corn fields of Lancaster county. He has never picked corn before, but has made arrangements to help out a farmer near Lincoln.</p>
+
+<p>Soldiers on leave, soldiers' wives whose husbands are stationed out here in the corn belt, prisoners-of-war, school boys and farm reared businessmen, and farm women folk will all be seen in Nebraska's corn fields this fall. With an even break on the weather, most farmers agree that all of Nebraska's great crop will be gathered in due time.</p>
+
+<p>The going wage for corn picking in most eastern Nebraska counties is 10 cents per bushel where an elevator is furnished and 11 cents where the corn has to be scooped. Other deals are made where the corn pickers board and room themselves or where there is some other unusual circumstance.</p>
+
+<p>Glen Mitchell, farmer near Sprague, isn't worried too much about the shortage of man or mechanical pickers, nor is he <orig reg="particularly">particu-</orig>
+
+<note type="editorial" rend="jumpline">(CONTINUED ON PAGE 14)</note>
+
+<pb n="p14"/>
+
+<figure entity="homefront.news.nf.19441104.02">
+<figDesc></figDesc>
+</figure>
+
+<note type="editorial" rend="jump">
+<note type="editorial" rend="mainhead">Corn Harvest</note>
+<milestone unit="smallbar" />
+<note type="editorial" rend="jumpline">(CONTINUED FROM PAGE 4)</note>
+</note>
+
+larly interested in the price to be paid for corn picking. He has fenced n 100 acres of his corn with an electric fence about ten inches from the ground and has turned in between 300 and 400 hogs.</p>
+
+<p>Two brothers, Arius and Truman Markle, near Denton in Lancaster county, own a two row machine and have promised to pick 100 acres of corn for a neighbor. These farmers started picking their corn October 11 and they were of the opinion that the corn was dry enough to crib that early, but the early picked corn was piled slowly in the cribs. With their two-row machine the Markle boys have picked as much as 1,000 bushels in a day.</p>
+
+<p>The Johnson brothers, Walt and Harold, of Phelps county out of near Loomis, are harvesting what they estimate to be a crop of 48,000 bushels of corn.</p>
+
+<p>The Johnsons, in partnership with Charles Regelin and John Meier, own a two-row corn picker that they expect to keep busy until 1,200 acres of corn are picked. The Johnson have 600 acres of corn, Regelin and Meier have about 500 acres between them and the crew expects to shuck 100 acres of corn for another neighbor, Quinten Broberg, before the cornhusking season closes. This enormous pile of corn comes from both irrigated and non-irrigated land. The non-irrigated corn is estimated to yield from 30 to 40 bushels to the acre and the irrigated will yield from 50 to 60 bushels to the acre.</p>
+
+<p>In Saunders county, County Agent Ray Russell, reports the need of 100 corn pickers at once. Corn there, in his opinion, is averaging about 40 bushels to the acre and it is easy to find corn in that county making twice that.</p>
+
+<p>Farmers with mechanical pickers are lining up to keep their machines in "full swing" in Sarpy county. Bernard Schram, Papillion farmer, estimates he will probably get 15,000 bushels picked in addition to his own corn. Last year Archie Miller, La Platte, picked nearly 30,000 bushels in his neighborhood.</p>
+
+<p>If the weather permits there is no doubt but that many corn picking machines this year will operate twenty-four hours a day, using lights at night.</p>
+
+<p>At Walthill it has been reported that new ear corn has been selling at the elevators for 90 cents per 80 pounds. Some of this contains as much as 35 percent moisture. From Johnson county comes a report that one sale of 2,000 bushels of new ear corn had been a $1 for 80 pounds.</p>
+
+<p>Driving through northeast Nebraska the casual observer gets the impression that there are far more sheep harvesting the corn crop this year than usual. Several bands of sheep numbering into the hundreds were seen in the vicinity of Wakefield, Oakland, and Lyons.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

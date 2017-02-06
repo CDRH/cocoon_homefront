@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.docs.index">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Government Documents</title>
+                <author/>
+                <principal>R. Douglas Hurt</principal>
+                <respStmt>
+                    <resp>Project Team</resp>
+                    <name>Katherine Walter</name>
+                    <name>Brian Pytlik Zillig</name>
+                    <name>Laura Weakly</name>
+                    <name>Zach Bajaber</name>
+                    <name>Nic Swiercek</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2007</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>homefront.docs.index</idno>
+                <authority>The Home Front in the Great Plains During World War II,
+                    1939&#8211;1945</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+                </distributor>
+                <date>2007</date>
+                <availability>
+                    <p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all
+                        rights reserved. Redistribution or republication in any medium, except as
+                        allowed under the Fair Use provisions of U.S. copyright law, requires
+                        express written consent from the editors and advance notification of the
+                        publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project"> </note>
+            </notesStmt>
+
+
+        </fileDesc>
+
+        <profileDesc>
+            <textClass>
+                <keywords n="topic">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date>2007-10-17</date>
+                <respStmt>
+                    <name>Nic Swiercek</name>
+                </respStmt>
+                <item>Initial Encoding</item>
+            </change>
+            <change>
+                <date>2007-10-15</date>
+                <respStmt>
+                    <name>Nic Swiercek</name>
+                </respStmt>
+                <item>Transcription</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div1>
+                <head type="main">Government Documents</head>
+
+            </div1>
+
+
+
+            <div2>
+                <head type="sub">Congressional Records</head>
+                <ref n="homefront.rec.0001.html">Congressional Record-Senate (November 25,
+                    1940)</ref>
+                <lb/>
+                <ref n="homefront.rec.0002.html">Appendix to the Congressional Record (October 2,
+                    1939)</ref>
+                <lb/>
+                <ref n="homefront.rec.0003.html">Appendix to the Congressional Record (April 24,
+                    1940)</ref>
+                <lb/>
+                <ref n="homefront.rec.0004.html">Appendix to the Congressional Record (July 18,
+                    1939)</ref>
+                <lb/>
+                <ref n="homefront.rec.0005.html">Appendix to the Congressional Record (January 10,
+                    1941)</ref>
+                <lb/>
+                <ref n="homefront.rec.0006.html">Appendix to the Congressional Record (January 16,
+                    1941)</ref>
+                <lb/>
+                <ref n="homefront.rec.0007.html">Appendix to the Congressional Record (May 8,
+                    1941)</ref>
+                <lb/>
+                <ref n="homefront.rec.0008.html">Appendix to the Congressional Record (August 8,
+                    1941)</ref>
+                <lb/>
+                <ref n="homefront.rec.0009.html">Appendix to the Congressional Record (December 30,
+                    1941)</ref>
+                <lb/>
+                <ref n="homefront.rec.0010.html">Congressional Record-House (March 2, 1939)</ref>
+                <lb/>
+                <ref n="homefront.rec.0011.html">Congressional Record-House (April 27, 1939)</ref>
+                <lb/>
+                <ref n="homefront.rec.0012.html">Congressional Record-House (June 29, 1939)</ref>
+                <lb/>
+                <ref n="homefront.rec.0013.html">Congressional Record-House (February 5, 1941)</ref>
+                <lb/>
+                <ref n="homefront.rec.0014.html">Congressional Record-Senate (October 12,
+                    1939)</ref>
+                <lb/>
+                <ref n="homefront.rec.0015.html">Congressional Record-Senate (October 14,
+                    1939)</ref>
+                <lb/>
+                <ref n="homefront.rec.0016.html">Congressional Record-Senate (January 31,
+                    1941)</ref>
+                <lb/>
+                <ref n="homefront.rec.0017.html">Congressional Record-Senate (March 4, 1941)</ref>
+                <lb/>
+                <ref n="homefront.rec.0018.html">Congressional Record-Senate (April 19, 1939)</ref>
+                <lb/>
+                <ref n="homefront.rec.0019.html">Congressional Record-Senate (May 9, 1939)</ref>
+                <lb/>
+
+            </div2>
+
+            <div2>
+                <head type="sub">Other Government Documents</head>
+                <ref n="homefront.docs.0001.html">Notes on Nebraska Farming (<date
+                        value="1944-11-08">1944-11-08</date>)</ref>
+                <lb/>
+                <ref n="homefront.docs.0002.html">Some Suggestions to Farmers Who Employ Town Boys
+                        </ref>
+                <lb/>
+                <ref n="homefront.docs.0003.html">Some Suggestions for Recruiting and Training an
+                    Emergency Land Army in the Food Production Program </ref>
+                <lb/>
+                <ref n="homefront.docs.0004.html">Suggestions for Recruiting, Registering, and
+                    Placement of Non-Farm Labor </ref>
+                <lb/>
+                <ref n="homefront.docs.0005.html">Suggestions for County Action to Meet Labor Needs
+                        </ref>
+                <lb/>
+                <ref n="homefront.docs.0006.html">Power and the Plow </ref>
+                <lb/>
+                <ref n="homefront.docs.0007.html">Farm Labor and Agricultural Production (<date
+                        value="1943-04-14">1943-04-14</date>)</ref>
+                <lb/>
+                <ref n="homefront.docs.0008.html">To All Volunteer Farm Placement Representatives
+                        (<date value="1943-06-15">1943-06-15</date>)</ref>
+                <lb/>
+                <ref n="homefront.docs.0009.html">Suggestions to Town Boys Who Will Work on the Farm
+                        </ref>
+                <lb/>
+                <ref n="homefront.docs.0010.html">Letter: O.M. Olsen to Governor Dwight Griswold</ref>
+                <lb/>
+                <ref n="homefront.docs.0011.html">A Call to Farms (<date value="1943-05-10"
+                        >1943-05-10</date>)</ref>
+                <lb/>
+                <ref n="homefront.docs.0012.html">Kansas Women in the Farm Labor Program</ref>
+                <lb/>
+                <ref n="homefront.docs.0013.html">QUESTIONS AND ANSWERS ON THE WOMEN'S LAND ARMY OF
+                    THE U.S. CROP CORPS (<date value="1943-05-10">1943-05-10</date>)</ref>
+                <lb/>
+                <ref n="homefront.docs.0014.html">BE A SOLDIER OF THE SOIL (<date
+                        value="1943-05-05">1943-05-05</date>)</ref>
+                <lb/>
+                <ref n="homefront.docs.0015.html">Civilian Gasoline Supply (<date value="1943-10-13"
+                        >1943-10-13</date>)</ref>
+                <lb/>
+                <ref n="homefront.docs.0016.html">Community Pricing of Certain Food Products (<date
+                        value="1943-05">1943-05</date>)</ref>
+                <lb/>
+
+            </div2>
+
+        </body>
+    </text>
+</TEI>

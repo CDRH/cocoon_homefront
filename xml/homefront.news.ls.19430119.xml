@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.ls.19430119.01 SYSTEM "homefront.news.ls.19430119.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.ls.19430119.02 SYSTEM "homefront.news.ls.19430119.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.ls.19430119">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sale of 'Strong Beer' at Lincoln Air Base Flayed</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.ls.19430119</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Lincoln Star</title>
+<title level="a">Sale of 'Strong Beer' at Lincoln Air Base Flayed</title>
+<title level="a" type="sub">...At Annual Meetings</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1, 10</biblScope>
+<biblScope type="columns">6, 6</biblScope>
+<publisher>Lincoln Star</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<date value="1943-01-19">1943-01-19</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-22</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.ls.19430119.01">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p1"/>
+<head type="main"><hi rend="italic">&#8211;ALLIED DRYS&#8211;</hi><lb/>
+Sale of 'Strong<lb/>
+Beer' at Lincoln<lb/>
+Air Base Flayed<lb/>
+...At Annual Meeting</head>
+
+<milestone unit="smallbar"/>
+
+<p>Allied dry forces of Nebraska hear speakers denounce the alleged sale of "strong" beer near and in army bases and in the Lincoln air base in particular at the annual meeting held Tuesday at the Lincoln Y. W. C. A.</p>
+
+<p>Bishop W. C. Martin of Omaha presided over a luncheon discussion which State Executive Director Harold Wilson and Dr. F. M. Gregg, severely scored the attitude of the government and army toward supplying beer to soldiers. Following the luncheon, the annual business meeting was held.</p>
+
+<p>Speaking at the noon luncheon, Bishop Martin said "the day will come when legislation against the sale of beverage alcohol will be passed in our national economy, but I will not say when.</p>
+</div1>
+
+<div1>
+<head type="sub">May Get "Worse."</head>
+
+<p>"In all probably the situation will get a great deal worse before it gets better," he continued.</p>
+
+<p>Bishop Martin said . . . "by the use of true religion and sound education it will be possible to reach and convert the individuals who, in the large, will settle this problem."</p>
+
+<p>"We do not believe that we have a drunken army", State Director Wilson said, "but when the Office of War Information comes out with a statement that drinking it no longer problem because 3.2 beer is sold in the post exchanges, it is too much for the credulity of many citizens."</p>
+
+<p>Calling the recent report of the OWI an "insult to the intelligence of the American public," he asserted it "seems to make the great United States government an enthusiastic endorser of beer as a beverage".</p>
+</div1>
+
+<div1>
+<head type="sub">Report Unsigned.</head>
+
+<p>Mr. Wilson noted that the report was unsigned and he proceeded to attack its statements 
+
+<note type="editorial" rend="jumpline"><hi rend="italic">(Continued on Page Ten)</hi></note>
+
+<pb n="p10"/>
+
+<!-- <figure entity="homefront.news.ls.19430119.02">
+<figDesc></figDesc>
+</figure> -->
+
+<note type="editorial" rend="jump">
+<note type="editorial" rend="mainhead">ALLIED DRYS</note>
+<milestone unit="smallbar" />
+<note type="editorial" rend="jumpline"><hi rend="italic">(Continued from Page One)</hi></note>
+</note>
+
+about the varied use of drink by soldiers as contrary to fact, particularly the one that "nine percent of the service men drank hard <sic corr="liquor">linquor</sic>, 34 per cent drank only beer, and 57 per cent drank no intoxicating beverages whatever."</p>
+
+<p>"It is a gross libel upon my son and the untold thousands of other good clean American boys in the service to accuse them of such wholesale drinking," Wilson said.</p>
+
+<p>"Here in Nebraska there is no such thing as 3.2 beer," Wilson asserted, claiming that beer he had bought for analysis "ran better than 4&#189; to nearly 5 per cent".</p>
+
+<p>Mr. Wilson said he had asked the commanding officer of the Lincoln base for the right to check the situation because, he asserted, "I am reliably informed that practically all the leading brands of beer have their concessions at the army post, and that the beer is served at 10 cents a glass for 14 ounce glasses."</p>
+</div1>
+
+<div1>
+<head type="sub">More Than 4 Per Cent</head>
+
+<p>Mr. Wilson, insisted that "some of the beer served at the base is stronger than 4 per cent by volume."</p>
+
+<p>Dr. Gregg, discussed alcohol content of beer served in Lincoln commercially and at the air base. He said, "in a ten-cent drink of beer at the air base there is more alcohol than in an ounce glass of strong whiskey.</p>
+
+<p>Officers were to be elected and resolutions adopted at an afternoon meeting.</p>
+
+<p>Present officers of the state organization are:</p>
+
+<p>Bishop Martin, president; George A. Williams, Fairmont, first vice president; Dean R. A. Lyman, Lincoln, second vice president; Rev. W. C. Rundin, Wahoo, secretary; D. B. Marti, Lincoln, treasurer; Dr. C. H. Walcott, Lincoln, chairman executive committee and Harold Wilson, state executive director.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

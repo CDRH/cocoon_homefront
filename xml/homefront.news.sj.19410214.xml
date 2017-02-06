@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.sj.19410214 SYSTEM "homefront.news.sj.19410214.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.sj.19410214">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Home Guard Duty</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.sj.19410214</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Salina Journal</title>
+<title level="a">Home Guard Duty</title>
+<title level="a" type="sub">Veterans of First World War Register Next Week</title>
+<title level="a" type="sub">Departure of National Guard Men Occasions New Move for Protection</title>
+<author></author>
+<biblScope type="pages">10</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Salina Journal</publisher>
+<pubPlace>Salina, Kansas</pubPlace>
+<date value="1941-02-14">1941-02-14</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-27</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.sj.19410214">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p10"/>
+<head type="main">HOME GUARD DUTY</head>
+<milestone unit="smallbar"/>
+<head type="sub">VETERANS OF FIRST WORLD<lb/>
+WAR REGISTER NEXT WEEK</head>
+<milestone unit="smallbar"/>
+<head type="sub">Departure of National Guard Men<lb/>
+Occasions New Move For<lb/>
+Protection</head>
+<milestone unit="smallbar"/>
+
+<p>Next week veterans of the first World war will register again in Salina. This time they will write their names as volunteers for home guard duty.</p>
+
+<p>Registration headquarters will be 113 West Iron, where Herman R. Anderson will be in charge from 1 to 5 oclock each afternoon. Men who register there will be offering their services in case of local emergency only, it was announced today by officers of the American Legion, which is taking charge of the registration week for which Gov. Payne Ratner issued a proclamation to all of Kansas, setting the deadline for such home guard registration as February 22. Men who register will be veterans of the first World war, whether members of the legion, of some other military group, or of no organized group at all, and they will be allowed to sign blanks specifying in what kind of work they prefer to be summoned to duty in case of emergency, whether as police, fire squad members, or some other line of service.</p>
+
+<p>The removal of National Guard men to camp, leaving communities over the state unprotected, is the occasion of this registration for service as home guardsmen, a type of protection similar to that which has so forcefully fortified England.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

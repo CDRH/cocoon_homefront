@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19411229.01 SYSTEM "homefront.news.dp.19411229.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.dp.19411229.02 SYSTEM "homefront.news.dp.19411229.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19411229">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Denver Rushes Plan for Tire Rationing</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19411229</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">Denver Rushes Plan for Tire Rationing</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1-A, 7-A</biblScope>
+<biblScope type="columns">6-7, 2-3</biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, CO</pubPlace>
+<date value="1941-12-29">1941-12-29</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-automobile</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-08-29</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.dp.19411229.01">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">DENVER RUSHES PLAN<lb/>FOR TIRE RATIONING</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">Robert E. Harvey of Presbyterian Hospital Appointed<lb/>City Administrator&#8211;Six Local Boards Will<lb/>Be Named to Control Sales.</head>
+
+<milestone unit="smallbar"/>
+
+<p>Working with emergency speed, city and state officials made substantial progress Monday toward the setting up of tire rationing boards which are to begin functioning Jan. 5.</p>
+
+<p>The Denver defense council, after appointing Robert E. Harvey, director of finance at the Presbyterian hospital, tire rationing administrator for Denver, began the division of the city into six districts over which six rationing boards will have full control of tire and tube sales.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">STAPLETON HOLDS ALL-DAY<lb/>MEETING ON SUNDAY.</head>
+
+<p>Gov. Ralph L. Carr dispatched letters to prospective rationing board members <sic corr="throughout">thruout</sic> the state, asking them to be "ready for work" Jan. 4, and telling them they are being called to a service "which in some ways is more important than carrying a gun."</p>
+
+<p>V. L. Board, chairman of the Denver defense council, and other members of the council met all day Sunday with Mayor Benjamin F. Stapleton to perfect details of the rationing plan.</p>
+
+<p>Monday morning, Harvey, Board and other members of the council met at city hall to discuss the division of the city into six districts and the personnel of the rationing boards in each district.</p>
+
+<p>Rationing boards, consisting of
+
+<note type="editorial" rend="jumpline"><hi rend="bold">(Turn to Page 7&#8211;Col. 2.)</hi></note> 
+
+<figure entity="homefront.news.dp.19411229.02">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p7" /> 
+
+<figure>
+<figDesc>Robert E. Harvey  George Rock   Kenneth Lightburn   John R. McCusker V. L. Board</figDesc>
+</figure>
+
+<note type="editorial" rend="jump"> 
+<note type="editorial" rend="mainhead">SIX BOARDS TO CONTROL SALES<lb/>OF TIRES TO DENVER MOTORISTS</note> 
+<milestone unit="smallbar" /> 
+<note type="editorial" rend="subhead">Robert E. Harvey of Presbyterian Hospital Appointed<lb/>City Administrator&#8211;Rationing Machinery to Start<lb/>Functioning Jan. 5&#8211;Cars Will Be Checked Free.</note> 
+<milestone unit="smallbar" /> 
+<note type="editorial" rend="jumpline"><hi rend="bold">(Continued From Page One.)</hi></note> 
+</note>
+
+three persons on each board, are to be appointed for north, east, south and west Denver district and for two districts in downtown Denver.</p>
+
+<p>The appointment of an assistant administrator of tire rationing for Denver was expected to be made during the day. Charles Boettcher III was mentioned in official circles as a probable appointment.</p>
+
+<p>Harvey said the men who will be appointed to the district boards will be "prominent and leading citizens, in a position to devote a large part of their time to the work." The board members will receive no compensation for the work, and volunteers will be sought to do clerical work for the boards at no salary.</p>
+
+<p>The Denver Tire Dealers association and the tire retreading dealers of the city were holding separate meetings Monday afternoon to compile lists of certified tire dealers in the city who are qualified to inspect tires and tubes.</p>
+
+<p>The procedure under the rationing plan will be for a motorist to go to a certified dealer to have his tire, or tires, checked. There will be no charge for the inspection. The dealer will decide whether the tire can be retreaded or must be replaced.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">MOTORIST MUST APPEAR<lb/>BEFORE DISTRICT BOARD.</head>
+
+<p>If the tire must be replaced, the dealer will give the motorist a certificate to that effect. The motorist then will take the certificate to his district board, which will decide if he comes in the category of vehicle operators who are to be allowed to buy tires. If so, the motorist will receive a certificate from the board entitling him to buy a tire.</p>
+
+<p>The procedure will be the same in the purchase of inner tubes.</p>
+
+<p>The tire rationing plan is being carried out under auspices of the office of price administration, and all members of rationing boards will be sworn in as officials of the United States government.</p>
+
+<p>The OPA has issued a list of "eligibility classification" of vehicles for which tires may be purchased. That list excludes virtually all civilian and many commercial vehicles not used directly in war, defense, or public safety and health pursuits.</p>
+</div1>
+
+<div1>
+<head type="sub">CARR MUST SET UP<lb/>EIGHT BOARDS.</head>
+
+<p>Governor Carr said Monday he would not be prepared to announce the membership of the boards thruout the state until he has made a complete survey of all suggested personnel and has received personal assurances that all those designated will be able to serve.</p>
+
+<p>Board members in Denver, Pueblo, Colorado Springs, Greeley and Fort Collins are being selected by local defense councils in those cities.</p>
+
+<p>This leaves about eighty boards of three men each to be set up in the remainder of the stats by the governor with the aid of a special defense council committee and Wilbur Newton, new state tire rationing administrator, who will have direct supervision over the entire state program.</p>
+
+<p>A careful checkup was being made by the governor Monday to make sure no draft board members in the various counties and cities are put on tire rationing boards. This would make for too mush duplication of functions, the governor said.</p>
+
+<p>A list of suggested appointees, presumed to contain about an equal number of Democrats and Republicans in the counties, was laid before the governor Monday after his defense council committee worked all day Sunday.</p>
+</div1>
+
+<div1>
+<head type="sub">BOARD DUTY MORE<lb/>VITAL THAN SOLDIERING.</head>
+
+<p>After checking over the list, Governor Carr assigned Secretary of State Walter P. Morrison, State Auditor Charles M. Armstrong and Leon Lavirgton, state purchasing agent, to contact all proposed board members by telephone, notify them of the appointments and obtain acceptances.</p>
+
+<p>The form latter he prepared for delivery to all the appointees is as follows:</p>
+
+<p>"You have been honored by your country and your state with a call to a service which in many ways is more important than carrying a gun. You are called upon to act in a capacity which calls for intelligence, patriotism and unselfishness.</p>
+
+<p>"Unless a job is done right, the United States will be crippled in its efforts to achieve a victory in this war.</p>
+</div1>
+
+<div1>
+<head type="sub">JAPS CUT OFF<lb/>RUBBER SUPPLY.</head>
+
+<p>"As you probably know, the Japanese have interrupted the flow of raw rubber to this country and only about 8 per cent of the normal amount will be available for at least two years.</p>
+
+<p>"This means that only those automobiles which are essential to our national defense and to the winning of this war are to receive tires, tubes and casings.</p>
+
+<p>"It will be your duty, along with two neighbors in your community, to pass upon the applications of persons needing these articles and to determine, upon the basis of regulations which will be issued by the government, to whom certificates permitting purchases will be granted.</p>
+
+<p>"This is not a mere appointment to a committee job. In addition to becoming an active member of the Colorado council of defense, you will take an oath and become an agent of the United States.</p>
+
+<p>"The governor has selected a list of patriotic American citizens in Colorado, including yourself, who are asked to give their time without pay to this work behind the lines.</p>
+
+<p>"You will be gratified when the war is won to be counted among those who had a part in that victory.</p>
+
+<p>"Full instructions, an oath of office as a government agent and necessary information will be sent to you.</p>
+
+<p>"May I have the immediate answer that you have accepted this important post and that you will be ready to got work on Jan. 4, 1942?"</p>
+</div1>
+
+<div1>
+<head type="sub">COUNTIES TO FURNISH<lb/>HEADQUARTERS.</head>
+
+<p>The governor also sent telegrams Monday to chairmen of all boards of country commissioners in Colorado informing them that as their share in the work they are asked to furnish headquarters for the country rationing boards and a competent clerk.</p>
+
+<p>Volunteers should be available for the clerical work, the governor said, but if that is impossible the commissioners were asked to hire clerks.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

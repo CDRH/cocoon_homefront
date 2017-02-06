@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.rcdj.19420328.01 SYSTEM "homefront.news.rcdj.19420328.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.rcdj.19420328.02 SYSTEM "homefront.news.rcdj.19420328.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.rcdj.19420328">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sioux Falls Named As Site of $15,000,000 Army Radio School</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.rcdj.19420328</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Rapid City Daily Journal</title>
+<title level="a">Sioux Falls Named As Site of $15,000,000 Army Radio School</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1, 5</biblScope>
+<biblScope type="columns"><!-- need to fill-in --></biblScope>
+<publisher>Rapid City Daily Journal</publisher>
+<pubPlace>Rapid City, South Dakota</pubPlace>
+<date value="1942-03-28">1942-03-28</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-23</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.rcdj.19420328.01">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p1"/>
+<head type="main">Sioux Falls Named As Site Of<lb/>
+$15,000,000 Army Radio School</head>
+<milestone unit="smallbar"/>
+
+<p>Washington, March 28&#8211;(AP)&#8211;Aides of Senator Gurney (R-SD) said late last night that the war department had selected Sioux Falls as the site for an army air corps radio and communications school, subject to the city's ability to produce deeds for required land by April 3.</p>
+
+<p>There was no public announcement, however, by the war department.</p>
+
+<p>Burney's aides, said the estimated establishment would cost approximately $15,000,000. They said the school was expected to handle 15,000 students and that construction would include barracks, a hospital, and other facilities of a "little city."</p>
+</div1>
+
+<div1>
+<head type="sub">Began Immediately</head>
+
+<p>Work was expected to begin almost immediately after acquisition of property, the senator's staff said.</p>
+
+<p>Approximately 1,800 acres of land, including the municipal airport, was said to be required and the spokesmen for Gurney said little difficulty was expected since Sioux Falls city officials already had obtained options on approximately 95 per cent of the property.</p>
+
+<p>Senator Gurney said today construction was expected to be completed on the technical school early this fall but predicted that men would start moving in for training before that.</p>
+</div1>
+
+<div1>
+<head type="sub">Will Furnish Land</head>
+
+<p>Paul K. Myers, secretary of the Sioux Falls Chamber of Commerce, left for home by airplane today after conferring with members of the congressional delegation and assuring army officials the city would be glad to furnish the land. He expected no difficulty in providing the deeds by the deadline.</p>
+
+<p>Gurney said that construction, which "may take four or five months" was expected to begin promptly under direction of Col. Lewis A. Pich, in charge of the Omaha, Neb. district of the corps of army engineers.</p>
+
+<p>Gurney said contracts, would be awarded by Colonel Pich.</p>
+
+<p>Although unable to give details of the project, Gurney said an army hospital, wooden barracks, school rooms, a water system, and a post exchange would be required in addition to considerable radio equipment, and "a lot of training planes."</p>
+
+<p>The South Dakotan said the new school was planned in an effort to keep up with the expansion of the air corps to 2,000,000 men.</p>
+
+<p>Sioux Falls, March 28&#8211;(AP)&#8211;Senator Chan Gurney telegraphed here last night that the war department 
+
+<note type="editorial" rend="jumpline">(Page 5, column 5)</note>
+
+<pb n="p5"/>
+
+<!-- <figure entity="homefront.news.rcdj.19420328.02">
+<figDesc></figDesc>
+</figure> -->
+
+<note type="editorial" rend="jump">
+<note type="editorial" rend="mainhead">SIOUX FALLS NAMED</note>
+<note type="editorial" rend="jumpline">(From Page One)</note>
+<milestone unit="smallbar"/>
+</note>
+
+had authorized announcement by himself, Senator W. J. Bulow and <sic corr="Congressman">Congresman</sic> Karl Mundt that "the Sioux Falls radio and communications school has been completely authorized" provided options on all land needed can be obtained by April 3.</p>
+</div1>
+
+<div1>
+<head type="sub">Increase One-Third</head>
+<p>The huge school, as announced by the South Dakota congressional delegation, would mean an increase of more than one-third in this city's population. It was anticipated here the school could be made ready for operation late in the summer.</p>
+
+<p>M. T. Woods, president of the Chamber of Commerce expressed confidence that all options could be secured so that the city could turn the needed property over to the war department before the deadline.</p>
+
+<p>Estimated cost of acquiring the property and other war department requirements to the city of Sioux Falls is, between $200,000 and $300,000. The big camp site, to the north of the city, would be a military reservation and be surrounded by woven wire fencing.</p>
+</div1>
+
+<div1>
+<head type="sub">Scheduled Runs</head>
+
+<p>The city would be permitted to operate the airport for scheduled runs of the Mid-Continent Airlines and for any other scheduled airlines runs that might be added by commercial lines.</p>
+
+<p>Property is to be turned over to the government for the duration under a dollar-a-year lease. After the war, the city would own the camp site.</p>
+
+<p>Sioux Falls has been under consideration for the school the past seven weeks and local officials have made several trips to Washington and other points to confer with army agencies.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

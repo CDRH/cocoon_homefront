@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.wye.19411231 SYSTEM "homefront.news.wye.19411231.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.wye.19411231">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">State Ration Quota on New Tires is Set</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.wye.19411231</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Wyoming Eagle</title>
+<title level="a">State Ration Quota on New Tires is Set</title>
+<author></author>
+<biblScope type="pages">2</biblScope>
+<biblScope type="columns">1</biblScope>
+<publisher>Wyoming Eagle</publisher>
+<pubPlace>Cheyenne, WY</pubPlace>
+<date value="1941-12-31">1941-12-31</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-automobile</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.wye.19411231">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p2"/>
+<head type="main">STATE RATION<lb/>QUOTA ON NEW<lb/>TIRES IS SET</head>
+<milestone unit="smallbar"/>
+
+<p>Although few auto tires will be released to anyone during early operation of the new rationing system, Wyoming is expected to receive a long-run average of one new tire each month for every 10 commercial vehicles registered in the state, according to George O. Houser, state commodities allocations director.</p>
+
+<p>No word has been received as to how many tires may be released for sale in January, he emphasized, and the one tire to 10 commercial vehicles ratio is only a tentative average.</p>
+
+<p>Actual quotas probably will be set from month to month in each county.</p>
+
+<p>On the basis of the one-to-10 average, Laramie county, for example, would receive allocations of 220 tires each month, since there are about 2,200 commercial vehicles registered in this county.</p>
+
+<p>Allocations in other counties would be proportionate. An average county such as Platte, with 700 commercial vehicles, would be allowed 70 tires monthly.</p>
+
+<p>The rationing system will begin operating Jan. 5 through committees formed in each county. If an applicant for a tire feels he has been discriminated against by his local three-member board, he can appeal to a three-man state "appeal" board.</p>
+
+<p>Members of the Laramie county board are Dan Reese, Ralph Crews and Dr. P. M. Cunningham. State appeal board members are Paul Worland, John C. Pickett and Robert W. Lezear, all of Cheyenne.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+
+

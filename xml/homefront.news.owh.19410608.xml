@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19410608.01 SYSTEM "homefront.news.owh.19410608.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.owh.19410608.02 SYSTEM "homefront.news.owh.19410608.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19410608">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Arms Plants for Nebraska Seem Unlikely</title>
+<author>Marr McGaffin</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19410608</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Sunday World-Herald</title>
+<title level="a">Arms Plants for Nebraska Seem Unlikely</title>
+<title level="a" type="sub">Nondefense Shops May Close; View Tools Requisition</title>
+<author>Marr McGaffin</author>
+<biblScope type="pages">1-A, 2-A</biblScope>
+<biblScope type="columns">5, 1</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1941-06-08">1941-06-08</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>War Production</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-05</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19410608.01">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">Arms Plants<lb/>for Nebraska<lb/>Seem Unlikely</head>
+<milestone unit="smallbar"/>
+<head type="sub">Nondefense Shops<lb/>May Close; View<lb/>Tools Requisition</head>
+<milestone unit="smallbar"/>
+<byline>By Marr McGaffin</byline>
+
+<p>World-Herald Bureau.</p>
+<p><address><addrLine>Washington, D.C.</addrLine></address>, <dateline><date value="1941-06-07">June 7</date></dateline></p>
+
+<p>Unless Nebraska are going to be content with listening to the patter of rain drops and admiring the green of the fields, they should be giving serious thought to several recent developments in Washington.</p>
+
+<p>One is the flat statement by Stacy May, chief statistician for OPM, that the time is not far off when small machine shops, not turning out defense materials, are going to face closing down for lack of materials.</p>
+
+<p>Another is the increasing evidence efforts to break down industrial centralization and develop the "farming out" idea are not meeting with anywhere near the desired success.</p>
+
+<p>The third is the growing conviction areas not included in the allocation of defense plants, training camps and related activities are unlikely to find themselves included in the new and expanding programs.</p>
+</div1>
+
+<div1>
+<head type="sub">Few Crumbs Likely</head>
+
+<p>When the planners here in Washington talk of stepping up defense expenditures to 20 and even 40 billions a year, it may seem unbelievable that all the chunks will continue to land in the same spots. It's not only possible, but very likely.</p>
+
+<p>There's always the chance that here and there a crumb may drop. The rumors that a small arms plant, a powder plant or <orig reg="something">some-</orig>
+
+<note type="editorial" rend="jumpline">(Continued on Page 2 Column 1.)</note> 
+
+<figure entity="homefront.news.owh.19410608.02">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p2"/>
+
+<note type="editorial" rend="jump"> 
+<note type="editorial" rend="mainhead">Arms Plants<lb/>for Nebraska<lb/>Seem Unlikely</note> 
+<milestone unit="smallbar" /> 
+<note type="editorial" rend="subhead">Nondefense Shops<lb/>May Close; View<lb/>Tools Requisition</note> 
+<milestone unit="smallbar" /> 
+<note type="editorial" rend="jumpline">(Continued from Page 1.)</note> 
+</note>
+
+thing of the sort may be located at Hastings, Fremont, Lincoln or Beatrice are still floating around, but they're becoming threadbare.</p>
+
+<p>It's still a dark picture if you analyze May's forecast with respect to growing material shortages and the closing down of plats that require critical materials for their operation.</p>
+
+<p>He was telling members of the senate committee what steps may be taken to force owners of small manufacturing plants to get into production of defense materials.</p>
+</div1>
+
+<div1>
+<head type="sub">Deadlock Worries</head>
+
+<p>Many small operators still are slow to seek out defense orders. The primary contractors, in some instances, are slow to parcel out bits and pieces to small operators.</p>
+
+<p>He said that if the deadlock continues, priorities will be used to either force the spread of work or to close down the plants.</p>
+
+<p>The problem has been different in sections like Nebraska. Small operators have found it difficult to obtain information, contacts and finance that would enable them to obtain defense orders.</p>
+
+<p>But if priority restrictions should be applied to bring leverage on those in more industrialized areas, the club will fall just as hard in Nebraska, Iowa and other agricultural states.</p>
+</div1>
+
+<div1>
+<head type="sub">May Requisition</head>
+
+<p>Hints have gone out for sometime that it may even become necessary to requisition machines and tools scattered about in small towns, in order that they may be concentrated as central points. Power to do that is contained the "draft property" bill introduced the past week.</p>
+
+<p>What can be done?</p>
+
+<p>The bomber assembly plant at Fort Crook offers one answer. Hundreds of parts that go into planes are supplied by sub-contractors. Somewhere in the list there may be something that can be turned out of a shop in Lincoln, Hastings, Norfolk, Council Bluffs or Red Oak.</p>
+
+<p>Unless you refuse to accept the forecasts of the men who are guiding the defense production program, there is a new field&#8211;that of substitutions&#8211;almost certain to open up fast.</p>
+</div1>
+
+<div1>
+<head type="sub">A Long-Time Pinch</head>
+
+<p>How long will the pinch last?</p>
+
+<p>The best guesses range from four to 10 years.</p>
+
+<p>The reasoning is this: Even in event there should be an end to fighting in Europe this year through an axis victory, the job of building adequate defenses for this nation would continue.</p>
+
+<p>Barring that, the outlook is for a long war with increasing participation by this country and greater production for Britain. Too, once the crisis is past, the slacking off period will require several years.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+

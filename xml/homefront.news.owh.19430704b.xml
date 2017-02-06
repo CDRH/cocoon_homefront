@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19430704b SYSTEM "homefront.news.owh.19430704b.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19430704b">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Bombs for Hitler, Hirohito loaded at Grand Island</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19430704b</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Sunday World-Herald Magazine</title>
+<title level="a">Bombs for Hitler, Hirohito loaded at Grand Island</title>
+<author></author>
+<biblScope type="pages">66-C</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1943-07-04">1943-07-04</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>War Production</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-07</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19430704b">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p66"/>
+
+<figure>
+<figDesc>1 Women operate Pellet presses on the booster line. This operator is watching her machine (on the other side of an explosion-proof wall) by means of a periscope-and-mirror arrangement (see arrow). They are proud their machines are named after famous generals. This one is "MacArthur."</figDesc>
+</figure>
+
+<figure>
+<figDesc>Operator wears safety respirator as shaker machines sift crystallized ammonium nitrate into safety containers for delivery to various bomb loading lines.</figDesc>
+</figure>
+
+<figure>
+<figDesc>3 Bomb casings, empty, are brought from storage rooms, rolled down a line. Shipping bands are removed, and temporary nose plugs are fitted.</figDesc>
+</figure>
+
+<figure>
+<figDesc>4 Bomb casings receive a coat of army olive drab paint before they are started through loading lines.</figDesc>
+</figure>
+
+<figure>
+<figDesc>5 At right, above, large wafers of amatol scrap are broken into small chunks. These are later dropped in liquid TNT, in the bombs, hastening the cooling process.</figDesc>
+</figure>
+
+<figure>
+<figDesc>6 "WOWS" (women ordnance workers), wearing safety visors, man the TNT pouring kettles and buckets. This liquid TNT is very hot.</figDesc>
+</figure>
+
+<figure>
+<figDesc>7 This takes muscle. They are "puddling" to remove air spaces and cracks caused by cooling, in liquid TNT. Another woman worker is ready to push the bomb laden cart on to the next station on the line.</figDesc>
+</figure>
+
+<head type="main">Bombs for Hitler, Hirohito loaded at Grand Island</head>
+
+<p>Two tremendous bomb loading plants are operating in Nebraska. They are identical in size and area, in location of loading lines and production capacity.</p>
+
+<p>Under army ordnance, they are operated by civilian companies. Pictured on this page are actual bomb loading activities, shown in the Cornhusker ordnance plant near Grand Island, which is operated by the Quaker Oats company.</p>
+
+<p>On the following two pages are pictures, mostly showing safety devices and plant features, which were made at the Nebraska ordnance plant near Mead, operated by the Firestone company.</p>
+
+<p>Both plants are loading one-thousand-pound bombs. Production figures cannot be printed, but it is safe to say that a great many bombs loaded in these Nebraska plants have already been dropped in far corners of the world.</p>
+
+<p><sic corr="Employees">Employes</sic> at both plants are efficient, hard workers. Absenteeism is comparatively small, and accidents have been held to a minimum. Each worker secretly, but sincerely believes the bomb she helps create are destined for either Hitler or Hirohito.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+
+

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19430301 SYSTEM "homefront.news.owh.19430301.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19430301">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Are Farmerettes Worth Their Keep?</title>
+<author>Robert Geiger</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19430301</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Omaha World-Herald</title>
+<title level="a">Are Farmerettes Worth Their Keep?</title>
+<title level="a" type="sub"></title>
+<author>Robert Geiger</author>
+<biblScope type="pages">9</biblScope>
+<biblScope type="columns">2-4</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1943-03-01">1943-03-01</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-24</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19430301">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p9"/>
+
+<figure>
+<figDesc>She knows her business . . . but many farmers hesitate to hire girl aides.</figDesc>
+</figure>
+
+<head type="main">Are Farmerettes Worth Their Keep?</head>
+<p rend="center">By Robert Geiger</p>
+<p rend="center">(AP Feature Writer.)</p>
+
+<p>Denver Colo., Feb. 28&#8211;Farmers have their fingers crossed over the prospects of city-bred women helping substantially on the farm front this summer.</p>
+
+<p>The women want farm jobs but the farmers are suspicious of them. They aren't convinced that the women are worth their board and keep.</p>
+
+<p>On the other hand city high school students, both boys and girls, did "some quite important work" in farm fields last year, and several hundred thousands of them will be recruited, trained and placed as farm workers this year.</p>
+</div1>
+
+<div1>
+<head type="sub">Many Volunteers</head>
+
+<p>Those are conclusions of the United States department of agriculture after studying how to solve 1943's critical farm labor problems. They are contained in summaries prepared by the office of agricultural war relations.</p>
+
+<p>"Getting women volunteers is no problem&#8211;on the contrary many thousands of city and town women, young and old, seem to be eager to help out with the production and harvesting of food&#8211;but efforts to place them on farms have not proved very <sic corr="successful">successfull</sic>," says OAWR.</p>
+
+<p>"Farm labor specialists of the department attribute this to the fact most farmers in this country at not accustomed to having women, other than family members, relatives or friends of the family, working with them in farm operations.</p>
+
+<p>"Their recommendation is that a few experiments be tried in each state and then if farmers see from these demonstrations that women can develop into competent farm workers this prejudice against women will gradually give way."</p>
+</div1>
+
+<div1>
+<head type="sub">Short Courses</head>
+
+<p>The work of farm women, boys and girls will go a long way toward offsetting loss of manpower on farms this summer, surveys have indicated&#8211;just as they have made up in large part for the loss of factory workers.</p>
+
+<p>High schools and universities throughout the United States are conducting special short term courses in agriculture for white collar folk who want to work in farm fields this summer.</p>
+
+<p>A good many of these people will take seasonal farm jobs, such as harvesting, but many also will be needed to replace year-around male workers now in the armed services.</p>
+
+<p>In northeastern states, particularly Maryland and Connecticut, some dairy farmers have asked the United States employment service to obtain women workers for them if they can't find enough men to fill jobs.</p>
+</div1>
+
+<div1>
+<head type="sub">Dairy Maids</head>
+
+<p>Co-operating in a program of recruiting, transporting, training and placing year-around farm, workers, the farm security administration and United States employment service have taken steps to train women for jobs as dairy hands.</p>
+
+<p>As one example of how women helped the agricultural labor situation last summer, 1,700 of them were recruited to save the new guayule rubber crop planted by the government near Salinas, Cal. No men were available when the crop needed weeding, so one hundred women were hired on an experimental basis. They were so successful that eventually 1,700 were recruited.</p>
+
+<p>In Minnesota farm women saved thousands of bushels of apples in orchards near Hastings; in New York and Colorado women were employed as dairy herd testers and in many states women were trained as farm machinery operators.</p>
+
+<p>One task for which women are admirably suited is that of dairy maid and thousands of women are in training this spring to take over that farm chore.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

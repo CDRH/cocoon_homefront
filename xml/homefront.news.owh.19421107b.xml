@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19421107b SYSTEM "homefront.news.owh.19421107b.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19421107b">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">'Turn 'Em Off'</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19421107b</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Morning World-Herald</title>
+<title level="a">'Turn 'Em Off'</title>
+<title level="a" type="sub">Clock Failures Are Blamed as Store Windows Blaze During Blackout</title>
+<author></author>
+<biblScope type="pages">2-A</biblScope>
+<biblScope type="columns">3-4</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1942-11-07">1942-11-07</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Defense Raids</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-06</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19421107b">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p2"/>
+<head type="main">'Turn 'Em Off'</head>
+<milestone unit="smallbar"/>
+<head type="sub">Clock Failures Are Blamed as Store<lb/>Windows Blaze During Blackout</head>
+<milestone unit="smallbar"/>
+
+<p>"Turn 'em off!"</p>
+
+<p>The cry began like a catcall from a holiday audience as downtown Omaha, for the first time since traders gathered around bonfires, began to disappear in to the November night.</p>
+
+<p>The cry began like a catcall from a holiday audience as downtown Omaha, for the first time since traders gathered around bonfires, began to disappear in to the November night.</p>
+
+<p>But when minutes passed and two business firms remained lighted, the cry swelled mightily.</p>
+
+<p>Suddenly the lights in one firm, Daves Clothing company, 1417 Farnam street, blinked out. The cry changed into a cheer and the milling hundreds, well pleased with staring a store into darkness, clumped through the dark street to the remaining lights, at Borsheim jewelry company, Fourteenth and Farnam streets.</p>
+</div1>
+
+<div1>
+<head type="sub">Police on Guard</head>
+
+<p>Police had guards around both stores as soon as the blackout began to keep crowds away.</p>
+
+<p>Sixteenth street began to take on its black war dress early in the evening. Many signs had been out since dusk. An hour before blackout time, streets were lined with cars in which curious Omahans waited to see if night would actually turn into night.</p>
+
+<p>One by one the lights vanished. Men and women with OCD armbands patrolled the streets in pairs. City policemen took up posts every half block.</p>
+
+<p>Street lights on Sixteenth street beat the siren to the blackout by a minutes or so, and Farnam street lights went out seconds later.</p>
+
+<p>As the siren wail died, there arose spontaneously the cry, "Turn 'em off."</p>
+</div1>
+
+<div1>
+<head type="sub">'Don't Get Funny'</head>
+
+<p>A double parked motorist blinked his lights and a woman with an armband pounced onto the running board and told him: "Don't get funny." </p>
+
+<p>The Sixteenth and Farnam crowd was having a good time. It shouted at a charwoman who appeared in a dimly lit window. It shouted at a man who struck a match. It clamored to have its picture taken. It squealed at not being able to see its hand before its face. Guys gave their girls a tight squeeze, and for the first time there were necking parties on Sixteenth and Farnam in front of the policemen and everybody.</p>
+
+<p>Within five minutes the crowd had shouted out all lights, except the two down Farnam street.</p>
+
+<p>The cries became more boisterous, like those of football fans ripping down a goal post.</p>
+</div1>
+
+<div1>
+<head type="sub">Fire Alarm Ends Test</head>
+
+<p>Proprietors of both stores blamed the light on time clock failures. Mrs. Dave Crounse, wife of the clothing store proprietor, said Crounse had been somewhat ill all week, went to bed immediately after returning home from a prayer meeting. She said the lights, which usually run most of the day and all evening until the time clock shuts them off shortly after 10 p. m., had been turned off before he closed the shop at 6 p. m. and an employee had turned off the time clock so the lights would not burn at all during the evening. "But something must have gone wrong with the clock," she said.</p>
+
+<p>R. Baranek, of Borsheim's, said he himself had set the clock to turn off the lights before the blackout and had watched the lights Thursday night and saw them go off at 9:35. Notified by an anonymous caller&#8211;as were the Crounses&#8211;after the blackout that the lights were one, he hastened to the store, and said the time clock was still set for 8 p. m.</p>
+
+<p>The folks who came downtown to stand in the dark got an extra bit of excitement. A minor fire broke out in the Crown Jewelry company, 217 South Sixteenth street and fire truck sirens took up the scream of the all-clear.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+

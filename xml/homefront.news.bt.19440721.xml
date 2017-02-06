@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.bt.19440721 SYSTEM "homefront.news.bt.19440721.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.bt.19440721">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">3,000 Mexican Harvest Workers Due in N.D. Soon</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.bt.19440721</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Bismarck Tribune</title>
+<title level="a">3,000 Mexican Harvest Workers Due in N.D. Soon</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1</biblScope>
+<biblScope type="columns">2</biblScope>
+<publisher>Bismarck Tribune Co.</publisher>
+<pubPlace>Bismarck, ND</pubPlace>
+<date value="1944-07-21">1944-07-21</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Agriculture-Labor</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-01</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-17</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.bt.19440721">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">3,000 Mexican Harvest<lb/>Workers Due in N.D. Soon</head>
+
+<p>FARGO&#8211;(AP)&#8211;First major movement of foreign agricultural workers into North Dakota for the 1944 harvest season is now under way according to H.W. Herbison, extension service specialist and state supervisor of farm labor, who said Friday that some 3,000 Mexican nationals contracted for with the War Food Administration are scheduled to arrive in the State within a few days.</p>
+
+<p>Under contract with the U.S. government these workers are brought into the states to do agricultural work and must be returned to Mexico later this fall.</p>
+
+<p>Permanent camps to house the workers are being set up at Camp Grafton near Devils Lake and at Jamestown, following a meeting Thursday at Jamestown of representatives of the labor branch of the WFA with Brig. Gen. Heber L. Edwards, adjutant general for North Dakota, who gave permission for the use of Camp Grafton, and Jamestown businessmen who made arrangements for the use of city property there.</p>
+
+<p>Main supply depot for the movement will be located in the Fargo city auditorium.</p>
+
+<p>Temporary state headquarters for officials in charge of the workers for the office of labor will be on the NDAC campus here. Heading the state set-up will be Arthur E. Von Berger, area representative, from Lincoln, Neb., who spent considerable time in North Dakota last year handling the movement of southerners brought here for similar work.</p>
+
+<p>Main source of the workers coming into North Dakota is Montana and Colorado where the Mexicans have been working in sugar beet fields.</p>
+
+<p>All are farmers in Mexico although they have not had much experience handling machinery, according to Campbell Loughmiller, assistant chief of operations of the central division of the office of labor headquartering in Chicago.</p>
+
+<p>Herbison said that approximately 1,000 have been contracted for already by North Dakota farmers and that county extension agents are now working on the placement of the remainder of the group.</p>
+
+<p>"Plans are to distribute the men form the permanent camps to counties and employment areas throughout the state where acute labor needs arise form time to time," Herbison said.</p>
+
+<p>"Any farmer needing labor should contact his county extension agent or the county farm labor assistant and arrangements for the placement of labor will be made immediately," he pointed out.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

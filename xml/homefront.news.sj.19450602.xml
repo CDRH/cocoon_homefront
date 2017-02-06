@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.sj.19450602 SYSTEM "homefront.news.sj.19450602.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.sj.19450602">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Not a Ghost Camp</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.sj.19450602</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Salina Journal</title>
+<title level="a">Not a Ghost Camp</title>
+<title level="a" type="sub">Phillips Has Another Army Linked With War</title>
+<title level="a" type="sub">Huge War and Construction Machines Treated and Sent Back To Work From There</title>
+<author></author>
+<biblScope type="pages">6</biblScope>
+<biblScope type="columns"><!-- need to fill-in --></biblScope>
+<publisher>Salina Journal</publisher>
+<pubPlace>Salina, Kansas</pubPlace>
+<date value="1945-06-02">1945-06-02</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-22</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.sj.19450602">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p6"/>
+<head type="main">NOT A GHOST CAMP</head>
+<milestone unit="smallbar"/>
+<head type="sub">PHILLIPS HAS ANOTHER<lb/>
+ARMY LINKED WITH WAR</head>
+<milestone unit="smallbar"/>
+<head type="sub">Huge War and Construction<lb/>
+Machines Treated and Sent Back<lb/>
+To Work From There</head>
+<milestone unit="smallbar"/>
+
+<p>When, late in October of 1944, the government de-activated Camp Phillips, the 50,000 acre former training site of four of the nation's combat divisions which helped crush Germany became to many Salina people a ghost camp. They're wrong. Another army has moved in&#8211;an army of 1,025 men and women workers who send 50 carloads of battleworn and construction machinery through that camp site every day and, in a year's time, draw a salary of approximately three million dollars for their efforts. For the old Camp Phillips site is now one of the largest "hospital" and redistribution centers in the United States. Uncle Sam's battle weary behemouths of war and construction tasks such as the Alcan highway are sent here for repairs. It is not men alone who need rest and rehabilitation after warfare!</p>
+
+<p>Dominating this rehabilitation center for machinery is the Honnen Construction company with its monthly payroll of $222,000 while government workers draw $20,000, its repair shops that cover 108 acres, its warehouses sprawled over 36 acres, and its unbelievable assortment of machines and equipment.</p>
+
+<p>There is, for instance, a huge machines capable of crushing into two sizes 110 tons of rock hourly. That machine is valued at around $60,000. And there's a side boom tractor used to lay pipe, and immense cranes that pick up and accurately set down many tons of materials. There are cement and paving mixers, tandem and three-wheel rollers, bulldozers, trucks&#8211;in fact, hundreds of machines that the average person could not name nor guess their use.</p>
+
+<p>Organized for the purpose of returning the equipment to its war or construction uses, the center has finished and returned to service 10,341 pieces of automotive equipment and construction machinery. Responsible for this immense task are the repair shops where workmen, standing over open forges, fashion new parts to replace worn our pieces, operate precision machines to grind rebuilt parts of exact former measurements, in fact overhaul and rebuild every part of the machines. Plastic surgeons have little on these men in the art of rebuilding. The equipment is as good as new when it leaves the shops, even to paint jobs.</p>
+
+<p>A tour of the shops discloses wonders of industry. There is a saw which literally will cut anything, through armour plate or other heavy metals, through porcelain, glass, wood, leather. There is, too, the electric hammer which pounds molten metal into the needed form in a few minutes of time. A rule of the shops is economy, to put to use every scrap of material available without waste. Speed is another rule. One week from the time a machine enters the shop it is apt to find itself parked beside hundreds of other similar machines, once again ready for another go on the battle or home fronts. Many of the machines return to the shops again and again for over-haul.</p>
+
+<p>Identification of the mass of material is a terrific task. In a veritable library of ledgers accounting is made of every one of the 150,000 items, in listings broken down into some 2,000,000 parts and materials.</p>
+
+<p>The installation is known as the Salina engineer redistribution center. Organized April 16, 1945, it consolidates the functions of the warehouse and the resident engineer which were organized in November, 1944, and the repair shop of the Honnen Construction company organized in November, 1942 and which holds an operating construct on the project with government engineers under a cost-plus fixed fee basis. In charge of the redistribution center is Capt. Curtis L. Arthur.</p>
+
+<p>Also in the Camp Phillips installation, besides the redistribution center, is the veterans home in the hospital area which is to be opened soon, the SHAAF bombing field, and 10,000 acres recently returned to farmers for farming and grazing purposes. And there is a branch camp for several hundred German prisoners of war!</p>
+
+</div1>
+
+</body>
+</text>
+</TEI>

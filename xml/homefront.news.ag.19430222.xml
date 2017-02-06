@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.ag.19430222 SYSTEM "homefront.news.ag.19420222.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.ag.19430222">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">You'll Have Less Food at Higher Prices Now With Point Rationing</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.ag.19430222</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Amarillo Globe</title>
+<title level="a">You'll Have Less Food Now at Higher Prices Now With Point Rationing</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages"></biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Amarillo Globe</publisher>
+<pubPlace>Amarillo, TX</pubPlace>
+<date value="1943-02-22">1943-02-22</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2009</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Transcription/Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+<!--
+<figure entity="homefront.news.ag.19430222">
+<figDesc></figDesc>
+</figure>
+-->
+<pb n=""/>
+
+<head type="main">You'll Have Less Food at Higher<lb/>Prices Now With Point Rationing</head>
+
+<p>The food situation today <sic corr="looked">looked looked</sic> like less food at a highter price. The average family will have less than half the canned food it enjoyed before food rationing, and from Washington comes the statement that foods not rationed will soar in price.</p>
+
+<p>"The average housewife," said the Washington <sic corr="Dispatch">dispatch</sic>, "will have to depend more on unrationed fresh fruits and vegetables, the costs of which are uncontrolled and in recent months have been skyrocketing. The government is studying price controls for those items but it will be months before they can be made effective. Florida growers already have warned that the recent cold wave ruined many crops and that higher prices for spring vegetables are inevitable."</p>
+
+<p>And in Amarillo, for instance, the price of fresh onions has jumped from three bunches for a dime to a dime and 15 cents for a bunch about half the size of the bunch of a few months ago.</p>
+
+<p>So around town today the people were talking about victory gardens. The soil of vacant lots and back yard nooks was beginning to turn.</p>
+
+<p>Here in Potter County we register for food rationing on Wednesday, Thursday, Friday and Saturday. Registration will be at the elementary school in Amarillo and the rural schools in the county. The registration will start at 4:30 o'clock Wednesday afternoon. Schools will dismiss Thursday and Friday these days and Saturday (which is not a school day) will be devoted to registration. The registration will cease in the rural schools at noon Saturday, but will continue in the Amarillo school until 9 o'clock that night.</p>
+
+<p>The rationing board is warning that all persons should register, since there is a possibility that other essentials may be rationed and the No. 2 books used for that.</p>
+
+<p>In Washington, Prentiss Brown, the price administrator, in revealing the point values of canned foods under the new rationing system, emphasized the seriousness of the situation by warning of "dangerous and critical shortages" of the new rationed foods and of "great hardships" to some Americans.</p>
+
+<p>And his statement was issued before the Agriculture Department added dry beans, dry peas, lentils and dehydrated or dry soups to the "frozen" list and to the list of foods to be rationed March 1 point values for those have not been determined.</p>
+
+<p>Stocks of canned foodstuffs were frozen on grocery-store shelves at midnight Saturday. They will remain frozen until Monday, March 1. During that period it will be impossible to buy any of more than 200 items.</p>
+
+<p>The point values, announced by the OPA as the freeze began revealed that housewives will have to scale down drastically their ideas on buying canned foods. Since there will be complete freedom of choice amoung about 200 items in spending the 48 point monthly allowance for each individual, it is impossible to say exactly how many cans each will get each month.</p>
+
+<p>Here is a rough idea, however, of what point rationing is going to mean to the average consumer. One No. 2 can of tomatoes and one No. 3 can of pineapple juice will use up the entire 48 points for the month. Or one could buy one No. 2 can of peas, one No. can of corn and three No. 1 cans of soup. Soup-eaters could "blow" their 48 points on eight cans of soup, but they would have none left over.</p>
+
+<p>Remember that all those figures are for one individual. Each person has 48 points, so a family of three for instance has 144 points to spend in a month. Among the highest point-value items on the list are dried prunes and raisins.</p>
+
+<note>Story is continued on page 7, which was not available for digitization.</note>
+
+
+</div1>
+
+</body>
+</text>
+</TEI>

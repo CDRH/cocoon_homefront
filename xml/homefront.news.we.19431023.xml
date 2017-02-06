@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.we.19431023 SYSTEM "homefront.news.we.19431023.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.we.19431023">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Suggests Training of Women Farmers</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.we.19431023</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Wichita Eagle</title>
+<title level="a">Suggests Training of Women Farmers</title>
+<title level="a" type="sub">Head of Governor's Labor Commission Points Out Manpower Shortage</title>
+<author></author>
+<biblScope type="pages">7</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Wichita Eagle</publisher>
+<pubPlace>Wichita, KS</pubPlace>
+<date value="1943-10-23">1943-10-23</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-26</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.we.19431023">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p7"/>
+<head type="main">SUGGESTS TRAINING<lb/>OF WOMEN FARMERS</head>
+<milestone unit="smallbar"/>
+<head type="sub">Head of Governor's Labor<lb/>Commission Points Out<lb/>Manpower Shortage</head>
+<milestone unit="smallbar"/>
+
+<p>TOPEKA, Oct. 22.&#8211;(AP)&#8211;Training schools for Kansas women, to prepare them for an even greater part in the 1944 harvest, were recommended today by F. O. Blecha, secretary of the governor's farm labor commission.</p>
+
+<p>"If manpower continues to be drained&#8211;and I want to tell you it's getting harder and harder to find men&#8211;we will have to accept the idea that women have to accept the ideas that women will supplant men in the Kansas fields. They do it in England and there's no reason we can't do it here," he declared.</p>
+
+<p>He suggested schools be held throughout the state to train women in handling farm machinery, particularly combines, tractors and trucks used in the wheat harvest.</p>
+
+<p>This year, he reported, 8,000 women worked in the Kansas fields along with 23,000 men who came into the state for the harvest, 20,000 boys and girls who usually do not work on farms, and 800 war prisoners from Kansas internment camps.</p>
+
+<p>With more camps planned, he recommended use of war prisoners be expanded next year and predicted some of the requirements imposed by the war department would be relaxed to make this possible.</p>
+
+<p>Blecha listed three other things which, he said, would help Kansas beat the farm labor bogey again next year:</p>
+
+<p>Get farm machinery repaired during the winter; continue the community co-operation used this year, with neighbors helping each other, and get town men to work in the fields during peak periods, turning their businesses over to their wives for a few days.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

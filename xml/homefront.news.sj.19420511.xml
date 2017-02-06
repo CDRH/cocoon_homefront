@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.sj.19420511 SYSTEM "homefront.news.sj.19420511.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.sj.19420511">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Men For Harvest</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.sj.19420511</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Salina Journal</title>
+<title level="a">Men For Harvest</title>
+<title level="a" type="sub">Kansas Talies Its Labor Reserve</title>
+<title level="a" type="sub">Men, Youths and Women Being Enrolled To Put Big Wheat Crops in the Bins</title>
+<author></author>
+<biblScope type="pages">8</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Salina Journal</publisher>
+<pubPlace>Salina, KS</pubPlace>
+<date value="1942-05-11">1942-05-11</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-25</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.sj.19420511">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p8"/>
+<head type="main">MEN FOR HARVEST</head>
+<milestone unit="smallbar"/>
+<head type="sub">KANSAS TALIES ITS LABOR<lb/>RESERVE</head>
+<milestone unit="smallbar"/>
+<head type="sub">Men, Youths and Women Being<lb/>Enrolled To Put Big Wheat<lb/>Crops in the Bins</head>
+<milestone unit="smallbar"/>
+<byline>By Journal-Wide World News Service</byline>
+
+<p>TOPEKA, May 11&#8211;In this bread-basket state where another bumper wheat harvest looms, town boys and even women and girls are learning how to run tractors and other field machinery in meeting the challenge of a critical farm labor shortage.</p>
+
+<p>Thousands have been recruited&#8211;to replace men called to the colors or to individual production lines&#8211;in a statewide rally.</p>
+
+<p>High school boys are spending extra hours after regular classes and on Saturdays studying fundamentals of farm machinery. Agricultural instructors are conducting demonstrations in the field. A large number already have been tentatively placed and will get their first experience at farm chores when schools are dismissed for the summer.</p>
+</div1>
+
+<div1>
+<head type="sub">Women and Girls Join</head>
+
+<p>In some communities of the nation's biggest wheat state women and girls are joining enthusiastically in courses offered by farm implement companies. Women have volunteered to help with the milking, feed livestock or go into the fields and ride tractors and cultivators.</p>
+
+<p>The federal and state agriculture departments reported in April that Kansas' farm labor supply was only 57 percent of demand. The scarcity prevails throughout the entire middle western farm belt despite the offer of highest wages <sic corr="since">sinc</sic> 1930.</p>
+
+<p>"Kansas won't stand by and allow wheat to go unharvested for lack of hands," predicted J. C. (Jake) Mohler, veteran secretary of the state agricultural board. "When the showdown comes, rural communities will furnish an emergency worker supply. Merchants will lock their shops, the town banker, minister and teacher&#8211;folks who know what the wheat harvest means&#8211;will go into the fields."</p>
+</div1>
+
+<div1>
+<head type="sub">Many Groups Cooperate</head>
+
+<p>Schools, clubs, defense councils, employment officers, farm bureaus and state and federal governmental units are joining in the movement to assure workers for the harvest. Highway department trucks, county cars, and school busses may be commandeered for transporting groups from town duties into the fields if necessary.</p>
+
+<p>Gov. Payne Ratner sounded the call on the acute shortage when he summoned agricultural leaders to outline a survey of possible sources of emergency farm manpower. High school and college youths and town men willing to put some time in on the harvest appeared the best bets.</p>
+
+<p>Lester Pollom, state vocational agriculture supervisor, estimated 2,500 city boys already had enrolled in special farm classes in addition to more than 6,000 farm youths specializing in vocational agriculture.</p>
+
+<p>School shops have been given to the savaging and repair of farm machinery. Farmers are being taught to be their own repair men since professional mechanics have gone off to war plants.</p>
+
+<p>The U.S. employment service started early surveys of farm labor needs and organized local committees to assist in locating workers. WPA construction projects have suspended in critical areas to release men. The Farm Security administration is urging 2,500 borrowers, occupied only part time on their own farms, to hire out for the remainder of their time.</p>
+
+<p>Different communities have their own method of solving the shortage problem. At Coldwater, in Commanche county, a farm implement firm is giving a free course of instruction in tractor operation for women and girls.</p>
+
+<p>At Wichita, where rural youths have flocked for employment in airplane factories, men teachers of the public schools are organizing to <sic corr="spend">speind</sic> part of their summer vacations with the wheat harvest. Nearby Winfield, with an outstanding school vocational department, is opening well-equipped shops day and night to farmers who want assistance in implement repair.</p>
+
+<p>Neighbors are banding together in many places to help one another with the heavier jobs, like the old threshing crews which have been outmoded <sic corr="generally">g enerally</sic> in Kansas by the combine.</p>
+
+<p>Farm women are holding meeting to learn of more ways they can help relive the workers scarcity, but farmers insist there is a limit to what the womenfolk can do.</p>
+
+<p>"They don't have much truck with the suggestion from Washington that city women and college co-eds be trained to do the outside chores," said Harold Lewis, farm replacement director for the employment service.</p>
+
+<p>But Lewis voiced the opinion that Kansas would rally and save the crops come harvest time.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

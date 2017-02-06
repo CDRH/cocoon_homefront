@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.ls.19430202 SYSTEM "homefront.news.ls.19430202.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.ls.19430202">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Norfolk Board of Education Protesting Teachers Going To War Work</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.ls.19430202</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Lincoln Star</title>
+<title level="a">Norfolk Board of Education Protesting Teachers Going To War Work</title>
+<title level="a" type="sub">Ask Supt. Reed's Help in Strengthening Their Contracts</title>
+<author></author>
+<biblScope type="pages">2-A</biblScope>
+<biblScope type="columns">1-4</biblScope>
+<publisher>Lincoln Star</publisher>
+<pubPlace>Lincoln, NE</pubPlace>
+<date value="1943-02-02">1943-02-02</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Schools-teacher shortage</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-05</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.ls.19430202">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p2"/>
+<head type="main">Norfolk Board of Education Protesting<lb/>Teachers Going To War Work</head>
+<milestone unit="smallbar"/>
+<head type="sub">Ask Supt. Reed's Help in Strengthening Their Contracts</head>
+<milestone unit="smallbar"/>
+
+<p><address><addrLine>NORFOLK</addrLine></address>, <date value="1943-02-02">Feb. 2</date>&#8211;(AP)&#8211;The Norfolk board of education announced Tuesday that it is vigorously protesting "enticement" of teachers form their classrooms by the federal government and war industries.</p>
+
+<p>Three Norfolk teachers have broken their contracts in the past week, one to go to Washington as a cartographic engineer and the others to be student instructors in an air base school.</p>
+
+<p>"The fact that the teacher is under contract with the school district to teach the balance of the school year." Said Supt. Allen P. Burkhardt," means nothing at all to the government or to the defense industries and very little, if anything, to certain teachers."</p>
+
+<p>The board of education here Burkhardt said, is writing State Supt. Wayne C. Reed, asking him to work with other state superintendents in an attempt to strengthen the school's hold on teachers who would willfully break contracts. The board is also writing Rep. Karl Stefan, U. S. Senators Hugh Butler and Kenneth Wherry, and the director for the U. S. civil service commission, asking them to use their influence "in bringing to a halt the enticing of teachers out of the classroom."</p>
+</div1>
+
+<div1>
+<head type="sub">Cannot Match Pay.</head>
+
+<p>Superintendent Burkhardt pointed out that government and war industry jobs offered teachers frequently pay "two to two and one-half times as much salary as that received in Norfolk for teaching. He added that the Norfolk schools, in which the "teacher salary is well above the average in the state, couldn't begin to match the pay of the government job even if the maximum tax levy were made."</p>
+
+<p>Other schools in the state are joining Norfolk in making a protest, Burkhardt said. The problem is even more serious in some other communities than it is here, he said. One school in a place larger than Norfolk has had a 40 per cent turnover of teachers, he revealed, and another, slightly smaller than Norfolk, has had over a 50 per cent turnover.</p>
+</div1>
+
+<div1>
+<head type="sub">Sponsor Legislative Bill.</head>
+
+<p>The matter of contractual relations between boards of education and teachers was the chief topic of discussion at the recent state convention of the Nebraska association of school boards and executives. That association has joined with the Nebraska educational association and the state association of county superintendents in sponsoring a legislative bill which, if passed, would cause the state <sic corr="superintendent">superindent</sic> to revoke for one year the certificate of any teacher who breaks a contract.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+

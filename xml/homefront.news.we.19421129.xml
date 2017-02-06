@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.we.19421129 SYSTEM "homefront.news.we.19421129.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.we.19421129">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Share-The-Ride Plan Launched at Wichita</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.we.19421129</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Wichita Eagle</title>
+<title level="a">Share-The-Ride Plan Launched at Wichita</title>
+<author></author>
+<biblScope type="pages">10-A</biblScope>
+<biblScope type="columns">2-3</biblScope>
+<publisher>Wichita Eagle</publisher>
+<pubPlace>Wichita, KS</pubPlace>
+<date value="1942-11-29">1942-11-29</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-nonfood</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.we.19421129">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p10"/>
+<head type="main">SHARE-THE-RIDE PLAN<lb/>LAUNCHED AT WICHITA</head>
+<milestone unit="smallbar"/>
+
+<p>Supplementing the staggered hours and skip-stop programs recently put into effect by the war transportation committee, a voluntary, city-wide Wichita neighborhood share-the-ride plan to save millions of miles of rubber ties was launched yesterday by the committee headed by Lee J. Hobbs.</p>
+
+<p>Named by Hobbs as a sub-committee to handle the details of the neighborhood ride swapping plan are Harry R. Horner, chairman, F. Russell Jump, Frank McCullough, S. G. Glover, and C. C. Sutton.</p>
+
+<p>The office of the Chamber of Commerce, on the 10th floor of the Beacon building, will receive the applications for participation in the program which should be made on the special blank printed below and either mailed or brought to the offices of the chamber. Enrollments for this plan cannot be handled by telephone.</p>
+
+<p>The committee will sort and classify the enrollments and bring the "swappers" together to make their own arrangements with each other. Ride swappers may be eligible for tire recapping.</p>
+
+<p>This plan, which is entirely voluntary, is for persons who own cars which they are willing to share with other owners on a rotating basis. Most common arrangement would be for four car owners in the same neighborhood to ride with each other alternately. The committee will make available the information as to locations, hours, etc. to those whose hours and locations are similar and the owners then will make their own arrangements and schedules.</p>
+
+<p>Hobbs pointed out that his plan does not apply to those who do not have cars, who are expected to ride the buses. He said the practice of "picking up" by kindly motorists does nothing to solve the tire and transportation problem.</p>
+
+<p>[Ed. Note: Please see the article image, as it includes the enrollment application for the program described above]</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+
+

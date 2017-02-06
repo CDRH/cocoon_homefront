@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.wye.19430505 SYSTEM "homefront.news.wye.19430505.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.wye.19430505">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Persons Eating Regularly At Cafes, Institutions, Must Pay Ration Points</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.wye.19430505</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Wyoming Eagle</title>
+<title level="a">Persons Eating Regularly At Cafes, Institutions, Must Pay Ration Points</title>
+<author></author>
+<biblScope type="pages">20</biblScope>
+<biblScope type="columns">1-2</biblScope>
+<publisher>Wyoming Eagle</publisher>
+<pubPlace>Cheyenne, WY</pubPlace>
+<date value="1943-05-05">1943-05-05</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-general</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-12</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.wye.19430505">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p20"/>
+<head type="main">Persons Eating Regularly At Cafes, Institutions, Must Pay Ration Points</head>
+<milestone unit="smallbar"/>
+
+<p>"Point rationing stamps of persons who receive or purchase meals regularly in restaurants, hotel dining rooms, and establishments which are registered as institutional users of processed foods, meats, and fats, must be turned in to such pieces of business," according to Gordon Garrison, state food rationing representatives for the OPA.</p>
+
+<p>Garrison stated that "It has been called to the attention of the state OPA offices that restaurants, hotels, and other institutional users of processed foods, meats, and fats, such as hospitals and institutions are not requiring patrons or <sic corr="employees">employes</sic> who receive more than eight meals each week in such establishments, to sacrifice points from their war ration books."</p>
+
+<p>"For example," said Garrison, "Nurses and other <sic corr="employees">employes</sic> of hospitals and institutions, persons living in hotels, and individuals who obtain the majority of their meals in such places, have not been turning in points, for their meals, and are giving the stamps from their war ration books to friends or other members of the family. Obviously, this doubles the rations of the person who receives the points, and certainly is not fair and equitable distribution of scarce food commodities."</p>
+
+<p>"This constitutes a serious violation of regulations on processed foods and meats," stated Garrison, "and persons who have been in the habit of practicing such procedure were warned of the seriousness of the offense. This practice constituted a violation as much as black market operators."</p>
+
+<p>OPA regulations state that all persons who consume eight or more meals a week in a restaurant, hotel dining room, hospital or institution which has registered as an institutional user of processed food, meat, and fats, shall surrender their ration books to the owner or operator of such places of business, and stamps will be removed by the management for the periods which stamps are currently valid. The books in turn will be turned back to their owners at the expiration of the period which the persons are receiving meals in such institutions.</p>
+
+<p>"Restaurants, hotels, and all institutions affected by the regulations," said Garrison, "will remove stamps from the war ration books of guests and turn them in to their local ration boards for cancellation."</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+
+

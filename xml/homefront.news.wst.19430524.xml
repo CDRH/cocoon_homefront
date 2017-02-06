@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.wst.19430524.01 SYSTEM "homefront.news.wst.19430524.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.wst.19430524.02 SYSTEM "homefront.news.wst.19430524.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.wst.19430524">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">U. P. and Ft. Warren Agree to Pay for Water on Basis of Use</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.wst.19430524</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Wyoming State Tribune</title>
+<title level="a">U. P. and Ft. Warren Agree to Pay for Water on Basis of Use</title>
+<title level="a" type="sub">City to Net Large Sum in Contract</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1, 8</biblScope>
+<biblScope type="columns"><!-- need to fill-in --></biblScope>
+<publisher>Wyoming State Tribune</publisher>
+<pubPlace>Cheyenne, Wyoming</pubPlace>
+<date value="1943-05-24">1943-05-24</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-22</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.wst.19430524.01">
+<figDesc></figDesc>
+</figure> -->
+<p />
+</div1>
+
+<div1 type="part">
+<pb n="p1"/>
+<head type="main">U. P. AND FT. WARREN AGREE TO<lb/>
+PAY FOR WATER ON BASIS OF USE</head>
+
+<head type="sub">City to Net<lb/>
+Large Sum<lb/>
+In Contract</head>
+
+<byline>By PAT SULLIVAN</byline>
+
+<p>Revised water contracts between the city and the war department and the city and th Union Pacific, which will develop in excess of $100,000 a year in water revenue for Cheyenne, awaited signatures Monday afternoon, W. A. (Pat) Norris, chairman of the city water board, announced.</p>
+
+<p>A conference between city officials, members of the water board and post officials was scheduled for 4 p. m. Monday at Ft. Warren to finish final details on the war department contract. The Union Pacific agreement was finished last fall but could not become effective until the war department had given approval to the new terms.</p>
+
+<p>Under the new contracts both the post and the railroad, which at the present time consume between 9 to 12 million gallons and 15 to 28 million gallons a week respectively, will pay the same rate as regular city consumers for all water used in excess of 30,000,000 gallons a year.</p>
+
+<p>The Union Pacific has been paying a flat rate of $1,000 a month and under this contract was allowed to use all the water necessary. This arrangement began in 1924. The first water contract in 1889 allowed the railroad free water due to certain promised by the company to enlarge shops and other concessions.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">GAVE FUNDS<lb/>
+IN 1909</head>
+
+<p>In 1909 the war department contributed $400,000 to the expansion of the then existing water system figuring at that time that Ft. Warren would some day use $50,000 gallons of water daily, a figure which was predicated on 100 gallons per capita.</p>
+
+<p>The army has not been compelled to pay for the water used at the post, other than thru the 
+
+<note type="jumphead">&#8211;WATER</note>
+
+<note type="editorial" rend="jumpline">(Continued on Back Page)<lb/>
+(Column Three)</note>
+
+<pb n="p8"/>
+
+<!-- <figure entity="homefront.news.wst.19430524.02">
+<figDesc></figDesc>
+</figure> -->
+
+<note type="editorial" rend="jump">
+<note type="editorial" rend="mainhead">--Water</note>
+
+<note type="editorial" rend="jumpline">(Continued from Page One)</note>
+</note>
+
+$400,000 it originally advanced.</p>
+
+<p>Work on the revised contracts began two years ago last September when Mayor Ed Warren, anticipating a strain on water facilities, appointed the water board consisting of Norris, chairman, and Fred Warren, John Loomis, Don Wageman and William E. Dinneen. The board has been working constantly since that time to effect an agreement between the railroad, the city and the post. Norris said Monday that much credit is due war department officials and Union Pacific executives who have cooperated "so splendidly" with the city in being about the agreement.</p>
+
+<p>Norris revealed that the railroad and Ft. Warren each consume one-third of the city's water supply. A table of comparative figures in water consumption of water for 1943 will be in excess of 2,700,000,000 gallons.</p>
+
+<p>Mayor Warren and Chairman Norris both expressed their sincere appreciation Monday for the "excellent cooperation and fine assistance" given them from war department and Union Pacific officials.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

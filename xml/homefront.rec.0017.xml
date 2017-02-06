@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.rec.0017">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Congressional Record-Senate (March 4, 1941)</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.rec.0017</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Congressional Record-Senate</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date value="1941-03-04">(March 4, 1941)</date>
+<biblScope type="pages">1721-1722</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-01-16</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Validation</item>
+</change>
+<change>
+<date>2007-01-10</date>
+<respStmt>
+<name>Paul Fajman</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>2006-11-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1>
+
+
+	<p>Mr. LANGER. Mr. President, I ask unanimous consent to have printed in the RECORD an editorial from the Bismarck (N. Dak.) Tribune of March 1, 1941. This newspaper won the national Pulitzer prize for "the most disinterested and meritorious public service rendered by an American newspaper during the year 1937."</p>
+	<p>There being no objection, the editorial was ordered to be printed in the RECORD, as follows:</p>
+<p rend="center">UNCLE SAM'S "BENDER"</p>
+	<p>Advocates of the lease-lend bill in the Senate fear its opponents will conduct a filibuster against the measure. And rightly so.</p>
+	<p>For if the Nation ever comes to have an understanding of this measure&#8211;if the people penetrate to its core and understand the only purpose it possibly can have&#8211;they will demand that their Senators vote against it and it will be beaten.</p>
+	<p>That was the case with the League of Nations proposal in 1919. That started out with all the strength a national administration could put behind it. But it was delayed in the Senate until the people could get the proposition straight in their minds. When that happened they made their opinion felt and the scheme was rejected.</p>
+	<p>That is unlikely to happen in this case.</p>
+	<p>America is like an ordinarily good citizen out on and old-fashioned bender. His quieter friends want him to quit raising hell and go home and his common sense&#8211;whatever may be left of it&#8211;tells him they are right. But his playboy companions keep insisting that he have just one more drink. And they usually have their way.</p>
+	<p>When the neutrality bill was broached a year ago it was a case of "Let's take just one. It won't hurt us."</p>
+	<p>We now are invited to have noather&#8211;and a much bigger one.</p>
+	<p>Those who oppose the lease-lend bill are like the forlorn little daughter in the melodrama who sang Father, Dear Father, Come Home With Me Now. They have just as much reason to sing the song and to tug at Uncle Sam's coattail as does any forlorn little girl who finds her father in his cups. And they will have just about as much luck.</p>
+	<p>In view of the that fact, the only purpose of a filibuster is to delay the time between drinks in the hope that the Nation will sober up a little and note where it is going. Maybe, if the act of gulping this dose of poison into the Nation's stomach is delayed long enough, the police will arrive in the form of popular opinion and break up the performance. It is a slim chance, but it is about the only one left.</p>
+	<p>This lend-lease bill will mean the second of two powerful drinks, taken close together. And once Uncle Sam gets it down he is going to be pretty well tanked.</p>
+	<p>There have been several little nips on the side&#8211;quick ones&#8211;to aid in the build-up. Among them are the various defense moves. No one objects to them and they are admittedly necessary, but the way in which they have been carried out has increased the stimulating effect.</p>
+	<p>There have been speeches and statements&#8211;made against the sounding board of high official position&#8211;all designed to keep Uncle Sam standing at the bar with the glass in his hand. And the barkeep with the glass in his hand. And the barkeep has always been ready to pour another dollop into the glass on the slightest provocation.</p>
+	<p>A third "quickie" has been the economic effect of defense expenditures. Easy money is back again in many parts of the Nation. And how the people love it.</p>
+	<p>But the real "boilermaker" is the lease-lend bill. Once Uncle Sam tucks that under his belt he'll be roaring drunk.</p>
+	<p>He'll kick the little girl in the face to make her quit singing that loathsome song and he'll reach for the bottle, disdaining the glass. He'll be off on a hell-roaring time which will make all his past escapades seem like pink-tea affairs.</p>
+	<p>Both the plot and the prospect are plain.</p>
+	<p>When Uncle Sam wakes up&#8211;as he eventually will&#8211;he'll be sorry he kicked his daughter into the gutter. He'll be sorry he sent his sons over to fight the neighbors and got a lot of them killed or crippled for life. And he'll have an awful headache to remind him of his lack of restraint.</p>
+	<p>But by then it will be too late.</p>
+<p>Mr. NYE. Mr. President, I have no desire to enter a contest to find out who can hate Hitler most, or love Britain most; but I believe that before we move to further consideration of House bill 1776 we owe it to ourselves to afford a little better balanced perspective of those whom we would make our allies for certain alleged purposes and causes.</p>
+	<p>One day last week I set out to argue against the fears and hates which propaganda has planted in our midst&#8211;fears and hates intended to ease the way for such forces as would have us playing again with those dangerous European matches.</p>
+	<p>One fear to which I referred was the one to the effect that if Britain and her Navy fell, we should be an easy mark for the invading forces and Hitler and Company, their successors and assigns. On February 27, I directed my energy to the demonstration of real absence of cause for fear of any such invasion.</p>
+<p rend="center">GUNS OF PROPAGANDA THUNDER</p>
+	<p>It is not easy to overcome fear, especially when powerful guns of propaganda, shooting all the arts of propaganda, are loosed among us. When the White committee and others, including the White House, let flow the statements of danger, when newspaper columnists plant and fan fear day after day, there is always danger of a stampede that can accomplish and permit things which ordinarily have no proper place in our being and life as a Nation.</p>
+	<p>Another fear to which I desire to address myself today is perhaps better described as a hate&#8211;the hatred which is ours of aggressors, a hatred so blinding that many of our people are quite ready to have others of our people, the sons of others, engage in a mighty world crusade to stop and destroy these aggressors. Some of us, conceiving the aggressor to be the only force standing in the way of freedom of speech, freedom of worship, freedom from want, and freedom from fear, would choose allies, go forth and destroy the aggressors, and thus make these freedoms available to all the people upon the earth, all the people everywhere, and make these freedoms available in our time and generation.</p>
+<p rend="center">WHAT SORT OF ALLIES ARE OURS?</p>
+	<p>The allies we would chose in this gigantic undertaking to stop and destroy the aggressors are a sight to behold. We are constantly reminded by those in leadership who pour hate upon the three present most aggressive aggressors, Hitler, Mussolini, and the Japanese, that the way to stop these aggressors is to aid Great Britain. Like the Untied States, some would have us see, Greater Britain, too, detests aggression.</p>
+	<p>How easily hysteria blinds up to preponderant fact. How quickly and completely we can be made to see that black is really not black at all, but white. If only our present mad pace continues, how simple may be the final task of our accepting the offer of Prime Minister Churchill, an offer to his own countrymen originally, an offer of "blood and tears and toil and sweat."</p>
+	<p>Shall we ally our country with Great Britain in the name of ending aggression upon this earth? That, it seems to me, is a rather immediate challenge growing out of our hatred of the aggressors and out of this pending lend-lease or throw-away bill.</p>
+<p rend="center">BRITAIN THE ACE AGGRESSOR</p>
+	<p>If such an alliance for such a cause is to be our lot, then let it be acknowledged that our ally is the ace aggressor of all time. Britain's aggressions have filled the pages of history for centuries. Aggression has given Great Britain a third of the globe and brought into British subjugation hundreds of millions of peoples. Step by step through the centuries, and right down to the present time, British imperialism has extended British sovereignty over peoples until now the Empire numbers nearly if not all of a half billion souls. And these have been won by conquest, by invasion, by the very kind of aggression we deplore and want to stop today. Be honest; if we join Britain in the cause of stopping aggressors we join the power that has practiced more aggression than any power recorded in history. Honesty to ourselves and to those we represent requires us to review British aggression of the last 3 centuries.</p>
+	<p>Fear and hatred of aggressors has us about to do the very thing that will leave historians of another day bewildered when they come to account for our actions in these hours.</p>
+<p rend="center">WE ARE ASKED TO STEM ALL AGGRESSION</p>
+	<p>We are told, even by as high an authority as our Secretary of State, that there is no more law in the world, that we have all gone back to the jungle stage, and that all that matters is self-preservation. We are told that a terrible aggressor, a mad-dog nation, is loose in the world, running amuck over the earth, out to grab every bit of territory on which it can lay its hands, and that this nation is going to attack us next&#8211;and so, it is argued, we must vote for "intervention with all its implications," in order to put an end to the brigandage of this aggressor nation before it puts and end to us.</p>
+	<p>Mr. President, I do not wish at this time to discuss the whole question of aggression and aggressor nations. I hold no brief for the policy which Germany is following, and I believe that it may rightfully be accused of aggression in many of the actions which led it to this war, and in some of the things it has done since the war started. But there are one or two observations that need to be made in this connection if we are to even undertake to keep our heads.</p>
+	<p>First, it needs to be said that Germany is not the only nation with an empire in the today. As a matter of fact, Germany had a comparatively small empire before 1914, and now has no empire whatever. Undoubtedly one of the motives which is behind Germany's entrance into this war is to get back among the empire-owning nations.</p>
+<p rend="center">EMPIRES DO NOT JUST HAPPEN</p>
+	<p>Second, it also needs to be said that empires do not just happen. They are all products of aggression. They have all been taken by force, kept in subjugation by force, and they are all held down by force. Whenever and wherever you see an empire, there, Mr. President, you see evidence of aggression. And if the United States ever gets into the empire business, that will be just as true of us as of any of the others.</p>
+	<p>In the third place, if we are looking for a history of aggression in grabbing territory and subjugating unwilling peoples, then I suggest that we cannot be indifferent to the fact that the biggest empire which is today beseeching us to come to her help in the name of democracy. The biggest aggressor in history, Mr. President, absolutely unapproached by any other nation in the number of her aggressions and the extent of the territory which has been seized, is none other than our would-be ally, the British Empire.</p>
+	<p>Mr. President, this Nation is faced today by a call for help from the British Empire. It is a call which comes over the airways, voiced by the Prime Minister of Great Britain; which comes from returning travelers to that Nation; and which finds its echo in our press, from organizations devoted to the support of the British cause, and from persons high in authority in this Government. The American people hear that call daily, and they respond to it sympathetically.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

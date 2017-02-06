@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dmn.19450616 SYSTEM "homefront.news.dmn.19450616.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dmn.19450616">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Arrests Break Up Huge Sugar Ring In Black Market</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dmn.19450616</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Dallas Morning News</title>
+<title level="a">Arrests Break Up Huge Sugar Ring In Black Market</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1-II</biblScope>
+<biblScope type="columns">7-8</biblScope>
+<publisher>Dallas Morning News</publisher>
+<pubPlace>Dallas, TX</pubPlace>
+<date value="1945-06-16">1945-06-16</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-sugar</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-08-27</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.dmn.19450616">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">Arrests Break Up<lb/>Huge Sugar Ring<lb/>In Black Market</head>
+
+<p>Smashing of the largest black market sugar ring ever to operate in Dallas' six-state Office of Price Administration region was announced here Friday by J. C. (Pete) Flanagan, in charge of the OPA currency protection branch.</p>
+
+<p>The trail was picked up in Dallas last month when the ration coupon verification center discovered through infrared tests that it had been flooded with approximately 48,000 counterfeit sugar coupons.</p>
+
+<p>Investigation by Flanagan and his men, assisted by the United States Secret Service, Indicated that all of the coupons had been turned in by a large sugar wholesale company in New Orleans, La.</p>
+
+<p>Five days later a 31-year-old truck operator was arrested in New Orleans by OPA currency protection agents and federal alcohol tax men.</p>
+
+<p>The prisoner has been charged with conspiracy to violate the sugar ration regulations and is being held in jail at New Orleans in lieu of $25,000 bond. His brother, owner of the truck, was later taken in custody but is now at liberty under $2500 bond set in Atlanta, Georgia.</p>
+
+<p>Sugar obtained by the gang through its operations was going to a Georgia bootlegger for the manufacture of moonshine whisky, Flanagan claimed.</p>
+</div1>
+
+<div1>
+<head type="sub">Georgian Named Leader.</head>
+
+<p>Leader of the ring, Flanagan said, was the Georgia bootlegger. The suspect has not been taken in custody yet, but federal men have him under surveillance and his arrest is expected within the next few days.</p>
+
+<p>Much credit for the breaking of the gang goes to C. H. Pellas, an official of the sugar company in New Orleans which turned in the counterfeit coupons to the Dallas verification center, Flanagan said.</p>
+
+<p>The currency protection head said that the sugar company received the coupons in good faith, not knowing they were counterfeit.</p>
+</div1>
+
+<div1>
+<head type="sub">Operating Method Told.</head>
+
+<p>Flanagan and Secret Service men were told that the bootlegger, representing himself as the operator of a fleet of trucks serving as mobile retail grocery stores in Georgia and Alabama, made arrangements with the sugar firm for the purchase of large quantities of sugar and its delivery to a driver who would pick it up in New Orleans and deliver it to Atlanta, Ga.</p>
+
+<p>Flanagan said that twelve large truckloads of sugar, involving nearly a quarter of a million pounds, were picked up by the man who was arrested in New Orleans while trying to pick up his thirteenth load.</p>
+
+<p>According to Flanagan the bootlegger hired the arrested trucker after completing negotiations for future sugar purchases with the New Orleans firm. The prisoner is said then to have hired his brother's truck for the jobs.</p>
+
+<p>No lead as to the source of the counterfeit coupons was disclosed by Flanagan when he released his information on the ring's activities. He said, however, that the investigation on this angle of the case was still under way by both his men and Secret Service operators.</p>
+
+<p>Flanagan said the alleged ring leader of the plot has served two sentences for bootlegging.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

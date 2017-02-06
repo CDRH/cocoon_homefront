@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.wye.19420114 SYSTEM "homefront.news.wye.19420114.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.wye.19420114">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Clothes Designs Especially for Farm Women at Work Planned</title>
+<author>Ellen C. Feusner</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.wye.19420114</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Wyoming Eagle</title>
+<title level="a">Clothes Designs Especially for Farm Women at Work Planned</title>
+<author>Ellen C. Feusner</author>
+<biblScope type="pages">4</biblScope>
+<biblScope type="columns">1-2</biblScope>
+<publisher>Wyoming Eagle</publisher>
+<pubPlace>Cheyenne, WY</pubPlace>
+<date value="1942-01-14">1942-01-14</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Agriculture-Labor</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.wye.19420114">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p4"/>
+<head type="main">CLOTHES DESIGNS ESPECIALLY FOR<lb/>FARM WOMEN AT WORK PLANNED</head>
+<milestone unit="smallbar"/>
+<byline>By ELLEN C. FEUSNER</byline>
+<p rend="centered">Laramie County Home Demonstration Agent</p>
+
+
+<p>The farm woman is coming into her own in the world of clothes design. For the first time the bureau of home economics has designed a series of practical inexpensive work clothes, patterns for which have been released to pattern makers and the clothing trade.</p>
+
+<p>No longer will the farm woman have to look like a frump as she tends her garden, feeds the stock, does the milking or runs the tractor. She can take pride in her appearance&#8211;"a factor not scorned by any woman," says the Family Dollar.</p>
+
+<p>With all women being called upon to do additional tasks this experimental work becomes important not only to farm women but to women working in factories and other more strenuous jobs.</p>
+
+<p>These clothes are designed to fit the job; they are easy to get into and out of; they are simple to wash and iron; they are to be made of sturdy material; they are to be durable and attractive without being beyond the price range of the farm woman.</p>
+
+<p>The first design to be released was a coverette, designed for farm wear. It is a one-piece garment with a surplice closing. The trouser legs are equipped with fasteners at the ankles so that can be snugly adjusted when going through brambles. Made of cotton seersucker it is cool, comfortable and becoming.</p>
+
+<p>Another garment, more feminine in design than the coverette but equally practical, is the coverall apron which may be worn with a simple blouse for either indoor or outdoor work. Matching leggings are suggested for this garment when worn for heavy outdoor duty. Since it is to be produced in heavy chambray denim or shower-proofed cotton&#8211;all opaque material&#8211;it Will require the minimum of underwear. Outstanding features are built-up sides and a bib at&#8211;the front and back which keep it from sliding off the shoulders.</p>
+
+<p>One of the most unusual designs is a sturdy field&#8211;suit, consisting of roomy trousers that shape in the ankle to keep out dirt, and a sort of butcher-boy jacket with short sleeves, to which wrist-length additions may be snapped when added protection against sunburn or scratches is needed. A coolie-type hat of the same fabric used for the suit shades the face without enveloping it in the hot, uncomfortable fashion of the old-style sunbonnet.</p>
+
+<p>For use in certain types of defense industries, and useful, too, for the woman who likes to tinker with machinery, is a one-piece coverall that has plenty of room for action. To complete this out fit there is a cap with a visor to protect the hair and shade the eyes. The cap lies flat and can be washed and ironed easily, and an adjustable band adapts it to different head sizes.</p>
+
+<p>The bureau of home economics has also released designs to the patternmakers for many other practical work clothes, including culottes for housework, a complete showerproof cotton outfit for wet weather, and a jumper slack suit. All patterns have been designed so that they can be cut economically from cloths of standard widths, and can be made at home with the least amount of dressmaking.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.do.19430103 SYSTEM "homefront.news.do.19430103.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.do.19430103">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Eight Taverns Banned Under Navy's Ruling</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.do.19430103</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Daily Oklahoman</title>
+<title level="a">Eight Taverns Banned Under Navy's Ruling</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1</biblScope>
+<biblScope type="columns">4</biblScope>
+<publisher>Daily Oklahoman</publisher>
+<pubPlace>Oklahoma City, Oklahoma</pubPlace>
+<date value="1943-01-03">1943-01-03</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-22</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.do.19430103">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p1"/>
+<head type="main" rend="italic">Eight Taverns<lb/>
+Banned Under<lb/>
+Navy's Ruling</head>
+<milestone unit="smallbar"/>
+
+<p>EIGHT Oklahoma City night spots were placed on the "out of bounds" list for sailors in an order issued Saturday by Capt. V. C. Griffin, commanding officer of the naval aviation school south of Norman.</p>
+
+<p>The taverns listed in Griffin's order were Calico Cat, 525 West main street; Midnight Sun, 2323 South May avenue; Roanoke Bar, 312 Northeast Second street; Ruby's Grill, 222&#189; East Second street; Slim Jim Bar, 400 West Reno street; Southern club, 116 South Hudson avenue; 330 club, 330 South Hudson avenue, and Tom Tom Bar, 409 West Reno street.</p>
+
+<p>Specific reason for the ban was not explained by Lieut. John Given, public relations officer, who announced the order. He declared the night spots failed to comply with standards deemed fitting for navy personnel.</p>
+
+<p>Shore patrolmen have been instructed to take into custody any sailor patronizing the places. The order applies to all navy men in the state, it was explained, because Griffin is the senior naval officer in Oklahoma.</p>
+
+<p>Places listed in the order are also out of bounds for military personnel, except the Calico Cat, 525 West Main street.</p>
+
+<p>Two other places: the Chief Jim's 2230 Northwest First street, and the Calico Kitty, 1600 Southeast Fifteenth street, have been declared out of bounds for both army and navy in previous orders.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

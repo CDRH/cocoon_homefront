@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.docs.0014">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Be a Soldier of the Soil</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.docs.0014</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<!-- [Be a Soldier of the Soil, May 5, 1943, folder 6, ox 44, correspondence of Gov. Schoeppel, 1943-47, KSHS] -->
+
+<bibl>
+<title level="a" type="main">BE A SOLDIER OF THE SOIL*</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages"></biblScope>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date value="1943-05-05">1943-05-05</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-29</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-10-17</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<head type="main"><hi rend="underline">BE A SOLDIER OF THE SOIL*</hi></head>
+<note place="inline">*Basic materials that may be utilized in the preparation of talks to be given by Farm Labor Speakers in Kansas, 19 43, on "Victory Farm Volunteers" or the Non-Farm Youth Enrollment Program.</note>
+
+<div1>
+<p>Today the American farmer stands as the lone bulwark between the hunger and starvation of millions of people. Facing him is the gigantic task of producing more food and fiber than as ever been produced by American agriculture before. Last year the fighting acres of Kansas ranked eighth among the 48 states in the Union in aggregate food production. When the Allies begin to roll back the Axis across Europe and Asia it is Kansas bread and Kansas beef from farms in your communities that must help feed the French, Greeks, Serbs, Burmese, Chinese, and <sic corr="Filipinos">Filopinos</sic>. When the war is finally over, more than half the world's population will be weak and stumbling from malnutrition.</p>
+
+<p><hi rend="underline">Yes, the harvest must be great, but the laborers are few</hi>. Increased production is vitally necessary in 14 out of the 17 major farm crops of America. At the same time the American farmer enters his 1943 battle of production with less labor, less equipment and feed, and perhaps less favorable weather than last year. He needs help, more help than he has ever needed in all his self-reliant history.</p>
+
+<p>To turn our backs upon his immediate and pressing need for help is like refusing to help a wounded soldier on the battleground or a pale-faced American behind the barbed wire of an enemy prison camp. <hi rend="underline">The gravest danger threatening our production program today is the acute labor shortage</hi>.</p>
+
+<p>In recognition of this crisis in American agriculture, recruitment for the Untied States Crop Corps is now in full swing, aiming to enlist 3,500,000 farm workers before the season is over. For the most part these soldiers of the soil must come from other sources than the farm. Three types of workers are being recruited: year-round workers needed on livestock, dairy, and diversified farms; seasonal workers, needed during the crops season or for the summer; and emergency harvest workers who will be recruited from villages, towns, and cities to work a certain number of week days, half days, weekends, or evenings.</p>
+
+<p>Ninety-six per cent of this labor must be recruited locally. Less than four percent of our labor supply in 1943 will come from such sources as imported Mexican labor, Japanese labor now confined in concentration camps, and from conscientious objectors. Labor must be enlisted from local people -- farmers and farm help who will be transported from agricultural communities where there is a surplus of agricultural manpower; non-farm high school youth to work on the farms during the summer; men and women employed in other fields who will be willing to give their spare time and vacations to farm labor; and from the Women's Land Army branch of the crops <sic corr="corps">crops</sic>, which will be composed of nonfarm women serving regularly as farm workers.</p>
+
+<p>Recent surveys made by county U. S. Department of Agriculture War Boards indicate the probably shortage of farm labor in Kansas by months. The figures show man shortages as follows: April, 5,000 shortage; May, 7,000 shortage; June, 20,000 shortage; and July, 25,000 shortage. <hi rend="underline">This challenge must and will be met</hi>!</p>
+</div1>
+
+</body>
+</text>
+</TEI>

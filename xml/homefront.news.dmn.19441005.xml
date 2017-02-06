@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dmn.19441005 SYSTEM "homefront.news.dmn.19441005.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dmn.19441005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Rains, Lack of Pickers Menace Cotton Crop</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dmn.19441005</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Dallas Morning News</title>
+<title level="a">Rains, Lack of Pickers Menace Cotton Crop</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1</biblScope>
+<biblScope type="columns">1-2</biblScope>
+<publisher>Dallas Morning News</publisher>
+<pubPlace>Dallas, TX</pubPlace>
+<date value="1944-10-05">1944-10-05</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-01</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-19</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.dmn.19441005">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">Rains, Lack of Pickers<lb/>Menace Cotton Crop</head>
+
+<p>Rain-fearing Dallas County cotton farmers late Wednesday searched cloudy skies with brooding eyes and hoped they had seen the end of the rain which Tuesday night damaged crops by lowering the grade, and put off picking for several days of a crop which should have been out of the fields weeks ago.</p>
+
+<p>Dallas County cotton growers are getting the best yield per acre they have had in nearly five years, but they can't find pickers and only 20 per cent of the crop has been gathered as a result.</p>
+
+<p>H.B. Daniel, Duncanville, with thirty acres of cotton, said Wednesday: "Not a boll of cotton in my field has been picked because I can't find any workers." Most farmers expressed a grim wish for no more rain this month.</p>
+
+<p>Though farmers said the Tuesday rain did not ruin their cotton, they admitted, the staple had been lowered.</p>
+
+<p>Louis Shipley, Garland cotton grower, said that if it rains Thursday it probably won't damage his cotton too much, "unless the rain is accompanied by strong winds."</p>
+
+<p>Victor H. Schoffelmayer, agricultural editor of the Dallas news, said that the usual loss of cotton crops after such a rain is &#189;c a pound. "Prolonged rains produce a gray and bluish cotton. The cotton value is in its clear, untouched-by-rain fiber quality," he said.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">Cotton Stained, None Wasted</head>
+
+<p>George Heffington, Richardson, said the rainfall had stained his cotton, but probably none was wasted. "It just delays picking," he said. "As the blackland gets wet it is almost impossible for pickers to move about in it." Out of sixty acres of cotton, he has had six bales picked.</p>
+
+<p>The Weather Bureau forecast fair and warmer weather Thursday, which may mean to cotton farmers that their crops may be gathered before a heavy, damaging rain. Total rainfall Tuesday night was 2.65.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">Growers Hold Meeting.</head>
+
+<p>Meanwhile Dallas County cotton growers met Wednesday in the county agent's office to decide on an intensive recruiting program to bring harvest labor into the county.</p>
+
+<p>County school leaders, meeting with the cotton growers, virtually eliminated rural school children as a factor in harvesting the 1944 crop with the declaration that most of the students would not pick cotton, if they were released from school.</p>
+
+<p>George F. Price, migratory farm labor recruiter for the A. &amp; M. College extension service, left the city following the meeting of growers to contact pickers who may be induced to come to Dallas County to save the most valuable crop produced in a number of years.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

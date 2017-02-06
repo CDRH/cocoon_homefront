@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.wye.19420115 SYSTEM "homefront.news.wye.19420115.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.wye.19420115">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">50 MPH Road Limit Urged in Wyoming</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.wye.19411231</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Wyoming Eagle</title>
+<title level="a">50 MPH Road Limit Urged in Wyoming</title>
+<author></author>
+<biblScope type="pages">8</biblScope>
+<biblScope type="columns">1</biblScope>
+<publisher>Wyoming Eagle</publisher>
+<pubPlace>Cheyenne, WY</pubPlace>
+<date value="1942-01-15">1942-01-15</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-automobile</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.wye.19420115">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p8"/>
+<head type="main">50 MPH ROAD<lb/>LIMIT URGED<lb/>IN WYOMING</head>
+<milestone unit="smallbar"/>
+
+<p>Rock Springs, <date value="1942-01-15">Jan. 14</date>&#8211;A suggestion that the maximum speed limit on Wyoming highways be reduced to 50 miles an hour in order to conserve tires and lower the accident rate was made today by A. L. McCurtain, prominent Rock Springs auto dealer.</p>
+
+<p>It is possible that the governor could set the limit by executive order until the legislature meets to enact the provision into statute. Former Gov. Leslie A. Miller set a 60-mile speed limit by that procedure.</p>
+
+<p>"If a maximum speed of 50 miles an hour is made effective, it would mean that we would drive around 40 to 45 miles an hour most of the time," McCurtain said. "It would make a tremendous savings in tires, gasoline and the automobile itself.</p>
+
+<p>"Most important of all, it would reduce the number of accidents."</p>
+</div1>
+
+</body>
+</text>
+</TEI>

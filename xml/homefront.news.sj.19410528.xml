@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.sj.19410528 SYSTEM "homefront.news.sj.19410528.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.sj.19410528">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Kansas Home Guard Training Program</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.sj.19410528</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Salina Journal</title>
+<title level="a">Kansas Home Guard Training Program</title>
+<title level="a" type="sub">Units Must Meet Minimum Army Requirements</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">2</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Salina Journal</publisher>
+<pubPlace>Salina, Kansas</pubPlace>
+<date value="1941-05-28">1941-05-28</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-27</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+<!--
+<figure entity="homefront.news.sj.19410528">
+<figDesc></figDesc>
+</figure>
+-->
+<pb n="p2"/>
+<head type="main">KANSAS HOME GUARD<lb/>
+TRAINING PROGRAM</head>
+<milestone unit="smallbar"/>
+<head type="sub">Units Must Meet Minimum Army<lb/>
+Requirements</head>
+
+<p>TOPEKA, May 28 (AP)&#8212;The Kansas home guard being organized in 33 towns must meet minimum army training requirements, instructions sent today to unit commanders said. Adjutant General M. R. McLean explained training should be directed toward proficiency in these subjects:</p>
+
+<list>
+<item>1.	Basic disciplinary training of the soldier.</item>
+<item>2.	Physical training, personal hygiene and first aid.</item>
+<item>3.	Their own interior economy and administration.</item>
+<item>4.	Their own shelter, supply and movement.</item>
+<item>5.	Their own security.</item>
+<item>6.	Signal communication.</item>
+<item>7.	Protection against chemical agents.</item>
+<item>8.	Use of nontoxic gas and smoke.</item>
+<item>9.	Proper care and use of all weapons with which the unit is equipped.</item>
+<item>10.	Dismounted drill, to include the company.</item>
+<item>11.	Extended order drill.</item>
+<item>12.	Methods and formations for suppressing domestic disturbances.</item>
+</list>
+
+<p>McLean said three units, of three officers and 40 men each, already had been enlisted and mustered into state guard service at Hutchinson, Garden City and Troy. Uniforms, similar in appearance to regular national guard garb, are being made and will be distributed in about 10 days. Rifles are to be furnished by the federal government.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

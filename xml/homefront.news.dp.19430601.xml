@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19430601.01 SYSTEM "homefront.news.dp.19430601.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.dp.19430601.02 SYSTEM "homefront.news.dp.19430601.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19430601">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Low-Flying Fortress 'Bombs' City Home With Lead Weight</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19430601</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">Low-Flying Fortress 'Bombs' City Home With Lead Weight</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1</biblScope>
+<biblScope type="columns">4-5; 5</biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, Colorado</pubPlace>
+<date value="1943-06-01">1943-06-01</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-22</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.dp.19430601.01">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p1"/>
+<head type="main" rend="italic">Low-Flying Fortress 'Bombs'<lb/>
+City Home With Lead Weight</head>
+<milestone unit="smallbar"/>
+
+<figure>
+<figDesc><hi rend="italic">First city home to be “bombed” this war was that of the Lee C. Reynolds family, 1845 Northwest Thirteenth street. An egg-shaped lead weight, which looked like a small but real bomb, dropped from a low-flying Fortress and tore holes through two walls of the home as the roaring plane skimmed over. Here Miss Mary Alice Reynolds points to one of the holes. The missile entered through one wall, crossed the room, and went out through another wall. (Other pictures on Page 11.)</hi></figDesc>
+</figure>
+
+<p>The army air forces here untied with city housewives Monday in protesting against Flying Fortresses hovering like buzzards over rooftops and scaring whole neighborhoods half to death with their antics.</p>
+
+<p>The army's anger zoomed to a new, high pitch Monday afternoon when one of two low flying, roaring Flying Fortresses inadvertently "bombed" the Lee C. Reynolds home, 1845 Northwest Thirteenth street, terrorizing the entire neighborhood.</p>
+
+<p>The "bomb," which looked real enough, dropped from the Fortress or was torn off by three tops, and crashed into the rear bedroom of the Reynolds home, endangering the lives of the occupants.</p>
+
+<p>The "bomb" turned out to be a 7&#189;-pound antennae weight carried under a Fortress. It tore through one wall into the bedroom, across the room, out through another wall, landed 20 feet beyond the house in the yard, bounced and lodged in the onions of the Reynolds' victory garden.</p>
+
+<p>The "bomb" turned out to be a 7&#189;-pound antennae weight carried under a Fortress. It tore through one wall into the bedroom, across the room, out through another wall, landed 20 feet beyond the house in the yard, bounced and lodged in the onions of the Reynolds' victory garden.</p>
+
+<p>The "bomb" turned out to be a 7&#189;-pound antennae weight carried under a Fortress. It tore through one wall into the bedroom, across the room, out through another wall, landed 20 feet beyond the house in the yard, bounced and lodged in the onions of the Reynolds' victory garden.</p>
+
+<p>Tinker and Will Rogers field officials, tired of getting blamed for low flying army planes, immediately discovered the identity of the culprit by means they do not care to divulge, 
+
+<note type="editorial" rend="jumpline">(Continued on Page 2, Column 5)</note>
+
+<pb n="p5"/>
+
+<!-- <figure entity="homefront.news.dp.19430601.02">
+<figDesc></figDesc>
+</figure> -->
+
+<note type="editorial" rend="jump">
+<note type="editorial" rend="mainhead">Plane 'Bombs'<lb/>
+City Residence</note>
+<note type="editorial" rend="jumpline">CONTINUED FROM PAGE ONE</note>
+</note>
+
+and appealed to the public to co-operate in reporting aviators who "buzz" Oklahoma City.</p>
+
+<p>The aviator, who will be reported to his commanding officer for disciplinary action, was in a cross-country flight from one field to another, and was not stationed or flying from or to either Tinker or Will Rogers fields here, officials said.</p>
+
+<p>"If the public will just get the last two identifying numbers of any army plane "buzzing" Oklahoma City and call the operations office at 7-3671, action will be taken," said Major G. E. Layman, operations officer at Tinker field. The large identifying numbers are painted on the tall assembly of all army aircraft. Civilian planes carry their identifying numbers on the bottom side of the left wing.</p>
+
+<p>"We definitely don't want test pilots or any other pilots from our field, or any other field, flying low or buzzing Oklahoma City," he declared.</p>
+
+<p>Major T. W. Brassfield, Will Rogers field officer, who aided in investigating Monday's "bombing," expressed a like opinion. Flying low over a community is a court material offense, Major Brassfield points out, and one which army officials are not reluctant to prosecute.</p>
+
+<p>Army regulations require pilots to fly at least 1,000 feet high over cities, or at an altitude which will enable them to make a forced landing outside the city limits.</p>
+
+<p>At the Reynolds home a small crowd collected, but even firemen and policemen, fearing the "bomb" really might be a bomb they knew nothing about, waited until army officers arrived before touching the missile.</p>
+
+<p>Officers theorized the weight was torn from its wire by the tree tops, or that the pilot had thrown it down to a friend with a note attached. No note was found, however.</p>
+
+<p>"We were sitting in the dining room eating a late lunch when we heard a terrific roar," Mrs. Reynolds said. "Just after the crescendo of the roar passed, we heard a crash. We ran into the bedroom and there were the two holes," she told officers. She had been eating lunch with her young daughter, Mary Alice Reynolds.</p>
+
+<p>Policemen pointed out it was just a happenstance that the compact, shell-shaped weight killed no one. It had to strike with terrific force to go through the wall, the room, then out of the other wall again.</p>
+
+<p>The weight obviously followed the same line of flight a real bomb follows after its release from an airplane. It struck the house from approximately the same angle a bullet would if fired from a tree top.</p>
+
+<p>Four police detectives, including Capt. D. F. Brown, rushed to the "bombed" home, and with firemen kept the crowd away from the weight. No one was particularly anxious to pick up, anyway.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

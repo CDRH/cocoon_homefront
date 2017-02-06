@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19431205 SYSTEM "homefront.news.owh.19431205.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19431205">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Nebraska Paper Salvage Gains Momentum</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19431205</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Sunday World-Herald</title>
+<title level="a">Nebraska Paper Salvage Gains Momentum</title>
+<author></author>
+<biblScope type="pages">10-A</biblScope>
+<biblScope type="columns">4</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1943-12-05">1943-12-05</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-nonfood</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19431205">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p10"/>
+
+<figure>
+<figDesc>The army pitches in...Fort Omaha soldiers toss waste paper bundles into a railroad car headed for hungry paper mills.</figDesc>
+</figure>
+
+<head type="main">Nebraska Paper Salvage Gains Momentum</head>
+
+<p>An estimated 160 thousand pounds of waste paper, vital raw material to the country's underfed paper mills, was shipped out of Nebraska last week as this state's paper drive began to gain momentum.</p>
+
+<p>School children over the state, eager to help their country and win for their school one of the 93 American flags offered by The World-Herald, rang door bells all week, scoured their neighborhoods and even business firms in quest of paper.</p>
+
+<p>Only a small portion of the paper lined up actually reached dealers. Most schools were holding theirs so they would have impressive collections when trucks called.</p>
+
+<p>In Omaha, however, roundups by trucks were held in two sections of the city. Fort Omaha contributed 22 men to help with the hundreds of bundles on collection days.</p>
+
+<p>Results of the two pickup days were 104 thousand pounds of paper. In addition, parochial schools sent several loads to dealers.</p>
+
+<p>Salvage officials emphasized again Saturday the need for all kinds of paper, and especially the following:</p>
+
+<p>Corrugated boxes, store bags, newspapers, wrapping paper, cartons, magazines and waste basket paper.</p>
+
+<figure>
+<figDesc>One of the 93 flags The World-Herald will award to leading schools in waste paper drive. Arlene Swanson, 2801 South Thirteenth street, Council Bluffs, is holding the flag.</figDesc>
+</figure>
+
+</div1>
+
+</body>
+</text>
+</TEI>

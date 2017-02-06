@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+]>
+
+
+<TEI id="homefront.nar.hf.homedefense">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">The Home Front</title>
+<title level="m" type="sub">Home Defense</title>
+<author>R. Douglas Hurt</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.nar.hf.homedefense</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-06-13</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+
+<head>The Home Front</head>
+<head type="sub">Home Defense</head>
+
+<p>When the war began, Civilian Defense Committees organized in the towns across the Great Plains.  The Omaha World Herald reminded readers that, "If you see the whites of their eyes, then it will be too late to start preparing for civilian defense."  Civil defense committees organized to plan for an enemy attack.  These organizations developed air raid warning systems, placed spotters in the nearby countryside to warn about the approach of enemy aircraft, and coordinate fire fighting and evacuations plans.</p>
+
+<p>Civil air patrol until also organized across the Great Plains.  The Civil Aeronautics Authority provided pilot training courses across the Great Plains.  At the University of Nebraska women were allocated 10 percent of the seats.  The men and women who enrolled in this program received fifty hours of flight instruction and a private pilot's license upon completion of the course.  This training qualified them to fly small planes and serve as an auxiliary force to help safeguard the skies.   In Lincoln, the Women Flyers of America also patrolled the skies to help guard against enemy attack.   These women enjoyed flying and used their skills to contribute to the national defense, even though some critics thought such activities unnecessary.</p>
+
+<list>
+<item><ref n="homefront.news.kdh.19410526">["Nebraska Home Defense Plans Being Completed," Kearney Daily Hub, May 26, 1941.]</ref></item>
+
+<item><ref n="homefront.news.owh.19400107">["Now The Co-Eds Fly For Uncle Sam," Omaha World Herald, January 7, 1940.]</ref></item>
+
+<item><ref n="homefront.news.owh.19410601">["Over Lush Nebraska Fields Soars Feminine Dawn Patrol," Omaha World Herald, June 1, 1941.]</ref></item>
+</list>
+
+<p>Before Pearl Harbor, civilian defense committees also appointed air raid wardens, planned for medical emergencies in time of attack, and practiced blackout drills.  In November 1942, Omaha police arrested individuals who did not comply with blackout drills and the municipal court fined them $100 plus court costs.  Blackout drills and practice air raids continued in Omaha, Cheyenne, Wichita, Bismarck and other Great Plains cities throughout the war.</p>
+
+<list>
+<item><ref n="homefront.news.owh.19421107a">["Four Violations Draw Fines of $100 After Omaha Has 17 Minute Blackout Test," Omaha World Herald, November 7, 1942.]</ref></item>
+
+<item><ref n="homefront.news.owh.19430201">["Omaha Meets Raid Test," Omaha World Herald, February 1, 1943.]</ref></item>
+
+<item><ref n="homefront.news.owh.19421107b">["'Turn 'Em Off':  Clock Failures Are Blamed as Store Windows Base During Blackout," Omaha World Herald, November 7, 1942.]</ref></item>
+</list>
+
+</div1>
+</body>
+</text>
+</TEI>

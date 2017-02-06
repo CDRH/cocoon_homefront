@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dmn.19430314 SYSTEM "homefront.news.dmn.19430314.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dmn.19430314">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Dallas Girls and Boys Aid in March to Victory By Training for War Jobs at NYA Workshop</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dmn.19430314</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Dallas Morning News</title>
+<title level="a">Dallas Girls and Boys Aid in March to Victory By Training for War Jobs at NYA Workshop</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">3-A</biblScope>
+<publisher>Dallas Morning News</publisher>
+<pubPlace>Dallas, TX</pubPlace>
+<date value="1943-03-13">1943-03-13</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-08-28</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.dmn.19430314">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p3"/>
+<head type="main">Dallas Girls and Boys Aid in March to Victory<lb/>By Training for War Jobs at NYA Workshop</head>
+
+<figure>
+<figDesc>GIRLS MAKE BOOBY TRAPS&#8212;You've heard of the booby traps that both Allied and Axis soldiers love to plant when they retreat. Sometimes the little gadgets are attached to pictures on a wall or to telephones and radios, any way to induce an enemy to move an object. Then everything blows up and the enemy disappears. Young women training at the National Youth Administration war workshop are learning to manufacture booby traps. Miss Aloieweeze Nevels, 3112 Elizabeth, who has a brother in the Army, holds a Dallas-made booby traps, a wire of which is attached to the hair-trigger.</figDesc>
+</figure>
+
+<p>Johnny's gone to war but the girl he left behind in Dallas isn't going to sit home with her hands folded until the war is won on foreign fronts&#8211;not by a bomb sight!</p>
+
+<p>Millions of women, realizing that victory in this total war is their responsibility too, have smashed the stigma of the weaker sex and have donned coveralls and equipped themselves with welders' helmets, rivet guns and tools.</p>
+
+<p>Indicative of this spirit are the hundreds of Dallas young women and young men who are training at the National Youth Administration war work shop, Deere and Annex, to take their places with the production line forces on the home front to become the workers behind the man behind the gun.</p>
+
+<p>It isn't play, this learning war Industry trades. It's serious business. So while training for future employment to relieve the acute manpower shortage, the youths are using steel, welding rods, metals, wood and radio equipment in actual production, manufacturing necessary equipment and materials for the Army, Navy and government agencies.</p>
+</div1>
+
+<div1>
+<head type="sub">Desks and Files Made.</head>
+
+<p>Booby traps, the lethal agent of modern warfare with which entire towns often are blown to bits, are the latest Army equipment to be turned out in the machine shop of the Dallas war work shop. The steel traps, to be used in Army maneuvers to teach soldiers the technique of operating and effects, are designed similar to booby traps used in actual combat. Approximately fifteen inches long, they are made with a hair trigger and are loaded with a rifle shell. Planted in fields, under rocks or shambles of bombed buildings the traps are wired and set to explode at the slightest friction.</p>
+
+<p> Parts of bomb-loading devices also have been made on the turret lathes of the Dallas shop, and more than 1,000 office desks and wooden file cabinets for army administrative departments are being made by MYA youth in the wood shop. Even the Army cannot obtain sufficient metal for file cabinets and has ordered that they be made of wood.</p>
+
+<p>In NYA sheet metal shops, pre-fabricated metal runways are being made for the Army air forces, to be used in landing planes on marshy beaches or soft pastures. Metal blinds have been made for Army barracks, metal ovens for baking glass for airplane windows and thousands of buckets for carrying sand to fight incendiary fires have been constructed.</p>
+</div1>
+
+<div1>
+<head type="sub">Radio Assembly Taught.</head>
+
+<p>In addition, many youths are learning radio assembly and electrical work and have been employed in some of the larger war plants in installation of airplane radios. The NYA also is constructing the steel ship ladders for 167 Liberty cargo ships under construction by the United States Maritime Commission on the Atlantic, Pacific and Gulf coasts.</p>
+
+<p>The National Youth Administration is operating as part of the War Manpower Commission and dedicating its entire program to training young women and young men for the home front production army.</p>
+
+<p>Any young woman or young man, married or single, between the ages of 16 and 24, may enroll for training in radio, machine or woodwork training in the Dallas shop, where they are paid $32 a month while learning and are placed in employment in war industries as soon as they are qualified. Referral to the NYA shop is made through the United Slates Employment Service, or youths may apply to NYA headquarters at Fair Park. The NYA is interested primarily in training young women who may backup America's fighting forces by turning out the air planes, guns, ships, tanks and ammunition needed for ultimate victory, but young men 16 and 17 years old may be trained as mechanic's helpers for civil service employment at Army air V fields. Young men 18 and more who have been deferred from military service also are eligible for training.</p>
+
+<p><hi rend="center">Not Rationed: Dallas Courtesy</hi></p>
+</div1>
+
+</body>
+</text>
+</TEI>

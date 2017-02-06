@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.nar.militaryaffairs">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Military Affairs</title>
+<title level="m" type="sub"></title>
+<author>R. Douglas Hurt</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.nar.militaryaffairs</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-11-21</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+
+<head>Military Affairs</head>
+
+<p>Early in 1941 as the nation drifted toward war, military preparations began on the national, state, and local levels in both modest and grandiose ways. As the War Department called the state National Guard units into federal service, that is, into the army, several Great Plains states organized State Guard units to provide an outlet for patriotism and provided opportunities for public service by those who were too old or physically unable to serve in the military. In May 1941, for example, World War I veterans began registering for the Kansas State Guard to help provide police protection and security work, such as the suppression of domestic disturbances and similar duties which the National Guard normally performed. Thirty-three towns participated and enlisted more than a thousand men aged twenty-one to fifty for the ranks and under sixty-five for officers.  These units used National Guard armories as their training bases. In the Great Plains the state guard units essentially served as paramilitary forces dedicated to maintaining the civil order. The states promised to provide uniforms and the federal government rifles and ammunition.</p>
+
+<list>
+<item><ref n="homefront.news.sj.19410214">["Home Guard Duty," Salina Journal, February 14, 1941]</ref></item>
+
+<item><ref n="homefront.news.sj.19410528">["Kansas Home Guard Training Program," Salina Journal, May 28, 1941]</ref></item>
+
+<item><ref n="homefront.news.sj.19410605">["State Guard Here," Salina Journal, June 5, 1941]</ref></item>
+
+<item><ref n="homefront.news.dp.19411216">["Businessmen Join Colorado Defense Force," Denver Post, December, 16, 1941]</ref></item>
+</list>
+
+<p>Certainly state guard units across the Great Plains enabled many men who could not qualify for regular military service to participate in a paramilitary organization during the war, and it provided the opportunity for public service. The war, however, required a far greater public commitment than patriotic enthusiasm, and it came after the virtual invasion of the Great Plains by the military, which saw the blue skies, flat land, and isolation as ideal geographical characteristics to support pilot training programs on a massive scale.</p>
+
+<p>By autumn 1940, Great Plains chambers of commerce and congressional delegations worked hard to gain their share of any federal war-related appropriations because military installations meant jobs and large payrolls during the construction and operation of the bases as well as an opportunity to leave behind the economic hard times of the Great Depression. Indeed, local chambers of commerce, congressmen, and governors, among others, saw the coming war as a great economic opportunity, and they aggressively lobbied the War Department for the establishment of military bases, airfields, and hospitals for their neighborhoods and states.</p>
+
+<p>In October 1940, 3,200 cadets moved into new barracks at Lowry Field near Denver, and the army planned to spend $13 million to establish a major "cadet training center" for pilots, bombardiers, and photographers. The army also anticipated a major new construction project at Fort Logan. Although this economic stimulus to the Denver area was only a part of the estimated $47.5 million that the War Department planned to spend there for its "urgent" housing needs as it prepared for war, these projects and others in the Great Plains brought large payrolls for civilian workers. From the beginning, then, the new European war had important economic benefits for the Great Plains.</p>
+
+<list>
+<item><ref n="homefront.news.dp.19400629">["Yount Says Lowry Field Will Be Big Defense Unit," Denver Post, June 29, 1940]</ref></item>
+
+<item><ref n="homefront.news.dp.19400905">["Lowry Expansion Outstrips Schedule," Denver Post, September 5, 1940]</ref></item>
+
+<item><ref n="homefront.news.dp.19400915">[Minneapolis Bid Is Low On Lowry Job," Denver Post, September 15, 1940]</ref></item>
+
+<item><ref n="homefront.news.dp.19401009">[$3,000,000 Housing Plan Will Fit Ft. Warren For 10,000 Men," Denver Post, October 9, 1940]</ref></item>
+
+<item><ref n="homefront.news.wst.19401202">["150 Carpenters Go To Work at Cantonment," Wyoming State Tribune-Cheyenne State Leader, December 2, 1940]</ref></item>
+</list>
+
+<p>In the fall of 1940, the Chamber of Commerce in Oklahoma City began efforts to locate an air base for bombers at the municipal airport. The chamber was successful, and the War Department established Tinker Field in 1942. With construction costs exceeding $21 million and nearly 15,000 workers employed, Tinker Field became a bomber repair and modification site that significantly contributed to the military-sponsored economic boom in Oklahoma. The influx of federal dollars into the Great Plains for military construction occurred quickly because the army required completion of some projects within ninety days.</p>
+
+<list>
+<item><ref n="homefront.news.do.19401012">["Construction of Air Base Here To Be Started Within Month," Daily Oklahoman, October 12, 1940]</ref></item>
+
+<item><ref n="homefront.news.do.19401026">["Army to Station Third Air Unit At City Airport," Daily Oklahoman, October 26, 1940]</ref></item>
+
+<item><ref n="homefront.news.do.19401128">["Army to Expand Expenditures at City Airport," Daily Oklahoman, November 28, 1940]</ref></item>
+</list>
+
+<p>Similarly in early August 1941, the residents of Roswell, New Mexico, were ecstatic when they learned the army would build a permanent airbase nearby. One resident told a local reporter, "We'll date everything in the future on the basis of "Before the Air Base," and "After the Air Base." Another called the decision the "Biggest thing that ever happened to Roswell. Everyone agreed that the establishment of the base meant "good times ahead." With a monthly payroll projected as high as $400,000 for 3,000 army personnel, they anticipated economic prosperity. Moreover, estimates for construction costs soon escalated from $6.5 to $14.5 million. H. A. Poorbaugh, chairman of the Chamber of Commerce Housing Committee wanted the construction money to go to local builders, saying, "houses must be built now, and we want them built by home people and not outsiders." Although planning took longer than originally projected, Roswell got an air base and a multi-million dollar payroll and jobs for local residents.</p>
+
+<list>
+<item><ref n="homefront.news.rdr.19410808a">["War Department Announces Big Air Field Coming to Roswell Will Cost Total $6,500,000," Roswell Daily Record, August 8, 1941]</ref></item>
+
+<item><ref n="homefront.news.rdr.19410808b">["Drive Tuesday for $30,000 To Buy Land For Army Air School," Roswell Daily Record, August 8, 1941]</ref></item>
+
+<item><ref n="homefront.news.rdr.19410810">["The Army Air Base And What Roswell People Say Of It," Roswell Daily Record, August 10, 1941]</ref></item>
+
+<item><ref n="homefront.news.rdr.19410814">["Work On Army Air Base May Start In September; Give Up Land August 31st; Permanent Brick And Stucco Buildings," Roswell Daily Record, August 14, 1941]</ref></item>
+
+<item><ref n="homefront.news.rdr.19411107">["Work to Start Soon On Roswell Air Base," Roswell Daily Record, November 7, 1941]</ref></item>
+
+<item><ref n="homefront.news.ag.19420927a">["Roswell School Now Turning Out First-Rate Bombardiers, Pilots," Amarillo Sunday News and Globe," September 27, 1942]</ref></item>
+</list>
+
+<p>Across the Great Plains city and governmental officials lobbied the War Department for military bases. Although they preferred airbases, these communities were delighted to receive any military training facility. Soldiers and sailors had money to spend and fortunate local residents, such as electricians, plumbers, and secretaries often gained employment at the military installations. Bank deposits mushroomed. These economic opportunities born of war helped end the economic hardships of the Great Depression.</p>
+
+<list>
+<item><ref n="homefront.news.rcdj.19420205">[Air Base Work Increases Here," Rapid City Daily Journal, February 5, 1942]</ref></item>
+
+<item><ref n="homefront.news.rcdj.19420328">["Sioux Falls Named as Site of $15,000,000 Army Radio School," Rapid City Daily Journal, March 28, 1942]</ref></item>
+
+<!--<item><ref n="homefront.news.sj.19420428">["Air Base Sure," Salina Journal, April 28, 1942; Please use map if possible]</ref></item>-->
+
+<item><ref n="homefront.news.ag.19420927b">["Clovis Rapidly Becoming a Mecca for U.S. Army Installations," Amarillo Sunday News and Globe, September 27, 1942]</ref></item>
+
+<item><ref n="homefront.news.rcdj.19421010">["Benefits To Rapid City As Result Of Air Base Many And Varied--Bank Debits In City Lead The Entire State--Financial Gains Still Felt," Rapid City Daily Journal, October 10, 1942, Special Section]</ref></item>
+
+<item><ref n="homefront.news.bg.19421220">["Great Falls Army Air Base Is Ready for Big Training Program," Billings Gazette (Montana), December 20, 1942]</ref></item>
+</list>
+
+<p>Nevertheless, not everyone in the nearby communities, particularly farmers who faced the loss of their lands, approved. Usually, if farmers refused to sell the land that the War Department required, the federal government seized it under its powers of eminent domain.</p>
+
+<list>
+<item><ref n="homefront.news.sj.19420515">["Saline Protest In," Salina Journal, May 15, 1942]</ref></item>
+
+<!--<item><ref n="homefront.news.sj.19420606">["Thousands Of Acres Of Saline County Becomes A Defense Area," Salina Journal, June 6, 1942; Map]</ref></item>-->
+</list>
+
+<p>Although the great inflow of workers to build military bases brought economic benefits to local communities, the arrival of several thousand workers and later military men and women caused many problems. Housing became difficult for workers and their families to locate, rents escalated, and price gouging became common. Expanded water, sewer and street systems became necessary but costly. Social problems also emerged on a greater scale that previously experienced. Military men and women often drank too much in the nearby cities and prostitution became a problem. Young men and women took a live for the moment approach to life, which often caused difficulties for local authorities and embarrassment for nearby residents. Nebraska, for example, had eleven major army airfields and the accompanying social problems that developed with them.</p>
+
+<figure>
+<figDesc>[Map of the eleven army airfields in Nebraska , Nebraska State Historical Society. Map used in the article "Nebraska Army Air Fields: A Pictorial Review," Nebraska History 76 (Summer/Fall 1995): 130]</figDesc>
+</figure>
+
+<figure>
+<figDesc>[Photo: Aerial view of McCook Army Air Field in 1944, Nebraska Department of Aeronautics, in "Nebraska Army Airfields," p. 133
+	Caption: In 1944, the McCook Army Air Field was home for the 99th Bombardment Squadron. This aerial view shows the 150 by 7,500 foot runways, taxi ways, and hangars as well as planes on the apron. The War Department used this configuration for most of its army airfields.</figDesc>
+</figure>
+
+<figure>
+<figDesc>[Photo: Hangar Camouflaged, Omaha World Herald, in "Nebraska Army Air Fields," p. 133
+	Caption: The army airfield at Scribner, Nebraska, provided training for pilots and crews of B-17 and B-24 bombers as well as P-47 fighter aircraft. The airfield and buildings were camouflaged as part of an army experiment. The army painted this aircraft hanger to resemble a barn and trees. Other buildings were painted to resemble haystacks and other farm buildings.</figDesc>
+</figure>
+
+<figure>
+<figDesc>[Photo: Army Mechanics Working on an Airplane, Nebraska State Historical Society, in "Nebraska Army Air Fields," p. 139
+	Caption: These mechanics conducted preflight inspections at the Lincoln Army Air Field. The army processed more than 40,000 pilots here for oversees duty, and some 25,000 mechanics trained at the Lincoln Army Airfield.</figDesc>
+</figure>
+ 
+<!-- <figure>
+<figDesc>[Tent Barracks at the Harvard Army Air Field, Nebraska State Historical Society, A989-20, in "Nebraska Army Air Fields," p. 142
+
+Caption: In December 1942, the War Department activated the Harvard Army Air Field as a satellite of the Kearny Army Air Field. By early 1943, however, it had become a major training center for the 513rd Bombardment Squadron and the Eighth Heavy Bombardment Processing Headquarters. These tents served as barracks until more permanent structures could be built.</figDesc>
+</figure> -->
+
+<list>
+<item><ref n="homefront.news.owh.19420702">["Alliance Becomes Typical Boom Town As Workers Swarm To Build Glider School," Omaha World Herald, July 2, 1942;<!--  I don't have a copy of the bottom of this article but it should be on page 4 or soon thereafter -->]</ref></item>
+
+<item><ref n="homefront.news.ls.19430119" type="related">["Sale of 'Strong Beer' At Lincoln Base Flayed," Lincoln Star, January 19, 1943]</ref></item>
+
+<item><ref n="homefront.news.wst.19430524" type="related">["U.P. And Ft. Warren Agree To Pay For Water On Basis of Use," Wyoming State Tribune, May 24, 1943]</ref></item>
+
+<item><ref n="homefront.news.do.19430103" type="related">[Eight Taverns Under Navy's Ruling," Daily Oklahoman, January 3, 1943]</ref></item>
+
+<item><ref n="homefront.news.dmn.19430620" type="related">["Average Soldier On Week End in Dallas Not Rowdy With Girls Or Liquor; 1.67 Per Cent Jailed," Dallas Morning News, June 20, 1943]</ref></item>
+
+<item><ref n="homefront.news.do.19430601" type="related">["Low-Flying Fortress 'Bombs' City Home With Lead Weight," Daily Oklahoman, June 1, 1943]</ref></item>
+
+<item><ref n="homefront.news.dp.19440525" type="related">["Taverns Ordered to Help In Cleanup of Pueblo," Denver Post, May 25, 1944]</ref></item>
+</list>
+
+<p>Although many Great Plains men and women who lived near military bases enjoyed the economic boom but disapproved of the increased in the number of taverns, drinking, and prostitution that came with them, they also were disappointed, even shocked, to see those bases close at the end of the war. Residents of every nearby town expected their military base or installation to remain while others closed. Most were disappointed to learn that the War Department did not need them in peace time. Military installations in some areas such as Fort Logan, Colorado, became designated for other military purposes, but the War Department turned over many bases to local municipalities for use as city, county, and regional airports, or for the sale of the buildings and land for other purposes.</p>
+
+<list>
+<item><ref n="homefront.news.owh.19421016" type="related">["Kearney AAF Base To Stay," Omaha World Herald, October 16, 1942]</ref></item>
+
+<item><ref n="homefront.news.dp.19440406" type="related">["Fort Logan Will Get First Convalescent Cases In Two Weeks," Denver Post, April 6, 1944]</ref></item>
+
+<item><ref n="homefront.news.dp.19440414" type="related">["Fort Logan To Be Convalescent Center Starting At Midnight," Denver Post, April 14, 1944]</ref></item>
+
+<item><ref n="homefront.news.dp.19440901" type="related">["Fort Logan Designated As Demobilization Post," Denver Post, September 1, 1944]</ref></item>
+
+<item><ref n="homefront.news.sj.19440830" type="related">["Camp Phillips To Be Closed," Salina Journal, August 30, 1944]</ref></item>
+
+<item><ref n="homefront.news.sj.19450602" type="related">["Not a Ghost Camp," Salina Journal, June 2, 1945]</ref></item>
+
+<item><ref n="homefront.news.rcdj.19450915" type="related">["Inactivation Of Base Here Effective Friday," Rapid City Daily Journal, September 15, 1945]</ref></item>
+
+<item><ref n="homefront.news.rcdj.19450921" type="related">["Most Civilians Leave Jobs At Army Air Base," Rapid City Daily Journal, September 21, 1945]</ref></item>
+</list>
+
+<p>By the end of the war in August 1945, the military bases in the Great Plains had provided good paying jobs and steady employment for many men and women during the construction and operational phases of the bases. Nearby property values and railroad traffic for freight and passengers increased. Businesses in nearby towns thrived as military and civilian personnel spent their paychecks on Main Street. The military buildup in the Great Plains also contributed to the war effort. The War Department considered the region ideal for establishing military bases, particularly airfields because of the relatively flat terrain and good weather. When the military arrived in force, the economy boomed, but the nearby towns and cites confronted a host of problems concerning the provision of adequate services such as streets, sewage disposal, and garbage collection as well as the provision of adequate housing and recreation.</p>
+
+<p>The military bases in the Great Plains enabled many residents to participate in the war effort even though they could not qualify for military service because of age, medical condition, or other reasons. Whether they packed parachutes, typed, or conducted aircraft or building maintenance, jobs with the military gave civilians the opportunity to feel that they contributed to the war effort.</p>
+
+</div1>
+
+</body>
+</text>
+</TEI>

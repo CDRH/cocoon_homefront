@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.rcdj.19450921 SYSTEM "homefront.news.rcdj.19450921.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.rcdj.19450921">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Most Civilians Leave Jobs At Army Air Base</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.rcdj.19450921</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Rapid City Daily Journal</title>
+<title level="a">Most Civilians Leave Jobs At Army Air Base</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">2</biblScope>
+<biblScope type="columns">1</biblScope>
+<publisher>Rapid City Daily Journal</publisher>
+<pubPlace>Rapid City, SD</pubPlace>
+<date value="1945-09-21">1945-09-21</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-22</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.rcdj.19450921">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p2"/>
+<head type="main">Most Civilians Leave<lb/>
+Jobs At Army Air Base</head>
+
+<p>A big majority of the civilian employes at the Rapid City army air base bid final farewell to their jobs today as the installation was readied for inactivation at the end of this month.</p>
+
+<p>It was the last work day for all of them except about 150 to 200 who will be retained at the present for clean-up work. When the work of inactivation is completed some of those will be released and those that will remain will constitute the small administrative force, it was declared.</p>
+
+<p>The reduction in the civilian staff is in line with the recent order from Washington to inactivate the base on or before Sept. 30.</p>
+
+<p>Those whose work was terminated were given an opportunity earlier in the week to seek other civil service employment. Representative of various governmental agencies were at the base Monday to recruit workers, but it was not indicated how many had taken advantage of jobs elsewhere.</p>
+
+<p>Other installations which are seeking workers include the Sioux Falls and Sioux City army air bases. Black Hills Ordnance depot, Igloo, Veterans Administration, Hot Springs, and the Alliance (Nb.) army air field. Employes are also being given an opportunity to transfer to other bases within the jurisdiction of the Third air force.</p>
+
+<p>Types of employes sought generally include clerical workers, auto mechanics, laundry workers in its files, it was indicated there.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

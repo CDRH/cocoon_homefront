@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19421025 SYSTEM "homefront.news.owh.19421025.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19421025">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wanted: Women!</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19421025</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Sunday World-Herald</title>
+<title level="a">Wanted: Women!</title>
+<title level="a" type="sub">The Call Is Out All Over the Country: Housewives Are Getting Out of the Kitchen, Going Back to Work</title>
+<author></author>
+<biblScope type="pages">2-C</biblScope>
+<biblScope type="columns">5</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1942-10-25">1942-10-25</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Women at work</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-05</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19421025">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p2"/>
+
+<figure>
+<figDesc>Department stores are feeling the pinch of the women-to-war-industries trend. So, there are new, and older, faces behind the counters.</figDesc>
+</figure>
+
+<head type="main">Wanted: Women!</head>
+
+<head type="sub">The Call Is Out All Over the Country: Housewives Are<lb/>Getting Out of the Kitchen, Going Back to Work</head>
+
+<p>The welcome mat is out on the industrial and business doorsteps. It's out for women&#8211;from youngsters of high school age to grandmothers.</p>
+
+<p>In Omaha as well as in the rest of the country, where five million more women will be needed for jobs during the coming year, the call is out for women to leave the kitchen if they can get someone to take care of junior, and get back to the job they left when they took the long walk up the isle to the tune of Lohengrin.</p>
+
+<p>Here in Omaha, one of the leading business and secretarial schools revealed it couldn't begin to fill the demand for trained secretaries. So many have been lured from Omaha business and professional men by the higher salaries of civil service.</p>
+
+<p>The Omaha employers, the director of the school said, don't attempt to meet the civil service salaries although their rate of pay has gone up somewhat. They just can't compete with the government in that respect. Their only hold on the local girls has been that so many hate to go to Washington where reports have it there isn't even enough housing room for a girl to hang her stockings to dry nor enough men escorts to begin to go around.</p>
+
+<p>The trend of the times has a twofold effect on the local business schools.</p>
+
+<p>In the first place, the average age of women enrolling in the schools is much higher. Women ARE coming out of the homes to go back to work. This particular school even had a grandmother enroll recently.</p>
+
+<p>These are the women who come back to school to brush up on previous secretarial knowledge. They're going into businesses and offices half days which, incidentally, helps some professional men meet the higher salary schedules.</p>
+
+<p>Some doctors, for instance are hiring office girls for mornings only, when the docs themselves are in the hospitals. And some lawyers are hiring girls for afternoons only.</p>
+
+<p>Then, in the second place, business schools are finding their younger students are very young. Some are leaving high school. But they don't even wait to finish the business course, this particular school executive wailed. They go into business and civil service half trained. And business and the government don't seem to mind.</p>
+
+<p>But Omaha isn't the only city thus bothered. It's the same all over the country. Here's a report from Dallas Tex., via The World-Herald's Wide World News Service:</p>
+
+<p>Says a department store personnel director: "Women under 30 who've been with us less than five years are going into war work. We couldn't match the pay if we wanted to try.</p>
+
+<p>"We're losing five male department heads to the army and filling their places with women.</p>
+
+<p>"All our list of extra help has been fitted into regular jobs."</p>
+
+<p>Here's a secretarial school, also in Dallas. More than half the women learning typing and shorthand are married.</p>
+
+<p>"The civil service people came in here and told me 'If you've got anybody you think could qualify we'll give them the test right now,'" the receptionist explains. "They sure want them in Washington."</p>
+
+<p>"Just send me anybody who looks all right and I'll teach them to wait table," a restaurant owner urges.</p>
+
+<p>"I want five girls, of good family, just out of high school," says an insurance company looking for replacements for policy clerks.</p>
+
+<p>Now listen to War Manpower commissioner Paul V. McNutt. He says more than 18 million women must be gainfully employed by the end of 1943, meaning five million must be added to the present total, perhaps one out of every three housewives between the ages of 18 and 44.</p>
+
+<p>His first concern is that more women go into war industry. War production employed 1,200,000 women last December; McNutt wants the total to be 4,500,000 shortly after Christmas this year; six million by the end of 1943.</p>
+
+<p>Wherever war plants cluster, want ads scream for women in war industries and, right beside them other ads clamor for girls to fill the jobs which are thus left.</p>
+
+<p>Some fun, this being so wanted? Take a final look at manpower commission statistics: There were 1,600,000 women in agriculture in December, 1941; 8,900,000 in non-war employment; 1,200,000 unemployed. By next January first, army and navy auxiliaries (the WAACS and the WAVES) should have 19,500; agriculture 1,800,000; non-war employment retain 7,500,000 and unemployed drop to 900 thousand.</p>
+
+<p>Now, lady, feel isolated because of no doing anything? Got a son or brother in the service? A husband who is due to go soon? Need some money (you won't get rich) to get your credit in shape? To meet the increased cost of living? Want a job?</p>
+
+<p>Well, a lot of women already have gone and are going to work for the same reasons. So a girl who wants to work can do as the more successful others have done, use some sense about it.</p>
+
+<p>Remember a war plant job takes training. That shorthand and typing specialist the business man couldn't hire had training plus experience; so have the women moving into managerial positions.</p>
+
+<p>The ones who fit in quickest take stock; then go to the United States employment agency, to personnel directors, or good private employment agencies and ask what to do.</p>
+
+<p>Some women (and they take training) are finding a field of service in caring for the children of other women.</p>
+
+<p>"Those with very small children have no business working." Says the earnest, competent, young lady at the Dallas Information Center for Working Mothers.</p>
+
+<p>"But they are going to," chimes in her companion.</p>
+
+<p>"So we try to help them," says the first.</p>
+
+<p>The answer, she belies, is competent nurseries or foster homes (they must be licensed in Texas). "One woman caring for a number of children during the time the mother works."</p>
+
+<p>"It wouldn't be very much help in the war effort if there had to be a housekeeper for each working mother, would it?" she asks.</p>
+
+<p>Child care executives in St. Louis found that the first evidence of wartime problems was a need for daytime care of children whose parents worked; planned nurseries for them.</p>
+
+<p>Kansas City, Mo., agencies tackled the same problem with a house-to-house survey tabulating foster homes for children, weeded bad from good in commercial nurseries; advised mothers seeking to use WPA nursery schools or day nurseries of the community fund.</p>
+
+<p>The middle-aged lady who took a job as a checker in a chain grocer (all the boys had gone to the colors) stopped work 15 years ago while she and her husband operated their own grocery and market. He is a butcher. She says proudly that her 14-year-old daughter is running the house while she is working now.</p>
+
+<p>A woman who devoted her time after college to her husband and two children got a job in a pain shop. The manager told her: "I'm just treading water, just training help and seeing it go." The 15-year-ol daughter in that house pitched in to help.</p>
+
+<p>Organized recognition of the new demand may appear, as in Dallas, where a number of department stores, found lists of extra help were exhausted, and applications had stopped coming in.</p>
+
+<p>The Retail Merchants association campaigned for older women to attend classes in sales fundamentals for replacement help, got an initial registration of five hundred. Personnel people were tickled.</p>
+
+<p>Ages ranged from late thirties to the fifties and in more than one instance older women, strong, physically, alert mentally, were accepted.</p>
+
+<p>A Dallas girl moves from a job as a $60 stenographer with a bottling company to one of $170 with a railroad; the New York Central hires 14 women as ticket sellers; women man filling stations, drive taxies and trucks.</p>
+
+<p>The American Transit association hears Otto S. Beyer, director of the office of defense transportation's division of transport personnel, say he sees no reason why women can't be street car motormen and conductors and suspects there are women capable of driving a heavy bus. A few women already are being used on street cars and buses in San Diego he says.</p>
+
+<p>Have a look at some of the ads. In Cleveland there is "excellent opportunity for several women" in drafting rooms; they're wanted for drill press and milling machine operators, drug clerks, fountain clerks, hostesses and housekeepers, kitchen women, counter girls, laundry girls, order clerks, pay roll clerks, practical nurses, sales ladies.</p>
+
+<p>Take some more papers. St. Louis, Cincinnati, Kansas City, Dallas, Fort Worth, Houston, Baltimore, Tulsa, New Orleans, Memphis. Look at the want ads yell.</p>
+
+<p>A bus line wants two young ladies to be ticket agents, a tire concern will train mature women as retail store managers. A concern from New Orleans advertises in Memphis for a woman familiar with all phases of traffic work.</p>
+
+<p>The hefty drug store proprietor puts on an apron and serves breakfast when the fountain girl doesn't show up. Sure, he has a help problem, he says.</p>
+
+<p>"And they start wanting a raise when they've been here a week."</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+

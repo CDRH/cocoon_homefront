@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.sj.19420923 SYSTEM "homefront.news.sj.19420923.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.sj.19420923">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Leave School to Help in Harvest</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.sj.19420923</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Salina Journal</title>
+<title level="a">Leave School to Help in Harvest</title>
+<title level="a" type="sub">Increasing Number of Women Also being Employed in Fields in Kansas</title>
+<author></author>
+<biblScope type="pages"></biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Salina Journal</publisher>
+<pubPlace>Salina, KS</pubPlace>
+<date value="1942-09-23">1942-09-23</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-25</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.sj.19420923">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">LEAVE SCHOOL<lb/>TO HELP IN HARVEST</head>
+<milestone unit="smallbar"/>
+<head type="sub">Increasing Number of Women<lb/>Also Being Employed in Fields<lb/>in Kansas</head>
+
+<p>TOPEKA, Sept. 23 (AP)&#8211;Increasing numbers of Kansas school boys and women are going into fields and orchards to help harvest crops where male workers are not available, reports indicated today. W. A. Stacey, assistant state school superintendent, said bulletins had gone to school administrators in the state requesting that boys be excused temporarily from class-work to assist in the harvest at this critical period. He said many already indicated they would co-operate.</p>
+
+<p>A large group of high school boys at Doniphan, Troy and Highland were dismissed from classes to help gather the large 1942 apple crop in Doniphan county, it was reported. A delegation from Doniphan county headed by Sen. C. I. Moyer of Severance obtained yesterday from the state labor commission an emergency order to allow employment of women more than the maximum hours fixed by law. Moyer told Labor Commissioner A. V. Lundgren that without the emergency allowances apples would rot on the ground.</p>
+
+<p>H. L. Collins, senior agricultural statistician for Kansas, declared today the farm labor shortage is entering a critical period. "Within the next few weeks the harvest of row crops, best in many years, will require considerable hand labor. The only way we can save these <sic corr="products">proucts</sic> and meet war production goals is for women and school boys, both rural and city alike, to volunteer," he predicted. He asserted diaries are suffering most from shortages of hands, forcing some to go out of business. A curtailment in livestock production also was noted.</p>
+
+<p>Collins pointed out that some western states had adopted the plan of closing shops and offices in small towns part of the day so <sic corr="employees">employes</sic> could help with the fall harvest. "Kansas may have to resort to this procedure if we are to gain the most from our bountiful production this year," he added.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

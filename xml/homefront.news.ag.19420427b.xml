@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.ag.19420927b SYSTEM "homefront.news.ag.19420927b.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.ag.19420927b">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Clovis Rapidly Becoming a Mecca For U.S. Army Installations</title>
+<author>Jerry Sprague</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.ag.19420927b</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Amarillo Sunday News-Globe</title>
+<title level="a">Clovis Rapidly Becoming a Mecca For U.S. Army Installations</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<author>Jerry Sprague</author>
+<biblScope type="pages">5</biblScope>
+<biblScope type="columns">1-2</biblScope>
+<publisher>Amarillo Sunday News-Globe</publisher>
+<pubPlace>Amarillo, Texas</pubPlace>
+<date value="1942-09-27">1942-09-27</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-23</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.ag.19420927b">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p5"/>
+<head type="main">Clovis Readily Becoming a Mecca<lb/>
+For U.S. Army Installations</head>
+<milestone unit="smallbar"/>
+
+<byline>By JERRY SPRAGUE<lb/>
+Correspondent</byline>
+
+<p>CLOVIS, Sept. 26 (Special) &#821; This eastern New Mexico city is fast becoming a mecca for army installations. At present there are no less than four different units of the United States Army located here.</p>
+
+<p>The present lineup looks like this: Engineer detachment containing several hundred men; pre-glider school unit; quartermaster supply base; and work is beginning on one of the three largest super-airdromes in the United States which will contain members of the Army Air Force in the near future.</p>
+
+<p>However, Clovis' Army family will be decreased to only a trio of members soon since the glider school will be moved to Tucumcari, army officials recently announced.</p>
+
+<p>At the present time, the engineering unit is located at Camp William C. Reid, recently so-named in honor of the late Capt. William C. Reid, for years general counselor for the Santa Fe Railway. The camp is on the southern edge of Clovis.</p>
+
+<p>The glider pilots have literally taken over the Hotel Clovis as that hostelry serves as their officials barracks.</p>
+
+<p>The quartermaster depot, which services both the engineer and glider unit is located on the eastern edge of the city near the old fairgrounds.</p>
+
+<p>The new airdrome will be constructed at the municipal airport site west of Clovis.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">What They Do</head>
+
+<p>Now what do all of these units do? Here's your answer.</p>
+
+<p>The engineers are comprised mostly of men with railroad experience, either on the "road" or in the shops. Here the soldiers make daily "runs' with the engine and train crews to learn completely the duties of operation of a train. Those with shop experience are learning further the repair and maintenance of railroad equipment, which includes signalmen and the like.</p>
+
+<p>The pre-glider school is composed of men who will soon learn to fly power-less aircraft. They are completing their flight training in powered aircraft. A large numbered of the men are those who will form the ground crews of glider units. A few hundred men compose this outfit.</p>
+
+<p>The <sic corr="quartermaster">quartemaster</sic> depot was located here to issue supplies to the engineers and glider school men. They feed, clothe, and issue general supplies to the other two units.</p>
+
+<p>And now to the "baby" of the family&#8211;but really the giant of them all. That is the super-airdrome now under preliminary construction.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">Gigantic Airport</head>
+
+<p>There will be only two other ports as large as the Covis port in the second air force area. It is for the safety of flying and for the larger aircraft already on the way.</p>
+
+<p>The port will be used for blind flying tactics and will not be connected in any way with the pre-glider school now located here, but soon to be moved.</p>
+
+<p>According to a recent announcement by Maj. Gen. Robert Olds, commander of the second air force, each field will be equipped to handle blind landings under any weather conditions as well as the larger aircraft of tomorrow. Each will have two or three runways 10,000 feet long and 1,000 feet wide. All are free of natural obstructions.</p>
+
+<p>Existence of the blind landing fields simply will mean that the pilot, suddenly caught in the fog or other adverse weather, perhaps with his radio out of order, can avoid a hazardous landing on possible crash by heading for one of these fields where special direction-finding equipment and long runways will aid him in safety getting his ship to the ground, General Olds explained in his recent Associated Press announcement.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">Fully Garrisoned</head>
+
+<p>Each field will have the usual army air base facilities and will be fully garrisoned.</p>
+
+<p>The ground-air direction finding equipment for the new fields is being prepared by Capt. J. M. Farmer, blind landing equipment expert.</p>
+
+<p>The other two huge airfields will be located Salina, Kan., and Ephrata, Wash.</p>
+
+<p>Work has just begun on the field and should be in full swing soon. Operations will start sometime in 1943.</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<div1>
+
+<p>CLOVIS, Sept. 26 (Special) &#8211; work on the huge airfield to be located in Curry County is gradually getting underway.</p>
+
+<p>The contractors, Nolan Brothers and C. A. Wagner Construction Company, Inc., of Minneapolis, who were awarded a contract recently for drainage and road work in an amount less than $3,000,000, have started their portion of the project.</p>
+
+<p>Other contracts concerning the airfield construction are to be let very soon.</p>
+
+<p>The government engineers have moved into their permanent quarters.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

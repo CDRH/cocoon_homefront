@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19440101 SYSTEM "homefront.news.owh.19440101.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19440101">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Farms Score Food Victory</title>
+<author>Carlyle Hodgkin</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19440101</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Morning World-Herald</title>
+<title level="a">Farms Score Food Victory</title>
+<title level="a" type="sub"></title>
+<author>Carlyle Hodgkin</author>
+<biblScope type="pages">2</biblScope>
+<biblScope type="columns">2</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1944-01-01">1944-01-01</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-24</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19440101">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p2"/>
+
+<head type="main">Farms Score<lb/>Food Victory</head>
+<milestone unit="smallbar"/>
+<head type="sub">Year-End Report Tells<lb/>Great Contribution</head>
+
+<byline>By Carlyle Hodgkin</byline>
+<p rend="center">(World-Herald Farm Editor.)</p>
+
+<p>Nebraska's 120 thousand farmers and ranchers can present the following year's end report to their fellow citizens:</p>
+
+<p>If 1944 turns out as well as the year just past, we can say again at its end that Nebraska agriculture, its great resource, has made a worthwhile contribution to the causes of victory and peace.</p>
+
+<p>You've read lately of the markets being glutted with hogs. That's because, answering the nation's call, we raised a whacking big crop of spring pigs&#8211;4,581,000 head, three and one-half hogs for every man, woman and child in the state, a 52 per cent increase over the spring of 1942.</p>
+
+<p>Ninety per cent as many cattle officially are reported in farmers' yards being fattened now as a year ago, this in spite of all the turmoil in the fall over ceilings, subsidies and prices.</p>
+</div1>
+
+<div1>
+<head type="sub">Lamb Feeding Up</head>
+
+<p>The number on feed a year ago was large; even with this 10 per cent shrinkage, Nebraska will make a substantial contribution to beef supplies in the coming months.</p>
+
+<p>Lamb feeding, also important, is slightly up, about as many on feed as last year in the Scottsbluff area and 17 per cent more in Dawson county.</p>
+
+<p>Numbers of beef cattle on farm and ranch are expected to be up slightly and range supplies of forage are good, though protein concentrate feeds are painfully scarce.</p>
+
+<p>Farmers pailed more than three billion pounds of milk out of their 680 thousand cows during 1943, exceeding the goal of 2,900,000,000 the government asked them to meet. Natural increases are expected to maintain 680 thousand milk cows on farms in 1944.</p>
+</div1>
+
+<div1>
+<head type="sub">Seventh in Chickens</head>
+
+<p>Farmers raised nearly 40 million chickens, as compared with 34 million in 1942, and egg production should be up in somewhat like proportion, although overcrowding of poultry houses and a current sharp price slump will reduce that prospect somewhat. Our state ranked seventh in chickens raised in 1943.</p>
+
+<p>A good corn crop, though not bumper, blessed the farmers' efforts the past year. They got 216 million bushels, which falls short of the 242 million in 1942 but looks good alongside the drouth years' average (1932-41) of 119 million.</p>
+
+<p>Our wheat crop was 60 million bushels, giving it second rank in the nation. Our rye was the same, corn, alfalfa and sweet clover seed third, barley and sorghum grain fourth and oats fifth.</p>
+
+<p>On dry beans, an acutely needed protein food, the western farmers boosted production 64 per cent, to 920 thousand bags from 560 thousand last year. This crop was grown mostly by irrigation.</p>
+</div1>
+
+<div1>
+<head type="sub">More Soybeans</head>
+
+<p>Soybeans, likewise war-needed, the eastern farmers boosted to 943 thousand bushels from 560 thousand in 1942, and they've set up a 1944 goal of 100 thousand acres, about the same as the past year.</p>
+
+<p>The potato crop held up to 11.9 million bushels, compared with 12.8 million a year ago, in spite of the manpower scarcity in western Nebraska and drouth damage to the non-irrigated crop.</p>
+
+<p>Nebraska ranked first in wild hay.</p>
+
+<p>Present prospects admittedly do not justify optimism for another such contribution as Nebraska farmers and ranchers were able to make in 1943. The 1944 wheat crop currently is estimated at only 30 million bushels. Feed supplies promise to become scarce.</p>
+
+<p>But pessimism this far ahead of the crop season can be overdone. Nothing is true of Nebraska if it is not true that the weather can change.</p>
+</div1>
+
+<div1>
+<head type="sub">Use Drouth Lessons</head>
+
+<p>Maybe the state will get moisture enough in the spring to grow reasonably good corn, spring grain, sorghums, alfalfa, sweet clover and pastures.</p>
+
+<p>In the past decade, at any rate, farmers have learned much about making the best of the rain they do get, and in 1944 they are pretty sure to practice these methods and also extend the area of irrigation.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.rec.0002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Appendix to the Congressional Record (October 2, 1939)</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.rec.0002</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Appendix to the Congressional Record</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date value="1939-10-02">(October 2, 1939)</date>
+<biblScope type="pages">82-83</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-01-16</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Validation</item>
+</change>
+<change>
+<date>2007-01-05</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>2006-11-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+<head type="main">Neutrality Legislation and the National Defense</head>
+<milestone unit="smallbar" />
+<head type="sub">EXTENSION OF REMARKS<lb />
+OF<lb />
+HON. ALBEN W. BARKLEY<lb />
+OF KENTUCKY<lb />
+IN THE SENATE OF THE UNITED STATES<lb />
+Monday, October 2, 1939</head>
+<milestone unit="smallbar" />
+<head type="sub">RADIO ADDRESS BY HON. EDWARD R. BURKE OF NEBRASKA</head>
+<milestone unit="smallbar" />
+
+<p>Mr. BARKLEY.  Mr. President, I ask unanimous consent to have printed in the RECORD an address delivered on September 30, 1939, by the Senator from Nebraska [Mr. BURKE] over a Nation-wide hook-up of the Columbia Broadcasting System on the subject Neutrality Legislation and the National Defense.</p>
+
+<p>There being no objection, the address was ordered to be printed in the RECORD, as follows:</p>
+
+<p>Within the next few hours debate will open on the floor of the Senate upon the question of amendment of the existing Neutrality Act. Bear this in mind at the outset. The proposal is not to repeal a neutrality law and leave a void, as some would have you believe. It is to strengthen legislation, the chief purpose of which is to render less likely our involvement in any foreign war.</p>
+
+<p>America is consecrated to the cause of peace. We covet not a foot of soil that belongs to another. There is in the hearts of our people not a trace of envy, or jealousy, or hatred of any other nation. Beneath contempt is the individual who would charge, or by innuendo imply, that the motive of any of the participants in shaping our national policy is influenced by considerations of financial gain to industry, labor, or agriculture. America would sacrifice much to restore peace&#8211;a righteous peace; a lasting peace&#8211;among all the nations of the world.</p>
+
+<p>May I repeat with strongest approval the words of President Roosevelt at the opening of this special session of Congress:</p>
+
+<p>"I proceed on the assumption that every Member of the Senate and of the House of Representatives and every member of the executive branch of the Government, including the President and his associates, personally and officially, are equally and without reservation in favor of such measures as will protect the neutrality, the safety, and the integrity of our country and at the same time keep us out of war."</p>
+
+<p>The question then is whether that objective can with greater likelihood be attained by retaining the Neutrality Act in its present form, or by adopting some or all of the suggested changes. It is with firm conviction in the efficacy of the amended bill that I speak to you tonight. Let its several suggestions be read and understood by all citizens throughout the land. Let them be weighed impartially as to their value in protecting the safety and integrity of our country and in keeping us from involvement in foreign wars. When that has been done, I have not the slightest doubt that an overwhelming voice of approval of the suggested changes will swell the chorus from "every living heart and hearthstone all over this broad land."</p>
+
+<p>The main feature of the existing law, as you well know, is a prohibition on the export of arms, ammunition, or implements of war to a belligerent state. Authority was delegated to the President to place restrictions on the export of certain additional articles or materials. Thereafter no American vessel should transport to a belligerent state such articles. Title should be transferred to some foreign government, agency, or national, before shipment. By limitation written into the act this section expired on May 1, 1939.</p>
+
+<p>When the President signed the original act on August 31, 1935, he stated that the question of the advisability of imposing an embargo on the export of arms required further and more complete consideration. He expressed the opinion that this prohibition might have exactly the opposite effect from that which was intended. It might, in other words, retard rather than favor the protection of "the neutrality, the safety, and the integrity of our country" and the effort to keep us out of war.</p>
+
+<p>Secretary of State hull has consistently held to the view that an embargo on the export of arms is undesirable. He stated to the committees of Congress last May what everyone must recognize to be the true condition:</p>
+
+<p>"Modern warfare is no longer warfare between armed forces only; it is warfare between nations in every phase of their national life. Lists of contraband are no longer limted to arms and ammunition and closely related commodities. They include not only those items which contribute toward making warfare possible, but almost every item useful in the life of the enemy nation. A nation at war is no less anxious to keep cotton or petroleum, or, indeed, any useful product, from reaching an enemy nation than it is to keep guns and airplanes from reaching the enemy's armed forces. I doubt whether we can help ourselves to keep out of war by an attempt on our part to distinguish between categories of exports."</p>
+
+<p>The correctness of the conclusion reached by Secretary Hull is indisputably borne out by experience. Two alternatives present themselves. Congress could enact an all-inclusive embargo. We could completely close our doors. We could make it impossible for anything and everything produced in America to reach a belligerent state either by passage directly from us or through an intermediate country. Such an embargo rigorously enforced during a general and protracted war would tumble our whole economic system into ruins. With half the world in need of all we would have for sale, our goods would pile up on the docks and in warehouses. Our commerce would be disrupted. Prices would break. An army of unemployed would walk the streets. Discontent would seize our people. Irresistible would be the demand for repeal of such an embargo.</p>
+
+<p>We have demonstrated that an arms embargo is undesirable and productive of no good results. A complete embargo is unwise and its consequences devastating. There is an alternative. Simple. Sensible. Sound. It is set forth in the pending substitute. It attempts no meaningless distinction between classes of goods. It recognizes the futility of discriminating between the raw material, the partly fabricated article, and the completed product. It says to all the world that what we have for sale is ready for any purchaser without the slightest discrimination on our part. As far as we are concerned, all will be treated exactly alike.</p>
+
+<p>More than that this proposal goes to the very root of the evil we are trying to correct&#8211;the evil of involvement in the war. Since certain countries unfortunately are engaged in a titanic struggle which is not of our making and in which we do not propose to permit ourselves to become involved, we will not let our ships make deliveries to any of the belligerents. We will say to them, one and all alike, if you want that which we have for sale come and get it in your own ships. Title must pass to you here and it will not pass until payment has been made. When you leave our territorial waters wit the goods you have bought and paid for&#8211;wheat, oil, cotton, airplanes, or whatever they may be&#8211;we have no further responsibility. You take all the chance of a safe passage.</p>
+
+<p>It must be clear to every person capable of reasoning that the way for America to keep from involvement in this war is to make it unlikely that American goods, American ships, American seamen, American citizens, will be sent to a watery grave while pursuing a course permitted by law. We propose to strengthen our neutrality legislation by making such happenings unlikely to occur.</p>
+
+<p>But, it is said, if we follow this course of dealing not at all with any of the belligerents except on the terms stated, some belligerent, unable, for reason with which we have nothing to do, to come and get goods from us, or lacking ability to pay for them, will become incensed. So what! Will such a nation retaliate by preying upon our commerce with neutrals? I do not think so. I credit all of the belligerents with more sense than that. But are we to be deterred from acting within our recognized rights and in accordance with our best judgment by threats of force? Much as we abhor war, zealously as we will strive to treat all with such complete fairness as to give no justifiable offense, we still have the ability and the will to meet such a situation. To met it promptly and with such overpowering force that there will be no repetition.</p>
+
+<p>The surest way for America to keep from ever having a war forced upon her is to make adequate protection for the national defense. Not to engage in any conduct remotely resembling aggression. Not to act the part of the bully. Not to fight on foreign soil. Not to participate in wars between other nations no matter how deep our sympathies may be. We must be strong, we must be prepared both in man power and in equipment, in order that we may thus command the respect of the world.</p>
+
+<p>Promotion of our national defense affords the final and conclusive reason for the prompt repeal of the arms embargo. You ask how that is so? The answer is that it is not the country which buys from us arms, munitions, and implements of war which receives the only or the greater benefit. By completing the process of manufacture here, whether of planes, tanks, arms, or war equipment of any kind, we are thus enabled to develop the facilities and the organization to place our own national defense in a position of superiority that will render America immune to attack from any nation or combination of nations in all the world. Had an arms embargo been in force from 1914 on it would have served not at all to have kept us out of the war. But it would have left us woefully weak and unprepared when we were forced to enter.</p>
+
+<p>It is our common hope and prayer that the day will soon come when righteous men and women in every land will take control. When war will be no more. When every dispute will be settled at the council table.</p>
+
+<p>We will not hasten the coming of that day by fondly lapsing into a false security. An America weak and unprepared will not be able to lead the world along the pathway of peace. We have the latent resources, the partially developed possibilities, the manpower to make this Nation impregnable. Let us perfect our national defense and we can then take the leadership in the movement to end war. Toward that end the repeal of the arms embargo is an essential step.</p>
+
+<p>"Realization that the neutrality law now on the statute books is neither really neutral nor in any way a reliable guaranty against war, explains the rising tide of sentiment for its amendment," says the Washington Post. The Pittman bill is strictly neutral. It affords the most reliable guaranty against our involvement in war. It should be, and I have no doubt will be, promptly adopted.</p>
+
+
+
+</div1>
+</body>
+</text>
+</TEI>

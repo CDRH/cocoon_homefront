@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.rec.0016">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Congressional Record-Senate (January 31, 1941)</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.rec.0016</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Congressional Record-Senate</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date value="1941-01-31">(January 31, 1941)</date>
+<biblScope type="pages">431-433, 437</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-01-16</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Validation</item>
+</change>
+<change>
+<date>2007-01-08</date>
+<respStmt>
+<name>Paul Fajman</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>2006-11-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1>
+
+<div2>
+<opener>GRACE CATHEDRAL,<lb />
+<dateline>Topeka, Kans., <date>January 7, 1941</date>.</dateline>
+<salute>To Honorable ARTHUR CAPPER,</salute><lb />
+	Senate Office Building,<lb />
+		Washington, D.C.</opener>
+	<p>MY DEAR SENATOR: It is altogether too bad the President did not give his late lamented "fireside chat" before November 5 of last year.</p>
+	<p>Congress seems to be our last bulwark against entrance into the European conflict; that is, if we are not already in by the "day-to-day decisions" of the Chief Executive. To pledge this Nation to British victory, without knowing what British aims are in this war, seems to me to be the height of folly. If the war in Europe is not simply a continuation of the historic battles of imperialistic nations in Europe, heightened to a degree of insanity, then I have misread European history for the past 150 years.</p>
+	<p>To call people who don't agree with the President "appeasers" seems to me to be getting dangerously near to something that is far away from democracy. I thoroughly resent any such presumption to a "thus saith the Lord" on the part of the President.</p>
+	<p>I sincerely hope you will use your good offices to prevent Congress from becoming an expensive rubber stamp. The predominant desire of the people of this Nation is to be kept out of war. They would like the President to explore the possibilities of a negotiated peace. The President willy-nilly has practically pledged this nation to a dictated peace. Cannot something be done now, before it is too late to stop this mad plunge toward involving us in this bloody, insane conflict?</p>
+	<closer>With warm personal regards and every good wish, I am,<lb />
+		Most sincerely yours,<lb />
+	<signed>JOHN WARREN DAY.</signed></closer>
+</div2>
+
+<milestone unit="smallbar" />
+
+<div2>
+<opener><dateline>SEDAN, KANS., <date>January 20, 1941</date>.</dateline>
+<salute>Senator CAPPER.</salute></opener>
+	<p>DEAR SIR: I wish to state that I am opposed to giving any more power to the President, as the current aid-to-England bill proposes. I do not agree with Roosevelt or hide behind the English Navy or anyone else. America always has and still can defend herself from outside danger. The real danger is from within. With the President now having more power than any other individual in the world, and still asking for more, how long can the republican government last? There is the real danger.</p>
+	<p>When the credit of the Government is exhausted I can see no way out but dictatorship. And I fear we are very close to that point now.</p>	
+	<p>Hope you will do all you can against the bill to lend material to England.</p>
+	<closer>Yours truly,<lb />
+<signed>EVERETT CRAWFORD.</signed></closer>
+</div2>
+<milestone unit="smallbar" />
+<div2>
+
+<opener><dateline>ELLSWORTH, KANS., <date>January 19, 1941</date>.</dateline>
+<salute>Mr. ARTHUR CAPPER,</salute>
+		Washington D.C.</opener>
+	<p>DEAR MR. CAPPER: I am a young man, living on a farm out here in Kansas. Everything has been going well with me up to the present time, but I am fearful of the future. I am proud of our glorious country, and I am especially proud of our heritage, the Constitution of our country, our representative form of government, not to mention religious freedom and many material advantages.</p>
+	<p>But I am afraid we are about to lose all these things by giving our President too much power. Mr. Roosevelt has enforced much influence upon Congress and the public than any other President, yet he isn't satisfied. His demand for more power must be stopped if we are to retain our democracy.</p>
+	<p>The proposed lend-lease bill will certainly give the President absolute dictatorial power over Congress and the people of our Nation.</p>
+	<p>Mr. CAPPER, please do not support any policy which will take away our voice in government.</p>
+		<closer>Sincerely,<lb />
+<signed>ALVIN LANGE.</signed></closer>
+</div2>
+
+<milestone unit="smallbar" />
+
+<div2>
+
+<opener>THE EVANGELICAL CHURCH,<lb />
+<dateline>Abilene, Kans., <date>January 20, 1941</date>.</dateline>
+<salute>Senator ARTHUR CAPPER,</salute>
+		Washington D.C.</opener>
+	<p>DEAR SENATOR: It is with strange misgivings that I view the present session of Congress. This Seventy-seventh Congress is the last bulwark for the protection of American democracy against the daring encroachment of a power-drunk President. This Congress, not Great Britain, is the front line of America's defense.</p>
+	<p>In all sincerity and earnestness, Senator Capper, I fear the encroachment of our dictatorial President more than all the outside threats which are leveled against our American way of life. This Nation's greatest enemy, in my opinion, is now in the White House plotting a course that seems patterned after Mussolini and Hitler. By that I mean that he is bringing every influence possible to bear on Congress to abdicate its democratic powers just like the German Reichstag and the Italian Chamber of Deputies were led to abdicate their powers to Hitler and Mussolini. I fear the same result here. These last 8 years have definitely impressed me with the fact that Mr. Roosevelt is a reckless and wasteful spender of this Nation's resources. His continued leadership fills me with dread for the future of our American way of life.</p>
+	<p>I sincerely hope you will do everything you can to block the dictatorship aspirations of Mr. Roosevelt. The next thing he may be sending our duly elected representatives home. This is a time that calls for sacrifice on the part of you men that stand between the people and their constitutional freedom and liberties. I do sincerely hope you will do your patriotic duty in the front line of defense of our American way of life. We are depending on you to put up the fight of your life for the preservation of our democracy. There are no decisions that our duly elected representatives cannot make for us better than any dictator can. So we are depending on you and your colleagues to stand by our country in this crisis.</p>
+		<closer>Sincerely yours,<lb />
+<signed>Rev. LUCAS M. NANNINGA.</signed></closer>
+</div2>
+
+<milestone unit="smallbar" />
+
+<div2>
+<opener>FIRST PRESBYTERIAN CHURCH,<lb />
+<dateline>Coffeyville, Kans., <date>January 14, 1941</date>.</dateline>
+<salute>The Honorable ARTHUR CAPPER,</salute>
+United States Senate, Washington, D.C.</opener>
+	<p>DEAR MR. CAPPER: Everyone is very much concerned at the present time with the crisis brought on by the war situation. No doubt we are all in sympathy with Great Britain; however, many that I have talked to have said that they do not favor giving so much power to our President, or even the military authorities, so that our country will be in reality a totalitarian government. We still believe that our Congressmen can work these things out to keep our country out of war, and that their opinions will be much wiser than that of one man, who by his actions could cause us to become involved in the European war.</p>
+
+<milestone unit="stars" />
+	<p>It is amazing how this war psychology works on people. And it is alarming when a President has so much power and at the same time has the majority of the Congress seemingly dependent upon him. Even our courts have the majority of the members appointed by the present President. These agencies, which should be checks upon each other, are far from democracy when they become controlled by one man or by one party.</p>
+<milestone unit="stars" />
+		<closer>Cordially yours,<lb />
+<signed>ROBERT W. SCOTT</signed><lb />
+Minister.</closer>
+
+</div2>
+
+<milestone unit="smallbar" />
+
+<div2>
+<opener><dateline>LAWRENCE, KANS., <date>January 15, 1941</date>.</dateline>
+<salute>Senator ARTHUR CAPPER,</salute>
+		Washington, D.C.</opener>
+	<p>DEAR SENATOR CAPPER: We keep informed of your sentiments as expressed in your Sunday evening radio talks, and I want to commend your attitude toward the pending lease-lend legislation. I am astonished and grieved that Congress continues to surrender its constitutional prerogatives to the Executive, when a recent veto demonstrates the President's determination to retain all the power that he can acquire.</p>
+<milestone unit="stars" />
+	<p>No one man is wise enough or unselfish enough to be trusted with unlimited power over the people of America.</p>
+<milestone unit="stars" />
+	<p>I am glad to have aid given to Great Britain in her struggle to maintain freedom, but all assistance given her by our Government and its relation to our own interests should be passed upon by Congress. So Congress should remain on the job and not shirk its responsibilities as defined by the Constitution and entrusted to it by the people.</p>
+		<closer>Sincerely yours,<lb />
+<signed>Dr. EDWARD BUMGARDNER.</signed></closer>
+</div2>
+
+<milestone unit="smallbar" />
+
+<div2>
+<opener><dateline>HUTCHINSON, KANS., <date>January 19, 1941</date>.</dateline>
+<salute>Senator ARTHUR CAPPER,</salute>
+		Washington, D.C.</opener>
+	<p>MY DEAR SENATOR: In your address tonight you asked for an expression as to how we Kansans felt toward the lend-lease bill.</p>
+	<p>There can be no question but what you expressed 90 percent of the Kansas feeling. The effects of such a bill are too terrible to contemplate.</p>
+<milestone unit="stars" />
+	<p>If we want to save our country and civilization we must be immune to attacks from all sources, even from the White House. It is a shame that we have a man who preaches unity and then commits acts which compel disunity; one who says there is nothing to fear but fear and then tries to scare the people into a war which is not of their making or desire.</p>
+	<closer>With best wishes I am,<lb />
+		Yours very truly,<lb />
+<signed>E. G. WOLESLAGEL.</signed></closer>
+</div2>
+
+<div2>
+<opener><dateline>TOPEKA, KANS., <date>January 20, 1941</date>.</dateline>
+<salute>Senator ARTHUR CAPPER,</salute>
+		Washington, D.C.</opener>
+	<p>DEAR SENATOR: I wish to thank you for your splendid leadership in the fight against the lend-lease bill of the administration.</p>
+	<p>We of the West and Middle West are not so far removed from pioneer days as to have forgotten the necessity for conserving our resources; and I hold it true that the first step toward disintegration of a great nation is the dissipation of those resources, and equally true that if such dissipation of its resources is allowed to continue, the result must inevitably be the destruction of the Nation.</p>
+	<p>We are facing such a dissipation now. Someway it must be stopped. We, the greatest of great nations, cannot&#8211;must not&#8211;give to any one man, for any length of time, long or short, power to dispose of our resources or defenses as and to whom he may see fit.</p>
+<milestone unit="stars" />
+	<p>Do not let the bill pass,</p>
+<closer>Yours truly,<lb />
+<signed>W. G. MOCK.</signed></closer>
+</div2>
+
+<milestone unit="smallbar" />
+
+<div2>
+<opener>STONE, MCCLURE, WEBB,<lb />
+JOHNSON &amp; OMAN,<lb />
+<dateline>Topeka, Kans., <date>January 21, 1941</date>.</dateline>
+<salute>Hon. ARTHUR CAPPER,</salute><lb />
+	Senate Office Building,<lb />
+	Washington, D.C.<lb />
+	DEAR ARTHUR:</opener>
+<milestone unit="stars" />
+	<p>I want to thank you for the stand which you are taking in the affairs of the day. We are going through a very dangerous period. Everyone wants to help Great Britain and hopes that she will win the war. I think we all want to give her all the help that we can, consistent with our own safety. We can, of course, afford to give them a great deal of help in arms and munitions, but there is no reason why they should not reciprocate by paying in money or possessions so long as they are able. But the most dangerous thing we are called upon to do is to vest such uncalled-for powers in the President. I hope that you will do everything you can to modify the lend-lease act so that it does not convey such unlimited power.</p>
+	<closer>With best wishes, I am,<lb />
+		Your sincerely,<lb />
+<signed>ROBERT STONE.</signed></closer>
+</div2>
+
+<milestone unit="smallbar" />
+
+<div2>
+<opener><dateline>IOLA, KANS., <date>January 19, 1941</date>.</dateline>
+<salute>Senator ARTHUR CAPPER,</salute>
+		Washington, D.C.<lb /></opener>
+	<p>DEAR SENATOR CAPPER: This evening we listened to your broadcast, and we wish to say against that we are opposed to the President's program; we do not think the Congress should give anyone such authority as this bill will give to the President. No time in the history of our country has a President asked for such authority, and as I remember the history of our country we have passed through some very trying times. The following Presidents all passed through difficult times: Washington, Madison, Lincoln, McKinley, and Woodrow Wilson. During their terms as President there were wars, both internal and external, yet they never asked the Congress for any such power.</p>
+	<p>No, Senator, we are opposed to this measure. If the Congress passes this request of the President, then why a Congress and why talk of Dictator Hitler? President Roosevelt will be a greater dictator; I suppose that is what he wants.</p>
+	<p>We are for national preparedness, and we are willing that Congress should pass any laws that in its judgment are needed for the operation of national defense and we are willing to pay any tax that we possibly can so that this country of ours may be in a position to defend itself. But, Senator, we are not willing for this Government to agree that it will furnish all the war materials that other governments may need to fight their wars.</p>
+	<p>Many say that England is fighting our war. Now, Senator, we all know better than that&#8211;England is fighting to preserve itself, and the possessions that she controls.</p>
+	<p>Do I want Hitler and Germany to win this war? Certainly not. I am willing to help England as much as we can, and I believe that you also wish to do that very thing; but we are not willing that this country should go bankrupt, and if we do as the President asked, that is what will happen.</p>
+	<closer>Yours sincerely,<lb />
+<signed>Mr. and Mrs. A. R. SLEEPER.</signed></closer>
+</div2>
+
+<milestone unit="smallbar" />
+
+<div2>
+<opener>IMMACULATE CONCEPTION CATHEDRAL,<lb />
+<dateline>Leavenworth, Kans., <date>January 17, 1941</date>.</dateline>
+<salute>The Honorable ARTHUR CAPPER,</salute><lb />
+	Senator from Kansas,<lb />
+	Senate Office Building,<lb />
+	Washington, D.C.</opener>
+	<p>Dear MR. CAPPER: I was pleased to read of your opposition to the lease-lend bill.</p>
+	<p>The founding fathers of our country thought that it should be left to Congress to decide when and if this Nation should go to war. This was the conviction of great men, arrived at by their observation of history and by their appreciation of man's inalienable right to the pursuit of life, liberty, and the pursuit of happiness. This conviction they embodied in our inimitable Constitution, thus reserving by law this right to the people through their chosen Representatives.</p>
+	<p>Events of the past decade make it our conviction also that the right to involve a nation in war must remain in the hands of the people. I spent 4 years in Europe shortly before the present conflagration there. I have it from the lips of the people of the chief countries involved in this mad brawl that they, the ruled class, did not want war. This war, its privations, sorrow, and death, therefore, was foisted upon them, because the right to decide in regard to war was not up to them.</p>
+	<p>The extent of the ambiguous powers hidden in the lease-lend bill no one seems to know, but almost all know that they are alarmingly vast. If it is dictatorship that we are opposed to, then let us not convert our Government into a dictatorship. And let Congress, made up of the people's representatives, retain the power that the Constitution rightfully gives it.</p>
+<milestone unit="smallbar" />
+<closer>Sincerely yours for the preservation of<lb />
+Our constitutional rights,<lb />
+<signed>Rev. A. H. WIETHARN</signed>,<lb />
+Assistant.</closer>
+</div2>
+
+<milestone unit="smallbar" />
+
+<div2>
+<opener>FORT HAYS STATE COLLEGE,<lb />
+<dateline>Hays, Kans., <date>January 21, 1941</date>.</dateline>
+<salute>Senator ARTHUR CAPPER,</salute><lb />
+	Senate Office Building,<lb />
+	Washington, D.C.</opener>
+	<p>DEAR SENATOR CAPPER: I urge you to oppose the so-called lease-lend bill; first, because it surrenders the principles of democracy for which Mr. Roosevelt proclaims such a firm devotion. Second, it grants in peacetime powers to the President which he should only have in a critical war situation such as existed in England when Churchill became prime minister. Third, it provides no time limit, and, therefore, may prove a stepping stone to a dictatorship. Fourth, it provides insufficient guaranties for the payment of the materials, proposed to be loaned or leased, and fifth, it does not protect the United States against the possibility of her again holding the empty bag while Great Britain adds thousands of square miles to her empire. I think we should by all means show that we have enough intelligence to profit from our experience in the World War. If England cannot pay for her aid, she can at least give us the protection of her territories in the Western Hemisphere. The trade relations that might be developed with these territories would in time be a compensation for the sacrifices and loans made by us to save Great Britain.</p>
+	<closer>Sincerely yours,<lb />
+<signed>H. B. REED,</signed>
+Professor of Psychology.</closer>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

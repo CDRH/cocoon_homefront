@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.sj.19420428 SYSTEM "homefront.news.sj.19420428.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.sj.19420428">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Site Surveyed for Salina's New Air Base</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.sj.19420428</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Salina Journal</title>
+<title level="a">Site Surveyed for Salina's New Air Base</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">5</biblScope>
+<biblScope type="columns"><!-- need to fill-in --></biblScope>
+<publisher>Salina Journal</publisher>
+<pubPlace>Salina, Kansas</pubPlace>
+<date value="1942-04-28">1942-04-28</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-29</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.sj.19420428">
+<figDesc></figDesc>
+</figure> -->
+<p />
+</div1>
+
+<pb n="p5"/>
+<div1 type="part">
+<head type="main">SITE SURVEYED FOR SALINA'S NEW AIR BASE</head>
+
+<p>This map of Saline county's first major defense project shows the location of the U.S. army base in its proximity to Salina. The four sections outlined in black were covered by the army's survey before the exact outline of the base had been determined. The condemnation proceedings take in 1,441.88 acres of this tract, beginning at the northeast corner of section 34, extending a mile and a half west to the middle of section 33, thence a mile and a half south to the middle of section four, and thence a mile and a half east along the middle of section three to the east line of the base. A mile east of the base is US-81 and from that point a mile north is the Salina city limits.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

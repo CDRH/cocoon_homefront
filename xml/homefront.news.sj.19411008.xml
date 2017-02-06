@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.sj.19411008 SYSTEM "homefront.news.sj.19411008.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.sj.19411008">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Double Food Task</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.sj.19411008</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Salina Journal</title>
+<title level="a">Double Food Task</title>
+<title level="a" type="sub">U.S. Farmers to Feed Nation, Supply Britain</title>
+<title level="a" type="sub">Can Be Done Without Restricted Diets At Home, But Goals For Britain Is Safe Minimum</title>
+<author></author>
+<biblScope type="pages">3</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Salina Journal</publisher>
+<pubPlace>Salina, KS</pubPlace>
+<date value="1941-10-08">1941-10-08</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-25</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="homefront.news.sj.19411008">
+
+<figure entity="homefront.news.sj.19411008">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p3"/>
+<head type="main">DOUBLE FOOD TASK</head>
+<milestone unit="smallbar"/>
+<head type="sub">U.S. FARMERS TO FEED <orig reg="NATION">NA-</orig><lb/>TION, SUPPLY BRITAIN</head>
+<milestone unit="smallbar"/>
+<head type="sub">Can Be Done Without Restricted<lb/>Diets At Home, But Goals For<lb/>British Is Safe Minimum</head>
+
+<p>WASHINGTON, Oct. 8 (AP)&#8211;Congress received a prediction from Secretary Wichard today that the requirements of the United States and foes of the axis for agricultural products will raise domestic farm supplies to a new all-time high next year. He told a house appropriations committee during hearings on the $5,985,000,000 lend-lease bill that the two-goal task could be accomplished without rationing in the Untied States although it is "apparent that the British will have restricted diets."</p>
+
+<p>He said that one-third of the proposed $1,000,000,000 agricultural-aid program would be devoted to pork products&#8211;involved 1,500,000,000 pounds of pork and lard&#8211;and another third to dairy products and eggs.</p>
+
+<p>"Our estimates are," he said, "that we are going to be required to furnish an amount of food necessary to take care of one-fourth of the population, at least 10,000,000 people out of the forty-five or forty-seven million people in Britain. It is not to be thought, however, that this will keep the British in luxury or even restore their food consumption to the level prevailing before the war. On the contrary the level is being aimed at only a safe minimum."</p>
+
+<p>He estimated that 70 cents of each dollar spent on the farm part of the lend-lease program would reach the farmers' pockets, with major purchases to be made of dairy products, butter, eggs, fruits, cotton, tobacco, naval stores, rice soybeans and citrus products.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

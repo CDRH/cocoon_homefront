@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <meta>
+        <filters directoryPatterns="" filePatterns=""
+            positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="project.xpr">
+        <folder path="css/"/>
+        <folder path="xml/"/>
+        <folder path="xsl/"/>
+        <file name="error.html"/>
+        <file name="index.html"/>
+        <file name="sitemap.xmap"/>
+    </projectTree>
+</project>

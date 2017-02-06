@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.kdh.19410526.01 SYSTEM "homefront.news.kdh.19410526.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.kdh.19410526.02 SYSTEM "homefront.news.kdh.19410526.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.kdh.19410526">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Nebraska Home Defense Plans Being Completed</title>
+<author>Paul Wagner</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.kdh.19410526</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Kearney Daily Hub</title>
+<title level="a">Nebraska Home Defense Plans Being Completed</title>
+<title level="a" type="sub"></title>
+<author>Paul Wagner</author>
+<biblScope type="pages">A:1, A:8</biblScope>
+<biblScope type="columns">8, 3</biblScope>
+<publisher>Kearney Daily Hub</publisher>
+<pubPlace>Kearney, NE</pubPlace>
+<date value="1941-05-26">1941-05-26</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Defense</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-05</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.kdh.19410526.01">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">Nebraska Home<lb/>Defense Plans<lb/>Being Completed</head>
+
+<byline>BY PAUL WAGNER</byline>
+<p>United Press Staff Correspondent</p>
+
+<p>LINCOLN (UP)&#8211;A non-salaried committee of Nebraska business and farm leaders rapidly is perfecting an organization capable of handling almost any civilian emergency arising from defense of war.</p>
+
+<p>It's the Nebraska advisory defense committee, created by executive order of Gov. Dwight Griswold last February by authority of the unicameral.</p>
+
+<p>Directed by executive chairman Wade R. Martin, normally superintendent of the state banking department, and executive secretary R. F. Weller, chief of the state motor vehicle division, the 23-man committee has given Nebraska a sound plan for cooperation with the national defense effort.</p>
+
+<p>But the far-sighted committee hasn't stopped with defense. It has laid fundamentals for Nebraska's action in case of war&#8211;even invasion.</p>
+
+<p>The groundwork for actual defense centers around three potential organizations necessitating fullest cooperation of Nebraska's citizens: The civilian air-raid warning service, civilian fire-fighting squads and a police mobilization plan.</p>
+
+<p>The air-raid warning service, planned with help of the American Legion, entails use of civilian "spotters" registered from 13 districts in the state. The "spotters" will telephone reports on oncoming planes to the district headquarters, from where they will be relayed to the army air corps headquarters, probably at Fort Crook.</p>
+
+<p>As the organization of a state home guard, made possible by the unicameral, would result in heavy expense, the committee hopes to depend largely upon organized peace officers.</p>
+
+<p>Selected service has thinned the ranks of Nebraska's many volunteer fire departments and even 
+
+<note type="editorial" rend="jumpline">(Turn to Page 8 No. 6)</note> 
+
+<figure entity="homefront.news.kdh.19410526.02">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p8"/> 
+
+<note type="editorial" rend="jump"> 
+<note type="editorial" rend="mainhead">THE EDUCATION YOU HAVE TO FIGHT FOR</note> 
+<milestone unit="smallbar" /> 
+<note type="editorial" rend="subhead">Only at the University of Nebraska</note> 
+<milestone unit="smallbar" /> 
+<note type="editorial" rend="subhead"><hi rend="italic">Paid for by your tax dollars</hi></note> 
+<note type="editorial" rend="jumpline"><hi rend="italic">(Continued from Page 1)</hi></note> 
+</note>
+
+larger cities lack proper equipment, leaving the fire protection plan one of the most difficult.</p>
+
+<p>All fire fighting equipment and volunteer workers in each district will be registered, Davis said, with a fire captain in charge. The captain will be able to center his facilities in case of a large conflagration. As fire spotters, Davis plans to enlist shelterbelt employees who work across the state, and the forest service.</p>
+
+<p>The defense committee also has considered evacuation plans, anti-bomb squads, air-raid shelters and other war-time organizations, but has made no direct organization moves.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+

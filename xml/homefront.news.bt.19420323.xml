@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.bt.19420323.01 SYSTEM "homefront.news.bt.19420323.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.bt.19420323.02 SYSTEM "homefront.news.bt.19420323.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.bt.19420323">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Farms Will Draw on New Labor Sources for 1942</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.bt.19420323</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Bismarck Tribune</title>
+<title level="a">Farms Will Draw on New Labor Sources for 1942</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1, 3</biblScope>
+<biblScope type="columns">2-3, 1</biblScope>
+<publisher>Bismarck Tribune</publisher>
+<pubPlace>Bismarck, ND</pubPlace>
+<date value="1942-03-23">1942-03-23</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-17</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.bt.19420323.01">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">Farms Will Draw on New<lb/>Labor Sources for 1942</head>
+<milestone unit="smallbar"/>
+
+<p>Weather conditions unfavorable for outside farm operations in many areas Mar. 1 kept farm employment down to the level of a month earlier. Ordinarily, spring planting preparations are well underway by Mar. 1 with oats sown as far north as Central Kansas. But snow covered the ground as far south as Northern Arkansas on Mar. 1, 1942, bringing these preparations to a standstill. Further south, cold wet soil retarded planting of truck crops.</p>
+
+<p>The index of farm employment remained steady at 74 per cent of the 1910-14 average on the first of this month, with 8,940,000 persons working on United States farms. This was the same as a month earlier and a few thousand less than a year ago.</p>
+
+<p>The number of family workers (including farmer operators) increased slightly during February, but this upturn was a little less than usual. Increases in this group occurred in all geographic regions except New England and the Far West. The increase, however, amounted to only a little more than 100,000 persons, bringing the Mar. 1 estimate up to 7,079,000, compared with 7,111,000 operators and unpaid workers a year ago.</p>
+
+<p>Offsetting the February increase in family workers was a corresponding decrease in the number of hired hands. This is quite unusual, being the first time during the 17 years of record that the employment of hired help has declined from Feb. 1 to Mar. 1. Nevertheless, all regions, with the exception of the Middle Atlantic, South Atlantic, and Pacific Coast states reported a downturn in the number of paid workers during February this year. With 1,861,000 hired hands employed on farms on the first of this month, more help was being hired than a year earlier, but the increase was only 4,000 workers.</p>
+
+<p>The number of persons who will work in agriculture during 1942 may be little if any lower than in 1941, when family farm workers (including far operators) were working on farms.</p>
+
+<p>This was only slightly less than the average of 10,445,000 farm workers employed in 1940. Because of inexperience and other reasons the average efficiency of these 1942 workers may be considerably lower than that of the 1940 and 1941 labor supply. However, the demands for man power of war industries and of the armed forces during the past 18 months have sharply reduced the large surplus of labor, many of whom were available for employment on farms. The reduction in the supply of experienced farm laborers will continue this year. To achieve the record production goals set for 1942 it will be necessary, therefore, to use farm labor with maximum efficiency.</p>
+
+<p>Between July of 1940 and January of this year, nonagricultural employment has increased by approximately 5,000,000 persons, while the additions to the armed forces of the nation have withdrawn from the labor market an additional one and one-half million men. According to the WPA Division of Research, unemployment was reduced from 9,300,000 in July 1940 to 4,000,000 in February 1942. This movement into industrial employment and into the armed forces has greatly reduced the supply of workers hitherto available for employment in agriculture. Although the labor supply available to farmers during 1941 was substantially
+
+<note type="editorial" rend="jumpline">(Continued on Page Three)</note> 
+
+<pb n="p3" /> 
+
+<figure entity="homefront.news.bt.19420323.02">
+<figDesc></figDesc>
+</figure>
+
+<note type="editorial" rend="jump"> 
+<note type="editorial" rend="jumpline">CONTINUED<lb/>from page one</note>
+<note type="editorial" rend="mainhead">Farms Will Draw<lb/>On New Labor<lb/>Sources for 1942</note> 
+<milestone unit="smallbar" /> 
+</note>
+
+smaller than in 1940 or earlier years, generally characterized by a surplus of available workers.</p>
+
+<p>Current estimates of probably nonagricultural employment in 1942 indicate a further increase over the 1941 level of about two to two and one-half million persons and an addition of approximately 2,000,000 men to the armed forces. In 1942, the supply of workers who in ordinary times would be available for agricultural employment will thus be further reduced. This reduction of supply will come at a time when farm labor requirements will be increased, due to the expansion in agricultural production called for by the 1942 goals.</p>
+
+<p>The prospective decrease in the supply of laborers of the types which farmers hire in ordinary times does not mean that actual employment in agriculture will be proportionately lowered. New farm workers will to some extent fill the gap. How many of these there will be this summer and fall it is impossible to tell now. Farm employment during the first two months of 1942 has averaged slightly higher than in the corresponding period of 1941. For the remainder of the year farm employment may not be materially smaller than that of last year. The relative scarcity of farm labor will lead to further increases in farm wage rates which will bring into the farm labor supply persons who have become unemployed as a result of industrial readjustments and who would not ordinarily work on farms. In addition other persons will be drawn in&#8211;farm women, younger persons of high school age, and older persons who normally would not seek or find farm employment. The achievement of the 1942 production goals will require, however, careful planning by farmers for the most effective utilization of what labor is available.</p>
+
+<p>A general decline in the supply of farm labor, which has affected every crop-reporting district in the country is shown by January 1 reports from crop correspondents. Quantitative estimates of numbers of persons willing to accept farm work are not available but reports from farmers appraising the supply in their respective localities as a percentage of normal provide a very reliable clue to the direction and extent of such changes. On the basis of these reports, the downturn in the number of persons available to do farm work has been greatest during the past few years in areas adjacent to large scale war and defense activities.</p>
+
+<p>The Jan. 1, 1942, supply was reported to be 40 percentage points or more below normal in most of the industrial East, including nearly all of New England; the Middle Atlantic region and the eastern half of the East North Central States. In this area there has been a tremendous expansion in the manufacture of many types of military equipment and supplies, in shipbuilding, and in the construction of additional plants and production equipment.</p>
+
+<p>Other more localized areas in which the reduction in farm labor supply from normal has been large include those around shipbuilding centers on the South Atlantic, Gulf, and Pacific coasts, munition plants and aviation centers in scattered localities throughout the country and certain mining regions. In most of the farming areas of the South, Middle West, and Far West, the labor supply, while not as drastically depleted as in the areas first mentioned, is reported at 20 to 40 percent below normal.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19411012.01 SYSTEM "homefront.news.dp.19411012.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.dp.19411012.02 SYSTEM "homefront.news.dp.19411012.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19411012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">U.S. Will Ask Bigger Crops in Colorado</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19411012</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">U.S. Will Ask Bigger Crops in Colorado</title>
+<title level="a" type="sub">Farmers to Be Visited in Wickard Drive to Win War With Food</title>
+<author></author>
+<biblScope type="pages">1, 8</biblScope>
+<biblScope type="columns">8, 1</biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, CO</pubPlace>
+<date value="1941-10-12">1941-10-12</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-19</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.dp.19411012.01">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+
+<head type="main">U.S. WILL ASK<lb/>BIGGER CROPS<lb/>IN COLORADO</head>
+<milestone unit="smallbar"/>
+<head type="sub">Farmers to Be Visited in<lb/>Wickard Drive to Win<lb/>War With Food.</head>
+<milestone unit="smallbar"/>
+
+<p>Believing that food will win the war and write the peace, county supervisors of the agricultural adjustment administration will visit farmers in Colorado in the near future and discuss with them increased farm production for 1942.</p>
+
+<p>This increased production, with the general price rise and department of agriculture parity price support, should bring a substantial increase in farm income.</p>
+
+<p>Plans for increasing the production of foods for defense were announced Saturday following a meeting on Thursday in Fort Collins, Colo., of the state United States department of agriculture defense board and representatives of farm organizations.</p>
+
+<p>George E. Brown of Johnstown, Colo., chairman of the board, presided at the meeting at which county defense boards established agricultural goals for next year in support of Secretary of Agriculture Claude R. Wickard's plan to assure America of enough of every farm commodity
+
+<note type="editorial" rend="jumpline">(Turn to Page 8&#8211;Col. 1.)</note>
+
+<pb n="p8" />
+
+<figure entity="homefront.news.dp.19411012.02">
+<figDesc></figDesc>
+</figure>
+
+<note type="editorial" rend="jump">
+<note type="editorial" rend="mainhead">COLORADO FARMERS TO BE ASKED FOR MORE OUTPUT</note>
+<milestone unit="smallbar" />
+<note type="editorial" rend="subhead">EVERY GROWER<lb/>IN STATE WILL<lb/>BE CALLED ON</note>
+<milestone unit="smallbar" />
+<note type="editorial" rend="subhead">Wickard Believes Food<lb/>Will Win War and<lb/>Write the Peace.</note>
+<milestone unit="smallbar" />
+<note type="editorial" rend="jumpline">(Continued From Page One.)</note>
+</note>
+
+needed to win the war for democracy.</p>
+
+<p>The national plan envisions the United States supplying food for more than 10 million persons in Great Britain, for an increased demand in this country, and a sufficient surplus for export to countries throughout the world needed food.</p>
+
+<p>The plan calls for a great increase is dairy products and substantial increases in supplies of eggs, pork, beef, lamb and mutton, for the abolition of limitations on sugar beet acreage and for larger truck crops.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">FARM-TO-FARM<lb/>CANVASS STARTS OCT. 15.</head>
+
+<p>The farm-to-farm canvass will be made during the period between Oct. 14 and Dec. 1 at which time each farmer will be asked to make a statement regarding the extent to which he can increase his production of the different commodities.</p>
+
+<p>Colorado farmers will be asked to increase the production of their spring pig crop by 30 per cent; eggs by 10 per cent, and milk by 4 per cent.</p>
+
+<p>Cattlemen will be requested to increase the slaughter of cattle and calves by 18 per cent and of sheep and lamb by 9 per cent.</p>
+
+<p>A 13 per cent increase in potato acreage will be requested along with a 6 per cent increase in oats and 2 per cent in barley and corn.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">WHEAT PRODUCTION<lb/>WILL BE REDUCED.</head>
+
+<p>Wheat is the only major crop in Colorado that will be reduced in 1942 and acreage is expected to decline 13 per cent. This fits in with the national plan to reduce acreage in wheat, cotton and tobacco which now have world surpluses.</p>
+
+<p>The Colorado truck crop industry also will be called upon for increased plantings. This includes a 19 per cent increase in the acreage of green peas; 10 per cent in green peas; 20 per cent in onions; 10 per cent in cabbage, and 9 per cent in tomatoes.</p>
+
+<p>National plans stated there was no need for sugar beet acreage limitation next year. However, the state and county defense boards had received no information on how to proceed with this crop.</p>
+
+<p>The state board said that the production program is definitely related to national nutritional needs. Increased consumer buying power make possible better diets. Increased consumption of leafy vegetables, tomatoes and fruits also is desirable.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">DIETS OF FARMERS<lb/>TO BE IMPROVED.</head>
+
+<p>The program is also designed to improve the diets of those farm families who have inadequate diets. In non-commercial dairy areas, relatively small increases are expected to do much to improve the health of the farm families.</p>
+
+<p>National figures called for a 14 per cent increase in chicken killing and a 10 per cent increase in the 1942 turkey crop. This would bring turkey production to its highest level in the history of the country.</p>
+
+<p>These increases brought discussion of what would happen to prices in the long run if and when the emergency ends. It was pointed out that most farm products are protected in the AAA programs and that recently Secretary Wickard announced thru proclamation that 85 per cent of parity price support would be given to hogs, chickens, eggs, cheese, evaporated and dried milk until Dec. 31, 1942.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

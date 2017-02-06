@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.bg.19421220 SYSTEM "homefront.news.bg.19421220.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.bg.19421220">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Great Falls Army Air Base Is Ready for Big Training Program</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.bg.19421220</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Billings Gazette</title>
+<title level="a">Great Falls Army Air Base Is Ready for Big Training Program</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1</biblScope>
+<biblScope type="columns">7-8</biblScope>
+<publisher>Billings Gazette</publisher>
+<pubPlace>Billings, Montana</pubPlace>
+<date value="1942-12-20">1942-12-20</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-23</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.bg.19421220">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p1"/>
+<head type="main">Great Falls Army Air<lb/>
+Base Is Ready for<lb/>
+Big Training Program</head>
+<milestone unit="smallbar"/>
+
+<p>Great Falls, Dec. 19.&#8211;Five furious-paced months have seen the transformation of a stretch of bare Montana prairie into the bustling community known as the Great Falls army air base. In that period a new and strategically vital factor has entered the training program for heavy bomber crews. Together with its three satellite airdromes at Cut Bank, Lewistown and Glasgow, the army air base at Great Falls is perfectly situated to push ahead the program directed by Major General Robert Olds, commanding the Second air force.</p>
+
+<p>It was only in the summer of 1941 that the Second air force acquired its name as such and its specific objective. At that time the northwest district dropped all interceptor and other defense units and concentrated its work on the heavy bombers.</p>
+
+<p>What this difficult and vital job entails is explained simply by General Olds. "Out purpose," says the general, "is to take men individually trained in the delicate art of bombing and weld them into a combat team that works as one man. Particular stress is laid on the ability of this united team to take a four-engined bomber to any target within maximum range day or night, fair weather or foul, over land or sea, bomb the objective successfully and present the maximum effective defensive firepower necessary to war off enemy pursuits en route.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">Stress on Coordination</head>
+
+<p>"Second, the organization and training of heavy bomber squadrons and groups is next in line and here special stress is laid on the close coordination of members of combat crew teams to produce essential mass tactics.</p>
+
+<p>"Lastly, the trained and organized groups are given a finishing period of training from dispersed airdromes in close simulation of actual conditions encountered in each of the many combat theaters in which American air forces are operating in the second World war today."</p>
+
+<p>Practical operation of this training program is to be accomplished not only by the use of satellite airdromes, but also by work on bombing and gunnery ranges chosen to give the flyers a taste of closely simulated war conditions. Selection of four ranges in Montana has already been announced by Major John L. Eaton, commanding officer of the Great Falls army air base and satellite airdromes.</p>
+
+<p>One, in the southeast corner of Blaine county, is to be used for altitude precision bombing. Another, in Chouteau county about 20 miles northwest of Carter, will be used for bombing at various altitudes. A gunnery range two miles wide and six miles long, also in Chouteau county, north of Fort Benton, will give the bombing crews practice in ground strafing. Silhouette Jap Zero planes ranged in long rows will serve as the targets for gunners. It is expected that air-to-air gunnery practice will be afforded by a large range yet to be selected, which will permit the use of sleeve targets towed through the air by planes.</p>
+
+<p>A third bombing range has been established east of the satellite airdrome at Lewistown about 12 miles north of Winnett.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">Full Sized City</head>
+
+<p>To support all this activity, the army air base has perforce been organized as a full sized city with its affairs and responsibilities. It has its own radio station, police and fire departments, stores, church and hospital. It has a movie theater seating 650 and a recreational hall that can handle 1,500 soldier spectators.</p>
+
+<p>One of the points of keenest interest at the army air base just now is the post office as the men send off their Christmas cards and receive their packages from home. Then there are shops for electricians, carpenters, painters, plumbers, blacksmiths and many other artisans whose work is more specialized to military needs. One of several mess halls on the base can feed over 3,000 men.</p>
+
+<p>With the multi-engined bombers already flying out of the army air base and training activities in full pace, Montana has acquired a unique importance in the war effort. Heavy bombers are apparently slated to be of utmost importance as a weapon of offense, and Montana is specializing in just that type of combat training.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

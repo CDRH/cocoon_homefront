@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.docs.0011">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">A Call to Farms</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.docs.0011</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<!-- [A Call to Farms:  Basic Materials for use in discussing the Women's Land Army as a phase of the Kansas Farm Labor Program- 5-10-1943] -->
+
+<bibl>
+<title level="a" type="main">A Call to Farms</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages"></biblScope>
+<publisher></publisher>
+<date value="1943-05-10">1943-05-10</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-24</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-10-17</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<head type="main"><hi rend="underline">A CALL TO FARMS*</hi></head>
+<note place="inline">Basic materials for use in discussing the Woman's Land Army as a phase of The Kansas Farm Labor Program--1943.</note>
+<div1>
+<p>Feeding the men of their families--their husbands, sons, and brothers--has always been a natural and happy function of American women. Now many of their men are facing death in Europe and the Solomons. <hi rend="underline">But women can still serve heroically in the greatest arsenal of food the world has ever known--American agriculture in 1943</hi>. Farmers are embattled again, even as were their forbears at Bunker Hill--but they are fighting with their backs against the wall--against the tremendous odds of labor and scarcity of machinery. Every resource of man and woman power must be enlisted if farmers reach the prodigious production that has been set as an absolute minimum for feeding a war-torn world.</p>
+
+<p>Women represent the greatest reserve of labor left in this country. An estimated 360,000 women are urgently needed by the United States Crop Corps to help plant, cultivate, and harvest this year's crops and produce the greatest quota of livestock and poultry in history. Three hundred thousand of these women are wanted for short-time emergency jobs and the remaining 60,000 are wanted as recruits of the Woman's Land Army--10,000 of whom would serve as year-around farm workers and the remaining 50,000 for a period of a month or more.</p>
+
+<p>This Woman's Land Army that is springing up throughout the length of our great land is not to be lightly dismissed. It is not a frivolous, half-hearted group seeking fanfare or spot light. <hi rend="underline">Rather it is a band of earnest patriots, strong and sure, ready to measure its deeds by the boys who shoot down Zeros and sink subs</hi>!</p>
+
+<p>A member of the Woman's Land Army is the farm model of the army nurse who serves the wounded on a foreign field, or the woman who runs a turret lathe in a war factory. She is just as serious, just as essential. Her proving ground of battle will be the dairy barn or the wheat field--her commanding officer will be the farmer who wants a job done!</p>
+
+<p>Women working in the United States Crop Corps know that between the boys who fight and die at the front and we, who live at home, there is a direct and thrilling connection! They realize that their weeding hoes and tractors lead directly to the line of battle for their country. <hi rend="underline">There is the heartfelt desire to nourish the roots of Victory</hi>!</p>
+
+<p>The farm labor recruit knows there won't be any fanfare or photographers when she answers her call to duty. No swinging solidarity of drilled organizations for her. The bands won't play and the bunting won't fly. No service flag will be hung in the window for her--rather it will hang in the hearts of fighting men and starving children. Hers is the conviction that the better we feed our men and our Allies, the more lives will be saved, and the sooner Victory will be won. We are not giving our Kansas men and boys to uncle Sam for keeps--we want them back--and the farm labor recruit thinks the surest round trip ticket any of us can give them is the biggest bumper crop Kansas ever grew!</p>
+
+<p>Women on the farm front, every woman of them, may have to endure cheap jokes, before they convince the public they can do the job. As in the case of the WAACs, the retreat from apathy and prejudice will be slow--but it will be certain. After all, city women helping on farms is not entirely new. English, Australian, and New Zealand farmers didn't think they wanted city women on their farms either. Now they ask for them. In England, the 53,000 girls of the Land Army have more calls than they can fill. This year, the British Land Army is doubling its size.</p>
+
+<p>The Connecticut Woman's Land Army, organized last year and sponsored by the Extension Service and the State Defense Council, proved that such an organization can succeed in this country. Many farmers hired these women. One of the farmers, bemoaning the loss of a dairymaid who was returning to school, said, "She managed to get more milk from my Ayrshires than I ever could, and her gentleness with the animals was an 'eye-opener' to my hired man."</p>
+
+<p>The experience of the state of Oregon offers a significant example of what can be done in the way of mobilizing women for farm labor. A canvass of all the women of the state was carried out as early as February, 1942. As a result of this canvass, more than 60 percent of the 1942 farm workers in Oregon in 1942 were women or school children; 39,150 women were enlisted to work on the farms. In consequence, not a single drop was lost.</p>
+
+<p>If you want to join this group dedicated to increasing the food supply to win the war, you must be 18 years old or older. By dropping the age of 18, many young women are permitted to serve that are too young to belong to the WAACs or WAVES. You must be strong and healthy, ready and able to do hard, physical work. In fact, if you are joining the Woman's Land Army branch of the crop corps, you have to file a doctor's certificate to that effect when you make our your application.</p>
+
+<p>City wages are higher than farm wages, but to the woman with a lively interest in plant and animal life, the experience on the farm will be invaluable. Even a short stay on a farm will prove a wonderful physical "conditioner"--fresh air, sunshine, plenty of food and sleep, and an abundance of exercise--these are inducements that crowded busses, restaurant food, and confining indoor work can never offer.</p>
+
+<p>Farming is not a job; it is a way of life. That is why fitting an untrained city girl into the farm labor setup will take sympathetic guidance and patient teaching. That is why the Woman's Land Army intends to give their year-around recruits several weeks of training at an agricultural school or college. Such training is now going on in 25 states. Members will take regular exercise to condition soft muscles for hard work. They will learn how to handle chickens and get along with cows and sheep. They will learn the difference between a plow and a harrow; a cockerel and a poult. This introductory course is designed to save the untrained city women many embarrassing moments when she actually takes up her jobs on the farm. Visits to farms are encouraged among all crop crops recruits, whether men or women, boys or girls.</p>
+
+<p>If you work on the farm the year-around you will probably live with the farm family, for your day's work starts with a reveille as early as 4 o'clock, particularly on dairy farms. You may be the only Land Army worker on the farm, or several may be together. Rooms and meals must meet Land Army standards.</p>
+
+<p>If you are a school teacher or college student or are in some other job where you have long vacations, you can enroll for a month or more as a seasonal worker. You can work at seasonal jobs, such as planting, cultivating, and harvesting. Large truck farms employ many seasonal workers, and already such states as Maine and New Jersey have put in their requests for Land Army workers. Many seasonal workers will live in camps and go to work in crews.</p>
+
+<p>Crops don't plant and harvest themselves. It takes 365 days a year of feeding, watering, milking, and caring for a dairy cow to produce milk. Farm labor is just as necessary in September as in July. Yet the number of persons living on farms the first of March, 1943, was the lowest it has been in 19 years. Statistics show a decrease of two and a half million in the farm population from April, 1940, to April, 1943. At least a part of that tremendous shortage must be and will be filled with women, ready to give generously of their spirit and energy in a common effort to produce and harvest the nation's food.</p>
+
+<p>Women, with no training except housework, can help at canning centers and share the results of their labors. They can relive farm women of household tasks so they can join their husbands in the labor-stripped fields. Young girls can weed gardens, gather eggs, and take care of small children.</p>
+
+<p>Members of the Woman's Land Army will wear a uniform for their country...a practical two-tone blue cotton outfit--as "down to Earth" and free of frills as the job they are doing. Dark blue denim overalls combined with a light blue shirt and a dark blue sun hat that bears the insignia WLA in red and white on the front. A dark blue wrap-around skirt is also included. The uniform was designed by specialists in the Bureau of Home Economics, Department of Agriculture. Typical of the practicality of the uniform is the visor-type cap selected. No gust of Kansas wind will blow this firmly fitted cap from the head. Its visor offers full protection from the rays of the sun. A draw string in the crown makes it possible to flatten it for easy ironing.</p>
+
+<p>Recruitment for women workers will be on a local basis. Women and girls interested in doing farm work can apply through the Young Women's Christian Association, the American Volunteer Women's Service, women's clubs, the Office of Civilian Defense, and the United States Employment Service. The Extension Service will review these applications and select the women having the best chance of making good as farm workers for the Land Army. Then the successful applicant will become a reserve, awaiting her call to duty. Others will be made available for the emergency and short-time jobs. This last group will help fill the need for 300,000 women needed by the Crop Corps for harvesting fruit and work of that nature.</p>
+
+<p>Farmers interested in procuring women workers will contact their county agricultural agent, who will have the job of finding the woman or girl who will best serve in a particular farm situation.</p>
+
+<p>Miss Florence Hall, senior home economist of the Department of Agriculture, is the dynamic and capable director of the Woman's Land Army, of the United States Crop Corps. In discussing the type of work that women of the WLA will be expected to do, Miss Hall said that there is a great deal of handwork about a farm that a woman does especially well. On truck farms there is planting and weeding and when harvest time comes, the vegetables must be gathered, washed, graded, and packed.</p>
+
+<p>Inexperienced women can soon be taught to feed and water poultry regularly, and to gather, candle, grade, and pack eggs. Miss Hall cited the example of the woman who took a special farm short course at the University of Maryland last year. A news photographer asked her to hold a chicken while he took a picture. She was afraid to hold the chicken.</p>
+
+<p>Now that same woman is on her own poultry farm. Her hens are laying about 1,200 eggs a day now, and she does most of the work herself. Industrial experts say that women have many assets that fit them particularly for agriculture--accuracy, patience, interest, and patriotism are among them.</p>
+
+<p>"The real test," Miss Hall declared, "will come when the women are placed on the farm and actually take up their jobs. The outcome will depend as much upon the farm families as upon the workers themselves. If the worker doesn't learn, the teacher hasn't taught. But I have an abiding faith in the good, hard common sense of farm people and also I believe in the city and farm women who are patriotic enough to volunteer to do this hard work because America needs their services. Farm families will accept the workers in the spirit in which they come--the spirit of service to their country."</p>
+
+<p><hi rend="underline">With this clarion call to farms ringing in your ears, women of Kansas, join the march of the strong and true to the food arsenal of democracy</hi>! Join now, for if we win in time, hundreds of thousands of lives will be saved, and the youth of today can build the greater America of tomorrow. <hi rend="underline">Act now, women of Kansas, in the name of God and humanity</hi>!</p>
+
+<p>5/10/43--EMK--Ext. Pub.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

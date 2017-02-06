@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19411216 SYSTEM "homefront.news.dp.19411216.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19411216">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Businessmen Join Colorado Defense Force</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19411216</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">Businessmen Join Colorado Defense Force</title>
+<title level="a" type="sub">Home Guard Increases Strength to Over 400 Men.</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">32</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, Colorado</pubPlace>
+<date value="1940-12-16">1940-12-16</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-27</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.dp.19411216">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p32"/>
+<head type="main">BUSINESSMEN<lb/>
+JOIN COLORADO<lb/>
+DEFENSE FORCE</head>
+<milestone unit="smallbar"/>
+<head type="sub">Home Guard Increases<lb/>
+Strength to Over<lb/>
+400 Men.</head>
+<milestone unit="smallbar"/>
+
+<p>More than twenty younger business and professional men of Denver Monday night witnessed the drill of the Colorado defense force at the state armory, East Third avenue and Logan street. Nine of them joined the organization. Others made applications and are conferring with their employers and families with intention of joining, according to Maj. Clyde E. Hill, commander of the force.</p>
+
+<p>"This is not a Junior Chamber group, or a membership group of any organization," William V. Hodges Jr., spokesman for the group said Tuesday. "Thomas Knowles and myself decided we wanted to join, and thought it would be a good thing to get a bunch of friends and business acquaintances to go in with us.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">BUSINESSMEN PLACED<lb/>
+IN SAME PLATOON.</head>
+
+<p>"We talked it up and got the gang together Monday night."</p>
+
+<p>The idea of a group of friends working together in a volunteer organization makes for keener interest and friendly rivalry with other groups, according to Hill. The business and professional men are being assigned to the first platoon of newly-formed C company.</p>
+
+<p>Many other groups are interested, according to Hill, including several labor unions of the city whose members are eager to do their share in state defense. The law does not permit enlistment of defense force members in groups representing any organization, but only as individuals. More than eighty men joined the force Monday night. The organization, which before the war began had less than 200 members, now numbers between 400 and 500.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">FIFTH COMPANY<lb/>
+BEING ORGANIZED.</head>
+
+<p>In addition to the original A and B companies, C and D companies have been formed, and manned and E company now is being organized. Each company is made up of approximately 100 men.</p>
+
+<p>The nine Denver business and professional men who enlisted in the force Monday night were William V. Hodges Jr., Joseph Hodges, Charles Kendrick, Charles Delaney, George Writer, Davis Moore, Eugene Adams, Chapman Young and William F. Dickson.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

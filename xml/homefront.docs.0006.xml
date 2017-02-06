@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.docs.0006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Power and the Plow</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.docs.0006</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="a" type="main">Power and the Plow</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages"></biblScope>
+<publisher></publisher>
+<date value=""></date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-18</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-10-16</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<head type="main">POWER AND THE PLOW*</head>
+<note place="inline">Basic materials that may be utilized in the preparation of talks to be given by Farm Labor Speakers in Kansas, 1943</note>
+
+<div1>
+<p>The Great State of Kansas has a task to perform. A gigantic task. One that calls for the combined enlistment of land, labor, and capital to master. It cannot be done by any one group alone. It must be accomplished by the cooperative undertaking of men and women and boys and girls living in our towns and those living in our countrysides. Industry must join with agriculture. Agriculture must join with industry.</p>
+
+<p><hi rend="underline">That task is to produce a supply of food and fiber in 1943 that will exceed any known record of farm production to date</hi>.</p>
+
+<p>Let us consider the potentialities of our food and fiber production industry. Then let us study measures that will insure our doing our part in meeting war-time needs of foods and fibers for our armed forces, our civilian population, and for our lend-lease commitments.</p>
+</div1>
+
+<div1>
+<head type="sub"><hi rend="underline">Production Must Be Increased</hi></head>
+
+<p>Last year, with the assistance of a kind Providence, our farms land produced an all-time record of the necessary food and fiber requirements to meet a war-time need. But this year, that record production is not sufficient. <hi rend="underline">It must be increased</hi>. It must be increased under conditions more trying and more discouraging then in 1942. There will be less machinery to seed and harvest our crops. There will need <sic corr="to be">be</sic> more dependence placed upon repaired machinery. There will be more difficult transportation problems to surmount. There will be less manpower<sic corr=".">..</sic></p>
+
+<p>Let's study Kansas, based on her last year's production record, to gain a clear conception of this Great Plain State's place in the Nation's production picture. In aggregate food and fiber production, she ranks <hi rend="underline">EIGHTH</hi> among the 48 states in the Union. It cannot be considered anything <hi rend="underline">but one of the leading states</hi> of the Nation in agricultural production. Within its borders are 29 million acres of plowland, utilized for crop production. She boats 19 million acres of productive pastures, pastures that when properly managed will insure record production of beef, pork, sheep, and other livestock, and insure record returns from dairy herds in the form of milk, cream, butter, cheese, and other dairy products. <hi rend="underline">She is the keeper of some 147,000 farm families, families whose major objective is to produce more foods and fibers from the fertile fields of the Sunflower State</hi>.</p>
+</div1>
+
+<div1>
+<head type="sub"><hi rend="underline">Kansas Ranks Among "Firsts</hi>"</head>
+
+<p>And here are added facts that are evident proof that Kansas is considered a key State in agricultural production. It is <hi rend="underline">first</hi> in wheat, outranking all other states. On January 1, 1943, from the viewpoint of total number of cattle on farms, it is <hi rend="underline">third</hi>. (the 1943 slaughter goal for Kansas beef cattle and calves is 2,008,000 or <hi rend="underline">one</hi>-<hi rend="underline">fifteenth</hi> of the total slaughter goal for beef cattle can calves for the United States.) January 1, 1943, estimates show Kansas <hi rend="underline">twelfth</hi> among the states in total number of milk cows, on farms. She is ninth in total number of hogs on farms. The State is thirteenth in total number of sheep and lambs. Her rank is <hi rend="underline">eighth</hi> in total number of chickens.</p>
+
+<p>Now then, repeating again, the composite average for these commodities, commodities so essential to a Nation at war, placed Kansas as <hi rend="underline">eighth</hi> in importance as a food and fiber production state.</p>
+</div1>
+
+<div1>
+<head type="sub"><hi rend="underline">Production Must Not Fail</hi></head>
+
+<p>If, in these aforenamed vital farm war production, Kansas failed to produce <hi rend="underline">one-eighth</hi> of our Nation's requirements, what would be the effect upon our Nation at war? Only one term could express the outcome----"<hi rend="underline">CATASTROPHE</hi>". <hi rend="underline">Catastrophe</hi> for our armed forces. <hi rend="underline">Catastrophe</hi> for our civilian population. <hi rend="underline">Catastrophe</hi> for those Nations dependent upon this country to provide them with the foods and fibers that provide the sinews of war. <hi rend="underline">Catastrophe</hi> for the causes of Democracy for which our young men are laying down their lives on the littered and bloody fields of battle--that others may live--that the four-freedom may not perish--that you and I and our children may continue to worship as we please, speak as we please, assemble when and where we please, and maintain the freedom of a constructive and open press.</p>
+
+<p>Without food and fiber in abundance, this Nation or any other Nation, cannot survive in time of peace or war. Food is ammunition. Without it, our armies cannot aggressively advance; their supply lines weaken; their source of subsistence falters; their energies are weakened and they become subject to the inroads of disease, enemy snipers, bombs and bullets of dictators, and finally to the stage where the breaking of <hi rend="underline">morale</hi> allows our armies to fall into the clutches of our enemies.</p>
+
+<p>That, also, is true on our "factory fighting fronts". The wheels of our factories cease rolling. Production goes down. Morale of our people break.</p>
+
+<p>That, also, is true on <sic corr="our &#34;farm">our"farm</sic> fighting front". Without nutritious foods, our "farm land armies" fail. Tractors become immobile. Combines rust in fence corners. Weeds take our land. We become demoralized. We become fit subjects for the agents of our enemies.</p>
+
+<p><hi rend="underline">This cannot happen in America.</hi></p>
+
+<p><hi rend="underline">Our responsibility is to prevent it from happening.</hi></p>
+
+<p><hi rend="underline">Our job is to make the "farm front" a "food production front". Production of food, not to the limit, but beyond the limit. That task can be done even under the known handicaps that will confront us in 1943.</hi></p>
+
+<p>We are told that we cannot expect much help in farm production from outside sources. Estimates placed by well-known authorities indicate that less than 4 percent of our labor supply in 1943 will come from such sources as imported Mexican labor, Japanese labor now confined in concentration camps, and from conscientious objectors. That, then, means that 96 percent of our farm labor must come right from the local people--farmers and their families who are on the farms; non-farm youth who are living in our towns and cities and, and in the case of boys who are under military age; and from men and women who are engaged in business in our cities and towns but who are willing to patriotically give part of their time to failing the food basket of our Nation.</p>
+
+<p>As one agricultural authority has said, "Much depends upon unity of effort and neighborliness in a time of need, remembering that our State motto truly expresses the Kansas spirit--ad astra per aspera--"through adversity we reach the stars".</p>
+
+<p>The same as in industry, the business of farming calls for skilled workers. Many skilled farm workmen have joined the armed forces; others are engaged in our munition, plane, and armor factories. That means increased responsibilities for those skilled men who remain on the farm. Their work days are lengthened. They are required to do the work that formerly was done by their associates, at the same time maintain the work output they formerly did. New methods of getting these added jobs done must be utilized; untrained workers from towns and cities must be given instruction and drafted, voluntarily, to fill the vacancies in the farm ranks. This must be done if the flow of foods and fibers are to continue to their destinations for effectively striking aggressive blows at the enemies of Democracy.</p>
+</div1>
+
+<div1>
+<head type="sub"><hi rend="underline">Need To Apply Practical Measures</hi></head>
+
+<p>There are many practical ways of meeting our labor deficiencies if we all, in a patriotic spirit, apply them to farming.</p>
+
+<p>Efficient and full-time use of available machinery and equipment will be important.</p>
+
+<p>Best production practices that have been demonstrated by successful farmers in the community, as-based on experimental work of State Agricultural Experiment Stations and the Extension Service, must be placed in effect on every farm.</p>
+
+<p>Exchange of work in communities during the "rush seasons" may prove helpful.</p>
+
+<p>Farmers who have only sufficient acreage of livestock for part-time employment can increase their productive capacity by assisting their neighbors, especially in haying and harvesting grain crops.</p>
+
+<p>Boys who live in town who are below military age can be trained to do farm work. They should consider it a patriotic adventure to do so.</p>
+
+<p>Men who have businesses in towns can volunteer to help as needed, spending only a portion of the time which can be spared from their regular occupations.</p>
+
+<p>Women and girls from urban communities can do important work on farms, perhaps relieving the farm women from household duties to assist in driving tractors, and similar farm tasks.</p>
+
+<p>Foods for winter use can be canned and preserved in farm homes on the "share" basis. Community canning centers may be provided.</p>
+
+<p>Some labor will be brought in from surplus areas, especially during periods of emergencies.</p>
+
+<p>Some experienced farm workers past 38 years of age are being returned from the army to serve on the farms.</p>
+
+<p>Recognition has been given to the vital need for essential farm workers through deferred classification under the Selective Service program. Some farm workers are returning from employment in construction camps and war industries.</p>
+
+<p>Farm labor shortage is an immediate and pressing problem. <hi rend="underline">It demands immediate action</hi>. We must first know our farm labor needs, and then provide the labor.</p>
+</div1>
+
+<div1>
+<head type="sub"><hi rend="underline">Surveys Give Labor Shortage Peaks</hi></head>
+
+<p>Recent surveys made by County U. S. Department of Agriculture War Boards indicate the probable shortage of farm labor in Kansas by months. The figures show many shortage as follows: April-5,000 shortage; May-7,000 shortage; June-20,000 shortage; and July-25,000 shortage. <hi rend="underline">We must all enlist our emergencies to supply this shortage</hi>. It may take two boys to make one man, or three businessmen to replace one skilled farmer, but the help that is here must be utilized. It will take patience on the part of the farmer to train unskilled help. It will require that sacrifices be made by townspeople unused to farm work under summer suns. All of this must be incidental to getting the job done.</p>
+
+<p>In collecting the energies of all patriotic people of our country in a gigantic land army of 3,500,000 farm laborers in 1943, we will hear much about such organized groups as the American "Crops Crops"; Victory Farm Volunteers--those non-farm youth from our towns and cities; Women's Land Army; and others. Without exception, enrollees in these land armies will have but one objective--<hi rend="underline">to produce food</hi>. They must fill the ranks of those who have left the farms for military service and other war-time occupations. They must overflow the ranks if our superproduction goals are to be realized.</p>
+</div1>
+
+<div1>
+<head type="sub">A Labor Call for All</head>
+
+<p>But it is not the task of farm people alone to fill these ranks. For without farm produce, neither those living in our towns and cities, even though engaged in war endeavors, nor those in our armed forces, nor our Allies will benefit. <hi rend="underline">It is the responsibility of every last American, whether living in town or countryside, to meet the food production labor shortage</hi>.</p>
+
+<p>Chambers of Commerce, Civic Clubs, Boy Scouts, Girl Scouts, Parent Teachers Associations and other school organizations, State Farm Organizations, machinery organizations, Vocational Agricultural organizations, Bankers, and Teachers, as well as every form of Federal, State, and County governmental agencies must weld their energies into the one task of helping to supply the needed farm labor. Untrained farm labor must be trained for their tasks ahead. Trained farm workers must train the untrained, not only for this season's farm work but for future farm crop seasons for the duration of the Nation's conflict.</p>
+
+<p>It will take Kansas beef and Kansas bread to feed the liberty-loving people who fight and work and sacrifice in this war against oppression and tyranny. Kansas eggs and Kansas beacon will help to start the day for our boys wherever they may be in all parts of this world-wide conflict. Food alone will not win the war and write the peace, but the lack of the right kind of food in the right amounts in the right places at the right time can lose the war and make peace impossible.</p>
+
+<p><hi rend="underline">Yes, it takes labor to produce food</hi>, Kansas are united in a common cause. <hi rend="underline">Produce food</hi>. Furnish the labor to produce it.</p>
+
+<p>Let there be no division lines between the people of the town and the people of the farm. All can be mutually helpful.</p>
+
+<p>The smallest Victory Garden and the largest ranch can both make important contributions to our food supply. The 1943 crop is the responsibility of all. It is equally important for those who can help to <hi rend="underline">volunteer their services</hi>, and for those who need assistance to use these volunteers as effectively as possible. Each community and each neighborhood will organize in such manner that there will be no idle hands when important work needs to be done.</p>
+</div1>
+
+<div1>
+<head type="sub"><hi rend="underline">Food Goals Far Above 1942</hi></head>
+
+<p>To meet its share of war-time agricultural products, Kansas has been given definite goals for 1943. Of some 17 major farm crops that are vital to the war cause there has been an increase specified in 1943 over that of 1942 in 14 of these crops. This increase ranges from as low as 1 percent to as high as 100 percent. The following comparison of the amounts of crops requested in 1943 over 1942 is indicative of the increased production responsibilities that will be placed on Kansas farm workers.</p>
+</div1>
+
+<div1>
+<table rows="18" cols="5">
+<head type="sub">KANSAS FOOD PRODUCTION GOALS</head>
+<row rend="head"><cell>Item</cell><cell>Unit</cell><cell>1942<lb/>(Production)</cell><cell>1943 (Goal)</cell><cell>Percent<lb/>increase<lb/>for 1943</cell></row>
+<row><cell role="desc">Eggs</cell><cell role="data">Dozen</cell><cell role="data">157,992,000</cell><cell role="data">180,000,000</cell><cell role="data">12</cell></row>
+<row><cell role="desc">Milk</cell><cell role="data">Pounds</cell><cell role="data">3,301,000,000</cell><cell role="data">3,320,000,000</cell><cell role="data">1</cell></row>
+<row><cell role="desc">Chickens</cell><cell role="data">Number<lb/>raised</cell><cell role="data">31,194,000</cell><cell role="data">34,937,000</cell><cell role="data">12</cell></row>
+<row><cell role="desc">Turkeys</cell><cell role="data">Number<lb/>raised></cell><cell role="data">1,064,000</cell><cell role="data">1,224,000</cell><cell role="data">15</cell></row>
+<row><cell role="desc">Cattle and calves</cell><cell role="data">Number<lb/>slaughtered</cell><cell role="data">1,787,120</cell><cell role="data">2,008,000</cell><cell role="data">12</cell></row>
+<row><cell role="desc">Spring and fall pigs</cell><cell role="data">Number<lb/>slaughtered</cell><cell role="data">3,234,000</cell><cell role="data">*4,206,000</cell><cell role="data">30</cell></row>
+<row><cell role="desc">Sheep and lambs</cell><cell role="data">Number<lb/>slaughtered</cell><cell role="data">1,123,200</cell><cell role="data">1,248,000</cell><cell role="data">11</cell></row>
+<row><cell role="desc">Milk cows</cell><cell role="data">Number</cell><cell role="data">773,000</cell><cell role="data">796,000</cell><cell role="data">3</cell></row>
+<row><cell role="desc">Corn</cell><cell role="data"></cell><cell role="data">3,254,000</cell><cell role="data">3,600,000</cell><cell role="data">11</cell></row>
+<row><cell role="desc">Grain Sorghums</cell><cell role="data">Acres</cell><cell role="data">1,574,000</cell><cell role="data">1,800,000</cell><cell role="data">14</cell></row>
+<row><cell role="desc">Irish Potatoes</cell><cell role="data">Acres</cell><cell role="data">24,000</cell><cell role="data">30,000</cell><cell role="data">21</cell></row>
+<row><cell role="desc">Sweet Potatoes</cell><cell role="data">Acres</cell><cell role="data">2,500</cell><cell role="data">5,000</cell><cell role="data">100</cell></row>
+<row><cell role="desc">Flaxseed</cell><cell role="data">Acres</cell><cell role="data">280,000</cell><cell role="data">320,000</cell><cell role="data">14</cell></row>
+<row><cell role="desc">Soybeans</cell><cell role="data">Acres</cell><cell role="data">212,000</cell><cell role="data">275,000</cell><cell role="data">30</cell></row>
+<row><cell role="desc">**Oats</cell><cell role="data">Acres</cell><cell role="data">1,970,000</cell><cell role="data">1,872,000</cell><cell role="data">**</cell></row>
+<row><cell role="desc">**Barley</cell><cell role="data">Acres</cell><cell role="data">1,803,000</cell><cell role="data">1,713,000</cell><cell role="data">**</cell></row>
+<row><cell role="desc">Wheat</cell><cell role="data">Acres</cell><cell role="data">11,372,000</cell><cell role="data">11,234,000</cell><cell role="data">0</cell></row>
+</table>
+
+<p>*The state goal for hogs is figured on a litter average of 6 pigs.</p>
+<p>**Decreased acreage in these two crops is to provide for increased acreage in corn, grain sorghums, and other food and feed crops.</p>
+
+<p>These goals represent the absolute minimum of food and fiber needed to adequately supply the needs of our Armed Forces, our Allies, and our own civilian population.</p>
+</div1>
+
+<div1>
+<head type="sub">DISTRICT FARM LABOR MEETINGS</head>
+
+<p><hi rend="underline">MAY 18 to 21</hi></p>
+
+<p>CAR NO. 1--</p>
+<list>
+<item>Mr. F.O. Blecha</item>
+<item>Dean H. Umberger</item>
+<item>Mr. L.L. Longsdorf</item>
+<item>Literature and Photographic Equipment</item>
+</list>
+
+<p>CAR NO. 2--</p>
+<list>
+<item>Mr. E. H. Teagarden</item>
+<item>Miss Georgiana H. Smurthwaite</item>
+<item>Mr. Roger Regnier</item>
+<item>Mr. Harry Baird</item>
+</list>
+
+
+<p><hi rend="underline">MAY 23 to 28</hi></p>
+
+<p>CAR NO. 1--</p>
+<list>
+<item>Mr. F.O. Blecha</item>
+<item>Dean H. Umberger</item>
+<item>Mr. L.L. Longsdorf</item>
+<item>Literature and Photographic Equipment</item>
+</list>
+
+<p>CAR NO. 2--</p>
+<list>
+<item>Mr. E. H. Teagarden</item>
+<item>Miss Georgiana H. Smurthwaite</item>
+<item>Mr. Roger Regnier</item>
+</list>
+
+<p>United States Employment Service representative from Colb can ride with Mr. Blecha on Mr. Teagarden</p>
+</div1>
+
+</body>
+</text>
+</TEI>

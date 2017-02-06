@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19430704a SYSTEM "homefront.news.owh.19430704a.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19430704a">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Bomb <sic corr="Fuse">Fuze</sic> Line at Motor Works</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19430704a</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Sunday World-Herald Magazine</title>
+<title level="a">Bomb <sic corr="Fuse">Fuze</sic> Line at Motor Works</title>
+<author></author>
+<biblScope type="pages">C-14</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1943-07-04">1943-07-04</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>War Production</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-07</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19430704a">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p14"/>
+
+<figure>
+<figDesc>The WOW bandana worn by Bernice Phillips, machine operator at he Cushman motor works, is typical of the headdress of many women in Nebraska war plants.</figDesc>
+</figure>
+
+<head type="main">Bomb <sic corr="Fuse">Fuze</sic> Line<lb/>
+at Motor Works</head>
+
+<p>"I USED to think I was pretty good until we got his job of making bomb <sic corr="fuses">fuzes</sic> of the government," said Foreman H. A. Schoenthal of the Cushman Motor works, Lincoln.</p>
+
+<p>The tolerance government inspectors allow, he explained, is measured in thousandths of an inch and any rough spot that can be felt with the fingernail is considered a burr.</p>
+
+<p>Cushman Motor is one of the state's largest "small" plants, employing hundreds of men and women. The auto-glide formerly made for civilian use now goes almost exclusively to the armed forces. The bomb <sic corr="fuse">fuze</sic>, of complex mechanism not for publication, is put together on an assembly almost entirely of women. Into this essential piece of war material, only a few inches high, go 26 parts. Three parts are brass, the remainder steel.</p>
+
+<figure>
+<figDesc>Ordnance Inspector Roy Hodges has personally inspected more than three-quarters of a million bomb <sic corr="fuses">fuzes</sic>. Here he passes them along for final touches to Kay Stemper, Donna Phillips and Mary Huston.</figDesc>
+</figure>
+
+<figure>
+<figDesc>Assembling 25 tiny parts to create one small bomb <sic corr="fuse">fuze</sic>, requires nimble fingers and fast work. In containers are partly completed <sic corr="fuses">fuzes</sic>. Foreman H. A. Schoenthal is at left.</figDesc>
+</figure>
+
+</div1>
+
+</body>
+</text>
+</TEI>
+
+

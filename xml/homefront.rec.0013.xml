@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.rec.0013">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Congressional Record-House (February 5, 1941)</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.rec.0013</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Congressional Record-House</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date value="1941-02-05">(February 5, 1941)</date>
+<biblScope type="pages">607-608</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-01-16</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Validation</item>
+</change>
+<change>
+<date>2007-01-08</date>
+<respStmt>
+<name>Paul Fajman</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>2006-11-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1>
+
+	<p>Mr. HOPE.  Mr. Chairman, before entering upon a discussion of the pending measure I want to make my position perfectly clear upon the issue of aid to Britain. I am not an isolationist. I would like to be. That is, I would like to feel that t is possible for this country to live entirely independent of the remainder of the world. I would like to believe that what goes on in other quarters of the glove is no concern of ours. I would like to believe that we can shut our eyes and our ears to what is going on in Europe and Asia and dismiss the matter by the simple statement, "It is a dirty mess and we will have nothing to do with it." Unfortunately, if we are honest with ourselves we can do none of these things.</p>
+	<p>There has been no time in our history when we have been free from the effects of the world. The complete answer to those who contend that we are not concerned and are not affected by what happens on other continents is that we are today engaged in a national-defense program on a scale heretofore unequalled by an nation in the history of the world. The reason for this program is that we cannot isolate ourselves, we cannot ignore what is going on in Europe, Asia, and Africa, and we must make these tremendous preparations to meet situations which have arisen there and which vitally affect our national existence. That this viewpoint is recognized by all our people is shown by the fact that the defense program has the support of practically everyone, no matter what his previous views on international policy have been.</p>
+	<p>I do not believe that this is our war. It arose over matters concerning which we have heretofore assumed no responsibility and over which we had no control. Nevertheless, it would be foolish to say that we do not have an interest in its outcome and that a British victory will not have a very different meaning for us than a German victory would have. Does anything think for a minute that we would have embarked upon this great defense program if we were sure that Britain would win the war? This program, which may eventually involve an expenditure of between forty billions and fifty billions of dollars, is being undertaken as insurance against a Hitler victory. If England wins, it will be materially lessened and modified.</p>
+	<p>For these reason I favor aid to Britain short of war. As long as Britain has or can procure dollar exchange to pay for war supplies I think she should pay for them. When funds are no longer available, then we should provide other means by which these supplies can be secured. I prefer outright grants or gifts to an extension of credit. Our experience with war loans ought to convince us that some other method should be used. It is almost a certainty that any war indebtedness incurred by Britain to this country will never be repaid. Because of our interest in the outcome of the struggle, however, we can well afford within reasonable limits to make advancements with no expectation of repayment. This is on the assumption that such advancements will bring about a British victory and save us the expenditure of many billions of dollars in the future.</p>
+	<p>I believe that a great majority of the American people share the views which I have just expressed. Those who are sponsoring the present legislation are attempting to sell it to this great group of our people on the ground that it is the only effective way of aiding Britain and other countries fighting the totalitarian nations at this time. I believe that many millions of people in this country have been deceived by the ballyhoo and propaganda for this bill into thinking that this is true. I think that accounts for most of the popular support which the bill has received up to this time. I further believe that if people generally understood that Britain can be aided effectively without legislation of this type and understood fully the nature of the powers which are being relinquished by Congress to the Executive there would be a tremendous upsurge of opposition to the measure.</p>
+	<p>The passage of this bill is not essential in extending aid to Britain. Its initial result will be to establish a dictatorship in peacetime, its secondary effect will be to drag us into a war for which neither the Nation or its people are prepared.</p>
+	<p>Let me deal first with the question of aid to Britain. Up to this moment the British Purchasing Commission has had no difficulty whatever in securing for that nation such war material as is available. The difficulty that has occurred lies in our own failure to get into extensive production those items of equipment which were most desired. Later, when our vast industrial machine begins to function, there will arise the question of funds with which to pay for these supplies. That is a question, however, which can easily be solved without recourse to the drastic powers which are given to the President under this bill. As far as the urgent and immediate situation is concerned, there is not one thing which can be done under this bill which cannot be done without it, unless the proponents of the legislation are mistaken in their definition of the powers it gives the President.</p>
+	<p>This measure takes from the British Purchasing Commission, which has been doing a good job, the procurement of British supplies and turns that responsibility over to the President of the United States. I believe that the British Purchasing Commission working with our Office of Production Management can do as good and perhaps a better job of procurement than can be done if the President is forced to assume the responsibility for meeting not only the needs of this country, but of Britain, Greece, China, or any other country which he decides should be aided in the interest of our defense.</p>
+	<p>There is a greater reason, however, why I feel that we are making a mistake in giving the President the responsibility and the power to furnish war materials to Britain and every other country which may be able to convince the President that it is fighting in our defense. If we furnish to Britain, China, or any other country such supplied as they deem necessary for the conduct of their war, that is one thing. Such a policy does not make their way or war or tie us up in any way with future developments. If, however, the President of the United States undertakes the responsibility of saying what supplied Britain shall receive, what shall go to Greece, what shall go to China, to the Free French forces, to Turkey, or to any other nation which might conceivably enter the war, then in that event the President becomes the master strategist of the war. He has the power, if he cares to exercise it, of determining policies, of saying where companies shall be fought, of what supplies will be used, and the character of the campaign to be conducted. In this age of machine warfare, the man who operates the arsenal and distributes the supplies from it is the man who dictates the course of the war. When this measure becomes law, the President of the United States rather than Winston Churchill, will take over the conduct of the war. From that time on it will be our war. We will be committed to its success or failure and will be bound to go through with it to the bitter end, if it takes 10 years and 5,000,000 men. In other words, if we pass this bill and the President exercises the powers given him, we are in the war and in it to the finish.</p>
+	<p>I know that there are those in this country and perhaps there are those in Congress who believe that we should get into the war as a belligerent. The great majority of our people, however, while for aid to Britain, are bitterly opposed to getting into the war or taking steps which might logically be expected to involve us. It may be entirely proper that consideration now be given to the question as to whether or not we will enter the war. If that question is to be considered, however, it should be debated openly and frankly. The American people have a right to express their opinions, and Members of Congress the right to vote their convictions as to whether or not we become a belligerent. The present bill will put us in the war in the end just as surely as if Congress had voted a declaration of war. We will be in for all purposes and to the finish. We will be in without any vote in Congress on the question and without the great majority of our people having any idea that this momentous step has been taken.</p>
+	<p>We are unprepared to go to war from the standpoint of material and equipment. Our people are psychologically and morally unprepared for war at this time. Let us look at this thing with our eyes open. Let us be realistic. This Congress would vote overwhelmingly against war if they had an opportunity to express themselves; yet we are preparing in what we still call a democracy to take steps which are equivalent to a declaration of war and are investing the President with powers which could only be justified if we were in a state of war and would be debatable even then.</p>
+	<p>I realize that if we were in a state of war strong arguments might be made as to the necessity for giving the President the powers contained in this bill, notwithstanding the fact that they are greater powers than the English people have seen fit to give Churchill after a year and a half of war. Granting these powers, however, after we are in war and granting them now is an entirely different situation. Once Congress declares war our policy is determined. We are in it to the finish. The paramount problem is to function as effectively as possible in the waging of war. It is not a question of determining policy, for policy has already been determined. Rather it is a problem of the choice of methods to carry that policy into effect.</p>
+	<p>Here, however, we have an entirely different situation. The policy of the country has not been determined. Congress does not consciously determined it in this bill. Congress avoids the determination of a policy, but gives to the President vast and far-reaching powers in the field of policy making. In this bill the President is not only given the power to procure the construction and manufacture of new defense articles for any country to whom he may see fit to deliver them but he has the power to give away our Navy, our air force, and all of the equipment of our Army. He can give away every bit of the defense material, the construction of which has been authorized for our own defense. Within a period of slightly over 2 years he can make contracts and agreements which can be carried out for an indefinite period far into the future. To this extent the time limitation in the bill means nothing. In the end the powers granted in this bill mean power to get us into the war. It is almost incomprehensible that such powers should be delegated by a legislative body in a democracy in peacetime.</p>
+	<p>If it be granted that it is the will of the majority of the people of this country to aid Britain, then this legislation can be justified only on the ground that it offers the only way to extend such aid. That is definitely not the case. There are other methods, the simplest and easiest of which is to permit the British purchasing commission to carry on just as it has as long as its resources hold out and when those fail to make available to it credit or preferably grants in whatever amount the Congress of the Untied States feels to be necessary. Britain will not suffer under such a policy. The limit as to the amount of aid which can be given will in that case, just as it is now, be determined by our ability to produce and the extent of British need. Irrespective of the method we take of making it available to them under that kind of a program, it will be Britain's material and Britain's war. If we pass this bill, it will be our material and our war.</p>
+	<p>We do not want to make this our war. The American people want peace. They are anxious to contribute their part in bringing about world peace. No man in these times can see far into the future. God grant that our Nation may be able to remain at peace. If, however, the changing course of world events should make it seem that our best interests will be served by becoming a belligerent, then the question should be faced fairly and squarely. It should be debated in Congress, in the press, and in every public forum. Finally, with our eyes open and with a full realization of the consequence of our action we should decide the question, having in mind one thought: What is the best policy for our beloved country? [Applause.]</p>
+
+</div1>
+</body>
+</text>
+</TEI>

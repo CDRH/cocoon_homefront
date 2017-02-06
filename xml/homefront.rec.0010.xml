@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.rec.0010">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Congressional Record-House (March 2, 1939)</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.rec.0010</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Congressional Record-House</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+
+<biblScope type="pages">2187</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-01-16</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Validation</item>
+</change>
+<change>
+<date>2007-01-08</date>
+<respStmt>
+<name>Paul Fajman</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>2006-11-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1>
+
+	<p>Mr. CURTIS.  Mr. Chairman, I wish to speak to speak a few moments on our foreign policy. I would like to ask the question, What has happened in the last few months that imperils the safety of the United States? Who is it that is about to invade or attack us? What foreign nation has issued threatening statements concerning the United States?</p>
+	<p>When we trace down this war hysteria we find that it originates with high officials in the administration. It is the New Deal's spokesmen who have sounded the alarm. It is they, who have flagrantly preached the doctrines of hate in an attempt to turn the American people against certain nations an in sympathy with others.</p>
+	<p>Individually, I may be in sympathy with certain things that go on in the world, and I may be very much out of sympathy with other things that happen. But as a Congressman of the United States, that is none of my business, because it is the desire and wish of the American people that we do not police the world.</p>
+	<p>Charge me with partisanship if you wish, yet the fact remains, a recent poll of the Nation's editors shows that the vast majority of them believe that we are being eased into a war. The American people are intelligent, they can detect the identity of such statements as "the democracies of the world must stand together," with the catch words that were used in 1917, such as "we are fighting a war to make the world safe for democracy."</p>
+	<p>It must be kept in mind that leaders of government do not fight the wars. The people pay for the wars in their blood and in the debt that it creates and the havoc that follows a war. I would remind you that so far as the whole peoples are concerned there are no outlaw nations. There may be outlaw leaders of government.</p>	
+	<p>If we are in danger of war, the Congress and the people should have the facts, and if we are in such danger we should put our financial house in order and, what is more, we should restore agriculture and start to produce. The granaries of our country are in no position for a war.</p>
+	<p>Perhaps it would be partisan to say so, but no one can help but wonder that if the present administration had not made such a mess of every problem that it has undertaken, including the farm program, unemployment relief and recovery, would there by any necessity for this so-called war hysteria? [Applause.]</p>
+
+</div1>
+</body>
+</text>
+</TEI>

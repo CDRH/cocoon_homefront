@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19421129 SYSTEM "homefront.news.dp.19421129.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19421129">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Drivers Still Fail to Heed 35-Mile Limit</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19421129</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">Drivers Still Fail to Heed 35-Mile Limit</title>
+<title level="a" type="sub">Colorado Check Shows Only Slight Drop in Speed</title>
+<author></author>
+<biblScope type="pages">15-A</biblScope>
+<biblScope type="columns">1</biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, CO</pubPlace>
+<date value="1942-11-29">1942-11-29</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-automobile</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-04</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.dp.19421129">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p15"/>
+<head type="main">DRIVERS STILL<lb/>FAIL TO HEED<lb/>35-MILE LIMIT</head>
+<milestone unit="smallbar"/>
+<head type="sub">Colorado Check Shows<lb/>Only Slight Drop in<lb/>Speed.</head>
+<milestone unit="smallbar"/>
+
+<p>While automobiles, trucks and busses on Colorado highways are traveling slightly slower than they were a month ago, they are still averaging more than the 35-mile-an-hour speed limit imposed as a wartime rubber conservation measure.</p>
+
+<p>Since the average is higher than the limit, it is obvious that many motorists are far exceeding the recommended speed. W. M. Williams, executive secretary of the Colorado highway traffic committee to the war department, said Saturday.</p>
+
+<p>A survey made by the committee and the state highway department showed that automobiles are averaging 36.3 miles an hour on open highways, while trucks and busses are averaging 36.7 miles and hour. This is about one mile an hour under the averages reported after a survey in October.</p>
+
+<p>The fastest traffic was found on U. S. highway 85-87 north of Castle Rock, where vehicles were clocked at an average of 41.3 miles an hour. The slowest was on West Alameda avenue, outside Denver, where the average was 38.1 miles an hour.</p>
+
+<p>However, after the change of shifts at the Denver ordnance plant many violators were checked on Alameda avenue, Williams said. Three cars were going more than 60 miles an hour, six were going between 45 and 50, and 41 were traveling between 40 and 45 miles an hour out of a total of 108 cars checked.</p>
+
+<p>Cars with out-of-state licenses are found speeding far more often than would be proportional to their numbers in Colorado, the survey showed.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

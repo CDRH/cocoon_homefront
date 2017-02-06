@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19430331 SYSTEM "homefront.news.owh.19430331.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19430331">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Women Are Making Good in War Work</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19430331</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Morning World-Herald</title>
+<title level="a">Women Are Making Good in War Work</title>
+<title level="a" type="sub">Plane and Ordnance Firms in This Area Plan to Hire More</title>
+<author></author>
+<biblScope type="pages">10-A</biblScope>
+<biblScope type="columns">1</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1943-03-31">1943-03-31</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Women/male work</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-07</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19430331">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p10"/>
+<head type="main">Women Are<lb/>Making Good<lb/>in War Work</head>
+<milestone unit="smallbar"/>
+<head type="sub">Plane and Ordnance<lb/>Firms in This Area<lb/>Plan to Hire More</head>
+<milestone unit="smallbar"/>
+
+<p>A third of the <sic corr="employees">employes</sic> of the two largest war plants in this area are women and the proportion is expected to increase, local executives and personnel managers were told Tuesday noon at the regular war manpower luncheon at the Chamber of Commerce.</p>
+
+<p>G. K. Hammer, personnel manager of the Martin-Nebraska company, said that 30 per cent of the <sic corr="employees">employes</sic> are now women and that the Fort Crook plant may be staffed up to 50 or even 60 per cent by women.</p>
+</div1>
+
+<div1>
+<head type="sub">Must Replace 2,000</head>
+
+<p>"Selective service is taking men away," Hammer said. "Others are leaving the plant for work on farms. We will have to replace two thousand men within the next year and most of these replacements will be women."</p>
+
+<p>Women make excellent workers, Hammer said. The Martin company is now using them in every department. There are now few operations in the "men only" category and these exist only where the strength and resistance of women are not adequate to the task, and it is impossible to break the job down into several operations requiring less strength.</p>
+
+<p>The Martin company now has women who are certified A welders; there are others in the machine tool shops, operating turret and engine lathes, and still others in final assembly.</p>
+</div1>
+
+<div1>
+<head type="sub">Adapt Themselves Quickly</head>
+
+<p>Donald Burdette, personnel manager of the Nebraska Ordnance plant at Mead, said his company was now employing slightly more than 33 per cent women and that in some departments 75 per cent of the <sic corr="employees">employes</sic> are women. They are doing work that only a short time ago would have been considered impossible for women, Burdette said.</p>
+
+<p>Some are explosive operators, fork truck operators, working supervisors, quality and safety inspectors. They are qualified, train easily and adapt themselves quickly, Burdette said.</p>
+
+<p>"In general, the women <sic corr="employees">employes</sic> are more patriotic and they make fewer complaints than men," Burdette said. "They are more stable. For instance, we are losing a number of men now. They have been construction works. Now that it is spring and those jobs are opening, they are leaving our plant."</p>
+</div1>
+
+<div1>
+<head type="sub">Less Turnover</head>
+
+<p>"It is true that there is more absenteeism among women than among men, but there is less turnover and we prefer absenteeism to turnover. At least we do not have to keep training new people."</p>
+
+<p>From now on, Burdette said, most of the new <sic corr="employees">employes</sic> will be women.</p>
+
+<p>Chairman of the meeting, general theme of which was "Women in War Plants," was William Parkinson, war manpower commission director of the Omaha-Council Bluffs industrial area.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+
+

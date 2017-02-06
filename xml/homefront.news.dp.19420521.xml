@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19420521 SYSTEM "homefront.news.dp.19420521.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19420521">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Western Farmers Are Told to Solve Labor Problems</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19420521</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">Western Farmers Are Told to Solve Labor Problems</title>
+<title level="a" type="sub">Businessmen, Women and Children Must Help Growers, Gross Declares</title>
+<author></author>
+<biblScope type="pages">3</biblScope>
+<biblScope type="columns">8</biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, CO</pubPlace>
+<date value="1942-05-21">1942-05-21</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Agriculture-Labor</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-19</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.dp.19420521">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p3"/>
+
+<head type="main">WESTERN FARMERS<lb/>ARE TOLD TO SOLVE<lb/>LABOR PROBLEMS</head>
+<milestone unit="smallbar"/>
+<head type="sub">Businessmen, Women and<lb/>Children Must Help <orig reg="Growers">Grow-</orig><lb/>ers, Gross Declares.</head>
+<milestone unit="smallbar"/>
+
+<p>Farm communities to Colorado, Wyoming, Montana and Idaho will have to solve their own labor supply problems, John E. Gross, regional representative of the United States employment service, warned Thursday in announcing there is an estimated shortage of 10,000 laborers in farm areas of these states.</p>
+
+<p>"The United States employment service can no longer promise to alleviate such tremendous labor deficits by the transfer of large numbers of surplus workers from other areas," he said. "It will continue to assist in the recruiting and clearance of labor as long as workers are available but the problem now has become so acute that it can be solved only by a budgeting of the labor resources within each community This means employment of women and children on farms. It means business houses may be obliged to close part time during the peak seasons and that even bank clerks may become cherry pickers."</p>
+
+<p>Among the factors contributing to the acute farm labor shortage, Gross listed a 40 per cent increase in sugar beet acreage in the mountain states, accompanied by a 40 per cent decrease in the normal agricultural labor supply, migration of farm workers to industrial areas and the induction of thousands into the armed forces.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

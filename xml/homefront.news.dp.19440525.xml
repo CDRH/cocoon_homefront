@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19440525 SYSTEM "homefront.news.dp.19440525.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19440525">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Taverns Ordered to Help In Cleanup of Pueblo</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19440525</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">Taverns Ordered to Help In Cleanup of Pueblo</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">13</biblScope>
+<biblScope type="columns">2-3</biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, Colorado</pubPlace>
+<date value="1944-05-25">1944-05-25</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-22</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.dp.19440525">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p13"/>
+<head type="main">Taverns Ordered to Help<lb/>
+In Cleanup of Pueblo</head>
+<milestone unit="smallbar"/>
+
+<p>Pueblo, Colo., May 25.&#8211;(I. N. S.)&#8211;A newly created military-civilian "co-operating" council at Pueblo was on record Thursday as advocating efforts of "self-policing" in regard to social problems caused by nearby army encampments.</p>
+
+<p>At its initial meetings, the group decided that operators of taverns and rooming houses in the Pueblo area "must co-operate" and place civic welfare above "momentary profits."</p>
+
+<p>Howard F. Feast, regional social protection representative, stated army recommendations already had been made for clearing up" Pueblo, and the council should see that such clean up policies were carried out.</p>
+
+<p>Bert L. Beaty, president of the Pueblo city council, said "vice and drinking conditions" in the city were reported as having "approached alarming conditions" and the Pueblo police force "could not now handle the problem alone."</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

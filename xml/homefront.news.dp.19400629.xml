@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19400629 SYSTEM "homefront.news.dp.19400629.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19400629">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Yount Says Lowry Field Will Be Big Defense Unit</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19400629</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">Yount Says Lowry Field Will Be Big Defense Unit</title>
+<title level="a" type="sub">Air Corps Officer on Hurried Denver Visit Predicts Base Will Play an Important Role in Air Expansion Program</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">20</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, Colorado</pubPlace>
+<date value="1940-01-29">1940-01-29</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-27</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.dp.19400629">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p20"/>
+<head type="main">YOUNT SAYS LOWRY FIELD<lb/>
+WILL BE BIG DEFENSE UNIT</head>
+<milestone unit="smallbar"/>
+<head type="sub">Air Corps Officer on Hurried Denver Visit Predicts<lb/>
+Base Will Play an Important Role in<lb/>
+Air Expansion Program</head>
+<milestone unit="smallbar"/>
+
+<p>Brig. Gen. Barton K. Yount, assistant chief of the United States army air corps, paid a hurried visit to Lowry field Friday afternoon and gave strong assurances that the field is destined to be one of the most important in the nation's air expansion program. General Yount calls Lowry field his "baby" since he headed an army committee which selected Denver as the site for the air corps technical school and later made a bitter fight to locate the school here in the face of congressional opposition.</p>
+
+<p>Declaring that Lowry field's future development has not been definitely determined in the plans now being drafted by the war department, the genial general assured Col. Jacob JH. Rudolph, commanding officer, that "the future is bright."</p>
+
+<p>"The air corps regards Lowry field as one of its finest stations," he said, "and I will say that we plan to use it to the extent of its ability to be used."</p>
+
+<p>After touring the field with Colonel Rudolph to inspect new construction, General Yount said he was well pleased with what has been accomplished since his visit here last fall.</p>
+
+<p>"We have profited immeasurably in bettering our aviation facilities from the European conflict," General Yount said. "All of the new improvements which have been brought out thru the war will be incorporated in our new planes, which will be equipped with leakproof gasoline tanks, heavier armor and heavier armament.</p>
+
+<p>"Our planes on order now will be, I believe, the finest in the world."</p>
+
+<p>Coincident with General Yount's visit, Colonel Rudolph announced that bids will be opened early in July on paving the field's mile-long east-west runway. This will be followed by the start of construction on two school buildings, each to cost $300,000.</p>
+
+<p>General Yount stopped here in a B-18 bombing plane on his way to Tacoma, Wash., where he will participate in dedication of the new McChord field.</p>
+
+<p>Traveling with the general was Col. H. W. Harms, air officer for the Ninth corps area, stationed at the Presidio at San Francisco.</p>
+
+<p>Colonel Harms said he took his examination for West Point at Fort Logan in 1907.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

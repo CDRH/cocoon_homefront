@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.do.19401026 SYSTEM "homefront.news.do.19401026.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.do.19401026">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Army to Station Third Air Unit At City Airport</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.do.19401026</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Daily Oklahoman</title>
+<title level="a">Army to Station Third Air Unit At City Airport</title>
+<title level="a" type="sub">15th Bombardment Group to Add 1,100 Men to Complement</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Daily Oklahoman</publisher>
+<pubPlace>Oklahoma City, Oklahoma</pubPlace>
+<date value="1940-10-26">1940-10-26</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-27</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.do.19401026">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p1"/>
+<head type="main">Army to Station<lb/>
+Third Air Unit<lb/>
+At City Airport</head>
+
+<head type="sub">15th Bombardment<lb/>
+Group to Add 1,100<lb/>
+Men to Complement</head>
+
+<p>Army air corps will station an additional 1,000 men at Municipal airport, boosting the total personnel contemplated to approximately 3,800, R. A. Singletary, manager of the Chamber of Commerce Washington bureau, Friday telegraphed officials here.</p>
+
+<p>Additional officers and men at the base to be operated here will be members of the 15th Bombardment squadron, Wing L. The unit will be divided between Oklahoma City and Fresno, Calif., Singletary explained.</p>
+
+<p>Commanding the soldiers here and in the western area will be Major Gen. Jacob E. Fickel, recently appointed to his post at March Field, California. General Fickel was influential in having the city designated as an air base.</p>
+</div1>
+
+<div1>
+<head type="sub">Group to Number 1,100</head>
+
+<p>Members of the 150th Bombardment Squadron, possibly numbering 1,100 men, will be added to those of the 37th Air Base Detachment and the 48th Bombardment Squadron already assigned here.</p>
+
+<p>Chamber officials have been informed the air base detachment will include approximately 60 officers and 700 men and the 48th Bombardment Squadron 240 officers and 1,800 men.</p>
+
+<p>Word from the Eight Corps area quartermaster's office concerning leases and provisions of various facilities here still was awaited Friday. Government officials indicated again during the week that such arrangements will be made "soon" but no definite time has been set.</p>
+</div1>
+
+<div1>
+<head type="sub">CCC Deal Confirmed</head>
+
+<p>Spokesmen for the chamber had indicated repeatedly more men might be expected here with the stationing of 760 men and officers for the air base. Therefore, enlargement of the force came as no surprise.</p>
+
+<p>On the basis of earlier plans calling for 2,800 men, 34 barracks were contemplated on the 60-acre area provided by the city at Municipal airport. Eight mess halls, two supply houses, and six administration buildings are planned.</p>
+
+<p>Singletary's message also confirmed a new civilian conservation corps camp in Trosper park southeast of the city. Washington authorities accepted the deed from the city Thursday.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

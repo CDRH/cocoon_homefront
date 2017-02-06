@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.sj.19420914 SYSTEM "homefront.news.sj.19420914.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.sj.19420914">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Business Men, School Boys as Farm Workers</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.sj.19420914</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Salina Journal</title>
+<title level="a">Business Men, School Boys as Farm Workers</title>
+<title level="a" type="sub">Appeal by Federal Employment Official</title>
+<title level="a" type="sub">Meeting At Stockton</title>
+<title level="a" type="sub">Plans Made to Get Out All Available Men</title>
+<title level="a" type="sub">Action To Get Business Men And Students Into Fields "Only Way" Can Save Bumper Kansas Fall Crops, Harold Lewis Says</title>
+<author></author>
+<biblScope type="pages">1</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Salina Journal</publisher>
+<pubPlace>Salina, KS</pubPlace>
+<date value="1942-09-14">1942-09-14</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-25</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.sj.19420914">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p8"/>
+<head type="main">BUSINESS MEN,<lb/>SCHOOL BOYS AS<lb/>FARM WORKERS</head>
+<milestone unit="smallbar"/>
+<head type="sub">APPEAL BY FEDERAL <sic corr="EMPLOYMENT">EMPLOY-</sic><lb/>MENT OFFICIAL</head>
+<milestone unit="smallbar"/>
+<head type="sub">MEETING AT STOCKTON</head>
+<milestone unit="smallbar"/>
+<head type="sub">PLANS MADE TO GET OUT ALL<lb/>AVAILABLE MEN</head>
+<milestone unit="smallbar"/>
+<head type="sub">Action To Get Business Men And<lb/>Students Into Fields "Only<lb/>Way" Can Save Bumper<lb/>Kansas Fall Crops, <sic corr="Harold">Har-</sic><lb/>old Lewis Says</head>
+<milestone unit="smallbar"/>
+
+<p>TOPEKA, Sept. 14. (AP)&#8211;The U.S. Employment Service appealed to business men and school boys to help with the feed-grain harvest in Kansas areas where critical shortages of farm labor exist. Harold Lewis, farm placement supervisor, asserted "the only way we can save these crops is for men to leave their shops and filling stations and for boys to leave classrooms until the harvest is completed."</p>
+
+<p>Bumper crops coupled with a gradually declining farm labor supply cause the critical outlook, Lewis said. School boys in Doniphan county already have suspended book work to help with the apple harvest.</p>
+</div1>
+
+<div1>
+<head type="sub">Plans Made At Stockton</head>
+
+<p>At a meeting a Stockton Friday, farm and labor leaders from 12 northwestern counties planned a campaign for getting out all available male help to harvest row crops. A war project at Hays is beginning to hire construction workers and is expected to drain all surplus manpower in that area, Lewis explained. Other defense areas are making similar drains.</p>
+
+<p>Lewis said State Superintendent George McClenny had sent notices to all county school superintendents asking that boys who will work in the fields be temporarily released from school duties. Local civic groups have been asked to join in the <sic corr="campaign">ampaign</sic>.</p>
+
+<p>"The farm labor shortage is a problem for each county. There are no extra workers elsewhere available for transfer," the employment supervisor warned.</p>
+
+<p>Drop in farm placements was the principal cause of the decrease in total jobs filled by the employment service in August Placements totaled 13,688, compared with 16,[unclear] in July. Average last year was only 7,252 monthly. Less unemployment in the state was further reflected in the sharp drop in jobless compensation paid in August. The $72,985 was 22.6 percent under July payments. Average check increased to $10.28, compared with $10.24 paid in July and $9.62 paid in August last year.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

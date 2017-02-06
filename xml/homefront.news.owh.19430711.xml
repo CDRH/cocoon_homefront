@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19430711 SYSTEM "homefront.news.owh.19430711.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19430711">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Men May Well Be Amazed at Jobs Women are Holding</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19430711</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Omaha World-Herald</title>
+<title level="a">Men May Well Be Amazed at Jobs Women are Holding</title>
+<author>June Bierbower</author>
+<biblScope type="pages">9-A</biblScope>
+<biblScope type="columns">2-3</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1943-07-11">1943-07-11</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Women/male work</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-07</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19430711">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p9"/>
+
+<figure>
+<figDesc>Omaha women...paint a house</figDesc>
+</figure>
+
+<head type="main">Men May Well Be Amazed<lb/>at Jobs Women are Holding</head>
+<byline>By Jane Bierbower</byline>
+
+<p>The emancipated female, who now does everything from operating cranes in iron works to writing stories like this, has been a lifesaver to Nebraska employers in wartime.</p>
+
+<p>Women compose more than 30 per cent of a total working force of 54 thousand <sic corr="employees">employes</sic> in 64 of Nebraska's largest essential industries, excepting railroads and construction companies, according to the United States employment service.</p>
+
+<p>Since May, 1942, approximately 11 thousand women have gone into essential work in the state. Thirty-three percent of all USES placement sin the state during 1943's first five months in essential industry, excluding agriculture and construction, were women.</p>
+
+<p><sic corr="Many more">Manymore</sic> have entered less essential work in jobs always done by women, like retail store clerking and office work.</p>
+</div1>
+
+<div1>
+<head type="sub">Adept at Detail Work</head>
+
+<p>They're more adept than men in mechanical jobs requiring precision and detail, especially in assembling small machine parts and doing inspection work. Increased use of mechanical hoists and conveyors has enabled women to do heavy work formerly thought suitable only for men.</p>
+
+<p>In some cases two women are doing the work one man used to. At an Omaha bakery, the bread-racking job used to keep one man hopping. Two women do it now. Women are also bakers, oven loaders, piecrust rolling machine operators, shipping room workers&#8211;in fact, they do about every job but heavy lifting.</p>
+</div1>
+
+<div1>
+<head type="sub">Real Construction Workers</head>
+
+<p>Twenty-five women have been hired to do actual construction work at the Fort Crook aircraft modification center; packing houses report increased use of women, including the difficult jobs of beef boning and sausage making. And whereas women bartenders used to be restricted mainly to the wives of proprietors, that's no longer the case.</p>
+
+<p>They're all over in railroad work, cleaning coaches, oiling and wiping engines, unloading steel and lumber, tossing heavy nail kegs around. A few are crossing flagmen and section hands. At railroad shops in Lincoln, one woman's job is operating a roundhouse turntable.</p>
+
+<p>Girl passenger agents serve travelers at the Omaha airport; women have taken over bus announcing jobs here, where only men used to blare forth.</p>
+
+<p>Women have become light, gas and water meter readers here; they make minor repairs on gas stoves and hot water heaters, service typewriters, drive milk, grocery and occasionally beer trucks. Feminine intracity bus drivers have invaded Lincoln and women have taken over jobs like traffic checking and coach cleaning for the streetcar company here.</p>
+
+<p>They deliver telegrams, drive and service taxis, do garage work such as salvaging and repairing fuel pumps, winding motors. They're service station attendants, paint sprayers, warehouse clerks, radio crystal and optical lens grinders. </p>
+</div1>
+
+<div1>
+<head type="sub">Have Been Great Help</head>
+
+<p>In war plants they're sheet metal workers, riveters, welders, drill and punch press and lathe operators. There are the WOWCATS, the civilian auto mechanics trained by the army. The signal corps trains radio repair women. Women hold countless jobs, too, in Nebraska's ordnance plants, and the Martin Nebraska plant, do farm work, are more numerous than ever in canning and food processing plants.</p>
+
+<p>Small wonder, then, that Clinton A. Johnson of Lincoln, area director for Nebraska of the war manpower commission, says Nebraska women are making a splendid record.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+
+

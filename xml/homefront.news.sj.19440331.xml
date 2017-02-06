@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.sj.19440331.01 SYSTEM "homefront.news.sj.19440331.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.sj.19440331.02 SYSTEM "homefront.news.sj.19440331.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.sj.19440331">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Women Undertake Work on Saline Farms</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.sj.19440331</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Salina Journal</title>
+<title level="a">Women Undertake Work on Saline Farms</title>
+<title level="a" type="sub">15 to 65, They Get Set for Harvest and Other Heavy Tasks</title>
+<author></author>
+<biblScope type="pages">1, 9</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Salina Journal</publisher>
+<pubPlace>Salina, KS</pubPlace>
+<date value="1944-03-31">1944-03-31</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-26</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.sj.19440331.01">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">WOMEN <sic corr="UNDERTAKE">UNDER-</sic><lb/>TAKE WORK ON<lb/>SALINE FARMS</head>
+<milestone unit="smallbar"/>
+<head type="sub">15 TO 65, THEY GET SET<lb/>FOR HARVEST AND<lb/>OTHER HEAVY TASKS</head>
+<milestone unit="smallbar"/>
+
+<p><hi rend="bold">Special News Service of The Journal</hi></p>
+
+<p>GYPSUM, March 31&#8211;Women who will work in the wheat harvest this coming summer and at other peak labor seasons on the farm went to school here the past two days. Fifteen of them, ranging in age from 15 to 65 years, registered for the first tractor operational school held in Kansas. The Hutchinson school started today, record in a list of about 90 to be held in the state.</p>
+</div1>
+
+<div1>
+<head type="sub">Much Depends On Women</head>
+
+<p>Training women to handle power equipment on the farm as they are forced into the fields by the manpower shortage brought on by war, is the prime objective of the two day school which began here Thursday morning. Bert C. Culp, Beliot, chairman of the governor's farm labor commission, in a <sic corr="statement">statment</sic> read by Frank Blecha, of Kansas State college extension service, declared that Kansas owes a "dept. of gratitude to the women of Kansas who last year provided more than 20,000 farm laborers." This year, to a greater extent than ever before, women will be depended upon to supply the labor needed to produce the food for the armed forces and civilians at home, Culp declared, expressing the belief that the "women of our state and nation will again rise to the emergency".</p>
+
+<p>Already more than 3,200 enrollments have been made in the women's land army, according to Mrs. Ethel W. Self, assistant farm labor supervisor, who added that she expects this number to reach 10,000 by harvest.</p>
+</div1>
+
+<div1>
+<head type="sub">"Back For Harvest"</head>
+
+<p>Dean of the "students" at this first Kansas tractor school for farm women was Mrs. Marjory Gillum, 65 years old. She has had 11 years experience in driving a tractor and other power equipment, but still had planety of questions. She attended the Thursday session but this morning left for Spartansburg, S.C. to visit her grandson, who is ill there, "But I'll be 
+back in time to help in the harvest", she promised.</p>
+</div1>
+
+<div1>
+<head type="sub">Family Of Workers</head>
+
+<p>Several others have had tractor experience, among them the women member of the William Schwarz family. Without a hired man for the past three years, the two older Schwarz daughters, Dixie, 17, and Shirley, 15, and
+
+<note type="editorial" rend="jumpline">(Continued on Page Nine)</note> 
+
+<pb n="p9" /> 
+
+<figure entity="homefront.news.sj.19440331.02">
+<figDesc></figDesc>
+</figure>
+
+<note type="editorial" rend="jump">
+<note type="editorial" rend="mainhead">WOMEN <orig reg="UNDERTAKE">UNDER-</orig><lb/>TAKE WORK ON<lb/>SALINE FARMS</note> 
+<milestone unit="smallbar" /> 
+<note type="editorial" rend="jumpline">(Continued from Page One)</note> 
+</note>
+
+their mother have worked with Mr. Schwarz in the farm jobs. Mrs. Schwarz has driven power equipment since she was 14, the same age that Shirley and Dixie got "their start." Last year, Mr. and Mrs. Schwarz and Dixie harvested 200 acres of wheat. Shirley and Billy Jo, 8, kept the workers fed and the house work done.</p>
+
+<p>Today women of the school had progressed beyond a discussion of handling and care of tractors, safety precautions, and other preliminaries, and were actually handling the machines, working on the Glea Gillum place north of town. Starting motors, shifting gears, and all the other intricacies of operating the power machines for serious farm work were being demonstrated.</p>
+
+<p>Enrolled in the course are Mrs. Glea Gillum, Gypsum; Mrs. William Schwarz, Gypsum; Mrs. John T. Walker, Gypsum; Mrs. Walter Franklin, Mentor; Mrs. Ted Buhler, Assaria; Mrs. Marjory Gillum, Gypsum; Mrs. Floyd Newcomb, Route 4. Salina; Mrs. Florence Lovejoy Hobson, Salina; Dixie Schwarz, Shirley Schwarz, Virginia Stein, Charlene Olson, Harriett Robson, Marie Karber, and Irene Swisher, Sypsum rural high school students.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

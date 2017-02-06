@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19410601.01 SYSTEM "homefront.news.owh.19410601.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.owh.19410601.02 SYSTEM "homefront.news.owh.19410601.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19410601">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Over Lush Nebraska Fields Soars Feminine Dawn Patrol</title>
+<author>Kathleen Gillen with Bill Billotte</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19410601</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Sunday World-Herald</title>
+<title level="a">Over Lush Nebraska Fields Soars Feminine Dawn Patrol</title>
+<title level="a" type="sub"></title>
+<author>Kathleen Gillen with Bill Billotte</author>
+<biblScope type="pages">1-A, 10-A</biblScope>
+<biblScope type="columns">2-3, 2</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1941-06-01">1941-06-01</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Women/male work</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-05</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19410601.01">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+
+<figure>
+<figDesc>Contact at 4:30 a. m. and the "dawn patrol" is off Ilene O'Gara got the flying bug at age 5 when her dad took her up in a barnstormer.</figDesc>
+</figure>
+
+<head type="main">Over Lush Nebraska Fields<lb/>Soars Feminine Dawn Patrol</head>
+
+<byline>By Kathleen Gillen with Bill Billotte</byline>
+
+<p>The dawn comes up like thunder over the wheat, oat and corn fields that surround the little town of Waverly on the outskirts of Lincoln these crisp, spring mornings.</p>
+
+<p>As the farmers move into the fields they hear the drone of motors and see above them the sleek lines of petite yellow Piper cub planes.</p>
+
+<p>It's the feminine dawn patrol.</p>
+
+<p>Young ladies in fashionable slack suits are rubbing elbows with fleecy clouds before they return to Lincoln to take up the more prosaic tasks of bookkeeping, stenography and teaching.</p>
+
+<p>There's Mae Sharp, rural school teacher, instigator of the local branch of national movement. When she's up there just as the light of a new day breaks over Nebraska she forgets to worry about the "60" she is going to be forced to give Jimmy Jones as his final grade in geography.</p>
+
+<p>There's Mary Etta Krisl, who forgets the long lines of figures that will greet her at the state capitol the minute the ground crew answers her call of "contact" and the diminutive plane roars out over the newly-created air field.</p>
+
+<p>All are members of the Women Flyers of America, an organization founded so the United States never will be caught short if war takes the men away from civil flying tasks. These young women have pledged themselves
+
+<note type="editorial" rend="jumpline">(Continued on Page 10, Column 2.)</note> 
+
+<figure entity="homefront.news.owh.19410601.02">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p10"/>
+
+<figure>
+<figDesc>Mrs. Laura White . . . husband a flier, 16-year old daught may soon join the "dawn patrol."</figDesc>
+</figure>
+
+<figure>
+<figDesc>Flight Commander Otte Jensen gives instructions . . . left to right, Helen McMonies, Mrs. White, Lois Leavitt, Ilene O'Gara, Mrs. Laila Jensen, Mary Jane Crawford.</figDesc>
+</figure>
+
+<figure>
+<figDesc>Lois Leavitt, who has her pilot's license . . . explains an intricate diagram to Laila Jensen, wife of one of the instructors.</figDesc>
+</figure>
+
+<note type="editorial" rend="jump"> 
+<note type="editorial" rend="mainhead">A Feminine<lb/>Dawn Patrol</note> 
+<milestone unit="smallbar" /> 
+<note type="editorial" rend="subhead">State Women Prepare<lb/>for Emergency</note> 
+<milestone unit="smallbar" /> 
+<note type="editorial" rend="jumpline">(Continued from Page 1.)</note> 
+</note>
+
+to step into the breach should any such emergency arise.</p>
+
+<p>The organization was founded in New York a year ago and since has spread throughout the country and into South America.</p>
+
+<p>They are paying for their own lessons. They get up at 4 a. m., necessarily skipping many of the nocturnal activities dear to the average woman.</p>
+
+<p>Ask them why they are willing to forego the pleasure of the latest new hat from Fifth avenue so they can operate on a budget that will permit them to risk their lives in the clouds, and they can't give you a concrete reason.</p>
+</div1>
+
+<div1>
+<head type="sub">She Never Forgot</head>
+
+<p>There is gray-eyed, Irish Ilene O'Gara, daughter of the former speaker of the house at Lincoln. Her father once took his chubby, serious little girl up in a plane with one of the barnstormers who used to frequent the fairs staged in small town on the Fourth of July.</p>
+
+<p>They went aloft in one of the rickety planes of that time at Laurel, Neb. But in that short 10 minutes in the clouds, the O'Gara girl decided that someday she would fly a plane herself.</p>
+
+<p>"It seems sort of silly, but I never forgot that ride," she tells you after a few minutes at the dual controls. "I told dad that someday I would fly a plane of my own, and that's just what I'm learning to do."</p>
+
+<p>Ninety-eight-pound Helen McMonies, commercial artist, has had her share of thrills all over the world, but thinks there is no sport like flying.</p>
+</div1>
+
+<div1>
+<head type="sub">No Substitute</head>
+
+<p>After studying art in Paris, she had just boarded a boat for the United States when the nazis invaded Czecho-Slovakia. She had spent some time in New York, but never found anything to substitute for the rolling plains of her native state. Born at Lyons, Neb., she plans to make the commercial art field pay outstate with flying as a hobby.</p>
+
+<p>The flying field, surrounded by alfalfa and oats, is under the direction of tall, bronzed Otto Jensen, who has taken over in the absence of Maj. A.N. White, stationed at Fort Robinson, Ark., with the infantry.</p>
+
+<p>Jensen was the major's first solos student. The two men became friends, formed a partnership at the Waverly field. The wives of both are among the 10 women taking flying lessons.</p>
+
+<p>Most of the women in the group are in their early twenties, but Mrs. White has a 16-year-old daughter, Marion, who soon may learn to pilot her own plane.</p>
+</div1>
+
+<div1>
+<head type="sub">Orders to His Wife</head>
+
+<p>"Planes have dominated the lives of the three of us," explains Mrs. White. "My husband does nothing but fly in civil life. We have made many vacation trips by air. Now I'm learning to fly, and I think Marion will want to learn in the near future. Both my husband and I will encourage her. Some day flying one's own plan is going to be as common as driving one's own car."</p>
+
+<p>Lois Leavitt, assistant professor of education at Nebraska Wesleyan, already has a pilot's license, is piling up more hours in the air. There is Lynn Sharp, sister of Mae, and also a teacher, who soloed May 9; Mary Jane Crawford, who someday wants to earn her living by flying a plane.</p>
+
+<p>Mrs. Irvin Gillen finds time to fly despite the fact she must care for an 18-month-old son.</p>
+
+<p>There is one student flying Instructor Jensen delights in giving lessons&#8211;his wife, Laila.</p>
+
+<p>"Any husband would enjoy it," says Jensen. "How would you like to be able to give your wife orders for a half hour in the morning and a half hour in the evening, and have her obey them without a murmur?"</p>
+
+<p>You may have something there, Otto.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+

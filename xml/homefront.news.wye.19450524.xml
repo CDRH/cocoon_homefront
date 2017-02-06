@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.wye.19450524.01 SYSTEM "homefront.news.wye.19450524.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.wye.19450524.02 SYSTEM "homefront.news.wye.19450524.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.wye.19450524">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Meat Shortage Reaches Acute Stage in Cheyenne</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.wye.19450524</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Wyoming Eagle</title>
+<title level="a">Meat Shortage Reaches Acute Stage in Cheyenne</title>
+<author></author>
+<biblScope type="pages">1, 8</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Wyoming Eagle</publisher>
+<pubPlace>Cheyenne, WY</pubPlace>
+<date value="1945-05-24">1945-05-24</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-automobile</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-12</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+<pb n="p1"/>
+
+<figure entity="homefront.news.wye.19450524.01">
+<figDesc></figDesc>
+</figure>
+
+<head type="main">Meat Shortage Reaches Acute Stage in Cheyenne</head>
+<milestone unit="smallbar"/>
+
+<p>Cheyenne housewives have been joined in their search for meat by wholesale houses supplying retailers in the city. Although the meat shortage in the city hasn't exactly reached "famine" proportions, it has been serious&#8211;and apparently it's going to be worse.</p>
+
+<p>Two of the main sources of meat supply in the city either have had their supplies cut off or greatly curtailed.</p>
+
+<p>One of Cheyenne's largest meat suppliers, the Bell Packing company, went under federal inspection in April. According to Sam Slough, manager of the company, military authorities require that a large percentage of meat from federally-inspected plants be set aside for the armed forces.</p>
+
+<p>The percentage of set-aside varies from item to item, in some cases ranging as high as 80 per cent. The remaining stocks may be sold for civilian consumption, providing that civilian quotas have not been exceeded.</p>
+
+<p>The Cheyenne Meat company,</p>
+</div1>
+
+<div1 type="part">
+<pb n="p8"/> 
+
+<figure entity="homefront.news.wye.19450524.02">
+<figDesc></figDesc>
+</figure>
+
+<note type="editorial" rend="jump"> 
+<note type="editorial" rend="mainhead">Meat Shortage at Acute Stage Here</note> 
+</note>
+
+<p>wholesalers, have been informed that their supply has been discontinued. Frank McCue, owner of the company, said that he supplied some meat to 24 groceries, markets and restaurants in the city. He received his supplies from the Cook Packing company in Scottsbluff, Neb.</p>
+
+<p>Last week the Cook Packing company was sold to Kroger Stores, Inc., an eastern concern owning 2,900 retail grocery stores Kroger Stores informed McCue that his supply would be cut off.</p>
+
+<p>"I have a few leads that I'm going to work on next week to try to secure another supply of mea," McCue said last night. He emphasized the fact that supplies had not been discontinued at the market at the Jack Frost locker company, retail meat division of the Cheyenne Meat company.</p>
+
+<p>In the meantime, housewives were finding dwindling market supplies and restaurant menus were showing less meat dishes and more substitutes. They reported a scarcity of popular cuts of meat and said that the situation had become so acute that it was no longer a question of how many ration points on has, but whether meat could be secured at all.</p>
+
+<p>Some markets said that their supplies had not been cut drastically, but the majority indicated that their supplies were decreased. One manager said that meat shipments from Denver to Cheyenne also have been curtailed.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

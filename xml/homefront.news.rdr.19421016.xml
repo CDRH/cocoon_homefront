@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.rdr.19421016 SYSTEM "homefront.news.rdr.19421016.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.rdr.19421016">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Roswell High School Students To Pick Cotton</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.rdr.19421016</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Roswell Daily Record</title>
+<title level="a">Roswell High School Students To Pick Cotton</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">8</biblScope>
+<biblScope type="columns">1</biblScope>
+<publisher>Roswell Daily Record</publisher>
+<pubPlace>Roswell, NM</pubPlace>
+<date value="1942-10-16">1942-10-16</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-25</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.rdr.19421016">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p8"/>
+<head type="main">Roswell High<lb/>School Students<lb/>To Pick Cotton</head>
+
+<p>Twenty Roswell high school boys and girls have signified their willingness to pick cotton on their holiday tomorrow to help alleviate the shortage of pickers, according to Theodore M. Schuster, manager of the local office of the U.S. Employment Service, who said he was trying to find some place for them to work where cotton sacks would be furnished.</p>
+
+<p>One high school organization has agreed to pick cotton on some Saturday later, but can't pick tomorrow because of a meeting, Mr. Schuster said.</p>
+
+<p>About twenty women, he said, have been obtained to pick cotton through the house to house canvass being made by the Employment Service in certain parts of town. Anyone who will help out in this work is asked to call at the Employment office in the basement of the city hall or phone 632.</p>
+
+<p>Mr. Schuster said farmers here had agreed to furnish transportation for Navajo Indians from Gallup if enough could be recruited to come here to pick cotton and stay until the season is over, and an effort to recruit these Indians is being made, Mr. Schuster said.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

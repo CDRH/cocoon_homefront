@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.we.19440514.01 SYSTEM "homefront.news.we.19440514.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.we.19440514.02 SYSTEM "homefront.news.we.19440514.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.we.19440514">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">City Folk to Aid of Harvests</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.we.19440514</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Wichita Eagle</title>
+<title level="a">City Folk to Aid of Harvests</title>
+<title level="a" type="sub">Proposals to Draw on Old Men, Women, Boys and Teachers</title>
+<title level="a" type="sub">Wheat Harvest in Bag</title>
+<title level="a" type="sub">But Gooding, Haying Tilling and Other Tasks Are Piling Up</title>
+<author></author>
+<biblScope type="pages">1, 4</biblScope>
+<biblScope type="columns">1, 2</biblScope>
+<publisher>Wichita Eagle</publisher>
+<pubPlace>Wichita, KS</pubPlace>
+<date value="1944-05-14">1944-05-14</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-26</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.we.19440514.01">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">CITY FOLK<lb/>TO AID OF<lb/>HARVESTS</head>
+<milestone unit="smallbar"/>
+<head type="sub">Proposals to Draw on Old<lb/>Men, Women, Boys<lb/>and Teachers</head>
+<milestone unit="smallbar"/>
+<head type="sub">WHEAT HARVEST IN BAG</head>
+<milestone unit="smallbar"/>
+<head type="sub">But Gooding, Haying <orig reg="Tilling">Till-</orig>ing and Other Tasks<lb/>Are Piling Up</head>
+<milestone unit="smallbar"/>
+
+<p><hi rend="bold">TOPEKA, KAN., May 13&#8211;Something approaching a universal volunteering system to get in the Kansas crops this coming summer has been suggested in official and semi-official circles the past week by way of emphasizing the fact that this state is scraping the bottom of its manpower barrel.</hi></p>
+
+<p>In recent conferences many suggestions have been made, most of them involving the greater employment on the farms of urban dwellers. These include using boys of high school age in the country instead of the city, employing in light tasks on farms some old-age pensioners in fair physical condition, urging school teachers to go to the farms this coming summer instead of to summer school and persuading city girls and women to run the farm wife's household while she goes into the field to help her husband.</p>
+</div1>
+
+<div1>
+<head type="sub">Need for Women</head>
+
+<p>Apparently all of these suggestions have at least some merit. Concededly few of the city folks could make all-around farm hands. Their assignment would be to do chores and odds and ends tasks about the farmstead, freeing the farmer for the all-important and urgent field work such as haying, grain harvests and the cultivation of row crops. All of that would help a lot. It remains to be seen how many city folks will volunteer for such work and whether the gasoline situation will permit the transport to and from farms of the urban volunteers.</p>
+
+<p>Farm women take very kindly to the proposal that city women help them out by cooking meals and keeping the house clean while they
+
+<note type="editorial" rend="jumpline">(Continued on Page 4 Column 2)</note>
+
+<pb n="p4" />
+
+<figure entity="homefront.news.we.19440514.02">
+<figDesc></figDesc>
+</figure>
+
+<note type="editorial" rend="jump">
+<note type="editorial" rend="mainhead">URGE CITY FOLK<lb/>TO AID FARMERS</note>
+<milestone unit="smallbar" />
+<note type="editorial" rend="subhead">Purpose to Draw on Old<lb/>Men, Women, Boys<lb/>and Teachers</note>
+<milestone unit="smallbar" />
+<note type="editorial" rend="jumpline">(Continued from Page 1)</note>
+<milestone unit="smallbar"/>
+</note>
+
+help in the fields. In normal times many of the farm women of Kansas have outside help during rush seasons. Now their help crisis is just as serious as in any other field. As in all phases of enterprise during war times, with young men gone and still going, the principle burden of relief is falling upon the women. As they have helped to fill the vacant places in the war plants and in all types of urban activity, so they may come to the rescue of the farmers and their wives in this situation.</p>
+</div1>
+
+<div1>
+<head type="sub">Where Work Piles Up</head>
+
+<p>The prospect is that Kansas will get along as well as last year or better with the heat harvest. There was a machinery crisis last June. That is improved. Not only are there more repair parts available but rationing boards are releasing combines to custom harvesters. This is done on the agreement that the machine will be used in the harvests of at least two states and more if possible. Many of these custom machines start in Texas and follow the harvest all the way to the Canadian border and sometimes into Canada itself.</p>
+
+<p>It is in haying, the cultivation of row crops and other activities not related to wheat that the work is piling up for the farmer. It is difficult at this time for them to see their way through. Planting of corn, the sorghums, soybeans and other spring crops is now long deferred and must be accomplished in the next two or three weeks to have a chance of favorable yields. An earlier planting&#8211;that of oats&#8211;has not been very successful and much of it must be replanted. The government was urging a heavier acreage of flax but Kansas is now beyond the planting date.</p>
+</div1>
+
+<div1>
+<head type="sub">Important Wheat Crop</head>
+
+<p>This state is considerably encouraged by the government forecast of 158 million bushels of wheat, which is an excellent yield, especially in view of the fact that last fall considerable planned acreage was not seeded because of dry conditions. Unusual care will be taken to get all this wheat into bins because of the tight grain situation. Mills in this region have appealed to the government for the release of wheat to meet their flour obligations until the new crop is available. Not since the other war when flour was rationed has an oncoming crop of Kansas wheat been more important that this one.</p>
+
+<p>Politically the talk of persuading many urban volunteers to go to the farms this summer is interesting in relation to the size of the vote in the Kansas primaries. If thousands of city Kansans are on the farms in August, presumably few of them will vote and there will be an exceptionally light outturn to nominate the candidates. That will hardly apply to the general election in November when the farm helpers would be again in their own places of residence.</p>
+
+<p>In coming months Kansas may see in their newspapers pleas that there are many tasks they can do on the farms in helping to swell the food and the feed supplies of the nation. They may hear urgent exhortations on the radio. If they do, they will know that the farmer and his family are facing work programs that they cannot handle and that, help lacking, their crops will deteriorate or be partially lost.</p>
+
+<p>A wet year is usually one of abundant yields if the farms are properly manned. This year is likely to be no exception and, if the manpower bottleneck can be expanded, Kansas may contribute as much as in 1943 to the job of supplying the final victory drive with food.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.docs.0005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Suggestions for County Action to Meet Labor Needs</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.docs.0005</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="a" type="main">Suggestions for County Action to Meet Labor Needs</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages"></biblScope>
+<publisher></publisher>
+<date value=""></date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-18</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-10-15</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<head type="main">SUGGESTIONS FOR COUNTY ACTION<lb/>TO MEET LABOR NEEDS</head>
+<head type="sub"><hi rend="underline">Getting</hi> <hi rend="underline">Facts</hi> <hi rend="underline">About</hi> <hi rend="underline">Farm</hi> <hi rend="underline">Labor</hi></head>
+
+<div1>
+<p>To determine the facts regarding farm labor in each county, the county extension agent and county home demonstration agent proceed immediately following the district meetings to discuss with individual farm and town people and in rural and urban group meetings.</p>
+
+<list>
+<item>1. The problems facing farmers.</item>
+<item>2. The obstacles which must be overcome in reaching maximum food production.</item>
+<item>3. Ways of meeting the problems, overcoming the obstacles and setting up an effective rural-urban programs.</item>
+</list>
+
+<p>Following are some of the things which must be learned; each county extension agent must decide which are most important and what methods should be used in getting the answer.</p>
+
+<list>
+<item>1. How many farms or farm homes need additional labor right away?</item>
+<item>2. How many have adequate help now, but will need additional seasonal labor later?</item>
+<item>3. Who is available to do custom work? How many farmers are trading work and/or equipment now?</item>
+<item>4. What plans are being made in each community to work out fair and equitable ways of renting equipment and pooling work?</item>
+<item>5. How much farm-trained or partly farm-trained adult labor is available immediately from small towns?</item>
+<item>6. What is the attitude of farmers and farm women toward the use of part-time, skilled or semi-skilled non-farm adults? (If favorable, a plan could be worked out to close stores in towns either every day from noon on or 2-3 days a week all day, so that store personnel could work on farms.</item>
+<item>7. What is the attitude of town women toward helping in the farm homes? Would town women be willing to help farm women can vegetables for a small percentage of the canned stuff? Would farm women accept this assistance from the town women?</item>
+<item>8. How many high-school boys and girls are available in the county?</item>
+<item>9. How many of these need additional training?</item>
+<item>10. What facilities are available in the county for training youth and adult non-farm, semi-skilled labor in farm practices?</item>
+<item>11. What are the attitudes of farm men and women toward use of non-farm youth?</item>
+<item>12. Where can high-school boys and girls be most valuable on the farm (care of house, garden, poultry, hogs, running machinery, etc.)?</item>
+</list>
+</div1>
+
+<div1>
+<head type="sub"><hi rend="underline">Getting</hi> <hi rend="underline">The</hi> <hi rend="underline">Answers</hi></head>
+
+<list>
+<item>1. In order to correlate the Extension program with the AAA work, tabulate the information contained in War Board work sheets. Take this information back to the community where it originated in attempting to work out the program for that community.</item>
+<item>2. Make a random-sample survey in person of a certain percent of farms in the county, e.g. if there are 2,000 farmers, question all those living in Section 10 of each of 5 townships, or about 20 farmers. Neighborhood leaders might be used to make this survey in the selected sections. Another method would be to send a questionnaire to every farmer in the county. An explanation of the survey should accompany the questionnaire, and questions must be specific.</item>
+<item>3. Contact community leaders, County superintendents of schools, Vocational Agriculture and Home Economics teachers, implement dealers, garage men and blacksmiths to determine attitudes, potential labor and facilities for training youth and adults.</item>
+<item>4. Organize or cause to be organized in cooperation with the OCD Chairman a committee of business men and women in each town who realize the seriousness of the situation and who will assist in molding urban attitude. A similar committee of rural people should be organized on a county or township basis to work with the urban group as a Farm Labor Advisory Committee.</item>
+<item>5. Hold group discussions with the people concerned in the various aspects of the farm labor problem.</item>
+<item>6. Use newspapers, both free publicity and paid ads, to obtain information as to availability of custom workers and machinery. Rural cooperators might be used to get such information.</item>
+<item>7. Contact U. S. Employment Service offices or voluntary farm placement representatives, mayor, and any others.</item>
+</list>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.sj.19430824 SYSTEM "homefront.news.sj.19430824.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.sj.19430824">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Calls on Schools to Provide Labor</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.sj.19430824</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Salina Journal</title>
+<title level="a">Calls on Schools to Provide Labor</title>
+<title level="a" type="sub">Schoppel Meets With School Men Who Are Concerned With Question of Student Work</title>
+<author></author>
+<biblScope type="pages">1</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Salina Journal</publisher>
+<pubPlace>Salina, KS</pubPlace>
+<date value="1943-08-24">1943-08-24</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-26</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.sj.19430824">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">CALLS ON SCHOOLS<lb/>TO PROVIDE LABOR</head>
+<milestone unit="smallbar"/>
+<head type="sub">Schoppel Meets With School<lb/>Men Who Are Concerned With<lb/>Question of Student Work</head>
+
+<p>TOPEKA, Aug. 24 (AP)&#8211;Governor Schoeppel told a group of Kansas school men today they must get ready to help <sic corr="offset">offest</sic> greater inroads the draft and war industries would make in local manpower used in food production.</p>
+
+<p>"We'll have to buckle down as we never buckled down before in supplying man power. I believe the schools can help put more youths to work where they are needed most&#8211;on the farm," the executive declared.</p>
+
+<p>School men and state farm equipment leaders, called together by Bert Culp of Detroit, chairman of the state farm labor commission, discussed the problem of increased labor shortages in food production and ways of recruiting school youths to relive the shortages.</p>
+
+<p>Clifford Dean of Lawrence and Hugh Bryan of Leavenworth said they arranged school schedules to permit youths to work a half day and go to school half a day. At Syracuse, where Bryan headed the schools before going to Leavenworth this summer, outside work on farms and local industries was mandatory half of every day during critical periods.</p>
+
+<p>Lester Pollom, head of vocational agriculture for the state board of vocational education, said he doubted if one general plan would work for all communities, but it is important "that every community have a plan."</p>
+</div1>
+
+</body>
+</text>
+</TEI>

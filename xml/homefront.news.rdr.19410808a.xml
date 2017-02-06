@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.rdr.19410808a SYSTEM "homefront.news.rdr.19410808a.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.rdr.19410808a">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">War Department Announces Big Air Field Comming to Roswell Will Cost Total $6,500,000</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.rdr.19410808a</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Roswell Daily Record</title>
+<title level="a">War Department Announces Big Air Field Comming to Roswell Will Cost Total $6,500,000</title>
+<title level="a" type="sub">Army Twin Bomber Training School Officially Named to Be Located in Roswell</title>
+<title level="a" type="sub">Site is Four Miles South of Roswell; Over 3,000 Men to Be Here; 3,000 Acres of Land Required to Cost $40,000, Million to Start Work</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Roswell Daily Record</publisher>
+<pubPlace>Roswell, New Mexico</pubPlace>
+<date value="1941-08-08">1941-08-08</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-27</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.rdr.19410808a">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p1"/>
+<head type="main">WAR DEPARTMENT ANNOUNCES BIG<lb/>
+AIR FIELD COMING TO ROSWELL<lb/>
+WILL COST TOTAL $6,500,000</head>
+
+<head type="sub">ARMY TWIN BOMBER TRAINING<lb/>
+SCHOOL OFFICIALLY NAMED<lb/>
+TO BE LOCATED IN ROSWELL</head>
+
+<head type="sub">Site is Four Miles South of Roswell; Over 3,000 Men to Be<lb/>
+Here; 3,000 Acres of Land Required to Cost $40,000,<lb/>
+Million to Start Work</head>
+
+<p>Roswell was officially notified today that the Army has located a twin bomber training school just south of Roswell, four miles, where over three thousand men will be located. The Army has allocated a million dollars to start work on the project and places the total cost at about six and a half million dollars.</p>
+
+<p>The news came to Roswell today to The Record, the Chamber of Commerce and city officials in the form of telegrams from Senator Dennis Chavez and a long distance telephone call from Washington from Senator Chavez' son, Dennis Chavez, Jr., who is his secretary. Senator Chavez is in Las Vegas.</p>
+
+<p>The following is the Chavez telegram to The Record:</p>
+
+<div2>
+<p>WASHINGTON, Aug. 8&#8212;Army air corps has just informed Senator Chavez that Roswell has been designated for the establishment of army air corps flying school for the training of pilots for twin engine bombers. One million dollars is immediately being allocated to start the construction of the field. The Roswell school will take the place of the Moffett Field just being taken back by the navy. The field will go into permanent construction and six and one half million dollars will be allocated as soon as the navy supply bill goes through. Senator Chavez will also announce this from Las Vegas today.</p>
+
+<closer>
+<signed rend="right">Dennis Chavez, Jr.</signed>
+</closer>
+</div2>
+
+</div1>
+
+<div1>
+<head type="sub">Biggest News</head>
+
+<p>Announcement of the air corps unit, for Roswell is regarded locally as the biggest piece of good news which has been released in years and may mean more to the future of the city than any other one thing in the history of Roswell.</p>
+
+<p>Chamber of Commerce and city officials announced that the War department approval of Roswell for an advanced Air Corps Training Unit was conditioned upon the community meeting the requirements of the Army in furnishing the necessary land for the school, as well as easements for a railway spur and other rights of way which the government requires the local community to furnish. Approximately 3000 acres of land will be required, in addition to the easements, and these are to be obtained and leased to the government at the nominal rental of $1 a year. The estimated amount of money that will be required to meet the community's obligation to assure construction of the camp will be around $30,000. It will be necessary that this amount be raised by public subscription at once and plans to raise this sum immediately have been made.</p>
+</div1>
+
+<div1>
+<head type="sub">Over 3,000 Men</head>
+
+<p>It was pointed out that the time element was important as the Army is anxious to let contracts and being construction immediately. The unit is scheduled to be in operation by March 7. Total cost of the project is reported to be approximately $3,000,000. The enlisted personnel will be 3000 men, 350 commissioned officers, with 500 students in advanced bomber and bombardier training. Approximately 250 planes will be used here. Graduation exercises at which flying cadets will receive their wings will be held periodically and these occasions draw large numbers of relatives of students.</p>
+
+<p>The announcement of this air corps training base in Roswell comes as a culmination of more than a year of continued intensive effort on the part of the Roswell Chamber of Commerce to obtain location of a National Defense project in Roswell. The army officers who first inspected Roswell for this project said their inspection came as the result of information placed in their hands by the Roswell Chamber of Commerce almost a year ago. At that time the local organization printed a brochure setting out all the essential information as to the desirability of Roswell for aviation training. This brochure was sent throughout the country to army officers and private organizations participating in the National Defense program.</p>
+</div1>
+
+<div1>
+<head type="sub">First Visit June 29</head>
+
+<p>First intimation that Roswell was under consideration for this purpose was received by the Chamber of Commerce on June 27 when it was advised Major K. P. McNaughton and Major John C. Horton would be in Roswell on June 29th for a preliminary inspection. Mayor Tom Hall, Ross L. Malone, Jr., president of the Chamber of Commerce and other city officials and civic leaders spend the entire day with them. Work of getting necessary commitments and compiling a mass of information started immediately and they were advised on July 2 the city was ready to meeting inspection board.</p>
+
+<p>The board returned on July 9 checked all details, and disposed of other necessary factors. That same evening the city council considered all phases of the project and unanimously authorized the mayor to enter into the necessary leases and other commitments.</p>
+
+<p>Chamber of Commerce directors feel that the announcement of the air corps selection of Roswell is ample justification for all the time and money which has been required during the past year. Hundreds of dollars have been spent, business and professional men have given days of their time, and they are happy in the knowledge it was this effort which resulted in the good news just released. They pointed out however that success was possible only through the whole hearted co-operation of Mayor, Hall, the city council, and others in the city administration. And they emphasized that it will be still be possible only through the liberal and whole hearted cooperation of the entire citizenship in provided the necessary funds and carrying out the other commitments.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

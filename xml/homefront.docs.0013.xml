@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.docs.0013">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Questions and Answers on the Women's Land Army of the U.S. Crop Corps</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.docs.0013</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<!-- [Questions and Answers on the Women's Land Army of the U.S. Crop Corps; Basic Materials for use in the Kansas Farm labor Program-5-10-1943. Folder 6, Box 44, Correspondence of __ ____, 1945-47, KSHS] Kansas State College Extension Service, Manhattan, KS. (Source: Office of Information, U.S. Department of Agriculture. -->
+
+<bibl>
+<title level="a" type="main">QUESTIONS AND ANSWERS ON THE WOMEN'S LAND ARMY OF THE U.S. CROP CORPS*</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages"></biblScope>
+<publisher>Kansas State College Extension Service</publisher>
+<pubPlace>Manhattan, KS</pubPlace>
+<date value="1943-05-10">1943-05-10</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-24</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-10-17</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<head type="main"><hi rend="underline">QUESTIONS AND ANSWERS ON THE WOMEN'S<lb/>LAND ARMY OF THE U.S. CROP CORPS*</hi></head>
+<note place="inline">*Basic materials for use in Kansas Farm Labor Program--1943.</note>
+<milestone unit="fullbar"/>
+<div1>
+<p><hi rend="underline">DRAIN on the farmer's manpower</hi> by industry's need for help to fashion the implements of war and by the military services to use these implements of war could make serious inroads upon the farmer's ability to grow war crops.</p>
+
+<p><hi rend="underline">ESSENTIAL labor</hi> to grow these crops must be found. The U. S. Department of Agriculture program to help recruit farm labor calls for 3,500,000 persons--men, women, and youth--to work in the U. S. Crop Corps.</p>
+
+<p><hi rend="underline">THE WOMEN'S LAND ARMY</hi> is a part of this program. The following questions are those most frequently asked about the contribution city and town women can make to help the farmer solve his labor difficulties.</p>
+
+<p>1.	<hi rend="underline">What is the Women's Land Army</hi>?</p>
+
+<p rend="indented1">The Women's Land Army is an organization of town and city women sponsored by the Federal Government under the direction of the Agricultural Extension Service as a part of the U. S. Crop Corps. It is estimated that a Women's Land Army of about 10,000 will be needed for year-round work and about 50,000 for seasonal work of 1 month or more to grow, harvest, and pack the crops needed for the war program in 1943. These women will be recruited in areas where they are needed as the need becomes apparent.</p>
+
+<p>2.	<hi rend="underline">Who can join the Women's Land Army</hi>?</p>
+
+<p rend="indented1">Any city to town woman who has reached her eighteenth birthday and can furnish a satisfactory doctor's certificate as to her fitness to do hard farm work can make application. Women with a farm background or some farm experience are especially desirable as members of WLA.</p>
+
+<p>3.	<hi rend="underline">Where can I apply</hi>?</p>
+
+<p rend="indented1">As soon as applications are available, they can be obtained at the office of the county agricultural agent, usually located in the county courthouse, from the nearest U. S. Employment Service in large cities, from cooperating organizations both public and private such as the OCD, the YWCA, the AWVS, or local women's club.</p>
+
+<p>4.	<hi rend="underline">Will I get any instruction or training</hi>?</p>
+
+<p rend="indented1">Land Army Women enrolled for year-round work will take from 3 to 6 weeks' training in a State agricultural college or other agricultural school designated for Women's Land Army training. They will receive instruction in dairy and poultry work, as well as other types of farming in the area concerned. They will learn something of farm equipment and tools and get some help in orienting themselves to farm life and the viewpoint of farmers. Those enrolled for seasonal work will take a short preliminary course or on the job training.</p>
+
+<p>5.	<hi rend="underline">Will I wear a uniform</hi>?</p>
+
+<p rend="indented1">Women accepted for the Women's Land Army will wear the regulation blue cotton uniform -- a light-blue shirt, dark-blue overalls with bib and shoulder straps, and a dark-blue jacket for cool mornings. The trousers are made to hang free or fasten tight at the ankle for safety in working with machinery. The cap is of light- and dark-blue material bearing the WLA insignia, with a visor to protect the eyes from glaring sun. A dark-blue skirt for street wear completes the uniform which is all washable. The women of the Land Army buy their own uniforms at a nominal cost.</p>
+
+<p>6.	<hi rend="underline">What kind of work will I do</hi>?</p>
+
+<p rend="indented1">The year-round workers will probably find work on fairy and poultry farms where the need for labor is very acute. The women will feed the livestock, weigh and measure feed, wash dairy utensils after every milking, make and pack butter, keep records on cows and hens, candle and pack eggs, and many other routine tasks. Truck farms use a great deal of hand labor; and some large farms have already asked for Land Army women to plant, weed, spray, harvest, grade, and pack produce and to do the many other jobs which have to be done on such farms. Some qualified women will run tractors for plowing or harrowing or operate other farm machinery normally handled by men. Seasonal workers will do more of the planting, hoeing, or harvesting jobs when extra help is needed for a short time.</p>
+
+<p>7.	<hi rend="underline">Where will I live</hi>?</p>
+
+<p rend="indented1">The year-round workers will usually live at the farm employing them, though this is not required. Some can live at home or in nearby homes and go back and forth each day. Seasonal workers will live at the farm or in nearby camps. Seasonal workers will be more likely to work in groups or crews than the year-round workers.</p>
+
+<p>8.	<hi rend="underline">Will I get paid for my work</hi>?</p>
+
+<p rend="indented1">Yes, Women of the Land Army will receive the prevailing wage for that type of work in the locality where they work. They will be paid by the farmer employing them.</p>
+
+<p>9.	<hi rend="underline">Will Land Army women do other kinds of work than farm work</hi>?</p>
+
+<p rend="indented1">Some women of the Women's Land Army will be available to work in the farm homes when this releases farm women to work in the fields or around the farm. Farm women with experience and skill in farm work can be more valuable in the fields; and city women may have experience and skill which they will be willing to contribute in such jobs as caring for children, preparing meals, laundering, canning, cleaning, or doing general housework, to free farm women for the job of food production.</p>
+
+<p>10.	<hi rend="underline">How will the Land Army woman get her job</hi>?</p>
+
+<p rend="intented1">The women will be placed by the Extension Service. A farmer needing the services of a Land Army woman will register with the County Extension Service in his own county. The county agent r his labor assistant will either assign some of the local Land Army women to the farmer or request the desired number from the person in charge of the State Women's Land Army.</p>
+
+<p>11.	<hi rend="underline">What is the responsibility of the farmer towards the women Land Army employee</hi>?</p>
+
+<p rend="indented1">The farmer employing a woman of the Land Army is responsible for providing satisfactory housing, including clean, sanitary living quarters. The farm family is also expected to see that the worker has an opportunity to take part in the social and recreational life of the community. The farmer will teach the Land Army woman the farming skills.</p>
+
+<p>12.	<hi rend="underline">Will the Land Army supervise its members</hi>?</p>
+
+<p rend="indented1">The County Extension Service will supervise the women of the Land Army in that county. The county agricultural agent, his labor assistant, or some one of the staff designated by the agent will keep in touch with all Land Army women in the county at all times.</p>
+
+<p>13.	<hi rend="underline">Why join the Women's Land Army</hi>?</p>
+
+<p rend="indented1">Work on the farm will offer nonfarm women an opportunity to give patriotic services to the Nation by providing much needed woman labor for the production of food. Living and working in the open country is helpful, and many city women will find unexpected joy in working with living plants and animals.</p>
+
+<p>14.	<hi rend="underline">Are city and town women needed on the farm</hi>?</p>
+
+<p rend="indented1">The 1943 food-for-war goals are higher than last year's record production, and yet thousands of farm boys have gone from the farms to fight at the front or work in war industry since the last harvest. Farm machinery which saves labor is also scarce. Farm women have more than doubled their work in the fields and can do little more to increase production. Every worker not doing a vital war job somewhere else will be needed on the farm.</p>
+
+<p>15.	<hi rend="underline">Can town women do farm work</hi>?</p>
+
+<p rend="indented1">City women with perseverance and good health have proved valuable farm hands after a little experience in many places. Women of the Connecticut Land Army proved invaluable on dairy farms last years. New Jersey and Maine truck farms where city women were tried out last year are asking for more of them this year. In Oregon and California, city women made good, picking apples, berries, or other fruits, and many other kinds of farm labor. This year there is need for many more.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dmn.19441006 SYSTEM "homefront.news.dmn.19441006.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dmn.19441006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Rains, Picker Shortage Upset Cotton Growers</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dmn.19441006</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Dallas Morning News</title>
+<title level="a">Rains, Picker Shortage Upset Cotton Growers</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1-II</biblScope>
+<biblScope type="columns">1-2</biblScope>
+<publisher>Dallas Morning News</publisher>
+<pubPlace>Dallas, TX</pubPlace>
+<date value="1944-10-06">1944-10-06</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-01</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-10-01</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.dmn.19441006">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">Rains, Picker Shortage<lb/>Upset Cotton Growers</head>
+
+<p>"This cotton harvesting is driving the buyers crazy and the producers broke."</p>
+
+<p>This was the sentiment Wednesday of B. W. Jacobs, Dallas County cotton farmer, who expressed the county-wide reactions of cotton farmers following another grade-lowering rain and the subsequent scattering of cotton pickers from heaven to breakfast.</p>
+
+<p>Jacobs, who is from Richardson, has forty acres of cotton. "I was just making a little headway with the harvest when this week's rains came with their destructive elements of dulling the cotton and delaying picking, creating more foliage and making the cotton harder to find," he said.</p>
+
+<p>Jacobs said he had talked with cotton farmers from the Wylie and Murphy communities who said that high winds Wednesday night in that area did considerable damage to cotton.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">Some Crops Untouched.</head>
+
+<p>H. H. Jobson, Mesquite farmer who has about eighty acres of cotton and twenty-five bales picked, said he had a neighbor who had forty bales of cotton ready to be picked and so far not a boll had been touched. "The shortage of pickers has placed fear in the hearts of farmers that we may not get our crops harvested," Jobson said.</p>
+
+<p>Most farmers said that the plan of picking up workers at labor stations located over Dallas and transporting them to harvest fields, wasn't working out very well. "The pickers aren't dependable," Jobson said.</p>
+
+<p>Most farmers said that the plan of picking up workers at labor stations located over Dallas and transporting them to harvest fields, wasn't working out very well. "The pickers aren't dependable," Jobson said.</p>
+
+<p>Virtually every farmer is paying cotton pickers at least $2 a hundred to attract them to the fields and save one of the best crops in years. This is the highest price paid since the last World War, Jobson said.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">Pay Raise Studied.</head>
+
+<p>Charlie McKamy, Carrollton cotton farmer with 300 acres, said that he and other neighborhood farmers were considering raising the pay to $2.50 a hundred following Wednesday's rain because their pickers had scattered.</p>
+
+<p>McKamy said the possibility that county farmers may start plowing up their cotton fields is improbable. "Most have hopes of gathering in the crop if the weather permits," he said.</p>
+
+<p>Raymond Hawthorne, Reagan hawthorne and Harry Hawthorne of Seagoville, have among them about 700 acres of cotton and so far have managed, up until the rains, to pick only a bale a day. "I'm afraid we'll be picking cotton this time next year," Raymond Hawthorne said. "We're trying to get labor from San Antonio since we can't find any in Dallas."</p>
+
+<p>The Weather Bureau forecast partly cloudy weather Thursday night and Friday, but no rain. Total rainfall since Monday night is 3.02.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

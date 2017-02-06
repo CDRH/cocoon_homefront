@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.rcdj.19450915.01 SYSTEM "homefront.news.rcdj.19450915.01.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.rcdj.19450915">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Inactivation Of Base Here Effective Friday</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.rcdj.19450915</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Rapid City Daily Journal</title>
+<title level="a">Inactivation Of Base Here Effective Friday</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1</biblScope>
+<biblScope type="columns"><!-- need to fill-in --></biblScope>
+<publisher>Rapid City Daily Journal</publisher>
+<pubPlace>Rapid City, SD</pubPlace>
+<date value="1945-09-15">1945-09-15</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-22</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.rcdj.19450915.01">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p1"/>
+<head type="main">Inactivation Of Base<lb/>
+Here Effective Friday</head>
+
+<p>Inactivation of the Rapid City army air base will be completed Sept. 21, which has been designated as the "final work day for civilian employees except for those being retained for the standby force of administrative and maintenance personnel," it was announced at the base today.</p>
+
+<p>The action follows a recent order from the war department at Washington to inactivate the base "on or before Sept. 20." Previously a number of employes had been released just prior to the transfer of the base from the Second to Third air forces on July 21.</p>
+
+<p>Civilians whose employment is being terminated are being given opportunities for transfer elsewhere under civil service rules, it was said. Representatives of various agencies will be at the base Monday from 8 a. m. to 5 p. m., to interview those who wish to make transfers.</p>
+
+<p>Interviews will be conducted at the civilian personnel training building at the air base. The following installations will be represented: Sioux Falls army air field; Sioux City Army air base, Sioux City, Ia.; Black Hills Ordnance Depot, Igloo; Alliance army air field, Alliance, Neb.; Veterans' Administration, Hot Springs, and the regional civil service office at St. Paul.</p>
+
+<p>Notices sent to individuals announcing termination of employment were accompanied by instructions on how to seek work at other government installations and in private industry. Employes will have a chance to transfer to other Third air force bases. There is employment also at Second air force bases, Great Bend, Kas., having asked for 20 firefighters. At other installations the greatest demand has been indicated for clerical workers, auto mechanics, laundry workers and laborers. The Rapid City office of the U. S. Employment Service is maintaining contact with the air base to aid those who wish to remain in the vicinity with private business firms, base officers reported.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.df.19421114 SYSTEM "homefront.news.df.19421114.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.df.19421114">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">This is Going to be Tough!</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.df.19421114</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Dakota Farmer</title>
+<title level="a">This is Going to be Tough!</title>
+<title level="a" type="sub">Farm Machinery Will Be Hard to Get</title>
+<author></author>
+<biblScope type="pages">476</biblScope>
+<biblScope type="columns">1-4</biblScope>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date value="1942-11-14">1942-11-14</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Agriculture-Production</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-01</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-19</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.df.19421114">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p476"/>
+<head type="main">This is Going to be Tough!</head>
+<head type="sub">Farm Machinery Will be Hard to Get</head>
+
+<p>THE American tendency, time out of mind, has been to expand the power of arms and legs with machinery, so that every man can cover more ground and produce much more. Use of machinery in the office, the factory and on the farm ahs some habit and necessity.</p>
+
+<p>We are geared to machinery&#8211;mighty closely on Dakota farms&#8211;and it's going to be tough facing the fact that, for next year at least, farm machinery will be hard to get and hard to keep in repair.</p>
+
+<p>Things broke rapidly on the "farm machinery front" late in October. A temporary rationing order had already been put into effect. Then came word that government had "frozen" new farm machinery as of November 1st, meanwhile requiring all manufacturers, distributors and dealers of implements to make up inventories of what they had on hand, and file them not later than November 10th, with the county farm machinery rationing committees.</p>
+
+<p>The machines and implements under the freezing and inventory order include various types of planting and seeding machinery; plows and listers; harrows and pulverizers; cultivators and weeders; harvesting machinery; haying machinery; threshers and huskers and shellers, cleaners, sorters and graders; tractors; gas engines; wagons and trucks; milking machines, separators and milk cans; spraying outfits; home water systems; portable and stationary elevators; silos; irrigation equipment, and fencing materials.</p>
+</div1>
+
+<div1>
+<head type="sub">Order Limiting Manufacture.</head>
+
+<p>But all worries over rationing possibilities sank into the background when the War Production Board's long-awaited order L-170, limiting manufacture, was issued. For many months, the whole machinery world: manufacturers, <sic corr="distributors">distributers</sic>, dealers, every major organization of farmers and the Department of Agriculture: had been working with the WPB&#8211;presenting all imaginable figures on farm production needs, farmers machinery and implement purchases of the past, the needs of the future.</p>
+
+<p>It had of course been realized that the steel situation would force a cut in the manufacture of new machinery and implements. The Department of Agriculture, the farm organizations, the machine men had all submitted suggestions, ranging around figures which would allow a considerable cut, but at the same time enable farmers to "get by" for another year.</p>
+
+<p>The very lowest of these figures was the 50% minimum suggested by the Department of Agriculture. Consider, then, the shock of everybody&#8211;including the farm machinery branch of the WPB itself, when out came Order L-170, limiting manufacture next year to only 20% by weight of either 1940 or 1941, whichever was larger.</p>
+</div1>
+
+<div1>
+<head type="sub">An 80% Cut.</head>
+
+<p>Actually the cut in the amount of machinery available to farmers is greater than 80%&#8211;because in 1940 and 1941 farmers bought a lot of items which had been made up in previous years and were "on the floor" awaiting sale. That reserve is now about gone.</p>
+
+<p>Probably next year, under L-170, farmers as a whole will not be able to buy more than 16% as much new machinery and implements as they did in 1940 or 1941.</p>
+
+<p>"Farmers as a whole"&#8211;note that! It refers to all farmers in the whole country. While there has not yet been time to recover from the daze of this order and to appraise the full extent of results, there are kinks in the order which look as if it might be harder for Dakota farmers to get a share of new equipment than for farmers farther east, and it almost certainly will prevent their buying makes of machines to which they are accustomed and which they prefer to use.</p>
+</div1>
+
+<div1>
+<head type="sub">"Concentration."</head>
+
+<p>Let's take a look at one of these kinks. For the first time, WPB has in this order made effective in a large industry the policy of "concentration" which has been talked for some time.</p>
+
+<p>The whole farm implement industry is classified into three groups; according to the amount of the 1941 sales. Those selling more than 10 million dollars, class A; those selling from $750,000 to the 10 million, class B; those selling less than $750,000, class C.</p>
+
+<p>Now, L-170 concentrates the making of all farm implements into one mass and allocates to the class A, B and C manufacturers certain percentages of different implements. Illustration: on potato planters there is no quota at all for the big class A manufacturers; 75% of the quota goes to the smallest plants. Undoubtedly the intent of the order is to relive the larger manufacturers from farm machine making and put them on war work, centering most of the farm implement-making in small plants outside of areas where labor shortages are most acute.</p>
+
+<p>That is good theory and perfectly logical&#8211;on paper, but on first study it seems to lessen chances for farmers in the Dakotas and other "long haul" territories to get machinery. Why? Because a good share of the smaller machinery firms are located a long way from Dakota and many of them have no "dealer-distribution" in this territory.</p>
+</div1>
+
+<div1>
+<head type="sub">The "Dealer" Problem.</head>
+
+<p>As everyone knows, machine dealers in the Dakotas are very largely "line house" men or firms, each one handling a "line of implements made by a good sized concern&#8211;a class A manufacturer. These dealers carry the kinds of implement farmers out here are accustomed to use&#8211;and very often, too, the dealer assists in financing purchase of new machinery.</p>
+
+<p>Now, if a farmer finds his dealer has been shut off from stock because his manufacturer is no longer permitted to make up that stock, and dealers of other lines regularly handled in this section are also shut off&#8211;and if the firms which are permitted to make machines for similar purposes have no dealers out here, and are so far away that dealerships are difficult to establish&#8211;well, that farmer would seem to be in a pretty pickle, so far as getting any new machinery.</p>
+
+<p>If he "gets by" his county rationing board and secures a permit to buy a machine, and there is no dealer, just how is he going to get hold of a machine, arrange for its financing if he can't quite handle that himself, and find parts of it later?</p>
+
+<p>Whether the rationing system now being worked out by government will find a way so that farmers at long distances from the small manufacturers&#8211;dealerless in Dakota&#8211;can get at their machines, and whether service arrangements and finance plans can be worked out, remain to be seen.</p>
+</div1>
+
+<div1>
+<head type="sub">Exempt From Concentration.</head>
+
+<p>Fortunately repair parts, tractors, tractor-mounted implants and combines are exempted by the WPB from the concentration program; what small supply of such machines is permitted, will be made up by the firms which have been supplying them in the pas. But on many other items "you take what you gets"&#8211;if any at all&#8211;and cannot plan on securing the particular make preferred.</p>
+</div1>
+
+<div1>
+<head type="sub">Repair Parts.</head>
+
+<p>Repair parts are to be made in the plants accustomed and tooled to do that, and L-170 fixes repair part production at 130% of the 1940 figures, on a dollar basis&#8211;it does not mean that 130% of the parts made in 1940 will result. However, it is good to know that these specialized repairs&#8211;"trade-name products"&#8211;will be available, IF dealers can stay in business in the face of heavily reduced sales. Some dealers won't make it.</p>
+</div1>
+
+<div1>
+<head type="sub">Too Late!</head>
+
+<p>It takes time to assemble material and get into production of machinery and parts. Usually the machines and the parts that Dakota farmers require in the spring are about made up by this time in the fall, ready to ship out to dealers during the winter.</p>
+
+<p>No chance for that now. The implement men will hustle, but they have had to wait so long for the go sign&#8211;word on their manufacturing allocations and in many cases allocations of materials, too&#8211;that there is hardly a Chinaman's chance of getting equipment and repairs out to local demand spots, in proper time. And it is not at all clear as yet that L-170 provides for making up the attachments which on many machines are just as much required as are ordinary repair parts.</p>
+
+<p>Now, in this pretty gloomy picture, don't overlook the fact that manmade regulations are subject to change.</p>
+
+<p>The lateness of the whole situation and the restrictions of the new order make it all too sure that so far as next season is concerned farmers will be "up against it" in finding implements they need, but as the effect of the order becomes apparent to the War Production Board&#8211;as the hampering of food production becomes as clear to the board as it already is to others, it would seem that L-170 is almost surely due for amendment.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

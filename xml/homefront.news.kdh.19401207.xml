@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.kdh.19401207 SYSTEM "homefront.news.kdh.19401207.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.kdh.19401207">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Nebraska Receives Place in Defense Industry Picture</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.kdh.19401207</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Kearney Daily Hub</title>
+<title level="a">Nebraska Receives Place in Defense Industry Picture</title>
+<title level="a" type="sub">Plane Assembly Plant to Be Built in Omaha</title>
+<author></author>
+<biblScope type="pages">1-A</biblScope>
+<biblScope type="columns">1-2</biblScope>
+<publisher>Kearney Daily Hub</publisher>
+<pubPlace>Kearney, NE</pubPlace>
+<date value="1940-12-07">1940-12-07</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>War Production</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-05</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.kdh.19401207">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+
+<head type="main">Nebraska Receives<lb/>Place in Defense<lb/>Industry Picture</head>
+<milestone unit="smallbar"/>
+<head type="sub">Plane Assembly<lb/>Plant to Be<lb/>Built in Omaha</head>
+
+<p><address><addrLine>OMAHA</addrLine></address> (UP)&#8211;Nebraska received its place in the national defense industries picture today with disclosure in Washington that a $10,000,000 aircraft assembly plant employing perhaps 20,000 persons will be constructed soon at Fort Crook.</p>
+
+<p>The plant will be one of four in the nation under a program to turn out 12,000 bombers from parts manufactured by the automobile industry.</p>
+
+<p>Omaha and Kansas City were selected by the war department and national defense commission as the first two assembly sites. Both will assemble medium bombers. The two other sites, both of which will assemble heavy bombers, also will be located in the Midwest and it was indicated that the war department will soon announce where.</p>
+
+<p>The Omaha plant will be built by the government and operated by the Glen L. Martin company of Baltimore, Washington sources said. North American aviation corporation will operate the Kansas City plant.</p>
+
+<p>The Omaha plant and the three companion plants each will have a capacity of 100 planes monthly, a production rate that would require two and a half years to complete the 12,000-plane program.</p>
+
+<p>The production of bombers, both heavy and medium, was described in Washington as "perhaps the greatest need" in the nation's rearmament drive. From a military standpoint, it was said the output of bombers is becoming "increasingly acute" in view of pressure by the British for more bombers for retaliation raids against Germany.</p>
+
+<p>It was believe din Omaha that construction work will start within a month or so. The plant reportedly will cover between 100 and 200 acres, thereby necessitating additional land to that now available at Fort Crook. For testing the bombers, it was said an airfield with runways 5,000 feet long would be needed.</p>
+
+<p>The plant will be the largest in Omaha, with the exception of the railroads, Armour and company meat packing plant has a $10,000,000 plant and employs about 2,300 persons. Washington reports said the bomber plant probably will employ 10,000 or 12,000 persons on its main shift and might run three shifts.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+

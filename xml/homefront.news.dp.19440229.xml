@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19440229 SYSTEM "homefront.news.dp.19440229.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19440229">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Farm Work Call Is Issued to Women and Children</title>
+<author>Frances Wayne</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19440229</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">Farm Work Call Is Issued to Women and Children</title>
+<title level="a" type="sub">Federal Official Suggests in Denver Address That School Programs Be Shortened So Pupils May Enter War on Production Front.</title>
+<author>Frances Wayne</author>
+<biblScope type="pages">7</biblScope>
+<biblScope type="columns">1-2</biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, CO</pubPlace>
+<date value="1944-02-29">1944-02-29</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-20</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.dp.19440229">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p7"/>
+
+<head type="main">FARM WORK CALL IS ISSUED<lb/>TO WOMEN AND CHILDREN</head>
+<milestone unit="smallbar"/>
+<head type="sub">Federal Official Suggests in Denver Address That<lb/>School Programs Be Shortened So Pupils May<lb/>Enter War on Production Front.</head>
+<milestone unit="smallbar"/>
+<byline>(By FRANCES WAYNE.)</byline>
+
+<p>Women and children first.</p>
+
+<p>That has usually been a command reserved for ships in peril on the sea, but world war has made it a command to and responsibility on every household where they are health women and healthy children who are willing to serve their country and help win the war by doing farm work.</p>
+
+<p>This fact, along with the pointing out of "regional hot spots," headlined the second day's program of the farm labor conference Tuesday at the Shirley-Savoy hotel.</p>
+
+<p>Meredith C. Wilson, deputy director of the federal extension service at Washington, issuing a challenge to women and children, suggested that schools telescope programs to enable boys and girls to continue their education and at the same time engage in essential service, because the farm production battle ahead can be won only if all loyal Americans join forces."</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">WORKERS' TRAVEL<lb/>COST TO BE PAID.</head>
+
+<p>He pledged that "the war food administration will endeavor to provide a mobile force of 200,000 workers to help save the crops in the most critical areas, but this number, spread <sic corr="throughout">thruout</sic> forty-eight states, cannot fill the gaps left by farm people who have gone to war, or into war industries."</p>
+
+<p>Under public law 229, providing for a supply and distribution of farm labor for 1944, aliens brought in from other countries and native Americans who are assigned to states distant from their own will have transportation paid, will receive subsistence while in transit and medical care, and, if by some fell chance they die, Uncle Same will meet the burial costs.</p>
+
+<p>What is paid the emergency farm labor is not to be regarded as "hay." Speaking for the wage stabilization division, office of labor of war food administration&#8211;not to be confounded with the office of labor presided over by Madame Frances Perkins&#8211;W. T. Ham, chief of the wage stabilization division for WFA, told his fellow delegates that wage stabilization machinery may have to be brought into operation in additional areas and applied to more crops this year in farm wage brackets under $2,400 a year.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">CHANGING SCALE<lb/>COMPLICATED MATTER.</head>
+
+<p>"Last year," Ham said, "such measures had to be applied to but two states. In Florida and California wage ceilings were imposed on the citrus, asparagus, tomatoes, cotton and raisin grapes harvest, and wages between $2,400 and $5,000 are frozen."</p>
+
+<p>No employer can change this scale without entering upon a series of maneuvers which would make certain operations of OPA seem like kindergarten stuff. Also, according to Carl Hancock of the extension service, who looks after publicity, contracts are carefully worked and signed by employer and <sic corr="employee">employe</sic> before the planting and digging begin.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">U.S. MUST BECOME<lb/>FOOD CENTER.</head>
+
+<p><sic corr="Throughout">Thruout</sic> the speeches and panel discussions one thing stood clear: The United States of America designated by President Roosevelt as the "Arsenal of Democracy" must become, and that without delay, the food production center of the world. Of the 12 million workers needed, 8 millions are farm folk and the additional 4 millions must be recruited&#8211;and a majority of these MUST be women and children.</p>
+
+<p>W. C. Holly, assistant chief of the program branch of WFA said: "In working out or plans, we've got to consider weather as an element to reckon with when it comes to work, harvesting and pay. Agriculture, unlike industry, must consider the rains and the winds and the quality of soil and avail itself of the service of all available persons."</p>
+
+<p>Wednesday morning Col. W. M. Wilder of the selective service staff in Washington will speak on "Deferment of Agricultural Workers." Various committees will report on farm production.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

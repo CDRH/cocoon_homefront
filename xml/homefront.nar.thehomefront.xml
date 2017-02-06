@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.nar.thehomefront">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">The Homefront</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.nar.thehomefront</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2009</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+
+<div1>
+<head>The Homefront</head>
+    <p>This section provides access to the major issues of daily life during the war years in the Great Plains.  The challenges of wartime life required adaptation and economic opportunities often failed to last beyond the war.</p>
+    <head type="sub"><ref n="warindustries.html?section=homefront">War Industries</ref></head>
+        World War II brought economic opportunities to the residents of the Great Plains.  Federal spending financed the defense industries which provided jobs and large payrolls.  Wartime economic expansion, however, brought social and economic problems that remained unsolved when the war ended.
+    <head type="sub"><ref n="women.html?section=homefront">Women</ref></head>The war proved life altering for many women in the Great Plains, particularly at aircraft manufacturing plants in Wichita, Oklahoma City, Tulsa, and Dallas/Ft. Worth.  Women enjoyed the independence and social changes that came with employment and a regular pay check.
+    <head type="sub"> <ref n="homedefense.html?section=homefront">Home Defense</ref></head>By early 1941, residents of the Great Plains began mobilizing for home defense by providing surveillance as members of the Civil Air Patrol and practicing blackout drills.
+    <head type="sub"><ref n="dailylife.html?section=homefront">Daily Life</ref></head>World War II disrupted and changed the main patterns of daily life for residents of the Great Plains.  Economic diversification encouraged mobility, particularly from the farms and towns to the cities with defense industries.  People learned to cope with new social and economic problems, always hoping that the economic good times would last and that the days of privation and want that they had experienced during the Great Depression would not return.
+    <head type="sub"><ref n="rationing.html?section=homefront">Rationing</ref></head>The people of the Great Plains endured rationing which the federal government mandated for a host of commodities to ensure equitable distribution and fair prices while controlling hoarding and fighting inflation.  Sugar, meat, gasoline, and tires became the major rationed goods that caused complaints but not hardships.  Black markets developed, particularly for beef.  The people of the Great Plains often violated these regulations to meet their own needs.  They supported the war effort but always on their own terms.
+    
+
+    <lb/><lb/><lb/><lb/><lb/><lb/><lb/>
+
+
+<p></p>
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dmn.19450629 SYSTEM "homefront.news.dmn.19450629.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dmn.19450629">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sugar Lack May Shut Bakeries Extra Day</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dmn.19450629</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Dallas Morning News</title>
+<title level="a">Sugar Lack May Shut Bakeries Extra Day</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1-II</biblScope>
+<biblScope type="columns">1-2</biblScope>
+<publisher>Dallas Morning News</publisher>
+<pubPlace>Dallas, TX</pubPlace>
+<date value="1945-06-16">1945-06-29</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-sugar</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-08-28</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.dmn.19450629">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">Sugar Lack May Shut<lb/>Bakeries Extra Day</head>
+
+<p>Dallas bakeries may be forced to close and extra day a week because of further ration cuts in sugar and shortening effective July 1.</p>
+
+<p>Ray Braden, local baker and secretary of the Texas Bakers Association said Thursday that bakers will be operating during the next quarter on 60 per cent of the sugar and 75 per cent of the shortening used in 1941.</p>
+
+<p>"Popular items, such as angel food cake, which takes a high percentage of sugar, will have to be discontinued, Braden said. "Doughnuts have virtually been a thing of the past for some time."</p>
+
+<p>In place of popular items taking large amounts of sugar and shortening, bakers have been substituting recipes using part corn syrup and honey. Loaf and sheet cakes, apple sauce cakes and gingerbread cookies are made in place of all-over iced cakes and sugar cookies.</p>
+
+<p>A rationing system to customers either by closing an extra day a week or by closing early each day was forecast by Braden.</p>
+
+<p>At present bakeries are doing 50 per cent more business than in 1941, and have been getting along fairly well with rations of 50 per cent of the sugar used in 1941 and 90 per cent of the shortening.</p>
+
+<p>Braden said his own plants would be closed all of July to give employees a vacation and conserve supplies. He usually closes for two weeks during July.</p>
+
+<p>"There's one thing about the shortage of bakery products that is different from other shortages - you can't hoard what you buy because it won't keep." Braden said. "People will have to get used to being unable to buy just anything they want."</p>
+
+<p><hi rend="center">&#8212;Remember Pearl Harbor&#8212;</hi></p>
+
+</div1>
+
+</body>
+</text>
+</TEI>

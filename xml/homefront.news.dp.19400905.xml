@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19400905 SYSTEM "homefront.news.dp.19400905.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19400905">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lowry Expansion Outstrips Schedule</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19400905</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">Lowry Expansion Outstrips Schedule</title>
+<title level="a" type="sub">Present Jobs to Be Wound up by Jan. 1</title>
+<title level="a" type="sub">Bids Will Be Asked Tuesday for 100 New Buildings</title>
+<author></author>
+<biblScope type="pages">1</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, Colorado</pubPlace>
+<date value="1940-09-05">1940-09-05</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-27</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.dp.19400905">
+<figDesc></figDesc>
+</figure> -->
+
+<figure>
+<figDesc>LOWRY FIELD CONSTRUCTION SETTING RAPID PACE<lb/>
+Workers, thousands of them, were going at top speed at Lowry field Thursday, pushing to competition the work on dozens of buildings which will be greatly needed in the air corps expansion program. Lieut. Col. Carl H. Jabelonsky, constructing quartermaster, said most of the permanent buildings now under construction will be completed by the first of the new year. Construction now under way at the field totals more than 3 million dollars. Tuesday bids will be opened for the building of 100 temporary buildings to cost another one and one-fourth million dollars. Shown here is the huge barracks building, one of the largest ever built by the army, which will be complete within several months, and the new central heating plant, which will be finished late this month.</figDesc>
+</figure>
+
+<figure>
+<figDesc>This large building, the central heating plant for the entire field, will be finished more than a month and a half ahead of schedule, which is characteristic of all construction at the post at present. This plant will cost more than $400,000.</figDesc>
+</figure>
+
+<pb n="p4"/>
+<head type="main">LOWRY EXPANSION OUTSTRIPS SCHEDULE</head>
+<milestone unit="smallbar"/>
+<head type="sub">PRESENT JOBS<lb/>
+TO BE WOUND<lb/>
+UP BY JAN. 1</head>
+<milestone unit="smallbar"/>
+<head type="sub">Bids Will Be Asked<lb/>
+Tuesday for 100<lb/>
+New Buildings</head>
+<milestone unit="smallbar"/>
+
+<p>New permanent construction at Lowry field is proceeding so rapidly that virtually all the present jobs under contract, totaling more than 3 million dollars, should be complete by Jan. 1, 1941, Lieut. Col. Carl H. Jabelonsky, constructing quartermaster, said Thursday.</p>
+
+<p>Colonel Jabelonsky said he is highly pleased over the way the contractors are speeding up their jobs because of the army expansion program. He declared all the projects were "well ahead of schedule."</p>
+
+<p>Most rapid of all is construction of the new 300-foot-square hangar, which will cost approximately $434,000.</p>
+
+<p>Colonel Jabelonsky said this work is about 70 per cent complete and probably would be finished within another month. The contract does not require completion until Jan. 21, 1941.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">BARRACKS MUST BE<lb/>
+FINISHED BY DEC. 28.</head>
+
+<p>The giant barracks buildings, which will accommodate 1,880 soldiers, must be finished by Dec. 28 but the constructing quartermaster said this building is fast nearing completion and will be ready much in advance of this time.</p>
+
+<p>Built of cream-colored brick, the same as all other new buildings on the reservation, the barracks will cost in excess of 2 million dollars.</p>
+
+<p>The central heating plant, built at a cost of more than $400,000, is not scheduled by contract to be finished before Nov. 19, but will be in operation late this month, Colonel Jabelonsky said. Nearly all steam transmission lines, costing about $100,000, have been laid.</p>
+
+<p>On the heating plant a double shift has been used for several months.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">CONCRETE BEING<lb/>
+POURED FOR RUNWAY.</head>
+
+<p>Pouring concrete for the 150-foot-wide extension of the north-south runway was begun Wednesday. This and the paving of the mile-long east-west runway will be completed within forty-five days, altho the contract does not call for completion for nearly ninety days.</p>
+
+<p>An air corps warehouse to cost in excess of $100,000 is 60 per cent complete, altho the completion deadline is Jan. 21.</p>
+
+<p>Colonel Jabelonsky announced a radio transmitter building, east of the field, has just been completed.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">FORMS BEING LAID<lb/>
+FOR $400,000 SCHOOL</head>
+
+<p>Also running ahead of schedule in construction is the communications building.</p>
+
+<p>Forms were being laid Thursday for the foundation of the new $400,000 school building. This building should be completed early next year.</p>
+
+<p>Meantime, Colonel Jabelonsky said he is prepared to receive bids next Tuesday for 100 new temporary buildings, to cost one and one-fourth million dollars, to take care of increased numbers of soldiers at Lowry field.</p>
+
+<p>These new buildings will include fifty barracks, school buildings, mess hall, creation rooms and kitchens. All must be completed by the first of the new year under war department orders.</p>
+
+<p>To carry out this mass building program Colonel Jabelonsky said virtually every available worker in Denver probably would be pressed into employment.</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

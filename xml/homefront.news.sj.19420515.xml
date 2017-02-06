@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.sj.19420515 SYSTEM "homefront.news.sj.19420515.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.sj.19420515">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Saline Protest In</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.sj.19420515</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2008</date>
+<availability>
+<p>Copyright &#169; 2008 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Salina Journal</title>
+<title level="a">Saline Protest In</title>
+<title level="a" type="sub">Falun and Smolan Request for Cantonment Further West Reaches Government</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">2</biblScope>
+<biblScope type="columns"><!-- need to fill-in --></biblScope>
+<publisher>Salina Journal</publisher>
+<pubPlace>Salina, Kansas</pubPlace>
+<date value="1942-05-15">1942-05-15</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-23</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription and Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.sj.19420515">
+<figDesc></figDesc>
+</figure> -->
+
+<pb n="p2"/>
+<head type="main">SALINE PROTEST IN</head>
+<milestone unit="smallbar"/>
+<head type="sub">Falun and Smolan Request for<lb/>
+Cantonment Further West<lb/>
+Reaches Government</head>
+
+<p>Several days ago the Salina Journal reported that people in the Smolan and Falun vicinities had held a protest meeting at Falun high school over a second war time project rumored for that part of the county. Results of this meeting have now reached Washington, D. C. according to a dispatch in the morning's Topeka Capital, whose Washington correspondent's story says:</p>
+
+<p>"Senator Capper and Rep. Frank Carlson of Concordia, sixth Kansas, surprised war department officials today.</p>
+
+<p>"For months now, members of congress have been harrying the war and navy departments to locate war industries, new plants, branch plants, air bases, air training schools, cantonments in their districts and states.</p>
+
+<p>"Today Senator Capper took to Adjutant General Ullo and Congressman Carlson relayed to Assistant <sic corr="Secretary">Secreotary</sic> of War Patterson, petitions from farmers in Saline county protesting against a cantonment to house 35,000 men in training in their communities.</p>
+
+<p>The Kansas members of congress presented a petition adopted by some 100 farmers at a meeting the night of May 11 at Falun, reading as follows:</p>
+
+<p>"'That we respectfully petition the department of war of the United States that another site for the cantonment be selected for the following reasons:</p>
+
+<p><hi rend="bold">"'1.  It is our understanding that approximately 50,000acres of land will be required for the site.</hi></p>
+
+<p><hi rend="bold">"'2.  That about 1,00 farm people will be compelled to move from their homes and seek other places of residence.</hi></p>
+
+<p><hi rend="bold">"'3.  That it will destroy the social life of several well-established communities, Falun, Smolan, Bavaria, Brookville and others with well-established schools and churches.</hi></p>
+
+<p>"'That while the people of out communities are willing to make every sacrifice necessary to win the war, it is the feeling that there is ample and suitable space for a cantonment only a few miles west of the proposed site, which is thinly settled and where no community life would be affected. Arnold J. Englund, secretary, Chester Peterson, chairman.'</p>
+
+<p>"War department officials said here (in Washington) that the exact location of the cantonment is in the hands of the district engineers office at Kansas City, the Washington H. Q. having approved only a general location. The proposed cantonment is said to be entirely distinct from and in addition to the cantonment near Salina in connection with the Salina air base."</p>
+</div1>
+
+
+</body>
+</text>
+</TEI>

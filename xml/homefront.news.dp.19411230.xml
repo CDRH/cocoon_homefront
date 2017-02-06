@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19411230 SYSTEM "homefront.news.dp.19411230.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19411230">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Only 1.4 Per Cent of Colorado Cars May Get Tires</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19411230</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">Only 1.4 Per Cent of Colorado Cars May Get Tires</title>
+<title level="a" type="sub">Quota Allotted for January as Nine Get Rationing Jobs</title>
+<title level="a" type="sub">Eligible Motorists Must Get Certifications That Rubber Cannot Be Rehabitated; Machienry Being Set Up Rapidly</title>
+<author></author>
+<biblScope type="pages">3-A</biblScope>
+<biblScope type="columns">1-2</biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, CO</pubPlace>
+<date value="1941-12-30">1941-12-30</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-automobiles</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-04</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.dp.19411230">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p3"/>
+<head type="main">ONLY 1.4 PER CENT OF COLORADO CARS MAY GET TIRES</head>
+<milestone unit="smallbar"/>
+<head type="sub">QUOTA ALLOTTED FOR JANUARY<lb/>AS NINE GET RATIONING JOBS</head>
+<milestone unit="smallbar"/>
+<head type="sub">Eligible Motorists Must Get Certifications That<lb/>Rubber Cannot Be Rehabilitated; Machinery<lb/>Being Set Up Rapidly.</head>
+<milestone unit="smallbar"/>
+
+<p>Colorado was informed Tuesday of is tire quota for January, and machinery for the rationing of tires was being set up rapidly as the names of nine members of Denver rationing boards were announced.</p>
+
+<p>The sale of tires in the state next month, according to the information received from the regional headquarter of the office of price administration in San Francisco, will be restricted to one new tire for every seven vehicles eligible to buy tires under the rationing plan.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">1.4 PER CENT OF CARS<lb/>MAY GET ONE TIRE EACH.</head>
+
+<p>Officials estimate that only 10 per cent of the vehicles now operated in the state will come within the qualifications for those permitted to buy tires. They must be vehicles whose use necessary to the war effort or to the preservation of public health and safety.</p>
+
+<p>Of that 10 per cent, only one care out of seven, or about 14 per cent will be permitted to buy one tire in January. That means that in January 1.4 per cent of the vehicles operated in the state may be eligible to receive one tire each.</p>
+
+<p>But even those vehicles will eligible only after dealers have certified that the tires to be replaced can not be rehabilitated, and rationing boards have decided that the vehicle is one which fulfills a war, health or safety need.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">DENVER WILL HAVE<lb/>SIX RATION BOARDS.</head>
+
+<p>Robert E. Harvey, Denver tire rationing administrator, announced Tuesday the names of nine men who accepted appointments to the tire rationing boards.</p>
+
+<p>There will be six boards in the city&#8211;two for the downtown section and four for the residential sections. Each board will consist of six persons, instead of three as originally planned, because it is believed the work will entail so much detail six men will be necessary.</p>
+
+<p>The nine men whose appointments were announced Tuesday are Melvin H. Schlesinger, Royden K. Marsh, Fred G. Walsen, John M. Kennedy Jr., Tom Botterill, Harold R. Dolan, m. E. Houson, Arthur S. Brodhead and former Chief Justice Charles C. Butler.</p>
+
+<p>Those men, with three others whose appointments have not yet been announced, will comprise the two downtown rationing boards. One board will have offices in the city and county building and the other at the union station.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">BOARD MEMBERS<lb/>ARE SWORN IN.</head>
+
+<p>Harvey also announced the appointment of two men to serve in general capacities with the Denver tire rationing administration. They are Brown W. Cannon and Stanley Brandenburg.</p>
+
+<p>None of the men in the tire rationing setup will receive compensation.</p>
+
+<p>The nine board members met Tuesday morning with Mayor Benjamin F. Stapleton and V. L. Board, chairman of the Denver defense council, and were sworn in as officers of the United States government.</p>
+
+<p>Gov. Ralph L. Carr said the names of the board members in counties outside of Denver will not be announced until all acceptances have been received.</p>
+
+<p>Members of the policy-forming committee of the state defense council were busy at telephone company headquarters Tuesday calling prospective board members to get their acceptances.</p>
+
+<p>Among those who were making the calls were Secretary of State Walter Fl. Morrison, Purchasing Agent Leon Lavington and State Auditor Charles M. Armstrong.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

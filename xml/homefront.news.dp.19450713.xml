@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19450713 SYSTEM "homefront.news.dp.19450713.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19450713">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">U.S. Sugar Mess Will Get Worse</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19450713</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">U.S. Sugar Mess Will Get Worse</title>
+<title level="a" type="sub">Shortage Need Never Have Existed but for Ignorance and Stubbornness of Bureaucrats, Says Congressman Hill</title>
+<author></author>
+<biblScope type="pages">1</biblScope>
+<biblScope type="columns">2-4</biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, CO</pubPlace>
+<date value="1945-07-13">1945-07-13</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-sugar</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-05</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.dp.19450713">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">U.S. SUGAR MESS<lb/>WILL GET WORSE</head>
+<milestone unit="smallbar"/>
+<head type="sub">Shortage Need Never Have Existed but for <orig reg="Ignorance">Igno-</orig><lb/>rance and Stubbornness of Bureaucrats,<lb/>Says Congressman Hill.</head>
+<milestone unit="smallbar"/>
+
+<p>The sugar shortage is going to get worse, Congressman Hill of the northern Colorado district warned in Denver Friday. He predicted that use of sugar for the manufacture of any type of so-called luxury foods may be stopped entirely.</p>
+
+<p>Hill, who has been selected by a number of Republican members of the house to lead the fight against bureaucratic bungling of the sugar situation, declared the present shortable trouble really started more than four years ago and has its roots in the new deal scheme either to destroy the American beet sugar industry or reduce it to such a low level it never could amount to anything.</p>
+
+<p>"Back in February, 1941," Congressman Hill stated, "all the members of the Colorado delegation in congress had a conference with the then secretary of agriculture, Wickard, and Dr. Bernhardt, head of the sugar section. We told them what would happen to the nation's sugar supply and that is exactly what has happened. The late Senator Adams, Senator Johnson and the rest of us gave them the whole sugar picture.  But in the face of that, with a war shortage threatening, they ordered a cut in the beet sugar acreage.</p>
+
+<p>"Over our protests, they ordered a 16 per cent cut in Colorado's sugar beet acreage and they took for the basis of that cut the lowest acreage the state had had in years. As they were determined to make a cut, we tried to prevail upon them to base that on the largest or the average acreage. But they wouldn't listen. Cutting down the sugar beet acreage on the eve of American entry into the war was the beginning of the trouble. We never got back."</p>
+
+<p>Congressman Hill also pointed to two other factors in the bureaucratic bungling of the sugar situation.</p>
+
+<p>"The OPA has used inexperienced end unqualified men in the formulation of many of its policies," he declared. "They have such a limited acquaintance with the United States that it's pitiful to hear them testify before our committees. Many times we actually have been embarrassed by their lack of information.</p>
+
+<p>"At least three different government agencies have been working on the distribution angle. Each of them gives a different set of figures. Here they are supposed to furnish our committee with facts upon which congress is to act, and they can't agree among themselves as to what the facts are."</p>
+</div1>
+
+<div1>
+<head type="sub">PLACES HOPE<lb/>IN ANDERSON.</head>
+
+<p>Hill expressed confidence that the new secretary of agriculture&#8211;former Congressman Anderson of New Mexico&#8211;will be able to do something to straighten out the food situation if he is given ample authority and backing.</p>
+
+<p>Bureaucratic regimentation has been extended so far, Congressman Hill declared, that members of congress who are elected to make laws for the nation now have to spend most of their time trying to protect their constituents against being driven out of business.</p>
+
+<p>"Why should a congressman have to use his influence to get trucks for his constituents?" Hill asked. "Of course, we're glad, to help our people in every way. But why should it be necessary for a farmer or businessman to seek the help of his congressman to buy a truck? Why should any American citizen have to depend upon his congressman to save his business not just once but every day?"</p>
+
+<p>Hill alleged that the soap situation has been as badly bungled as the sugar business.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.rcdj.19430315 SYSTEM "homefront.news.rcdj.19430315.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.rcdj.19430315">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Second Hand Farm Implements, Once Ignored, Are Now Bringing Fabulous Prices At Rural Sales</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.rcdj.19430315</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Rapid City Daily Journal</title>
+<title level="a">Second Hand Farm Implements, Once Ignored, Are Now Bringing Fabulous Prices At Rural Sales</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">2</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Rapid City Daily Journal</publisher>
+<pubPlace>Rapid City, SD</pubPlace>
+<date value="1943-03-15">1943-03-15</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-25</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.rcdj.19430315">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p2"/>
+
+<head type="main">Second Hand Farm Implements,<lb/>Once Ignored, Are Now Bringing<lb/>Fabulous Prices At Rural Sales</head>
+<milestone unit="smallbar"/>
+
+<p>Farmers and ranchers are holding customary March auction sales&#8211;and auctioneers&#8211;are really "having fun" these days.</p>
+
+<p>Broken and discarded machinery and many items usually listed as "miscellaneous items too numerous to mention" have really come into their own.</p>
+
+<p>Odds and ends of farming equipment that a couple of years ago weren't even worth offering in prospective purchasers are now being eagerly sought after and are bringing fabulous prices.</p>
+
+<p><hi rend="bold">Some items of second hand minor machinery are being as much as eight times their cost when new.</hi></p>
+
+<p>A manufacturing nation geared to war production is the reason. Many items of machinery, from tractors to simple walking plows, are either rationed or unobtainable, even with priorities.</p>
+</div1>
+
+<div1>
+<head type="sub">Some Under Ceiling</head>
+
+<p>Five major items of farm machinery come under price ceiling regulations, whether sold by a dealer or an individual. They are farm tractors, hay balers, corn binders, combines and corn pickers. If under a year old they cannot be sold for more than 85 per cent of the new price. If they are over a year old they cannot be sold for over 70 per cent of the new price.</p>
+
+<p>Some other types of implements also have ceiling prices as far as dealers are concerned, as do parts, but are not affected by regulations when sold by individuals or at farm auctions. Those things are going to the highest bidders&#8211;and the bidding is the highest it has been in many years. Crowds at the sales are also much larger and much more interested than they have been for a long time, auctioneers report.</p>
+
+<p>Common plows, for several years passed over as the auctioneer swung his hammer, are now bringing cash.</p>
+
+<p>But among the other items not included under price ceilings some really amazing prices are being paid by eager farmers and ranchers unable to buy new.</p>
+</div1>
+
+<div1>
+<head type="sub">Startling Examples</head>
+
+<p>At a sale near Belle Fouche a hay stacker 18 years old brought $175. A manure spreader of the same vintage brought $170. A kerosene refrigerator that cost $169 three years ago sold for $330.</p>
+
+<p>Near New Underwood a gasoline engine that cost $5 19 years ago brought $36&#8211;and the purchaser was glad to get it.</p>
+
+<p>New Quinn a tractor plow six years old that cost $5 when new brought $42.</p>
+
+<p>At a sale in the Oelrichs vicinity an engine and pump jack that cost $43 when new two years ago was auctioned for $68.</p>
+
+<p>Near Piedmont a seed drill that was new last year brought $283, nearly $60 more than its original cost.</p>
+
+<p>Wire fencing of any description is hard to get and rolls of second hand material that the average farmer wouldn't have looked at a couple of years ago is now being eagerly sought. Wire that when new cost about 43 cents a rod sold at auction for 92 cents a rod at a sale near Oelrichs.</p>
+
+<p>The scarcity of machinery has also affected the automobile field. A local second hand sales lot is currently offering a 1923 Model T Ford roadster. The "asking prices" is $125.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

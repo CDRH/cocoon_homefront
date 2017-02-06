@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.lsjs.19430131a SYSTEM "homefront.news.lsjs.19430131a.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.lsjs.19430131a">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">War Brings Many Changes in Lincoln</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.lsjs.19430131a</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Lincoln Sunday Journal and Star</title>
+<title level="a">War Brings Many Changes in Lincoln</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">D-2</biblScope>
+<biblScope type="columns">1-4</biblScope>
+<publisher>Lincoln Sunday Journal and Star</publisher>
+<pubPlace>Lincoln, NE</pubPlace>
+<date value="1943-01-31">1943-01-31</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-general</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-05</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.lsjs.19430131a">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p2"/>
+<head type="main">War Brings Many Changes in Lincoln</head>
+
+<p>Headlines indicate more potently than any other medium the growth, development and outstanding activities in Lincoln during 1942. Too, they show just as plainly the part played by the chamber of commerce in this development. All of it was under the leadership of Harry K. Grainger, as president of the chamber.</p>
+
+<p>The most outstanding development&#8211;the one that gave impetus to much that followed&#8211;was announcement on April 24 that an army air forces mechanical training school had been awarded to the city. This has been completed on the site of the old municipal airport, expanded from 160 to 2,757 acres, three miles northwest of the city.</p>
+
+<p>Hard on the heels of the air base announcement was another, and then a third. The first of these was the selection of Lincoln as the location for a branch factory for the making of elastic stop nuts for bolts, and purchase by the Elastic Stop Nut Corp., of Union, N. J., of the old Terminal warehouse for use as a plant.</p>
+</div1>
+
+<div1>
+<head type="sub">New USO Site.</head>
+
+<p>The second of this duo was location of the Nebraska ordnance plant at Mead, in itself a victory for the Lincoln chamber, since business men here went all out to bring the defense industry to that vicinity. There, as was the case at the airbase, multiplied millions of dollars were spent in constructing the plant and purchasing lands.</p>
+
+<p>With announcement that the air base was to be located here came a move to obtain a USO unit. That, too, was successful. It now is housed in the Rudge &amp; Guenzel building, 1220 N street. But the award of the air base to Lincoln did not stop the trend. To give the base the needed air protection, a group of satellite airports was necessary. They now are either complete or well on their way to completion in upwards of a dozen communities within only a few minutes flight of Lincoln.</p>
+</div1>
+
+<div1>
+<head type="sub">Auxiliary Work.</head>
+
+<p>Acquisition of the air base also made necessary the construction of a water line to the site, by the city's water department, at a cost of $154,800, plus $22,000 for a booster pump station. A power line also was built, and a sanitary sewer, the two costing in excess of $70,000. The sewer was constructed by the sanitary district.</p>
+
+<p>Construction of the air base also meant the installation of an aviation field for the landing and dispatch of planes. This was completed by Lincoln contractors at a cost of 1,630,473.</p>
+
+<p>The exact cost of the air base and the accompanying facilities has not been available. It is estimated, however, that federal expenditures aggregated upward of $20,000,000. That does not include the satellite fields.</p>
+</div1>
+
+<div1>
+<head type="sub">War Contracts.</head>
+
+<p>Since the training came to its height there have been thousands of men on the post at all times, including those in the permanent party and the civilian staff, numbering hundreds. The payroll mounts into hundreds of thousands of dollars a month.</p>
+
+<p>The coming to Lincoln of the stop nut plant brought new residents, and gave employment to 1,500 persons. The payroll there reaches an estimated $2,000,000 a month.</p>
+
+<p>Also, through the support of the chamber, many Lincoln firms have been awarded war contracts. Like the other enterprises, these have increased employment and also payrolls. At times some of the se industries have been working around the clock.</p>
+
+<p>In addition to all this, the end of the year saw the beginning of operations here of additional car-building equipment at the Burlington's Havelock shops. The entire steel care building plant at Galesburg, Ill., had been moved here and was in full operation by the beginning of the present year. This added to the personnel at the shops and likewise enlarged the payroll.</p>
+</div1>
+
+<div1>
+<head type="sub">Stabilizes Employment.</head>
+
+<p>The important factor of this change, however, was the stabilization of employment at the shops. Burlington officials declared at the time that thereafter there would be no more breaks in employment as had been the case under the former program.</p>
+
+<p>The shops now are back on an operation basis that is an improvement over conditions prevailing in the heyday of the plant when locomotives were being built and rebuilt there. As a result Havelock now is rapidly approaching the Havelock of old.</p>
+
+<p>Ever since the capitol building was completed, the chamber has been advocating the opening of Fifteenth street from O to R. That was done last year, the work being completed late in the year.</p>
+</div1>
+
+<div1>
+<head type="sub">Bond Issue.</head>
+
+<p>To bring this about, the chamber proposed and supported a bond issue of $1,100,000, the greater portion of which was to be used in the construction of an auditorium. The proposal carried when submitted to the voters.</p>
+
+<p>Out of the total, Fifteenth street was widened and extended to R street from O. Land between M and N and Fifteenth and Sixteenth was purchased as an auditorium site, and buildings purchased to make room for the street widening.</p>
+
+<p>Total expenditures to Dec. 31 were $122,005. Of the $977,995 remaining, $155,608.13 has been invested in Lincoln General hospital warrants, reducing the immediately available cash to $822,387.04. The money invested in hospital warrants, however, can be made available on short notice. Meanwhile it is earning interest.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19450701 SYSTEM "homefront.news.dp.19450701.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19450701">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Midwest Women Save American Farms</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19450701</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">Midwest Women Save American Farms</title>
+<title level="a" type="sub">Girls Quit Office Jobs to Help Back Home; Families Work as Teams</title>
+<author></author>
+<biblScope type="pages"></biblScope>
+<biblScope type="columns">1-7</biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, CO</pubPlace>
+<date value="1945-07-01">1945-07-01</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-02</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-24</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.dp.19450701">
+<figDesc></figDesc>
+</figure>
+
+<pb n="  "/>
+
+<figure>
+<figDesc>NO SHINING ARMOR &#8212; Anna Tieaje of Bennington, Neb., grease her mechanical steed -- a tractor on the farm she operates while the men are away.</figDesc>
+</figure>
+
+<head type="main">MIDWEST WOMEN SAVE AMERICAN FARMS</head>
+<milestone unit="smallbar"/>
+<head type="sub">Girls Quit Office Jobs to<lb/>Help Back Home; <orig reg="Families">Fam-</orig><lb/>ilies Work as Teams</head>
+<milestone unit="smallbar"/>
+<byline>(By B. F. Sylvester.)</byline>
+<p rend="center">(Chicago Tribune Service.)</p>
+<p rend="right">Omaha, Neb.</p>
+
+<p>FARM girls and women, working up top nineteen hours a day, are doing a heroic job in the corn belt and largely removing a big labor question mark that threatens this year's food production.</p>
+
+<p>In Iowa, they are doing 12&#189; per cent of the farm work. It is their contribution, says John Fitzsimmons, emergency farm labor supervisor for Iowa, which makes the state's farms 91.6 per cent self sufficient in point of labor. On those farms, the work is done by the family. As there is almost no farm labor to be hired, the other 8.4 per cent comes from townspeople helping their country neighbors.</p>
+
+<p>Iowa harvested more than 600 million bushels of corn last year, about one-fifth of the country's total. This year, says Fitzsimmons, the acreage is larger, the still more farm boys have gone to war.</p>
+
+<p>The advance estimate last winter as to the extent of the draft was worse than the actuality, due to deferments by county war boards. Still, the farmer made his plane last winter to get along with less help. Thus, while the corn acreage is greater, the Iowa farmer has cut down on livestock feeding, especially hope.</p>
+
+<p>Frank Blecha, labor supervisor for Kansas, says the girls are saving that state's wheat crop. By the end of June, he estimates, 40,000 women will be driving tractors and trucks in the wheat belt. They have planted corn all over the state.</p>
+
+<p>Near Colby, Kans., the week of May 20, Blecha found a grandmother farming 800 acres with the help of a married son. The woman has one in the Pacific. She was driving a tractor, drawing ten-disc plows.</p>
+
+<p>Women are saving the day in South Dakota, planting potatoes and corn and preparing to put up hay and harvest the wheat crop. Mrs. Harriet Martinson, assistant to W. E. Dittmer, labor supervisor for the state, has done a <sic corr="thorough">thoro</sic> job of recruiting the women.</p>
+
+<p>In April she promoted eleven tractor schools in nine counties, which 245 women attended. One of the lectures included a style review of clothes suitable for farm work.</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<div1>
+<p>NEBRASKA has the tightest farm labor problem in its history, says A. H. Maunder, the emergency supervisor. A year ago the average age of the Nebraska farmer was 51, a time of life when, before the way, most farmers eased off on the field work or planned to retire. The average age is considerably more than a year older now, because an estimated 2,000 boys have been taken by the draft since.</p>
+
+<figure>
+<figDesc>WHOLE FAMILY COMES TO WORK&#8211;The entire M. F. Suutton family, near Brookings, S. D., comes in after a day digging potatoes. Left to right, Mrs. Sutton driving, Aileen and Jeanne. Mr. Sutton, Patricia and Philip came along in horse drawn wagon, not shown.</figDesc>
+</figure>
+
+<p>Hundreds of elderly and aging farm couples are working their farms alone, hanging on until the boys return. Near Kimball, recently, Everett Winter of Omaha, formerly tin the Nebraska extension service, came across a 65-year-old who, with only his wife to help, was operating a full section of 640 acres. When the boys were home this farmer had a big potato acreage. Now it is all in wheat.</p>
+
+<p>Grandparents have come out of retirement, grandfather doing the chores and light field work, grandmother doing the cooking and housework; fathers, mothers, daughters and young boys are in the fields. N rush times, farmers young enough to take it, work thirty-six-hour stretches, sleep ten hours or so and go back to the fields. These family teams in Nebraska produced 100 million bushels of corn more than normal.</p>
+
+<p>Anna Tieaje, for example, operates a 200-acre farm near Bennington, Neb. Her parents are past 80; one brother, Arthur, is in Europe and has been in the war three years. Another brother, George, died in France last summer following wounds at St. Lo. He had been in service three years. (Anna was cultivating when the messenger came out with the telegram.) She has the help of an older brother, Fred. Fred uses horses only, while Anna works with the power machinery. She learned how to drive a tractor in one day, before Arthur left.</p>
+
+<p>Since spring work started, Anna has slaved nineteen hours a day, arising at 5 o'clock. The Tieajes milk twelve cows, have pigs to look after and Anna raises geese. A girl who works until midnight in the field might permit a brother to do the chores, but Anna divides equally.</p>
+
+<p>When Arthur comes home, Anna will surrender the tractor gladly. "I wish he were here right now," she said, in the middle of an eighty-acre disking job.</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<div1>
+<p>MRS. ANNA PETERSEN farms seventeen miles northwest of Omaha. In fifteen years, half of which were almost ruinous from depression and drouth, she has built a rented eighty acres, with little equipment and no money, up to a well-equipped 500 acres. Her 26-year-old son, Merle; her 63-year-old brother, Adolph Jansen, and a hired man farm it, but they couldn't do it without Rosemary, Mrs. Petersen's daughter.</p>
+
+<p>Rosemary, out of high school a year, was on the way to being one of the best secretaries in Omaha. Last year, wet spring hampered the planting of 500 acres of corn. Rosemary took a leave of absence from her typewriter and drove a three-bottom plow for thirty days straight, from dawn to 10 p.m.</p>
+
+<p>This year, Rosemary is farming exclusively and intends never to return to the city. She does not work quite as hard as she did last year. She works the same hours but only six days a week instead of seven. Mrs. Petersen decided there would be no more Sunday field work, crop or no crop.</p>
+
+<p>Last winter, Rosemary took a welding course in Omaha, with her brother. As soon as the equipment can be obtained, a little welding shop and smith will be set up and Rosemary will repaid the farm machinery. She is also thinking of learning to fly a plane Merle has bought.</p>
+
+<p>Rosemary has a warning for girls who are thinking of doing farm work. She says it is rough on fingernails.</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<div1>
+<p>BESIDES the farm girls and women, Nebraska has a women's land army from cities and towns, under the direction of Miss Loa Davis, state home demonstration supervisor.</p>
+
+<p>Hundreds of tem work in the great hybrid corn fields. Their job is the detasseling, a desexing job by which pollination is prevented. The fields were a vivid and contrasting spectacle, tall corn and sometimes short girls and outfits that ranged from sunsuits to sunbonnets, veils and long sleeves to keep off the sun.</p>
+
+<p>However, most of the girls and women who come out from town to help wear slacks or overalls, with heavy gloves and either bandannas or wide straw hats as accessories. The ones who run tractors have been taught the dangers of light, fluffy dresses or trialing bits of clothing which might get caught in machinery.</p>
+
+<p>In many Midwestern cities it has become a custom for groups of women from offices or factories to go out in a group to shock grain. Twenty or thirty of them can clean up a sixty-acre field of wheat in two hours. Many farmers this year will have to depend on the willingness of such groups to come out and sweat.</p>
+
+<p>The call of the land is strong for the girls of the corn and wheat belts, and many a one is deaf to the beckoning of the city and the highly paid war jobs, or has left such a job to come back home in the crisis. These girls are not just temporary help, like transient harvest hands, but permanent parts of the rural American landscape.</p>
+
+<figure>
+<figDesc>FARM WORK isn't glamorous&#8211;and Rosemary Petersen (above), who gave up her office job to come home to a farm near Omaha, warns that it's tough on fingernails&#8211;but it's necessary, and girls and women of the nation's farms are filling in for absent men.</figDesc>
+</figure>
+</div1>
+
+</body>
+</text>
+</TEI>

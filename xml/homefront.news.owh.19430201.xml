@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19430201.01 SYSTEM "homefront.news.owh.19430201.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.owh.19430201.02 SYSTEM "homefront.news.owh.19430201.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19430201">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Omaha Meets Raid Test</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19430201</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Morning World-Herald</title>
+<title level="a">Omaha Meets Raid Test</title>
+<title level="a" type="sub">Citizens Defense Corps Crews Speedily Care for 32 'Casualties'</title>
+<author></author>
+<biblScope type="pages"></biblScope>
+<biblScope type="columns">1-A, 2-A</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1943-02-01">1943-02-01</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Defense Raids</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-07</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19430201.01">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">Omaha Meets Raid Test</head>
+<milestone unit="smallbar"/>
+<head type="sub">Citizens Defense Corps Crews Speedily<lb/>Care for 32 'Casualties'</head>
+<milestone unit="smallbar"/>
+
+<p>Omaha devoted 50 minutes Sunday afternoon to finding out how well she is prepared to cope with a war disaster.</p>
+
+<p>In the first air raid test in the Seventh defense region, planes simulated a bombing attack in which "high explosives" were dumped on the old medical college building at 1204 Pacific street, the street car barn at Twenty-fourth street and Ames avenue, a garage at Twenty-sixth and L streets, and the junction of Maple street and Military avenue in Benson.</p>
+
+<p>Air raid wardens reported extensive damage, including 32 "casualties" and two "fatalities."</p>
+</div1>
+
+<div1>
+<head type="sub">Even FBI Stopped</head>
+
+<p>From the control center, emergency crews of all kind were dispatched to the scenes, and went through all the motions of rescuing and caring for victims, extinguishing fires, and making temporary repairs of damage to roads and utilities.</p>
+
+<p>Except for members of the Citizens Defense corps, Omaha traffic, both pedestrian and vehicular, was stopped. Even an FBI agent was held up for 20 minutes, until he revealed his credentials and explained that he was on a hurry-up assignment. Two persons were arrested for violation of the air raid ordinance.</p>
+
+<p>Many persons elected to spend the time in theaters, and the show places were crowded.</p>
+
+<p>An unannounced part of the program was the surprise mobilization of the Omaha units of the Nebraska state guard. At 1 p.m. members of the guard were notified to report at Eleventh and Chicago streets, to guard and "airport" there. By 2 p.m. about 75 per cent of the guard was at the scene.</p>
+
+<p>Viewing the air raid test with a critical eye, the Citizens Defense corps commander, J. E. Davidson, said afterwards that he had been well pleased with the speed and business-like operations of the various crews.</p>
+</div1>
+
+<div1>
+<head type="sub">Find Few Weak Spots</head>
+
+<p>"The crews' reports indicated that the necessary personnel and equipment were dispatched to the scenes," he said. "We were <orig reg="looking">look-</orig>
+
+<note type="editorial" rend="jumpline">(Continued on Page 2, Column 4.)</note> 
+
+<figure entity="homefront.news.owh.19430201.02">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p2"/>
+
+<note type="editorial" rend="jump"> 
+<note type="editorial" rend="mainhead">Omaha Takes<lb/>Air Raid Test<lb/>in Good Style</note> 
+<milestone unit="smallbar" /> 
+<note type="editorial" rend="subhead">32 'Casualties' Get<lb/>Prompt Care from<lb/>Emergency Crews</note> 
+<milestone unit="smallbar" /> 
+<note type="editorial" rend="jumpline">(Continued from Page 1)</note> 
+</note>
+
+ing for the weak points in our system and found a few. But for the most part everything worked splendidly."</p>
+
+<p>Army bombers from Fort Crook and Civil Air Patrol planes combined to stage an air show. The CAP, which simulated the bombing attack, had a dozen planes in the air, including two formations of three each, and from Fort Crook there were four Martin B-26 bombers. Three of them flew in formation, at a level so low they jarred housetops.</p>
+</div1>
+
+<div1>
+<head type="sub">Flour is Barred</head>
+
+<p>The Civil Air Patrol ran into last-minute difficulties when it learned the Civil Aeronautics authority had denied permission to drop the four one-pound flour bombs. So CAP officials had the planes go through the motions, while CAP members on the ground simultaneously exploded giant firecrackers and lighted smudge pots containing heavy oil. They concluded that the make-shift results were more effective than the flour bombs would have been.</p>
+
+<p>The first "bombing" occurred at Twelfth and Pacific at 3:05. and it was here, supposedly, that the most serious damage occurred, for there were 12 "injured" and two "fatalities." The incident at this location was photographed from every angle by a dozen amateur and profession moving picture photographers. (Most of them found, incidentally, that it was a colder day than they had thought.)</p>
+</div1>
+
+<div1>
+<head type="sub">Crews Timed</head>
+
+<p>The incident officer there, E. M. Wilkinson, clocked the arrival of the emergency crews as follows: 3:10 (five minutes after warden's report)&#8211;first aid and medical corps; 3:13&#8211;fire, police and rescue squads; 3:14&#8211;ambulances and hearses; 3:15&#8211;heavy duty rescue squads and utilities crews; 3:16&#8211;road repair crews.</p>
+
+<p>Within seven minutes between 150 and two hundred volunteers put in their appearance. One group was late&#8211;the stretcher bearers&#8211;because a misunderstanding delayed the call to them.</p>
+
+<p>In the approved smoke-eater style, the auxiliary firemen "lit running," coupled their hoses to hydrants, and were inside the building within a few seconds. The rescue squads and auxiliary police and firemen dashed into the building to bring out the victims&#8211;each of whom had a tag tied on him to indicate the extent of injuries.</p>
+
+<p>First aid, including artificial resuscitation, and bandages and splints, were applied in the street by nurses and interns, after which the victims were taken to a nearby first-aid shelter for examination by physicians, who advised the treatment they should receive.  Hearses took the two who were beyond help. It was reported one hearse delivered a Boy Scout "victim" to his own door.</p>
+</div1>
+
+<div1>
+<head type="sub">Too Fast for Eats</head>
+
+<p>A demolition crew toppled a heavy section of the wall of the old building, which is in the process of being wrecked.</p>
+
+<p>By 3:40 the incident had been handled, and the volunteer workers were released. Coffee and doughnuts arrived after the workers had departed.</p>
+
+<p>At Twenty-fourth street and Ames avenue the "dive bombers" came in three times for heavy damage hits on the street car barn and nearby communications.</p>
+
+<p>Water and gas mains were damaged, power and telephone lines were downed, streets were blocked by the debris and seven persons were injured in the car barn, Senior Air Raid Warden L. Baumbach reported. William J. Sackriede was incident officer.</p>
+</div1>
+
+<div1>
+<head type="sub">Casualty on Roof</head>
+
+<p>Six of the seven persons injured were in the car barn, the seventh was on the roof, suffered a broken back.  Also on top of the car barn, fire was started by an <sic corr="incendiary">incendiery</sic> bomb.</p>
+
+<p>Auxiliary firemen hooked up their hose to a main that hadn't been damaged, were able to get the fire under control quickly.</p>
+
+<p>Members of the various medical services administered first aid, moved their casualties to a first aid station in a firebarn and sent one ambulance case to Immanuel hospital before the all-clear sounded.</p>
+
+<p>The casualty on the roof necessitated rigging a stretcher that could be lowered by a rope since there are no stairs.</p>
+
+<p>One of the bombs created a large hole in Twenty-fourth street, just west of the barn, but this was quickly filled.</p>
+
+<p>There were few people on the streets near the intersection. A couple of cards had to be stopped after the warning.</p>
+</div1>
+
+<div1>
+<head type="sub">Kibitzers at 26th and L</head>
+
+<p>The target at Twenty-sixth and L streets in South Omaha was the one-story Jacobsen and Kundy garage, one block east of the strategic L street viaduct. Its bombing, scheduled at 3:20 was simulated by the wagging of wings of a low-flying CAP plane.</p>
+
+<p>The building was smashed and set afire; seven persons inside were injured, Senior Air Raid Warden Carl Short reported. Auxiliary police, firemen, rescue squad and Red Cross nurses were on the scene within 12 minutes.</p>
+
+<p>Injured were attended inside the building, which was cleared in 17 minutes, under Cecil M. Beckwith as lieutenant of the rescue corps. Incident officer in charge was Bert Grasborg and the medical corps captain Ed Lang.</p>
+
+<p>One victim was pinned beneath debris, his head free. He was released in about five minutes.</p>
+
+<p>The building was quite full of persons, some without arm bands, and rescue workers often had trouble locating the lieutenant or advice.</p>
+
+<p>There was no traffic in the area after the warning. Regular firemen laid three hundred feet of hose to the garage and blocked it off with small barricades.</p>
+
+<p>Red Cross nurses served coffee and doughnuts after the last "casualty" had been treated.</p>
+</div1>
+
+<div1>
+<head type="sub">"Craters" in Benson</head>
+
+<p>Two "bomb craters" and six "casualties" resulted from the raid in Benson.</p>
+
+<p>At 3:12, three planes passed over, one diving over the intersection four times, dropping four bombs. Two hits were scored. The smudge pots blazed merrily and refused to smudge. Three Martin B-26 bombers swept low over the intersection, but dropped no bombs.</p>
+
+<p>Wardens reported the casualties to the central control station at 3:15, and the first ambulance arrived at 3:25. Doctors, nurses, and disaster corps workers arrived at 3:30, closely followed by repair men.</p>
+
+<p>By 3:35, the intersection was jammed with more than two hundred persons, each doing his appointed task. At 3:45 the intersection was clear of rescue and repair workers, only police and auxiliary members remaining.</p>
+</div1>
+
+<div1>
+<head type="sub">Returned to bar</head>
+
+<p>Only one minor violation occurred when three people stepped form a nearby bar at 3:40. Auxiliary police quickly guided them back into the bar.</p>
+
+<p>The persons arrested during the test were Peter Newlands, 72, 518 &#189; South Thirteenth street, who refused to take shelter, and Chester Garner, 26, 1110 South Thirteenth street, a laborer who was taking pictures at Thirteenth and Pacific streets.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.rcdj.19420226 SYSTEM "homefront.news.rcdj.19420226.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.rcdj.19420226">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Last Year's Record Farm Output Is Base For Bigger Production</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.rcdj.19420226</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>	
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Rapid City Daily Journal</title>
+<title level="a">Last Year's Record Farm Output Is Base For Bigger Production</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">3</biblScope>
+<biblScope type="columns">5-7</biblScope>
+<publisher>Rapid City Daily Journal</publisher>
+<pubPlace>Rapid City, SD</pubPlace>
+<date value="1942-02-26">1942-02-26</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Agriculture-Production</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-25</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.rcdj.19420226">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p3"/>
+<head type="main">Last Year's Record Farm Output<lb/>Is Base For Bigger Production</head>
+<milestone unit="smallbar"/>
+
+<p><hi rend="bold">Editor's note: The war brought great demands on South Dakota farmers in 1941 when we started to help feed Britain. The demand is even greater this year? But what are the prospects?</hi></p>
+
+<p><hi rend="bold">The Greater South Dakota association has rounded up the best estimates of qualified observers and offers them in two stories.</hi></p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<div1>
+<p>Huron, Feb. 25&#8211;(AP)&#8211;Crops, livestock and poultry produced in South Dakota last year brought a gross farm income of around $206,080,000 and a cash farm income estimated today at $190,638,000&#8211;the state's biggest agricultural return since 1929.</p>
+
+<p>But instead of becoming just a goal to shoot at this year, the near-record production figures became instead a corner stone upon which to build even bigger farm output&#8211;a direct outgrowth of America's war effort. That is the viewpoint of the greater South Dakota association which has been analyzing the agricultural situation with a view to 1942 goals.</p>
+
+<p>While on the national average, 1942 production goals have been fixed at only 3 percent greater than 1941, the objectives for South Dakota range all the way from 4 percent increases in milk gallonage to 18 per cent on beef cattle. This is because the allied armed forces and civilians need food from livestock and poultry products, which comprise roughly 75 percent of the state's farm income.</p>
+</div1>
+
+<div1>
+<head type="sub">Show Preparation</head>
+
+<p>January 1 inventories showed how adequately South Dakota farmers are prepared to meet these stepped-up demands for cattle, hogs, sheep, turkeys and chickens. The inventories value of these five types of farm income producers was set at $164,156,000 by the state-federal agricultural statistician, as against $111,783,000 value on January 1, 1941.</p>
+
+<p>The increase was not due to higher prices alone. The number of cattle on South Dakota farms and ranches went from 1,779,000 the first of last year to 1,921,000 this January. The hog population jumped from 1,103,000 to 1,412,000, sheep from 2,094,000 to 2,356,000, chickens from 7,674,000 to 9,018,000 and turkeys from 343,000 to 364,000, the statisticians reported.</p>
+
+<p>Out of these foundation herds and flocks is going to be fashioned the 1942 production requested by Uncle Sam.</p>
+
+<p>The remarkable fact and indication of the rapid upswing in South Dakota agriculture, is that these gains in January 1 inventories were made despite far heavier marketings in 1941 than in 1940 as indicated by the big gains in gross and cash income.</p>
+
+<p>Greater South Dakota association officials attribute much of the increase in livestock to amazing gains in sorghum acreage. The average of 15,000 acres before 1930 increased to 848,000 acres in 1938 and bounded up to 1,488,000 acres in 1940. This increased in both grain and forage sorghum took up the slack caused by sub-normal production of corn, and it made possible the feeding of increased livestock numbers.</p>
+
+<p>Preliminary complete figures on South Dakota production in 1941 are available only on grain and feed crops grown. There the production value climbed to $127,065,000&#8211;nearly half again as large as the 1940 value of $84,205,000. When the farm value of dairy and beef products, sheep and wool, hops and poultry and their products become available, the full strength of the upturn will be evident.</p>
+
+<p>Cash income figures from farm marketings from January through November, compared with 1940, look like this:</p>
+
+<table rows="3" cols="5">
+<row><cell role="label"></cell><cell role="label">1940</cell><cell role="label">1941</cell></row>
+<row><cell role="desc">Crops</cell><cell role="data">$39,278,000</cell><cell role="data">$43,925,000</cell></row>
+<row><cell role="desc">Livestock, poultry and related products</cell><cell role="data">87,544,000</cell><cell role="data">113,741,000</cell></row>
+<row><cell role="desc">Government payments</cell><cell role="data">18,355,000</cell><cell role="data">8,434,000</cell></row>
+<row><cell role="desc">Totals</cell><cell role="data">$136,177,000</cell><cell role="data">$166,100,000</cell></row>
+</table>
+
+<p>Extending the percentage increase through December and using the December, 1940, income figure of $190,638,000 for the past year emerges. Gross income figure on the same basis totals around $206,080,000.</p>
+
+<p>Increase in South Dakota crop and livestock returns were the result of bigger production and better prices. All major crops, except corn, and all livestock and poultry production figures topped 1940 totals. Certified seed potato output totaled 279,335 bushels, reported to be the highest on record.</p>
+
+<p>Major crops produced in 1941 included: 50,006,000 bushels of corn; 35,130,000 bushels of wheat; 54,912 bushels of oats; 38,610,000 bushels of barley; 7,510,000 bushels of rye; 3,190,000 tons of all grain sorghum forage; 2,210,000 bushels of flaxseed; 1,323,000 tons of wild hay and 767,000 tons of tame hay.</p>
+
+<p>This placed South Dakota second among the 48 states in production of durum wheat, third in other spring wheat, second in rye, fourth in barley, fourth in wild hay, fifth in sweet sorghum and flax, sixth in oats, eighth in grain sorghums and seventeenth in corn. The state ranked eighth in total acreage of crops harvested.</p>
+
+<p>Bee keepers likewise reported big increases in honey production, and they were looking today to even bigger gains in 1942 as sugar-rationing plans go into effect.</p>
+
+<p>Grain and feed return were helped by the wettest weather in 14 years. Federal meteorological reports set the South Dakota average moisture, at 21.50 inches, or 2.64 inches above normal.</p>
+</div1>
+
+<div1>
+<head type="sub">Beneficial Industry</head>
+
+<p>This increased South Dakota agricultural production <sic corr="benefited">benefitted</sic> industry and business, too, but some of the more evident agricultural reflections are contained in reports of land purchases within the state.</p>
+
+<p>The farm sales division of the federal land bank at Omaha reported 2,828 farms were purchased from the bank in South Dakota during 1941 compared with only 986 in 1940. The state rural credits board announced that in the 1941 calendar year, a total of 1,970 tracts containing 654,863 acres were brought from the department, compared with 1,303 tracts in 1940.</p>
+
+<p>Life insurance companies, private realtors and other investors in farm mortgages and real estate report a new farm buying surge that will be reflected in new wealth next year.</p>
+
+<p>With these background facts in mind, agricultural extension men are advocating these methods of boosting 1942 production to meet wartime goals:</p>
+
+<p>Increase the production of milk cows and milk a few which might normally suckle calves. It will not be necessary, they report, to import dairy cattle or invest in expensive equipment.</p>
+
+<p>Improve the housing, feeding and culling of poultry and manage flocks carefully.</p>
+
+<p>Farrow more pigs this spring and market more cattle and lambs this fall.</p>
+
+<p><hi rend="bold">Next: How increased farm production was reflected in South Dakota business and industrial gains in 1941.</hi></p>
+</div1>
+
+</body>
+</text>
+</TEI>

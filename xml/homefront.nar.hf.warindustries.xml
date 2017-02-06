@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+]>
+
+
+<TEI id="homefront.nar.hf.warindustries">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">The Home Front</title>
+<title level="m" type="sub">War Industries</title>
+<author>R. Douglas Hurt</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.nar.hf.warindustries</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-06-13</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+
+<head>The Home Front</head>
+<head type="sub">War Industries</head>
+
+<p>In September 1939 and the months that followed prior to the Japanese attack on Pearl Harbor, most people in the Great Plains wanted to avoid becoming involved in the new European war.  Yet, nearly everyone saw the economic advantages that could be gained as the federal government began increased spending to aid the national defense.  In May 1940, President Franklin Roosevelt asked Congress for $1 billion for the addition of fifty thousand planes to the national arsenal, and by mid-1941, Congress had appropriated $60 billion for national defense.  Soon the term "defense industries" became part of everyday reference to the economy.</p>
+
+<p>Quickly the Great Plains states sought defense contracts, and federal funding began to flow into the region, although not as fast or in the amounts that governors, congressional delegations and chambers of commerce wanted.</p>
+
+<p> In early December 1940, Nebraskans learned that the federal government planned to build a $10 million aircraft assembly plant at Fort Crook, near Omaha.  The Glen L. Martin Company of Baltimore would operate the plant for the assembly of 100 bombers each month.  The bomber plant would employ as many as 12,000 workers, and residents across the state welcomed the news and considered applying for jobs at the plant which meant steady work and a regular paycheck.  On December 7, 1940, the Kearney Daily Hub announced the approval of the bomber plant and the general details for its construction and production.</p>
+
+<list>
+<item><ref n="homefront.news.kdh.19401207">["Nebraska Receives Place in Defense Industry Picture," Kearney Daily Hub, December 7, 1940]</ref></item>
+</list>
+
+<p>Early 1941, the Nebraska Advertising Commission allocated $50,000 to help lure war industries to the state.  The Commission touted Nebraska as "unexcelled" for railroad and highway transportation, natural gas, low taxation, and intelligent workers.  By the summer, rapidly degenerating relations between the United States and Germany and Japan made the prospect for war a certainty, and local and state delegations lobbied Congress intensely for defense contracts.</p>
+
+<p>The Great Plains however remained largely overlooked, in part, because it did not have much industrial or manufacturing infrastructure for a wartime economy.  On June 8, 1941, the Omaha World Herald warned that Nebraska subcontractors and small-scale businesses might close if they did not have access to war contracts because the federal allocating of materials, such as iron and steel, would go to the industries and businesses with federal contracts and those with such contracts might not be able remain in operation.</p>
+
+<list>
+<item><ref n="homefront.news.owh.19410608">["Arms Plants for Nebraska Seem Unlikely," Omaha World Herald, June 8, 1941.]</ref></item>
+</list>
+
+<p>City and state chambers of commerce as well as congressmen and senators continued to lobby for defense contracts for their towns and states through the summer and fall of 1941, driven by the deteriorating relations between the United States and Germany and Japan that made the prospect of war an increasing certainty. The Great Plains, however, remained largely overlooked, in part, because it did not have much industrial or manufacturing infrastructure for a wartime economy.</p>
+
+<p>Once the nation officially entered the war, military needs expanded rapidly and towns that had been bypassed with defense contracts received new opportunities to participate in the wartime economy.  Soon, however, Nebraska received a few federal war industry contracts for building planes, making small arms, and loading ammunition.</p>
+
+<p>In central Nebraska, business leaders and city officials welcomed an announcement by Senator George W. Norris that the federal government planned to build a munitions plant between Grand Island, Hastings, and Kearney.  With construction costs estimated as high as $28 million and payrolls of $100,000 per day, seven days a week, the wartime boost to an economy still weak from the problems of the Great Depression promised to put hard times behind.   Almost immediately the Grand Island munitions plant became known as the Cornhusker Ordnance plant Construction began in March 1942 with the first bomb poured in November.   Soon thereafter, the Navy also announced approval for the construction of a Naval Ammunition Depot at Hastings.  This ordnance plant would cost $45 million, and it would serve as an assembly and storage depot.</p>
+
+<p>The people of the Great Plains considered military contracts their opportunity to gain economic stability and security.  The aircraft manufacturing plants such as the Glenn L. Martin plant in Nebraska continually sought workers during the war.  When the company began building B-20 Superfortress bombers in 1943, approximately 12,000 workers held jobs on a host of assembly lines.   Women comprised about 40 percent of those employees and 90 percent in some work areas.  No one wanted to lose this plant when the war ended.</p>
+
+<list>
+<item><ref n="homefront.news.owh.19441119">["2,000 More Martin Plant Workers Needed at Once," Omaha World Herald, November 19, 1944.]</ref></item>
+</list>
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" []>
+
+<TEI id="homefront.docs.0008">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">To All Volunteer Farm Placement Representatives</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.docs.0008</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="a" type="main">To All Volunteer Farm Placement Representatives</title>
+<title level="a" type="sub">Farm Labor Bulletin No. 25</title>
+<author></author>
+<biblScope type="pages"></biblScope>
+<publisher>War Manpower Commission</publisher>
+<date value="1943-06-15">1943-06-15</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-24</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-10-17</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">WAR MANPOWER COMMISSION</head>
+
+<opener>
+<address>
+<addrLine rend="center">800 Kansas Avenue</addrLine>
+<addrLine rend="center">Topeka, Kansas</addrLine>
+</address>
+<dateline rend="center"><date value="1943-06-15">June 15, 1943</date></dateline>
+
+<salute>To:  All Volunteer Farm Placement Representatives</salute>
+</opener>
+
+<p>In order that you might have information in regard to the wheat harvest in Oklahoma, we have secured the following statements from the War Manpower Commission of Oklahoma. This material is being furnished only for your information and does not constitute an order for workers. If it should become necessary for Kansas to send harvest laborers into Oklahoma, such orders will be transmitted direct to the local United States Employment Service offices and they in turn will transmit these orders to the volunteer farm placement representatives and county agents.</p>
+
+<p>"The harvest of wheat in Oklahoma will reach its peak June 15th.</p>
+
+<p>Rate of pay:</p>
+<list>
+<item>Scoopers, truck and tractor drivers, $3.00 to $7.00 per day, plus board and room.</item>
+<item>Combine operators, $5.00 to $10.00 per day, plus room and board.</item>
+</list>
+
+<p>Workers interested in coming to Oklahoma should report to one of the following U.S.E.S local offices for assignment:</p>
+
+<list>
+<item><address><addrLine>Enid Local Office,<lb/>Masonic Temple Building</addrLine></address></item>
+
+<item><address><addrLine>Ponca City Local Office<lb/>322&#189; East Grand</addrLine></address></item>
+
+<item><address><addrLine>Woodward Local Office<lb/>1009 Main Street</addrLine></address></item>
+</list>
+
+<p>The Kansas wheat harvest will immediately follow the harvest in Oklahoma."</p>
+
+
+<closer rend="right"><signed rend="right">Edward W. Franzke</signed><lb/>Acting Assistant Deputy Regional<lb/>Manpower Director for Kansas</closer>
+
+<closer rend="right">By <signed rend="underline">Harold B. Lewis</signed><lb/>Harold B. Lewis<lb/>Farm Placement Supervisor</closer>
+</div1>
+
+<div1>
+<head type="main">WAR MANPOWER COMMISSION</head>
+
+<opener>
+<address>
+<addrLine rend="center">800 Kansas Avenue</addrLine>
+<addrLine rend="center">Topeka, Kansas</addrLine>
+</address>
+
+<salute rend="left">PLEASE POST</salute>
+<salute rend="right">FARM LAOR BULLETIN NO. 25</salute>
+
+<salute>To: All Volunteer Farm Placement Representatives</salute>
+</opener>
+
+<p><hi rend="underline">ATCHISON</hi>--<hi rend="underline">Professional</hi> <hi rend="underline">Building</hi>	Openings for 12 experienced married farm hands for year round work, $60 to $80 per month including house, etc. provided by employer. Openings for 20 experienced single farm hands for year round work, $50 to $60 per month including meals and housing.</p>
+
+<p><hi rend="underline">COFFEYVILLE</hi>--<hi rend="underline">711</hi> <hi rend="underline">Walnut</hi> <hi rend="underline">Street</hi>	Openings for 5 farm and dairy hands, $3 a day or to $50 month, board and room. 3 farm couples, $40 to $50 a month and housing. Fields need drying weather. Cutting and shocking grains will begin as soon as weather permits. Only help for local harvest available are volunteers.</p>
+
+<p><hi rend="underline">CONCORDIA</hi>--<hi rend="underline">Washington</hi> <hi rend="underline">and</hi> <hi rend="underline">Eighth</hi> <hi rend="underline">Streets</hi>	Unfilled farm orders for 23 single farm hands, $30 to $75 per month with board, room and laundry. 3 farm couples are wanted, $60 to $75 per month, house, wood and milk furnished and in some cases a share of produce. 30 orders for harvest hands. Heavy rains in the past week preventing field work. Some damage to low lands along creeks and rivers.</p>
+
+<p><hi rend="underline">DODGE CITY</hi>--<hi rend="underline">107</hi> <hi rend="underline">West</hi> <hi rend="underline">Chestnut</hi> <hi rend="underline">Street</hi>	Unfilled farm orders for one single farm hand, $75 per month; 2 farm couples, $9 to $10 per day, the woman doing the farm house work; 6 harvest hands; 5 combine operators. Dry weather has injured the wheat crop making it thin on the ground, and the yield will be small.</p>
+
+<p><hi rend="underline">EMPORIA</hi>--<hi rend="underline">11</hi> <hi rend="underline">West</hi> <hi rend="underline">Sixth</hi> <hi rend="underline">Street</hi>	This office has 4 openings for married men, $50 to $60 a month; 6 openings for single men, $25 to $50 a month; 5 openings where the employer stated he could use either a married or single man.</p>
+
+<p><hi rend="underline">GARDEN CITY</hi>--<hi rend="underline">305</hi> <hi rend="underline">Main</hi> <hi rend="underline">Street</hi>	Due to recent rains, wheat prospects in the Garden City area are greatly improved. With favorable weather, harvest will start about June 25th. Wages $6 to $8 per day, board and room. We have orders for 100 men to go to work immediately at $3.50 a day and board and room until harvest; harvest wages through harvest.</p>
+
+<p><hi rend="underline">GOODLAND</hi>--<hi rend="underline">First</hi> <hi rend="underline">National</hi> <hi rend="underline">Bank</hi> <hi rend="underline">Building</hi>	 3 orders for tractor drivers, $3 to $4 per day plus board and room. 4 orders for farm couples, $75 to $100 per month plus house, cow and eggs. 3 orders for house maids on farm, various wages. 11 harvest hand orders, 2 truck drivers, 3 tractor drivers, 5 combine men, and 1 cook. Harvest wages have not as yet been set in this area. Harvest in this area will probably not get started until July 5th.</p>
+
+<p><hi rend="underline">HUTCHINSON</hi>--<hi rend="underline">404</hi> <hi rend="underline">North</hi> <hi rend="underline">Main</hi> <hi rend="underline">Street</hi>	3 unfilled orders for month hands, $75 per month plus room and board or house; 20 unfilled orders for harvest hands, $6 to $10 per day plus room and board. About 15 migratory workers are contacting the office every day and are being immediately referred to jobs. Now binding oats and barley; combining of wheat will start about June 25.</p>
+
+<p><hi rend="underline">LAWRENCE</hi>--<hi rend="underline">201</hi> <hi rend="underline">West</hi> <hi rend="underline">Eighth</hi> <hi rend="underline">Street</hi>	A heavy rain in the morning of the 15th stopped the pea harvest and hay harvest. To date the labor supply has been short, but enough have been found to carry on the work. Orders for 7 hay hands, 6 single farm hands, 3 married farm hands, and 2 married dairy hands. None are available. Small grain harvest will begin in about a week or ten days.</p>
+
+<p><hi rend="underline">MANHATTAN</hi>--<hi rend="underline">114</hi> <hi rend="underline">South</hi> <hi rend="underline">Third</hi> <hi rend="underline">Street</hi>	22 openings for single farm hands. Most openings for period of one week to four months, about $3 per day, board and room. 4 year round openings for single men, $50 a month, board and room. 12 year round openings for married men, $50 to $75 per month and furnish tenant house and usual privileges. Farm work has been delayed because of recent rains and flood waters.</p>
+
+<p><hi rend="underline">PARSONS</hi>--<hi rend="underline">206</hi> <hi rend="underline">South</hi> <hi rend="underline">Eighteenth</hi> <hi rend="underline">Street</hi>	3 dairy jobs, wages $15 week; $80 per month, house furnished; and $90 per month, house furnished. 2 steady farm jobs. $40 to $60 per month and house.</p>
+
+<p><hi rend="underline">PITTSBURG</hi>--<hi rend="underline">115</hi> <hi rend="underline">East</hi> <hi rend="underline">Fourth</hi> <hi rend="underline">Street</hi>	2 orders for man with family, $50 to $60 a month, house, milk, and garden spot furnished. 2 orders for single man, $45 a month, room and board. All workers available for farm employment outside this area have been referred to the southwestern Kansas area.</p>
+
+<p><hi rend="underline">TOPEKA</hi>--<hi rend="underline">800</hi> <hi rend="underline">Kansas</hi> <hi rend="underline">Avenue</hi>	Three new orders for married farm hands, $50 to $60 a month, house furnished. Four inches of rain past twenty-four hours delaying all farm activity at least one week.</p>
+
+<p><hi rend="underline">WICHITA</hi>--<hi rend="underline">1525</hi> <hi rend="underline">East</hi> <hi rend="underline">Douglas</hi>	Orders for 16 general farm hands, $50 to $65 per month, board and room; 8 farm couples, $60 to $100 per month, plus house, milk, and fuel; 3 dairy hands, $20 to $25 per week, plus board, room, and laundry; and 75 harvest hands, $4 to $6 per day, board and room. There is no surplus farm labor here at present. Weather warm and dry. Harvest of oats and barley is starting. Combines will start in a week or ten days.</p>
+
+<closer rend="right"><signed rend="right">Edward W. Franzke</signed><lb/>Acting Assistant Deputy Regional<lb/>Manpower Director for Kansas</closer>
+
+<closer rend="right">By <signed rend="underline">Harold B. Lewis</signed><lb/>Harold B. Lewis<lb/>Farm Placement Supervisor</closer>
+</div1>
+
+</body>
+</text>
+</TEI>

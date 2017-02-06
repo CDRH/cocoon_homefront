@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.bt.19440701 SYSTEM "homefront.news.bt.19440701.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.bt.19440701">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mexican Workers May Come Here</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.bt.19440701</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Bismarck Tribune</title>
+<title level="a">Mexican Workers May Come Here</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1</biblScope>
+<biblScope type="columns">2</biblScope>
+<publisher>Bismarck Tribune Co.</publisher>
+<pubPlace>Bismarck, ND</pubPlace>
+<date value="1944-07-01">1944-07-01</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-01</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-17</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.bt.19440701">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">Mexican Workers<lb/>May Come Here</head>
+
+<p>Inquiries to determine whether Burleigh county farmers have need for Mexican farm laborers have been sent out by Trygve O. Haga, district manager for the United States Employment Service here.</p>
+
+<p>Haga said that if answers indicate that 50 or more workers can be used here for the remainder of the summer they may be brought in from the Red River valley or other nearby areas.</p>
+
+<p>Haga said letters have been sent to about 75 farmers who have indicated urgent need for workers, asking them if they will use Mexican workers, and, if so, how many they would need.</p>
+
+<p>If brought here, the Mexicans would be hired out through the USES one or more to the far, depending on how many are needed by the farmer. They will be available from July 5 to Sept. 15, the slack season in the beet field where the Mexicans are regularly employed.</p>
+
+<p>They will not be brought here for less than 45 to 60 days, with a guarantee of not less than 75 per cent working time for the full time they are here. They must be paid the prevailing wage scale, Haga said.</p>
+
+<p>Beet growers who have employed Mexican workers have found them honest and hard-working, Haga said. Each worker already has passed physical and other requirements.</p>
+
+<p>"This may be one way of solving the serious labor shortage problem in the haying and harvest fields," said Haga. "Farmers who would like to hire Mexicans to work in their haying or harvest fields are urged to get in touch with the Employment Service office in Bismarck at once."</p>
+</div1>
+
+</body>
+</text>
+</TEI>

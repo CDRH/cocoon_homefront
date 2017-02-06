@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19430125.01 SYSTEM "homefront.news.dp.19430125.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.dp.19430125.02 SYSTEM "homefront.news.dp.19430125.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19430125">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">U.S. to Mobilize 'Land Army' of over 3 Millions</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19430125</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">U.S. to Mobilize 'Land Army' of over 3 Millions</title>
+<title level="a" type="sub">Clerks and Others Will be Asked To Volunteer for Farm Work</title>
+<author></author>
+<biblScope type="pages">1, 4</biblScope>
+<biblScope type="columns">1, 3-4</biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, CO</pubPlace>
+<date value="1943-01-25">1943-01-25</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-19</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.dp.19430125.01">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+
+<head type="main">U.S. TO MOBILIZE 'LAND ARMY' OF OVER 3 MILlIONS</head>
+<milestone unit="smallbar"/>
+<head type="sub">Clerks and Others Will Be Asked To Volunteer for Farm Work.</head>
+<milestone unit="smallbar"/>
+
+<p>Washington, Jan. 25.&#8211;(A.P.)&#8211;War Manpower Commissioner Paul V. McNutt and Food Administrator Wickard announced Monday they would seek to mobilize a "land army" of about 3 and one-half million to volunteer for seasonal farm work this year.</p>
+
+<p>Together they told a press conference that persons doing work not connected directly with the war effort would be enrolled in both rural and urban communities and asked to shift temporarily to planting and harvesting work whenever needed to save crops.</p>
+
+<p>Such persons&#8211;they gave clerks in stores as an example of the type workers they had in mind&#8211;would not be asked to work without pay, but would be asked to accept regular farm wages, even if below the pay of their normal jobs, as a contribution to the war effort.</p>
+
+<p>Workers in rural communities
+
+<note type="editorial" rend="jumpline">(Turn to Page 4&#8211;Col. 3.)</note>
+
+<pb n="p4"/>
+
+<figure entity="homefront.news.dp.19430125.02">
+<figDesc></figDesc>
+</figure>
+
+<note type="editorial" rend="jump">
+<note type="editorial" rend="mainhead">M'NUTT AND WICKARD PLAN<lb/>LAND ARMY OF OVER 3 MILLIONS</note>
+<milestone unit="smallbar" />
+<note type="editorial" rend="subhead">Clerks and Similar Workers Would be Enrolled for<lb/>Volunteer Transfers in Farm Positions<lb/>Under Proposal.</note>
+<milestone unit="smallbar" />
+<note type="editorial" rend="jumpline">(Continued From Page One.)</note>
+</note>
+
+would be enrolled as to ability and willingness to perform farm work <sic corr="through">thru</sic> <sic corr="questionnaires">questionaries</sic> sent out by the agricultural department's extension service, which would follow up with recruitment drives.</p>
+
+<p>Even as McNutt and Wickard talked, the senate appropriations committee unanimously approved an inquiry by a subcommittee into the nation's manpower situation and the senate military committee opened extensive hearings on the manpower problem.</p>
+
+<p>McNutt told the press conference that he advocated a forty-eight-hour work week, to get "maximum production with what we have," but added this did not bear any relations to the question of whether work beyond forty hours a week should carry time-and-one-half pay rates. The wage-hour act fixes a forty-hour week at basic pay rates, with time-and-a-half pay for overtime except where contracts between employers and unions provide otherwise. The act does not, however, limit the hours of work if overtime is paid.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">U.S. WON'T TAKE<lb/>OVER COLLEGES.</head>
+
+<p>McNutt also said the government did not expect to "take over" any colleges in its programs for using them to provide special training for men in the armed services and others scheduled to do technical work in war industry. The contracts being negotiated under principles and regulations which "will be announced shortly" would be distributed as widely as possible among the colleges and no one would be given enough students to require that it be "taken over" in its entirety, he explained.</p>
+
+<p>The United States employment service would do the enrolling for the land army in urban communities, McNutt and Wickard said, explaining a new directive by McNutt giving Wickard greater control over farm labor supply problems.</p>
+</div1>
+
+<div1>
+<head type="sub" rend="left">SUBCOMMITTEE WILL STUDY<lb/>ARMY'S SIZE.</head>
+
+<p>Acting Chairman McKellar (Dem.) of Tennessee said he would appoint an appropriations subcommittee shortly which would be authorized to inquire into the size of the army and to determine best division of manpower consistent with "the speediest and most successful conduct of the war."</p>
+
+<p>The senate military group heard testimony from Lieut. Gen. Joseph L. McNarney, deputy chief of staff. Members who came out of the closed committee room said McNarney had given confidential figures on the sizes of the armed forces and was being questioned about the necessity for a larger army.</p>
+
+<p>Senator Bankhead (Dem.) of Alabama said the appropriations subcommittee would be charged with making a special study of the manpower question from the standpoint of farm and industrial production.</p>
+</div1>
+
+<div1>
+<head type="sub">MILITARY LEADERS<lb/>MUST SOLVE PROBLEMS.</head>
+
+<p>Robert P. Patterson, undersecretary of war, declared in a speech at Baltimore Sunday night however that the size of the armed forces necessary to win the war was "a military problem to be decided by the military leaders."</p>
+
+<p>"People who contend the army is too large," he said, "Seem to overlook two important factors."</p>
+
+<p>First, he said it is "as essential to obtain superiority over our enemies in numbers of soldiers as it is in training and number and quality of weapons."</p>
+
+<p>"The second point," he said, "is that we are training men in 1943 to fight in 1944. Our training program must contemplate a long war."</p>
+</div1>
+
+</body>
+</text>
+</TEI>

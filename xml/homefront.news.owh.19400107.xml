@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19400107 SYSTEM "homefront.news.owh.19400107.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19400107">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Now the Co-Eds Fly for Uncle Sam</title>
+<author>Elisabeth Hughes</author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19400107</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Sunday World-Herald</title>
+<title level="a">Now the Co-Eds Fly for Uncle Sam</title>
+<title level="a" type="sub">Those Campus Angels Invade Still Another Male Sanctum and, Keeping in Character, Spread Their Wings</title>
+<author>Elisabeth Hughes</author>
+<biblScope type="pages">C:1</biblScope>
+<biblScope type="columns">1-7</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1940-01-07">1940-01-07</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Women/male work</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-05</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19400107">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">NOW THE CO-EDS FLY FOR UNCLE SAM</head>
+
+<head type="sub">Those Campus Angels Invade Still<lb/>Another Male Sanctum and, Keeping<lb/>in Character, Spread Their Wings.</head>
+
+<figure>
+<figDesc>Betty Bachman, University of Nebraska junior, studies up on airplanes on a model in her parlor.</figDesc>
+</figure>
+
+<figure>
+<figDesc>The boys may hold her coat, but Betty has to spin her own prop as part of the aviation training.</figDesc>
+</figure>
+
+<figure>
+<figDesc>Betty adjusting skis on a plane at the Omaha Municipal airport.</figDesc>
+</figure>
+
+<figure>
+<figDesc>Jean Robinson, Lincoln, left, and Betty Bachman, Omaha, N. U. flying coeds...not going up this time.</figDesc>
+</figure>
+
+<byline>By Elisabeth Hughes</byline>
+
+<p>THAT old campus maxim, "A coed's place is at tea dances," is taking an awful beating at the University of Nebraska these days. And all because of three little gals who wouldn't take "No" for an answer&#8211;not even from Uncle Sam.</p>
+
+<p>When the University of Nebraska was selected by the Civil Aeronautics authority as one of the schools to set up a course for pilot training, men students thought they'd have the field to themselves. But CAA regulations permitted schools to admit women students up to 10 per cent of the total enrollment in the course and the coeds immediately flocked in.</p>
+
+<p>Prof. Jiles W. Haney, chairman of the mechanical engineering department, who is in charge of the course at Nebraska university, got applications from five coeds. But physical examinations put most of them on a snag. CAA requirements called for girls at least 64 inches tall and weighing not less than 115 pounds. And the gal applicants were on the diminutive side.</p>
+
+<p>Nothing daunted they appealed to authorities to make physical requirements a little less exacting. Prof. Haney and I. V. Packard, secretary of the state aeronautics commission finally persuaded Washington to give the girls a break. As a result, it was agreed that coeds 62 inches tall and weighing one hundred pounds would be admitted, providing they could fulfill all other physical requirements.</p>
+
+<p>When final selection of 40 students was made, three coeds got the nod. Like their masculine classmates they were chosen on a basis of scholastic standing and general ability.</p>
+
+<p>One girl was selected from each of the three upper classes in university. Elinor Hakanson of Fairfield is a teachers college senior; Betty Bachman of Omaha, an arts college junior; and Jean Robinson of Lincoln, an arts college sophomore.</p>
+
+<p>Instructors in fields which are traditionally masculine property usually find the presence of a girl in class a distraction. But the three coeds soon gave evidence they were out to show the boys, not distract them.</p>
+
+<p>The collegiennes had to fight to get into the course and they haven't stopped fighting yet. Two of them&#8211;Miss Bachman and Miss Hakanson&#8211;were first students to solo out of a group of 30 taking instruction at Municipal airport from Lincoln Airplane and Flying school pilots. Miss Robinson will solo as soon as weather permits the field to be properly cleared. The girls were beaten to their solo flights only by a few students taking instruction from Alva White at Arrow airport, who started their flying instruction earlier.</p>
+
+<p>Not only have they proved their right to try their own wings&#8211;their conduct in the ground school part of the course has been equally commendable. Prof. Haney says the girls have been set a much better attendance record for classes than the fellows and seem to show a very definite interest in the course. And Miss Robinson copped more laurels for the feminine contingent by ranking third in an examination on engines&#8211;that in a class which includes many engineering students!</p>
+
+<p>Miss Bachman was chosen "best dressed girl" on the Nebraska university campus last spring and was a candidate for "Nebraska Sweetheart" this fall. She has curly hair, eyes that crinkle up when she laughs and is labeled "cute" by campus men.</p>
+
+<p>An accomplished artist, she draws, paints and designs many of her clothes. This 20-year-old coed has dreamed of flying for a long time. As one Alpha Chi Omega sorority sister puts it, she's "nuts about flying and there's nothing she wouldn't do to fly." Betty's not sure how she'll use the training, but admitted she hopes to "make a little money from it eventually."</p>
+
+<p>A sorority sister of Miss Bachman's, Elinor Hakanson was lovely enough to be nominated as one of the candidates for Cornhusker beauty queen last year. She and Betty made
+
+<figure>
+<figDesc>Helen Marie Woodson, only girl in the University of Omaha flying course, with Instructor John Morrison...examining what tilts the plane up or down.</figDesc>
+</figure>
+
+their solo flights the same day early in December. She is 21, has been crazy about flying as long as she can remember. Elinor expects to teach, but thinks she'll find a way to combine flying with pedagogy.</p>
+
+<p>The baby of the trio, Jean Robinson is 19, and last year was one of the few chosen for membership in Alpha Lambda Delta, honorary scholastic society for freshman women. Table tennis is her favorite sport, meteorology her chosen career.</p>
+
+<p>To prepare for meteorological work she is majoring in mathematics and science. Slight and curly-haired, she likes aeronautics, and hopes this training will be of use in career.</p>
+
+<p>In fairness to the men in the class, they've been doing very nicely, too. But the prowess of the gals has put the stronger sex in the shade. However the group of 40 was hand-picked for physical condition and intelligence and all will do the University of Nebraska proud.</p>
+
+<p>One instructor believes the girls may have a slight edge, at that. He explained that women generally have a lighter touch, do not try to rassle a plane as husky lads are prone to do. Then, too, he thinks women are far more apt than men to look upon flying as a perfectly logical mode of transportation.</p>
+
+<p>The girls are by no means overwhelmed by their success in the course. Jean Robinson thinks she and her companions are a little more serious about ground school classes because they realize most of the fellows in the course know a good deal about such subjects already. Hence the gals are working extra hard to make up for the trouble they caused trying to get in the course.</p>
+
+<p>At any rate, the coeds are very much in earnest about their training. And it's not a fad, for all three have been genuinely interested in aeronautics for a long time.</p>
+
+<p>At the University of Omaha Helen Woodson, 19, of Tecumseh, Neb., is the only girl enrolled in the class of 20.</p>
+
+<p>Helen has always like flying and took her first airplane ride when she was 10. Since then she has wanted to make flying her career. She enrolled at the university to take a pharmacist's course since a flying education seemed impossible, but she didn't lose her interest in flying. Last year she joined the University flying club and took three lessons under Pilot John Morrison at the airport. The more she flew the more she like d flying so when the civilian training course was offered Helen signed up scarcely hoping to be the one girl to fill the university's quota of coeds.</p>
+
+<p>She threw pharmacy to the winds and enrolled in the university navigation and meteorology and general aeronautics courses under Frank Durand.</p>
+
+<p>Helen, whose five feet four and one-half inches gives her just a half inch over the required height for the course, has a yen to race planes, but thinks a career as a flying teacher is more possible for her. Her mother, Mrs. Charles Woodson of Tecumseh, has gotten over most of her fears for Helen as a pilot and says she will go up in an airplane when Helen gets her license, but Helen's grandmother, Mrs. L. W. Fahnstock of Omaha won't even go near the airport when Helen is flying.</p>
+
+<p>Helen is a switchboard operator at the university when she isn't in classes. She flies six days each week. Spins were most fun of all to learn and didn't scare her a bit. She enjoys landing a plane but finds take-offs a bit difficult. Helen thinks airplanes have it all over her little care for in the air there no fenders to bend. Amelia Earhart is her ideal in flying and her present goal is to fly to the air races in Cleveland next year&#8211;not to enter the races however.</p>
+
+<p>What is the real purpose behind CAA flight training? If it entails obligation for military service, what part will the women take in an emergency?</p>
+
+<p>Assume, for instance, that your son or daughter receives a private pilot's license at the conclusion of their CAA instruction.</p>
+
+<p>In case of war, you ask, will they be automatically drafted as military pilots? The answer is a definite "no!"</p>
+
+<p>Those responsible for the college programs point out that there is no connection between the army or navy and the CAA.</p>
+
+<p>While it is true that a reserve corps of trained pilots is a potential source for military service, those who accept and receive CAA training are no more or less obligated than the individuals who receive their flight instruction privately and at their own expense.</p>
+
+<p>Meanwhile, the CAA training program is continuing. Initiated in February 1939, by August the program yielded 215 men pilots form nine college and universities. Each received approximately 50 hours of light instruction&#8211;and what's more, his private pilot's license&#8211;all at a total cost to the United States government of about $215 per student.</p>
+
+<p>So you had better move to the country, pa and ma, and clear the north forty. For one of these days that terrific expense item of yours is going to drop in on you&#8211;be it a son or daughter.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+

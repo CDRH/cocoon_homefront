@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19430729 SYSTEM "homefront.news.owh.19430729.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19430729">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">State's Farm Women Earn a Chapter in War History</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19430729</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Morning World-Herald</title>
+<title level="a">State's Farm Women Earn a Chapter in War History</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">6</biblScope>
+<biblScope type="columns">2-3</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1943-07-29">1943-07-29</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-03</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-24</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19430729">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p6"/>
+
+<figure>
+<figDesc>Boys and girls have done yeoman service on the Nebraska farm front this year . . . A scene typical of many in the state is this group of youths putting in hay at the farm boys' work camp near Curtis.&#8211;AP photo.</figDesc>
+</figure>
+
+<head type="main">State's Farm Women Earn<lb/>a Chapter in War History</head>
+
+<p>Nebraska City (U.P.)&#8211;Otoe County Agent A. H. De Long said Wednesday that when the history of the war is written, one chapter should be given over exclusively to farm women for their unselfish sacrifices incident to wartime food production.</p>
+
+<p>He said newspapers have carried reams of copy about the city dweller going into the country to shock grain and they deserve this recognition. But, De Long emphasized, people should not lose sight of the fact that in addition to their home duties, thousands of farm women have spent long hours on the tractor in connection with cultivation of corn and harvesting of grain.</p>
+
+<p>And they will be in the fields, too, at cornhusking time.</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<div1>
+<head type="sub">Old Bill's Shock Troops</head>
+
+<p>Greeley, Nev. (U.P.)&#8211;"Old Bill" Berney's "shock troops" have won the farm labor battle in the Greeley sector.</p>
+
+<p>Bill, who was forced to retire from active farm work because of ill health several years ago, recruited his shock troops from among Greeley boys ranging from 10 to 13.</p>
+
+<p>Several score of them were loaded into trucks and driven to the farms. There "Old Bill" painstakingly showed them how to build a shock and stayed until he was convinced they had learned their lesson. Then he would go to the next farm and repeat the operation.</p>
+
+<p>"I wanted to do all I could for the war effort," he said. "Now I have the double satisfaction of helping the farmers and of getting some spending money for the kids."</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<div1>
+<head type="sub">Crop Corps</head>
+
+<p>Beatrice, Neb. (U.P.)&#8211;Gage county's U.S. crop corps nearly tripled their work on farms this year over 1942. Cliff Ashburn, farm labor assistant, revealed Wednesday 308 volunteers from Beatrice, Wymore and Filley put in 7,925 man-hours in the field. They shocked 12,028 acres of small grain and put up 2,103 bales of hay.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

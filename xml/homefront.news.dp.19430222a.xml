@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19430222a.01 SYSTEM "homefront.news.dp.19430222a.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.dp.19430222a.02 SYSTEM "homefront.news.dp.19430222a.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19430222a">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Point Ration to Halve Normal Consumption of Canned Foods</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19430222a</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">Point Ration to Halve Normal Consumption of Canned Foods</title>
+<title level="a" type="sub">Drastic Slash in Food Quotas Stuns Grocers</title>
+<title level="a" type="sub">Denver Dealers Amazed at High Values Set on Their Stocks</title>
+<author></author>
+<biblScope type="pages">1, 3</biblScope>
+<biblScope type="columns">2-5, 1</biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, CO</pubPlace>
+<date value="1943-02-22">1943-02-22</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-general</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-04</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.dp.19430222a.01">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">POINT RATION TO HAVE NORMAL<lb/>
+CONSUMPTION OF CANNED FOODS</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">DRASTIC SLASH<lb/>
+IN FOOD QUOTAS<lb/>
+STUNS GROCERS</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">Denver Dealers Amazed<lb/>
+At High Values Set<lb/>
+On Their Stocks.</head>
+
+<milestone unit="smallbar"/>
+
+<p>The OPA in Washington disclosed Monday the point values canned and other processed foods and vegetables will have when point rationing begins March 1 and housewives and grocery dealers were amazed at the drastic cut in civilian food rations which the OPA announcement implied.</p>
+
+<p>Grocers pointed out that the canned goods ration would allow each person only three cans of the No. 2 size of most varieties of fruits and vegetables during March A No. 2 can weighs about 1 pound 3 ounces.  A No. 2&#189; can, another size familiar to housewives, weighs about 1 pound 13 ounces.</p>
+
+<p>The head of one large grocery chain said he estimated canned goods sales would drop to 20 per cent of normal under these drastic high point values.</p>
+
+<p>Sales of many kinds of canned goods will be stopped entirely by the OPA order, he said, and pointed out that a No. 10, or approximately five pound, can of tomato juice, will "cost" 55 points, or more than the ration allowed one individual for an entire month.</p>
+
+<p>W. W. Byrd, president of the Denver Retail Grocers and Meat Dealers
+
+<note type="editorial" rend="jumpline">(Turn to Page 3&#8211;Col. 1.)</note> 
+
+<figure entity="homefront.news.dp.19430222a.02">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p3"/> 
+
+<note type="editorial" rend="jump"> 
+<note type="editorial" rend="mainhead">DENVER GROCERS AMAZED AT DRASTIC CUT IN FOODS</note> 
+
+<milestone unit="smallbar" /> 
+
+<note type="editorial" rend="subhead">SOME CANNED<lb/>GOODS WILL BE<lb/>
+'OUT OF SIGHT'</note> 
+
+<milestone unit="smallbar" /> 
+
+<note type="editorial" rend="subhead">Sales Will Drop 80 Per<lb/>
+Cent, Head of Chain<lb/>
+Stores Predicts.</note> 
+
+<milestone unit="smallbar" />
+
+<note type="editorial" rend="jumpline">(Continued From Page One.)</note> 
+</note>
+
+Association, said he was "very much surprised" that point values had been set so high.</p>
+
+<p>"Points have been set so high that grocers won't be able to sell some items at all," he commented. "Possibly they know what they are doing in Washington. I hope so."</p>
+
+<p>Grocers generally said the problems presented by the point rationing system are numerous and serious. Among them they mentioned:</p>
+
+<p>Should the grocer attempt to mark the point values on each can or should he merely comply with the OPA regulations and post the complete list of point values for all articles in one place in his store?</p>
+
+<p>Should he try to have two "checkers" during rush shopping periods, one to check money values and the other to check point values, or should he have one checker do both jobs, thereby possibly slowing up service?</p>
+
+<p>With new, inefficient help, how is the grocer going to get stamps for every item sold?</p>
+</div1>
+
+<div1>
+<head type="sub">Clerks Often Forget To Collect Coupons.</head>
+
+<p>Grocers say their experience with sugar and coffee rationing has shown that clerks and delivery boys forget to collect ration stamps from a surprisingly large number of customers. The store must collect the stamps to renew their own grocery supplies.</p>
+
+<p>In effort to learn the answers to many of their problems, members of the Denver Retail association will meet in the Shirley-Savoy hotel Monday evening with local OPA officials.</p>
+
+<p>While grocers are struggling with their own problems this week to get ready for March 1, heads of Denver families will begin Wednesday registering at school buildings for point ration books.</p>
+</div1>
+
+<div1>
+<head type="sub">Will Register From Wednesday Thru Saturday.</head>
+
+<p>The registration will beheld from Wednesday thru Saturday from 9 a.m. to 4 p.m. daily in the Morey and Cole junior high schools and in all elementary schools except the Mitchell, Emerson, Albion and Reynolds schools.</p>
+
+<p>To be able to register, a person must have with him:</p>
+<p>1&#8211;The No. 1 or sugar rationing books issued to all members of his family.</p>
+<p>2&#8211;A declaration of the canned goods the family had on hand on Sunday,. Feb. 21, and the coffee the family had on hand on last Nov. 28.</p>
+
+<p>To enable retailers to replenish canned goods stocks to be ready for the resumption of business March 1, the government Monday removed all restrictions on the amounts of sixty-nine canned fruits, vegetables and juices that wholesalers may deliver to retailers.</p>
+
+<p>Restrictions on wholesalers' inventories were continued in effect.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.rcdj.19450205 SYSTEM "homefront.news.rcdj.19450205.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.rcdj.19450205">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mexicans Aided State Harvest</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.rcdj.19450205</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Rapid City Daily Journal</title>
+<title level="a">Mexicans Aided State Harvest</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">4</biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Rapid City Daily Journal</publisher>
+<pubPlace>Rapid City, SD</pubPlace>
+<date value="1945-02-05">1945-02-05</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-10-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-09-25</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.rcdj.19450205">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p4"/>
+<head type="main">Mexicans Aided<lb/>State Harvest</head>
+<milestone unit="smallbar"/>
+
+<p>Belle Fourche, Feb. 5&#8211;Mexican labor imported into this area last year contributed substantially to the production and harvest of western South Dakota's beet, hay and livestock crops, Stanley D. Lyman, labor supervisor for the WFA, said today in an annual review of 1944 activities.</p>
+
+<p>About 300 Mexican nationals were used here last year, all except three of them being transferred to other areas of employment in December.</p>
+
+<p>The Mexicans are imported into the United States under agreement with the Mexican and U.S. governments in which they are guaranteed $3 per day for 75 per cent of the days that they are available for work, and board the balance of available work days.</p>
+
+<p>Through careful planning by the Western South Dakota Farm Labor association, the Extension Service, the Office of Labor, and the Utah-Idaho Sugar company, the nationals were moved to areas of critical labor need in the state during the summer, were returned to Belle Fourche for the beet harvest, and were again moved to eastern South Dakota counties to help with the corn harvest.</p>
+
+<p>The planning was so effective that it is believed there will be few cases where the Mexicans did not obtain employment 75 per cent of the available time, Lyman said.</p>
+
+<p>They earned approximately $139,000 during the period of their employment in the state. Ten per cent of their earnings has been withheld from their pay and is forwarded to the Mexican government where it is claimed on his return to Mexico.</p>
+
+<p>The nationals were very well received in all areas in which they worked and growers repeatedly remarked of their willingness and ability to work and learn rapidly. They proved outstandingly effective in the small grain harvest east of the river, though they fell considerably below American standards in corn picking in the same area, Lyman indicated.</p>
+
+<p>In the Belle Fourche district, Lyman said, it appeared that about 85 per cent of the workers were satisfactory and remained so throughout the entire year. Some of the workers who were unsatisfactory were dissatisfied with wage scales or with <sic corr="standards">standads</sic> of employment. Some became ill and were unable to do the work. The two latter groups were either repatriated or reported missing.</p>
+
+<p>Nearly all Mexicans were disturbed by reports of high wages paid in agriculture on the west coast. The serious difficulty of the season in the Belle Fourche area was the uneasiness and dissatisfaction among the workers at the irregularity of pay. This could largely be remedied by more prompt and correct submission of payrolls on the part of the employers, Lyman pointed out.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

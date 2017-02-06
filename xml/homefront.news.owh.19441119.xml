@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19441119.01 SYSTEM "homefront.news.owh.19441119.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.owh.19441119.02 SYSTEM "homefront.news.owh.19441119.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19441119">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">2,000 More Martin Plant Workers Needed at Once</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19441119</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Sunday World-Herald</title>
+<title level="a">2,000 More Martin Plant Workers Needed at Once</title>
+<author></author>
+<biblScope type="pages">1-A, 18-A</biblScope>
+<biblScope type="columns">2-3, 7-8</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1944-11-19">1944-11-19</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Women/male work</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19441119.01">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+
+<figure>
+<figDesc>The great sweeping tail of a b-29 at the Glenn L. Martin-Nebraska plant…dwarfs this flight line <sic corr="employee">employe</sic>. The "stingers" in the tail turret are a .20 mm cannon and two .50 caliber machine guns.</figDesc>
+</figure>
+
+<head type="main">2,000 More Martin Plant<lb/>
+Workers Needed at Once</head>
+
+<p>Because production of B-29s must be doubled within the next three months, the Nebraska-Martin bomber plant is seeking two thousand additional <sic corr="employees">employes</sic> immediately.</p>
+
+<p>Lieut. Gen. William S. Knudsen, War Department production chief, in a flying visit to the plant Friday, stated bluntly: "The B-29 Superfortress is worth its weight in gold and we are out to get more of them. We must double production."</p>
+
+<p>Nebraska-Martin officials staged a press conference of newspaper men, radio commentators and Army public relations officers. J. T. Hartson, president, stated the position of the company.</p>
+
+<p>Faced with a slight increase in absenteeism and a much larger turnover in <sic corr="employees">employes</sic> the company has recently had to resort to emergency measures to insure continuance on schedule in certain departments he said.</p>
+
+<p>"For this one week only, we worked our people on two 12-hour shifts," he said. We normally work two nine-hour shifts.</p>
+
+<p>"Also we asked for volunteers among <sic corr="employees">employes</sic> in other departments, such as the office help and record clerks, to work in the shops for 30 days. More than three hundred responded and are wearing overalls and slacks, working at hard tasks and liking it."</p>
+
+<p>Absenteeism, which had run at about 4.3 per cent, has increased recently to about 6 per cent, Mr. Hartson said. Turnover has jumped from 48 to 52 per cent. About 40 per cent of all <sic corr="employees">employes</sic> are women and they number as high as 90 per cent in some shops, he said.</p>
+
+<p>Reviewing the growth of the 
+
+<note type="editorial" rend="jumpline">(Continued on Page 18, Column 7.)</note> 
+
+<figure entity="homefront.news.owh.19441119.02">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p18"/>
+
+<note type="editorial" rend="jump"> 
+<note type="editorial" rend="mainhead"><hi rend="italic">Martin Plant Needs 2,000 Workers;<lb/>Superforts 'Worth Weight in Gold'</hi></note>
+<note type="editorial" rend="jumpline">(Continued from Page 1.)</note> 
+</note>
+
+plant since the ground was first broken, Mr. Hartson said the first bomber, a B-26, was produced in August, 1942, and that 1,585 similar ships had rolled off the assembly lines until April of this year; in addition, many spare parts and turrets had been manufactured.</p>
+</div1>
+
+<div1>
+<head type="sub">Took Hard Way</head>
+
+<p>In 1943 the company was notified of the switch to manufacturing the Superfortresses&#8211;a mighty difficult change in procedure.</p>
+
+<p>"There were two way s to do it," he said. "One was to sweep the factory out, junk all our tools and start from scratch. The other was the hard way. We took it. We tapered off production of the B-26 while installing equipment and remodeling our plant to make B-29's."</p>
+
+<p>The first Superfortress was completed early this year, one month ahead of schedule, Mr. Hartson said.</p>
+
+<p>"Delighted we asked that our schedule be advanced one month and kept that way," he said. "We are still ahead one month in production."</p>
+
+<p>The Nebraska-Martin plant has been operated on schedule for 22 months and will continue this excellent record if sufficient new <sic corr="employees">employes</sic> can be hired.</p>
+</div1>
+
+<div1>
+<head type="sub">Now Employ 12,000</head>
+
+<p>"We are still on schedule for turning out a completed B-29, but we are behind on a number of subassemblies," he continued.</p>
+
+<p>There are now approximately 12 thousand persons employed at the plant.</p>
+
+<p>Originally workers operated in three eight-hour, round-the-clock shifts, but because trained supervisors were scarce two nine-hours shifts were substituted. This permitted the company to spread its skilled personnel evenly, and also enabled it to gain one more hour's work per man per day, Mr. Hartson said.</p>
+
+<p>"This is the situation in short," Mr. Hartson continued. "The Army needs these warplanes. We've got to produce them. We need men and women now." </p>
+
+<p>The company now has contracts sealed and delivered that will carry production through January, 1946, he said. Other contracts under consideration will extend production through June of that year and possibly until December, he said.</p>
+</div1>
+
+<div1>
+<head type="sub">Scribes See Plant</head>
+
+<p>"We are planning to spend for wages and salaries between 45 and 50 million dollars during this period," Mr. Hartson said. </p>
+
+<p>Some 20 men attending the press conference were conducted through the plant where the mighty bombers were in various stages of production. A number were on the line outside ready for final testing before being taken to battle fronts.</p>
+
+<p>"This Superfortress is primarily a job for use against the Japanese," Mr. Hartson observed. "I don't know if any are being used in Europe. I do know they are being used against the Nips. The B-29 gets the job done. It carries fewer men with more bombs further and faster than any other plane."</p>
+</div1>
+
+<div1>
+<head type="sub">Cites Post-War Uses</head>
+
+<p>Mr. Hartson said he was uncertain as to post-war use of the Nebraska-Martin plant, but stated: "We hope to continue to operate this plant, but this will depend upon the War Department."</p>
+
+<p>There are several possibilities as to what might be done with the plant, he said:</p>
+
+<p>1&#8211;It is owned by the War Department. The United States has an investment of about 30 million dollars. It might be closed up permanently.</p>
+
+<p>2&#8211;Because many unskilled people have learned the arts and skills of airplane manufacturing, the Army Air Force might operate the plant as a repair and maintenance plant and as an air depot.</p>
+
+<p>3&#8211;Nebraska-Martin or some other airplane company might lease the plant form the government for making civilian planes.</p>
+
+<p>4&#8211;A non-airplane manufacturing company might take it over.</p>
+
+<p>5&#8211;Because of very excellent runways, some of which are 6,200 feet long, three hundred feet wide and made of nine inches of concrete, the field boasts one of the finest airports in the country. This might be made available to the City of Omaha for another Municipal airport.</p>
+
+<p>"This plant was originally built for one purpose," Mr. Hartson concluded. "That was to supply big planes for a nation at war."</p>
+
+</div1>
+
+</body>
+</text>
+</TEI>
+
+

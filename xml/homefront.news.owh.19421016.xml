@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19421016 SYSTEM "homefront.news.owh.19421016.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.ag.19421016">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Kearney AAF Base to Stay</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.ag.19421016</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Amarillo Globe</title>
+<title level="a">Kearney AAF Base to Stay</title>
+<title level="a" type="sub"></title>
+<author>Lorne Kennedy</author>
+<biblScope type="pages"></biblScope>
+<biblScope type="columns"></biblScope>
+<publisher>Omaha World Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1942-10-16">1942-10-16</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2009</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<!-- <figure entity="homefront.news.ag.19421016">
+<figDesc></figDesc>
+</figure>
+-->
+<pb n=""/>
+
+<head type="main">Kearney AAF<lb/>Base to Stay</head>
+<head type="sub">But Army Silent on<lb/>Other State Posts</head>
+
+<byline>By Lorne Kennedy</byline>
+
+<opener><dateline>World-Herald Washington Bureau<lb/>
+239 National Press Bldg.</dateline>
+</opener>
+
+<p>The Army airfield at Kearney was the only Nebraska military air facility recommended Monday night by the Army Air Forces to be retained for permanent peacetime military use.</p>
+
+<p>The Air Forces made a report, based on a two-month study, proposing that 85 fields and other facilities in the United States be retained for the "interim" Army air establishment.</p>
+<p>It explained that the "interim" force is what the War Department expects to operate until Congress decides the size of the post-war air force.</p>
+</div1>
+<div1>
+<head type="sub">Others Not Abandoned</head>
+
+<p>The report stressed that airfields not included in the plan are not necessarily to be considered as abandoned. The plan is subject to War Department review and Congressional allotment of funds.</p>
+
+<p>Senator Wherry of Nebraska said the report indicates to him that "Lincoln airbase and the rest of Nebraska's Army airfields aren't in the War Department picture for peace-time military use. In due time they probably will be recommended for disposal as surplus."</p>
+
+<p>The possibility that the "permanent" list may be smaller than the "interim" one was seen in the Air Forces statement that the list is based on "maximum requirements for the interim air force."</p>
+</div1>
+
+<div1>
+<head type="sub">Auxiliary Fields Still Studied</head>
+
+<p>Secondard flying fields and wartime auxiliary air establishments were not considered in this report. Their disposition is now under study, the statement explained.</p>
+<p>Neither does the list include recommend facilities for the organized reserve, National Guard air unites or the Army airways system.</p>
+<p>The Kearney field was recommended as one of 24 bases for combat air units.</p>
+<p>Other proposed combat stations in the Midwest are Rapid City (S. D.) Airbase, Smoky Hill Airfield at Saline, Kans., and Casper (Wyo.) Army Airfield.</p>
+
+<note>Story continues, but additional text was not available for digitization.</note>
+
+
+</div1>
+
+</body>
+</text>
+</TEI>

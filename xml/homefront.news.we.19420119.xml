@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.we.19420119 SYSTEM "homefront.news.we.19420119.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.we.19420119">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wichita Women Now Make Hands Pay Big Dividends</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.we.19420119</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Wichita Eagle</title>
+<title level="a">Wichita Women Now Make Hands Pay Big Dividends</title>
+<title level="a" type="sub">Enter Defense Plants at Same Pay as Men after Completing Training Courses in Schools Here; Jobs Are Created by War</title>
+<author></author>
+<biblScope type="pages">5-A</biblScope>
+<biblScope type="columns">2-3</biblScope>
+<publisher>Wichita Eagle</publisher>
+<pubPlace>Wichita, KS</pubPlace>
+<date value="1942-01-19">1942-01-19</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Women/male work</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-10</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.we.19420119">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p5"/>
+<head type="main">WICHITA WOMEN NOW MAKE<lb/>HANDS PAY BIG DIVIDENDS</head>
+
+<figure>
+<figDesc>PREPARING TO REPLACE MEN in Wichita's aircraft plants here are two of the scores of women who are taking industrial training courses in the old Armory building at 151 North Waco. These two have specialized in riveting and have shown in a short time that they are adept at the course. They are working on the cowling of a Beechcraft plane. Standing and working the pneumatic riveter is Maxine Littell. Kneeling in the cowing is Marguerite Roberts.</figDesc>
+</figure>
+
+<milestone unit="smallbar"/>
+<head type="sub">Enter Defense Plants at Same Pay as Men After <orig reg="Completing">Comp-</orig><lb/>
+leting Training Courses in Schools Here;<lb/>
+Jobs Are Created by War</head>
+<milestone unit="smallbar"/>
+
+
+<p>An entirely new field for women, one which is sending them into Wichita's aircraft plants for men's jobs and at men's pay, is getting into full swing under the industrial defense training program being sponsored by the Wichita board of education, J. C. Woodin director, said yesterday.</p>
+
+<p>Many women already have taken up specialized positions in the plane factories and scores now are undergoing training at the school in the old Armory building at 151 North Waco. They are learning the jobs formerly done entirely by men, but needs of the nation's armed services have left vacancies in the defense jobs and it has been found that women can fill them and fill them well.</p>
+
+<p>Woodin said one aircraft plant sent a hurry call for women, stating at exactly what bench they work at and exactly what they would I do. The required number of applicants was rushed through the defense training course in eight days and Woodin has since be informed that they are performing their tasks well.</p>
+
+<p>When the women complete their course in one specific line of sheet metal work they are sent immediately to factory jobs. They start there at 60 cents an hour, exactly the same pay as is drawn by men, and in three months, if they have done their work well, they automatically are raised to 75 cents an hour. There are 65 different jobs in metal, and instead of beings given a complete course in all of them, the women are put on one specific job, such as riveting, etc. They are made employable as rapidly as possible, some of them requiring only eight or 10 days. In Woodin's words, "It all depends on the students themselves."</p>
+
+<p>The women are getting a thrill out of the new field opened to them. "Many are former waitresses, housemaids, etc., and the school has created the opportunity for them to really do something worthwhile with their hands. It is required that they be 21 to 35 years old, weigh not more than 135 pounds an it  is preferred that they be either single with dependents or married with husbands the service. All must first make application and register at the United States employment service office here which is headed by C. W. Corsaut.</p>
+
+<p>The women attend the defense schools in three shifts and the training is operated on a 24-hour basis. They work right along with the men who are taking training there. When the number of women in training exceeds the capacity of the North Waco school, it is expected that some will be shifted to the classes at Central Intermediate and East high schools.</p>
+
+<p>Woodin said that he planned to eventually place 600 women in jobs in one Wichita aircraft plant alone.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+
+

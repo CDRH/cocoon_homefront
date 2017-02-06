@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19420722.01 SYSTEM "homefront.news.owh.19420722.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.owh.19420722.02 SYSTEM "homefront.news.owh.19420722.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19420722">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Burt County Holds Per Capita Lead in State Scrap Campaign; Omaha's Pickup Makes Spurt</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19420722</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Morning World-Herald</title>
+<title level="a" type="main">Burt County Holds Per Capita Lead in State Scrap Campaign; Omaha's Pickup Makes Spurt</title>
+<title level="a" type="sub">65,440-Pound Gain Scored Over Monday</title>
+<title level="a" type="sub">Nearly 200 Tons of Fighting Metal Is in 'Arsenal' Now</title>
+<author></author>
+<biblScope type="pages">1-A, 5-A</biblScope>
+<biblScope type="columns">5, 5-6</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1942-07-22">1942-07-22</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-general</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-05</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19420722.01">
+<figDesc></figDesc>
+</figure>
+<head type="main">Burt County Holds Per Capita Lead in State Scrap Campaign; Omaha's Pickup Makes Spurt</head>
+<pb n="p1"/>
+
+<milestone unit="smallbar"/>
+<head type="main">65,440-Pound<lb/>
+Gain Scored<lb/>
+Over Monday</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">Nearly 200 Tons of<lb/>
+Fighting Metal Is<lb/>
+in 'Arsenal' Now</head>
+
+<milestone unit="smallbar"/>
+
+<p>It seems as though Monday's scrap collection effort was only a warmup&#8211;a tuneup for the real campaign ahead.</p>
+
+<p>On Monday, opening day of Omaha's door-to-door collection, 20 trucks made 38 trips, hauled 119,800 pounds to the central scrap pile.</p>
+
+<p>On Tuesday, 27 trucks hauled 71 loads, bringing in a total of 185,240 pounds&#8211;an increase of 65,440 pounds, according to the figures of Thomas F. Quinlan, chairman of the Omaha salvage division of the WPB.</p>
+</div1>
+
+<div1>
+<head type="sub">See Two Million Pounds</head>
+
+<p>In two days' time the trucks hauled 305,040 pounds. Since the area covered to date is no more than one-sixth of the area of the city, it seems reasonable to predict that the door-to-door pickup may bring almost two million pounds of scrap for the nation's war effort. Of course, this figure does not take into account the industrial salvage. Omaha junk dealers and auto salvage, yards reported, yesterday that since Sunday, opening date of the contest, they have received 63,771 pounds of scrap. Other contributions at the central and South Omaha lots brought the present grand total to 398,936 pounds.</p>
+
+<p>Reasons given for the increase Tuesday included the larger number of trucks, improved organization, and the fact that a larger percentage of homes had their scrap collection (sic) and waiting for the trucks.</p>
+</div1>
+
+<div1>
+<head type="sub">Plan County Drive</head>
+
+<p>Twenty-seven Douglas county farmers and business men, the hub of a scrap metal wheel which is to roll over every part of the county, met at the Union Pacific building here last night to discuss collection methods.</p>
+
+<p>Said R. W. Rapp, county salvage committee chairman:</p>
+
+<p>"Our goal is to collect every bit of scrap from every farm and city home in the county and we are not going to rest until our goal has been reached."</p>
+
+<p>Representing seven communities, the group pooled ideas, agreed upon zone piles to which the scrap must find its way. Salvage, it was agreed, will be sold and the <orig reg="proceeds">pro-</orig>
+
+<note type="editorial" rend="jumpline">(Continued on Page 5. Column 5.)</note> 
+
+<figure entity="homefront.news.owh.19420722.02">
+<figDesc></figDesc>
+</figure>
+
+<pb n="5"/>
+
+<note type="editorial" rend="jump"> 
+<note type="editorial" rend="mainhead">65,440-Pound<lb/>Gain Scored</note> 
+<milestone unit="smallbar" /> 
+<note type="editorial" rend="subhead">Nearly 200 Tons of<lb/>Metal Collected</note> 
+<milestone unit="smallbar" /> 
+<note type="editorial" rend="jumpline">(Continued from Page 1.)</note> 
+</note>
+
+ceeds given to local charitable organizations.</p>
+</div1>
+
+<div1>
+<head type="sub">Cancel Festival</head>
+
+<p>At Bennington the fourteenth annual Harvest Festival, it was revealed, was cancelled so that volunteer workers might devote more time to the drive.</p>
+
+<p>Speakers who outlined the purposes of the contest were J. M. Harding, assistant publisher of The World-Herald and T. W. Summers, promotion department chief. Fred Larkin, secretary of the Omaha Ad-Sell club also spoke.</p>
+
+<p>Attending the meeting were:</p>
+
+<p>Bennington, H. E. Rae, Henry G. Neumeyer, William A. Wette; Millard, Max R. Herrington; Ralston, Dr. W. C. Hamilton, Richard Bernard, H. C. Altekruse, Marion Gorzelanskl, D. R. Lamb; Elkhorn, William E. Holling Rev. John F. Brock, E. R. Wittee, W. E. Moor, John C. Bull, Julius Schulte; Valley, F. R. Conant, Dr. P. E. Rice, N. E. Johnson; Irvington, Frank R. O'Nell, Lester Christopherson, Chris Mathlsen; Waterloo, R.W. Rapp, Pete Bortholorne, H. E. Williams, Bill Sumnick, Ben Butler and L. C. Noyes.</p>
+
+<p>From Milwaukee Tuesday came word that the government is putting the finger on old cars, for which repairing is impractical, that the flow of jalopies to the nation's furnaces is going to be speeded up. In an address before the American Association of Motor Vehicle Administrators, Merrill Stubbs, chief of the WPB auto salvage division said that any old car or truck which remains in a state of disrepair for 60 days, cannot practically be repaired, may be requisitioned for scrap, unless the owner establishes good reason for other action. Decisions on requisitioning will be made by the graveyard section field force, he said. He defined a car's scrap value as "the price of its secondary metals, less handling and transportation costs, or about $7.50 to $15 per jalopy."</p>
+</div1>
+
+<div1>
+<head type="sub">Turnover Satisfactory</head>
+
+<p>Stubbs reported that the WPB program brought about the desired 60-day turnover of wrecks on hand in most of the nation's 22 thousand auto graveyards, and reported that stocks of junked cars in dealers' hands are only 40 per cent of what they were 60 days ago. (Omaha car wreckers say that most local concerns are ahead of the schedule requested by the government.)</p>
+
+<p>Dave Gerber, proprietor of Consolidated Auto Parts, reported that his firm delivered 11,500 pounds of scrap Tuesday, and expects to nearly double that figure today.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

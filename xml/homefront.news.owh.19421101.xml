@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.owh.19421101 SYSTEM "homefront.news.owh.19421101.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.owh.19421101">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Nebraska Scrap Average is 226.74 Pounds; Thought U. S. Top; Far Past WPB Goal</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.owh.19421101</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Sunday World-Herald</title>
+<title level="a">Nebraska Scrap Average is 226.74 Pounds; Thought U. S. Top; Far Past WPB Goal</title>
+<title level="a" type="sub">State Loses Kansas Tilt by Aggregate of Drives Higher</title>
+<author></author>
+<biblScope type="pages">13-A</biblScope>
+<biblScope type="columns">1</biblScope>
+<publisher>Omaha World-Herald</publisher>
+<pubPlace>Omaha, NE</pubPlace>
+<date value="1942-11-01">1942-11-01</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-salvage</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-05</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.owh.19421101">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p13"/>
+
+<figure>
+<figDesc>Fremont's 'Scrap Commandos' Work for Duration. Scrap hunts may have ended in other communities but not in Fremont. Shown above are the Scrap Commandos, business and professional women, who are organized for the duration to help salvage waste metal. Success of drives in the Fremont area is attributed in a large measure to this group. Two members are assigned to each truck and one of their duties is to find out when and if more scrap will be available in the future. - Skoglund Studio.</figDesc>
+</figure>
+
+<figure >
+<figDesc>Table: "Nebraska Scrap Score in 2 Drives" see image for table details</figDesc>
+</figure>
+
+<head type="main">Nebraska Scrap Average is 226.74 Pounds;<lb/>Thought U. S. Top; Far Past WPB Goal</head>
+<milestone unit="smallbar"/>
+<head type="sub">State Loses Kansas<lb/>Tilt by Aggregate<lb/>of Drives Higher</head>
+<milestone unit="smallbar"/>
+
+<p>Nebraska's total scrap collections in two recent drives stands at 226.74 per capita after a final tabulation Saturday placed the results of the Corn-Hawk contest at 161,985,577 pounds, or 123.10 pounds per person.</p>
+
+<p>The previous World-Herald campaign brought in 136,379,587 pounds (103.64 per capita), placing the state's contribution, to the steel melds since mid-July at 298,365,164 pounds, or 149,182 tons.</p>
+
+<p>This is 30,182 tons more than the 119 thousand-ton quota the war production board set for Nebraska in the last half of 1942.</p>
+</div1>
+
+<div1>
+<head type="sub">Leading Nation.</head>
+
+<p>Although it failed to defeat Kansas in the Corn-Hawk contest, Nebraska is believed to be leading the nation in scrap collection for the last half of the year. The state two weeks ago became the first in the country to pass its WPB goal. Latest reports from Topeka set Kansas' Corn-Hawk score at 155 pounds per capita, incomplete.</p>
+
+<p>The final compilation revealed Banner county as the champion scrapper in the Corn-Hawk drive, with 513.30 pounds per capita. Hooker county again placed second with 454.35 pounds, while Deuel was third with 405.31.</p>
+
+<p>Although Hooker again was nosed out of first place, it had the consolation of leading the state's 93 counties in total per capita poundage collected in the two drives. Its second place ranking in The World-Herald contest gave it an aggregate of 995.80 pounds per person.</p>
+</div1>
+
+<div1>
+<head type="sub">Grant to Second.</head>
+
+<p>Grant county, which led the state in the first campaign, ranks second in total poundage with 903.21. Other in the 10 leading counties are: Phelps, 718.53; Thomas, 617.51; Banner, 534.30; Perkins, 503.72; Cheyenne, 501.56; Red Willow, 481.15; Kimball, 458.99; and Dundy, 449.54.</p>
+
+<p>What may be a national school scrap record was reported Saturday by district 8, Otoe county, whose pupils collected 14,570 pounds each during the Corn-Hawk contest. Demonstrating the important part school children played in the drive, Otoe pupils collected 3,326,013 of the 3,776,508 pounds credited to the county. This gave the puils a county per capita average of 1,002 pounds.</p>
+</div1>
+
+<div1>
+<head type="sub">Beats Kansas County.</head>
+
+<p>Madison county exacted partial revenge for Nebraska's defeat by Kansas when it bested Riley county, Kansas by 968 tons in a friendly scrap feud. Madison piled up 4,129,419 pounds compared to Riley's 2,192,000.</p>
+
+<p>The Rotary club, with 144 thousand pounds won the pennant offered the three Norfolk service clubs for the best scrap records. A committee headed by A. T. Hutchinson directed the Rotary scrappers.</p>
+
+<p>In a Madison county rural school contest District 82, taught by Miss Una Lorraine Deuel, turned in 2,186 pounds per capita. County Superintendent Gladys Homan-Briedert announced. Miss Ruth Martens' District 33 was runnerup with 2,142 pounds per pupil. Twenty-one county schools earned Ak-Sar-Ben victory flags by collecting at least five hundred pounds per pupil.</p>
+
+<p>Richardson county, which trailed throughout the Corn-Hawk contest, jumped 667,174 pounds on its final report to 1,025,476 pounds. N. W. Todd, editor of the Falls City Journal, said the county's 1942 total is over four million pounds.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+

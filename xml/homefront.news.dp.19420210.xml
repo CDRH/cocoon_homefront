@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="homefront.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD homefront.dtd (UNL Etext Center)//EN" "homefront.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY homefront.news.dp.19420210.01 SYSTEM "homefront.news.dp.19420210.01.jpg" NDATA jpeg>
+<!ENTITY homefront.news.dp.19420210.02 SYSTEM "homefront.news.dp.19420210.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="homefront.news.dp.19420210">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cafe Sugar Bowls to Vanish Thursday Until War Is Ended</title>
+<author></author>
+<principal>R. Douglas Hurt</principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>homefront.news.dp.19420210</idno>
+<authority>The Home Front in the Great Plains During World War II, 1939&#8211;1945</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2007</date>
+<availability>
+<p>Copyright &#169; 2007 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Denver Post</title>
+<title level="a">Cafe Sugar Bowls to Vanish Thursday until War Is Ended</title>
+<title level="a" type="sub"></title>
+<author></author>
+<biblScope type="pages">1, 3</biblScope>
+<biblScope type="columns">3-4, 7</biblScope>
+<publisher>Denver Post</publisher>
+<pubPlace>Denver, CO</pubPlace>
+<date value="1942-02-10">1942-02-10</date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="topic">
+<term>Rationing-sugar</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-09-04</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2007-07</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="part">
+
+<figure entity="homefront.news.dp.19420210.01">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p1"/>
+<head type="main">CAFE SUGAR BOWLS<lb/>TO VANISH THURSDAY<lb/>UNTIL WAR IS ENDED</head>
+<milestone unit="smallbar"/>
+
+<p>Help-yourself sugar bowls will disappear from tables and counters of Denver restaurants Thursday, and they won't be back "till it's over over there."</p>
+
+<p>Members of the Colorado Restaurant association, at their annual meeting in Denver Monday night, decided they might as well face facts. War is a bitter pill, and trying to sugar coat it only leads to difficulties with the rationing board. Restaurant operators, as well as housewives, are being rationed. For the restaurant men rationing started Feb. 1 when the first sugar conservation order fixed the amount any one of them can buy at 80 per cent of the amount he bought in February, 1941.</p>
+
+<p>Thursday and thereafter, customers will get just one teaspoon of sugar for each cup of coffee. How they'll get it is up to the individual restaurant operators. Some operators will keep the sugar beside the coffee urn and spoon it in before serving. Others will serve it "on the side," in small glass juts, just like cream. Serving it in paper, glassine or cloth containers or in lump form, was discussed Monday night, but operators say paper shortage makes containers hard to get. And operators can get only a fixed per cent of the lump sugar they bought in the same month a year ago. That cancels the lump idea for most of them.</p>
+
+<p>Some restaurants will instruct waiters to carry a sugar bowl with them
+
+<note type="editorial" rend="jumpline">(Turn to Page 3&#8211;Col. 7.)</note> 
+
+<figure entity="homefront.news.dp.19420210.02">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p3"/>
+
+<note type="editorial" rend="jump"> 
+<note type="editorial" rend="mainhead">CAFES' SUGAR<lb/>BOWLS TO GO<lb/>OFF THURSDAY</note> 
+<milestone unit="smallbar" /> 
+<note type="editorial" rend="jumpline">(Continued From Page One.)</note> 
+</note>
+
+and let customers take "just one spoonful, please."</p>
+
+<p>The members of the association expect little difficulty, according to Geraldine Rothgels, secretary. They report the public already is co-operating by not wasting sugar even while bowls remain. The fellow who shovels it in till the bottom of the cup is sticky with syrup is a rarity. More common are the prep school "cut ups" who dump salt and pepper in the bowls, "Just for a gag." Bowls must be removed to take their playthings away from them and prevent the wholesale waste their pranks have caused in the past.</p>
+
+<p>Present at the meeting Monday night at 1747 Tremont place were 140 operators of Denver and other cities and towns throughout the state. Thirty directors of the state association, including twenty-two of Denver, were chosen. At a meeting to be held in Denver soon, these directors will choose new officers for 1942.</p>
+
+<p>A. A. McVittie, past president and member of the advisory board, presided Monday night in the absence of President C. W. Findelsen.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

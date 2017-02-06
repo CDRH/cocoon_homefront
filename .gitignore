@@ -1,0 +1,11 @@
+*.svn
+figures/*
+audio/*
+config.xsl
+post.py
+data_homefront/*
+search/*
+images/figures/*
+plainshumanities.unl.edu_homefront.zip
+
+.DS_Store

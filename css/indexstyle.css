@@ -3,11 +3,14 @@
 
 body {background:url(../images/template/graphic4.jpg) repeat}
 
-.all {width:820px; margin-left:auto; margin-right:auto}
+body > * {width:820px; margin-left:auto; margin-right:auto}
 
 .foot {
 	margin-top:-4px;
 	background-color: #184191;
+}
+
+.foot.star-border {
 	background-image: url(../images/template/index/top.jpg);
 	background-repeat: repeat-x;
 }
@@ -21,7 +24,7 @@ body {background:url(../images/template/graphic4.jpg) repeat}
 .links span {}
 
 .links a {color:#000099; text-decoration:none}
-.links a:hover {color:#FFFFFF; background:url(../images/template/index/hoverbutton.jpg)}
+.links a:hover {color:#FFFFFF; background:url(../images/template/index/hoverbutton.jpg); background-position-x:right;}
 
 .buttons {margin-left:7px}
 .all .foot p {
@@ -41,3 +44,7 @@ strong {
 .all .foot a {
 	color: #C4CCFD;
 }
+.all .foot a:hover {
+  color: white;
+}
+

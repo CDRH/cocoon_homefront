@@ -37,3 +37,16 @@ a.sr-only-focusable:hover, a.sr-only-focusable:focus {
   color: #345c87;
   text-decoration: underline;
 }
+
+/* Navigation links */
+nav.links ul.buttons {
+  margin-left: 7px;  
+}
+
+nav.links ul.buttons li {
+  display: inline-block;
+}
+
+nav.links ul.buttons li a {
+  margin-right: 1px;
+}

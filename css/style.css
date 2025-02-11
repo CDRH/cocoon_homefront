@@ -107,9 +107,9 @@ ul.sublist li{
 	border-bottom-color: #333333;
 	border-left-color: #333333;
 }
-.list ul.mainmenu a:visited {color:#a41b15} 
+.list ul.mainmenu a:visited {color:#871812} 
 .list ul.mainmenu a:hover {
-	color:#FFFFFF;
+  color:#FFFFFF;
 	background-color: #174092;
 	background-image: url(../images/template/bluebuttonsstars.jpg);
 	background-repeat: no-repeat;
@@ -122,6 +122,7 @@ ul.sublist li{
 	padding:10px 0 15px 0px;
 	border: none;
 }
+
 .list ul.sublist li {
 	list-style:url(../images/template/star2.jpg);
 	margin-left:40px;
@@ -136,7 +137,9 @@ ul.sublist li{
 		height:auto;
 }
 .list ul.sublist a:hover {
+  color:#871812;
 	margin-left:-20px;
+  text-decoration: underline;
 	width:auto;
 
 	background:none;

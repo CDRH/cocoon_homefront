@@ -8,12 +8,12 @@
 
 
 
-    <html xmlns="http://www.w3.org/1999/xhtml">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
       <head>
         <title>The Great Plains During World War II</title>
         <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
         <link href="css/reset.css" rel="stylesheet" type="text/css"/>
-        <link href="css/style.css" rel="stylesheet" type="text/css"/>
+     u   <link href="css/style.css" rel="stylesheet" type="text/css"/>
       </head>
 
 
@@ -23,27 +23,28 @@
       <body class="all">
 
           
-          <header class="header">
+         <header class="header">
+            <a class="sr-only sr-only-focusable" href="#main_content">Skip to main content</a>
             <a href="index.html"><img src="images/template/header.gif" alt="The Great Plains During World War II"/></a>
           </header>
           
         <main>
           <div id="col1">
-            <div class="list">
+            <nav class="list" aria-label="Main Menu">
               <ul class="mainmenu">
                 <li>
                   <a href="intro.html?section=intro">Introduction</a>
+                    <xsl:if test="$section='intro'">
+                     <ul class="sublist">
+                       <li>
+                         <a href="isolationism.html?section=intro">Isolationism</a>
+                       </li>
+                     </ul>
+                   </xsl:if>
                 </li>
-                <xsl:if test="$section='intro'">
-                  <ul class="sublist">
-                    <li>
-                      <a href="isolationism.html?section=intro">Isolationism</a>
-                    </li>
-                  </ul>
-                </xsl:if>
+                
                 <li>
                   <a href="thehomefront.html?section=homefront">The Home Front</a>
-                </li>
                 <xsl:if test="$section='homefront'">
                   <ul class="sublist">
                     <li>
@@ -63,6 +64,7 @@
                     </li>
                   </ul>
                 </xsl:if>
+                </li>
                 <li>
                   <a href="agriculture.html">Agriculture</a>
                 </li>
@@ -71,7 +73,6 @@
                 </li>
                 <li>
                   <a href="archive.html?section=archive">Archive</a>
-                </li>
                 <xsl:if test="$section='archive'">
                   <ul class="sublist">
                     <li>
@@ -95,15 +96,16 @@
                     </li>
                   </ul>
                 </xsl:if>
+                </li>
                 <li>
                   <a href="conclusion.html">Conclusion</a>
                 </li>
               </ul>
               <br/>
              <!--<img src="images/template/thf.png"/> -->
-            </div>
+            </nav>
 
-            <div class="content">
+            <div class="content" id="main_content">
               <div class="text">
 
 
@@ -113,7 +115,7 @@
             </div>
           </div>
         </main>
-        <footer class="footer"><a href="http://www.unl.edu"><img src="images/template/unl_logo.gif" border="0" /></a>
+        <footer class="footer"><a href="http://www.unl.edu"><img src="images/template/unl_logo.gif" border="0" alt="University of Nebraska–Lincoln logo"/></a>
           <p class="h4"><a href="about.html">About</a></p>
           <p class="h5">Project Director: R. Douglas Hurt, Purdue University</p>
           <p class="h5">A project from  the <a href="http://plainshumanities.unl.edu/">Plains Humanities Alliance</a> and the <a href="http://cdrh.unl.edu">Center for Digital Research in the Humanities</a></p>

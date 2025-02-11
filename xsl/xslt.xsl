@@ -13,7 +13,7 @@
         <title>The Great Plains During World War II</title>
         <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
         <link href="css/reset.css" rel="stylesheet" type="text/css"/>
-     u   <link href="css/style.css" rel="stylesheet" type="text/css"/>
+        <link href="css/style.css" rel="stylesheet" type="text/css"/>
       </head>
 
 
@@ -152,13 +152,12 @@
       <xsl:apply-templates/>
     </p>
   </xsl:template>
-
+<!-- 
   <xsl:template match="head[@type='main']">
-    <h2>
-      <xsl:apply-templates/>
-    </h2>
+    <h1>
+      <xsl:apply-templates/>zzz
+    </h1>
   </xsl:template>
-
 
   <xsl:template match="head[not(@type)]">
 
@@ -166,22 +165,42 @@
       <xsl:apply-templates/>
     </h2>
   </xsl:template>
+-->
 
-
-
-  <xsl:template match="head[@type='sub']">
-    <a>
-        <xsl:attribute name="name"><xsl:value-of select="@id"/></xsl:attribute><xsl:text> </xsl:text></a>
-    
-    <h3>
-      
-      <xsl:apply-templates/>
-      
-    </h3>
-  </xsl:template>
-
-
-
+<xsl:template match="head">
+    <xsl:choose>
+        <xsl:when test="position() = 1">
+        <xsl:choose>
+                <xsl:when test="following::head[@type='sub']">
+                    <p class="page-title">
+                        <xsl:apply-templates/>
+                    </p>
+                </xsl:when>
+                <xsl:otherwise>
+                <h1 class="page-title">
+                    <xsl:apply-templates/>
+                </h1>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:when>
+        <xsl:when test="@type='main'">
+            <h1 class="page-title">
+                <xsl:apply-templates/>
+            </h1>
+        </xsl:when>
+        <xsl:when test="@type='sub'">
+            <h1 class="h3"> 
+<xsl:attribute name="name"><xsl:value-of select="@id"/></xsl:attribute><xsl:text> </xsl:text>
+                <xsl:apply-templates/>
+            </h1>
+        </xsl:when>
+        <xsl:otherwise>
+            <h2>
+                <xsl:apply-templates/>
+            </h2>
+        </xsl:otherwise>
+    </xsl:choose>
+</xsl:template>
 
   <xsl:template match="text[.//pb]">
     <div class="main">

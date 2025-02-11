@@ -20,15 +20,14 @@
       
 
 
-      <body>
-        <div class="all">
+      <body class="all">
 
           
-          <div class="header">
+          <header class="header">
             <a href="index.html"><img src="images/template/header.gif" alt="The Great Plains During World War II"/></a>
-          </div>
+          </header>
           
-
+        <main>
           <div id="col1">
             <div class="list">
               <ul class="mainmenu">
@@ -113,17 +112,16 @@
               </div>
             </div>
           </div>
-        </div>
-
-        <div class="footer"><a href="http://www.unl.edu"><img src="images/template/unl_logo.gif" border="0" /></a>
-          <h4><a href="about.html">About</a></h4>
-          <h5>Project Director: R. Douglas Hurt, Purdue University</h5>
-          <h5>A project from  the <a href="http://plainshumanities.unl.edu/">Plains Humanities Alliance</a> and the <a href="http://cdrh.unl.edu">Center for Digital Research in the Humanities</a></h5>
+        </main>
+        <footer class="footer"><a href="http://www.unl.edu"><img src="images/template/unl_logo.gif" border="0" /></a>
+          <p class="h4"><a href="about.html">About</a></p>
+          <p class="h5">Project Director: R. Douglas Hurt, Purdue University</p>
+          <p class="h5">A project from  the <a href="http://plainshumanities.unl.edu/">Plains Humanities Alliance</a> and the <a href="http://cdrh.unl.edu">Center for Digital Research in the Humanities</a></p>
           
-          <h5>Copyright 2008 <a href="http://www.unl.edu">University of Nebraska&#8211;Lincoln</a></h5>
+          <p class="h5">Copyright 2008 <a href="http://www.unl.edu">University of Nebraska&#8211;Lincoln</a></p>
           
           
-        </div>
+        </footer>
       </body>
     </html>
 

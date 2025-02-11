@@ -3,7 +3,9 @@
 
 body {background:url(../images/template/graphic4.jpg) repeat}
 
-.all {width:820px; margin: 0px auto;}
+
+
+body > * {width:820px; margin: 0px auto;}
 
 .foot {background:url(../images/template/index/top.jpg) repeat-x; margin-top:-4px}
 
@@ -19,9 +21,6 @@ body {background:url(../images/template/graphic4.jpg) repeat}
 .links a:hover {color:#FFFFFF; background:url(../images/template/index/hoverbutton.jpg)}
 
 .buttons {margin-left:7px}
-
-
-
 
 * {margin: 0px;
 padding: 0px;}
@@ -164,21 +163,21 @@ ul.sublist li{
 	padding: 15px;
 }
 
-.footer h4 a{
+.footer .h4 a{
 	color: #a7b4ff;
 }
 
-.footer h5 a{
+.footer .h5 a{
 	color: #a7b4ff;
 }
 
-.footer h4 {
+.footer .h4 {
 	font-size:1.5em;
 	padding: 15px;
 	font-weight: 700;
 }
 
-.footer h5 {
+.footer .h5 {
 	font-size:1em;
 	padding: 5px 15px 5px 15px;
 }

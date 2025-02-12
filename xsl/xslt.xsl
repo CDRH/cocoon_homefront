@@ -152,47 +152,52 @@
       <xsl:apply-templates/>
     </p>
   </xsl:template>
-<!-- 
-  <xsl:template match="head[@type='main']">
-    <h1>
-      <xsl:apply-templates/>zzz
-    </h1>
-  </xsl:template>
 
-  <xsl:template match="head[not(@type)]">
 
-    <h2>
-      <xsl:apply-templates/>
-    </h2>
-  </xsl:template>
--->
+<!-- HEAD -->
 
 <xsl:template match="head">
     <xsl:choose>
+        <!-- first of type -->
         <xsl:when test="position() = 1">
-        <xsl:choose>
-                <xsl:when test="following::head[@type='sub']">
-                    <p class="page-title">
+            <xsl:choose>
+                <xsl:when test="parent::table">
+                    <h2 class="h3">
                         <xsl:apply-templates/>
-                    </p>
+                    </h2>
                 </xsl:when>
-                <xsl:otherwise>
-                <h1 class="page-title">
-                    <xsl:apply-templates/>
-                </h1>
+                <xsl:when test="@type='sub'">
+                    <h2 class="h3">
+                        <xsl:apply-templates/>
+                    </h2>
+                </xsl:when>
+
+                <xsl:otherwise>   
+                    <h1 class="page-title">
+                        <xsl:apply-templates/>
+                    </h1>
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:when>
+        <!-- /first of type -->
         <xsl:when test="@type='main'">
             <h1 class="page-title">
                 <xsl:apply-templates/>
             </h1>
         </xsl:when>
         <xsl:when test="@type='sub'">
-            <h1 class="h3"> 
-<xsl:attribute name="name"><xsl:value-of select="@id"/></xsl:attribute><xsl:text> </xsl:text>
-                <xsl:apply-templates/>
-            </h1>
+            <xsl:choose>
+                <xsl:when test="preceding-sibling::head[not(@type)]">
+                  <p class="h3">
+                      <xsl:apply-templates/>
+                  </p>
+                </xsl:when>
+                <xsl:otherwise>
+                  <h2 class="h3">
+                    <xsl:apply-templates/>
+                  </h2>
+                </xsl:otherwise>
+            </xsl:choose>
         </xsl:when>
         <xsl:otherwise>
             <h2>
@@ -395,7 +400,16 @@
       <xsl:when test="//figure[@rend='photograph']">
         <div class="image">
           <a href="images/figures/{@entity}.jpg">
-            <img src="images/figures/thumbs/{@entity}.jpg" alt="{@entity}"/>
+            <img>
+               <xsl:attribute name="src">
+                  <xsl:text>images/figures/thumbs/</xsl:text>
+                  <xsl:value-of select="@entity"/>
+                  <xsl:text>.jpg</xsl:text>
+               </xsl:attribute>
+               <xsl:attribute name="alt">
+                  <xsl:value-of select="figDesc"/>
+               </xsl:attribute>
+            </img>
           </a>
           
           <p class="figDesc">
@@ -408,7 +422,16 @@
       <xsl:otherwise>
         <div class="right">
           <a href="images/figures/{@entity}.jpg">
-            <img src="images/figures/thumbs/{@entity}.jpg" alt="{@entity}"/>
+            <img>
+               <xsl:attribute name="src">
+                  <xsl:text>images/figures/thumbs/</xsl:text>
+                  <xsl:value-of select="@entity"/>
+                  <xsl:text>.jpg</xsl:text>
+               </xsl:attribute>
+               <xsl:attribute name="alt">
+                  <xsl:value-of select="figDesc"/>
+               </xsl:attribute>
+            </img>
           </a>
 
           <p class="figDesc">

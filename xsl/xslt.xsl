@@ -154,11 +154,60 @@
   </xsl:template>
 
 
+
+
+
 <!-- HEAD -->
 
-<xsl:template match="head">
+<xsl:template match="head[@type='main']">
     <xsl:choose>
-        <!-- first of type -->
+            <xsl:when test="preceding-sibling::head[@type='sub']">
+                <h1 class="h3">
+                    <xsl:apply-templates/>
+                </h1>
+            </xsl:when>
+            <xsl:otherwise>
+                <h1 class="page-title">
+                  <xsl:apply-templates/>
+                </h1>
+            </xsl:otherwise>
+        </xsl:choose>
+  </xsl:template>
+
+  <xsl:template match="head[not(@type)]">
+
+    <h2>
+      <xsl:apply-templates/>
+    </h2>
+  </xsl:template>
+
+  <xsl:template match="head[@type='sub']">
+    <xsl:choose>
+        <xsl:when test="following-sibling::head[@type='main']">
+            <p class="page-title">
+                <xsl:apply-templates/>
+            </p>
+        </xsl:when>
+        <xsl:otherwise>
+            <h2>
+                <xsl:attribute name="class">
+                    <xsl:text>h3</xsl:text>
+                </xsl:attribute>
+                <xsl:if test="@id">
+                <xsl:attribute name="id">
+                    <xsl:value-of select="@id"/>
+                </xsl:attribute>
+                </xsl:if>
+                <xsl:apply-templates/>
+            </h2>
+        </xsl:otherwise>
+    </xsl:choose>
+    
+  </xsl:template>
+
+
+<!-- <xsl:template match="head">
+    <xsl:choose>
         <xsl:when test="position() = 1">
             <xsl:choose>
                 <xsl:when test="parent::table">
@@ -179,7 +228,6 @@
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:when>
-        <!-- /first of type -->
         <xsl:when test="@type='main'">
             <h1 class="page-title">
                 <xsl:apply-templates/>
@@ -205,7 +253,7 @@
             </h2>
         </xsl:otherwise>
     </xsl:choose>
-</xsl:template>
+</xsl:template> -->
 
   <xsl:template match="text[.//pb]">
     <div class="main">
@@ -407,7 +455,10 @@
                   <xsl:text>.jpg</xsl:text>
                </xsl:attribute>
                <xsl:attribute name="alt">
-                  <xsl:value-of select="figDesc"/>
+                 <xsl:text>Figure </xsl:text>
+                 <xsl:number count="//figure"/>
+                 <xsl:text> </xsl:text>
+                 <xsl:value-of select="figDesc"/>
                </xsl:attribute>
             </img>
           </a>
@@ -429,7 +480,10 @@
                   <xsl:text>.jpg</xsl:text>
                </xsl:attribute>
                <xsl:attribute name="alt">
-                  <xsl:value-of select="figDesc"/>
+                 <xsl:text>Figure </xsl:text>
+                 <xsl:number count="//figure"/>
+                 <xsl:text> </xsl:text>
+                 <xsl:value-of select="figDesc"/>
                </xsl:attribute>
             </img>
           </a>

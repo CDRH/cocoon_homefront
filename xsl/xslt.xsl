@@ -25,9 +25,9 @@
           
          <header>
             <a class="sr-only sr-only-focusable" href="#main_content">Skip to main content</a>
-              <div class="green-banner-wrapper" style="background-color: #183d8d; padding: 10px;">
-                <div class="green-banner" style="padding: 15px 20px; background-color: #bbdfbb; border: 2px solid #466f46; border-radius:3px;">
-                  <p style="margin: 0; font-size: 16px;">This is a simplified version of the website with no active updates. See the <a href="#">Site Information Page</a> for contact information, data downloads, and other details. </p>
+              <div class="green-banner-wrapper">
+                <div class="green-banner">
+                  <p>This is a simplified version of the website with no active updates. See the <a href="#">Site Information Page</a> for contact information, data downloads, and other details. </p>
                 </div>
               </div>
             <div class="header"><a href="index.html"><img src="images/template/header.gif" alt="The Great Plains During World War II"/></a></div>

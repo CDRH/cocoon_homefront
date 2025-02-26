@@ -20,7 +20,7 @@
       
 
 
-      <body class="all">
+      <body>
 
           
          <header>
@@ -29,7 +29,10 @@
                 <div class="static-banner">
                   <p>This version of the website was created in 2025. See the <a href="info.html">Site Information Page</a> for contact information, data downloads, and other details.</p>                </div>
               </div>
-            <div class="header"><a href="index.html"><img src="images/template/header.gif" alt="The Great Plains During World War II"/></a></div>
+<div class="all">
+    <div class="header"><a href="index.html"><img src="images/template/header.gif" alt="The Great Plains During World War II"/></a></div>
+</div>            
+
           </header>
           
         <main>

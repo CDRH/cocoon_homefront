@@ -5,7 +5,7 @@ body {background:url(../images/template/graphic4.jpg) repeat}
 
 
 
-body > * {width:820px; margin: 0px auto;}
+.header, main, footer {width:820px; margin: 0px auto;}
 
 .foot {background:url(../images/template/index/top.jpg) repeat-x; margin-top:-4px}
 
@@ -23,14 +23,15 @@ body > * {width:820px; margin: 0px auto;}
 .buttons {margin-left:7px}
 
 .static-banner-wrapper {
-  background-color: #183d8d; 
-  padding: 10px;
+  background-color: #bbdfbb;
+  border-bottom: 1px solid #466f46;
 }
 
 .static-banner {
-  background-color: #bbdfbb;
-  border: 1px solid #466f46;
+  margin: auto;
   padding: 15px 20px;
+  max-width: 100%;
+  width: 820px;
 }
 
 .static-banner p {
@@ -69,6 +70,10 @@ body {background:url(../images/template/graphic4.jpg)}
 	border-left-style: solid;
 	border-right-color: #333333;
 	border-left-color: #333333;
+}
+
+footer {
+  width: 816px;
 }
 
 .header {

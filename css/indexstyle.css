@@ -3,18 +3,18 @@
 
 body {background:url(../images/template/graphic4.jpg) repeat}
 
-body > * {width:820px; margin-left:auto; margin-right:auto}
-
+.header, main, footer {width:820px; margin-left:auto; margin-right:auto}
 
 .static-banner-wrapper {
-  margin-bottom: -20px;
-  padding-top: 10px;
+  background-color: #bbdfbb;
+  border-bottom: 1px solid #466f46;
 }
 
 .static-banner {
-  background-color: #bbdfbb;
-  border: 1px solid #466f46;
+  margin: auto;
   padding: 15px 20px;
+  max-width: 100%;
+  width: 820px;
 }
 
 .static-banner p {

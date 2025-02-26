@@ -22,25 +22,24 @@ body > * {width:820px; margin: 0px auto;}
 
 .buttons {margin-left:7px}
 
-.green-banner-wrapper {
+.static-banner-wrapper {
   background-color: #183d8d; 
   padding: 10px;
 }
 
-.green-banner {
+.static-banner {
   background-color: #bbdfbb;
-  border: 2px solid #466f46;
-  border-radius: 3px;
+  border: 1px solid #466f46;
   padding: 15px 20px;
 }
 
-.green-banner p {
+.static-banner p {
   font-size: 16px;
   margin: 0;
 }
 
-.green-banner p a,
-.green-banner p a:visited {
+.static-banner p a,
+.static-banner p a:visited {
   color: #0000EE;
   background: none;
   margin: 0;
@@ -48,7 +47,7 @@ body > * {width:820px; margin: 0px auto;}
   text-decoration: underline;
 }
 
-.green-banner p a:hover {
+.static-banner p a:hover {
   background: none;
   color: #010194;
   margin: 0;
